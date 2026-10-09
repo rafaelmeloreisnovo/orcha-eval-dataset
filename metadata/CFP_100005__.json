@@ -1,0 +1,244 @@
+{
+  "doi": null,
+  "title": "Beyond the Standard Model in Vector Boson Scattering Signatures",
+  "publication_date": "2020-05-21",
+  "language": "English",
+  "abstract": "The high-energy scattering of massive electroweak bosons, known as vector boson scattering (VBS), is a sensitive probe of new physics. VBS signatures will be thoroughly and systematically investigated at the LHC with the large data samples available and those that will be collected in the near future. Searches for deviations from Standard Model (SM) expectations in VBS facilitate tests of the Electroweak Symmetry Breaking (EWSB) mechanism. Current state-of-the-art tools and theory developments, together with the latest experimental results, and the studies foreseen for the near future are summarized. A review of the existing Beyond the SM (BSM) models that could be tested with such studies as well as data analysis strategies to understand the interplay between models and the effective field theory paradigm for interpreting experimental results are discussed. This document is a summary of the EU COST network “VBScan” workshop on the sensitivity of VBS processes for BSM frameworks that took place December 4-5, 2019 at the LIP facilities in Lisbon, Portugal. In this manuscript we outline the scope of the workshop, summarize the different contributions from theory and experiment, and discuss the relevant findings.",
+  "authors": [
+    {
+      "name": "Michele Gallinaro",
+      "affiliation": [
+        {
+          "name": "Laboratório de Instrumentação e Física Experimental de Partículas, LIP Lisbon",
+          "ror": "01hys1667"
+        }
+      ],
+      "orcid": "0000-0003-1261-2277"
+    },
+    {
+      "name": "Kenneth Long",
+      "affiliation": [
+        {
+          "name": "Experimental Physics Department, CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-0664-1653"
+    },
+    {
+      "name": "Jürgen Reuter",
+      "affiliation": [
+        {
+          "name": "DESY, Theory Group",
+          "ror": "01js2sh04"
+        }
+      ],
+      "orcid": "0000-0002-9180-0825"
+    },
+    {
+      "name": "Richard Ruiz",
+      "affiliation": [
+        {
+          "name": "Centre for Cosmology, Particle Physics and Phenomenology (CP3), Université Catholique de Louvain",
+          "ror": "02495e989"
+        }
+      ],
+      "orcid": "0000-0002-3316-2175"
+    },
+    {
+      "name": "Dinos Bachas",
+      "affiliation": [
+        {
+          "name": "Aristotle University of Thessaloniki",
+          "ror": "02j61yw88"
+        }
+      ],
+      "orcid": "0000-0002-9047-6517"
+    },
+    {
+      "name": "Liron Barak",
+      "affiliation": [
+        {
+          "name": "Tel Aviv University",
+          "ror": "04mhzgx49"
+        }
+      ],
+      "orcid": "0000-0002-3436-2726"
+    },
+    {
+      "name": "Fady Bishara",
+      "affiliation": [
+        {
+          "name": "DESY, Theory Group",
+          "ror": "01js2sh04"
+        }
+      ],
+      "orcid": "0000-0002-2426-7776"
+    },
+    {
+      "name": "Ilaria Brivio",
+      "affiliation": [
+        {
+          "name": "Institut für Theoretische Physik, Universität Heidelberg",
+          "ror": "038t36y30"
+        }
+      ],
+      "orcid": "0000-0002-0396-5866"
+    },
+    {
+      "name": "Diogo Buarque Franzosi",
+      "affiliation": [
+        {
+          "name": "Department of Physics, Chalmers University of Technology",
+          "ror": "040wg7k59"
+        }
+      ],
+      "orcid": "0000-0003-1432-5255"
+    },
+    {
+      "name": "Giacomo Cacciapaglia",
+      "affiliation": [
+        {
+          "name": "Institut de Physique des 2 Infinis (IP2I), CNRS/IN2P3, UMR5822",
+          "ror": "02avf8f85"
+        },
+        {
+          "name": "Université de Lyon",
+          "ror": "01rk35k63"
+        }
+      ],
+      "orcid": "0000-0002-3426-1618"
+    },
+    {
+      "name": "Farida Fassi",
+      "affiliation": [
+        {
+          "name": "Mohammed V University in Rabat",
+          "ror": "00r8w8f84"
+        }
+      ],
+      "orcid": "0000-0002-6423-7213"
+    },
+    {
+      "name": "Eirini Kasimi",
+      "affiliation": [
+        {
+          "name": "Aristotle University of Thessaloniki",
+          "ror": "02j61yw88"
+        }
+      ],
+      "orcid": "0000-0002-7139-8197"
+    },
+    {
+      "name": "Henning Kirschenmann",
+      "affiliation": [
+        {
+          "name": "Helsinki Institute of Physics",
+          "ror": "01x2x1522"
+        }
+      ],
+      "orcid": "0000-0001-7369-2536"
+    },
+    {
+      "name": "Chara Petridou",
+      "affiliation": [
+        {
+          "name": "Aristotle University of Thessaloniki",
+          "ror": "02j61yw88"
+        }
+      ],
+      "orcid": "0009-0005-8782-8584"
+    },
+    {
+      "name": "Harrison B. Prosper",
+      "affiliation": [
+        {
+          "name": "Department of Physics, Florida State University",
+          "ror": "05g3dte14"
+        }
+      ],
+      "orcid": "0000-0002-4077-2713"
+    },
+    {
+      "name": "Jorge C. Romão",
+      "affiliation": [
+        {
+          "name": "Departamento de Física and CFTP, Instituto Superior Técnico, Universidade de Lisboa",
+          "ror": "01c27hj86"
+        }
+      ],
+      "orcid": "0000-0002-9683-4055"
+    },
+    {
+      "name": "Ignasi Rosell",
+      "affiliation": [
+        {
+          "name": "Departamento de Matemáticas, Física y Ciencias Tecnológicas, Universidad Cardenal Herrera-CEU, CEU Universities",
+          "ror": "01tnh0829"
+        }
+      ],
+      "orcid": "0000-0002-6391-8682"
+    },
+    {
+      "name": "Ennio Salvioni",
+      "affiliation": [
+        {
+          "name": "Theoretical Physics Department, CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-2173-5116"
+    },
+    {
+      "name": "Rui Santos",
+      "affiliation": [
+        {
+          "name": "Centro de Física Teórica e Computacional, Faculdade de Ciências, Universidade de Lisboa",
+          "ror": "01c27hj86"
+        },
+        {
+          "name": "ISEL - Instituto Superior de Engenharia de Lisboa, Instituto Politécnico de Lisboa",
+          "ror": "04ea70f07"
+        }
+      ],
+      "orcid": "0000-0001-7922-5357"
+    },
+    {
+      "name": "Magdalena Slawińska",
+      "affiliation": [
+        {
+          "name": "Institute of Nuclear Physics, Polish Academy of Sciences",
+          "ror": "01n78t774"
+        }
+      ],
+      "orcid": "0000-0002-9386-9092"
+    },
+    {
+      "name": "Giles Chatham Strong",
+      "affiliation": [
+        {
+          "name": "Laboratório de Instrumentação e Física Experimental de Partículas, LIP Lisbon",
+          "ror": "01hys1667"
+        },
+        {
+          "name": "Università degli Studi di Padova",
+          "ror": "00240q980"
+        }
+      ],
+      "orcid": "0000-0002-4640-6108"
+    },
+    {
+      "name": "Michał Szleper",
+      "affiliation": [
+        {
+          "name": "National Centre for Nuclear Research",
+          "ror": "00nzsxq20"
+        }
+      ],
+      "orcid": "0000-0002-1697-004X"
+    }
+  ],
+  "file_paths": [
+    "files/Conference_papers/CFP_100005__2005.09889.pdf"
+  ]
+}

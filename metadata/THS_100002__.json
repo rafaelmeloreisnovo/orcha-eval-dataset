@@ -1,0 +1,36 @@
+{
+  "doi": null,
+  "titles": [
+    {
+      "english_title": "Search for new decays of beauty particles at the LHCb experiment"
+    },
+    {
+      "russian_title": "Поиск новых распадов прелестных частиц в эксперименте LHCb"
+    }
+  ],
+  "publication_date": "2020-09-17",
+  "languages": [
+    {
+      "first_language": "English"
+    },
+    {
+      "second_language": "Russian"
+    }
+  ],
+  "abstract": "The searches for Λ0𝑏 → 𝜒𝑐1(3872)𝑝𝐾− and 𝐵+ → 𝜓2(3823)𝐾+ decays are presented in this thesis. Using proton-proton collision data, collected with the LHCb detector and corresponding to 4.9 fb−1 of integrated luminosity, the decay Λ 0𝑏 → 𝜒𝑐1(3872)𝑝𝐾− with 𝜒𝑐1(3872) → 𝐽/𝜓𝜋+𝜋− is observed for the first time with a significance of 7.2 standard deviations. The branching fraction of this decay with respect to that of the Λ0𝑏 → 𝜓(2𝑆)𝑝𝐾− decay mode, where the 𝜓(2𝑆) meson is reconstructed in the 𝐽/𝜓𝜋+𝜋− final state, is measured. The largest contributions to the Λ0 𝑏 → 𝐽/𝜓𝜋+𝜋−𝑝𝐾− decay is found to be from the two-body 𝜒𝑐1(3872)Λ(1520) intermediate state.. The decays $B^+ \\to J/\\psi\\pi^+\\pi^-K^+$ are studied using a data set corresponding to an integrated luminosity of $9\\text{ fb}^{-1}$. Precise measurements of the ratios of branching fractions with the intermediate $\\psi_2(3823)$, $\\chi_{c1}(3872)$ and $\\psi(2S)$ states are reported. The decays 𝐵+ → 𝐽/𝜓𝜋+𝜋−𝐾+ are studied using a data set corresponding to an integrated luminosity of 9 fb−1. Precise measurements of the ratios of branching fractions with the intermediate 𝜓2(3823), 𝜒𝑐1(3872) and 𝜓(2𝑆) states are reported. The decay of 𝐵+ → 𝜓2(3823)𝐾+ with 𝜓2(3823) → 𝐽/𝜓𝜋+𝜋− is observed for the first time with a significance of 5.1 standard deviations. The large statistics provided the possibility for determination of the resonance parameters for the 𝜒𝑐1(3872) state with an unprecedented precision. Using a Breit-Wigner parametrization the mass differences between the 𝜓2(3823), 𝜒𝑐1(3872) and 𝜓(2𝑆) states are measured, resulting in the most precise determination of the 𝜒𝑐1(3872) and 𝜓2(3823) masses. The Breit-Wigner width of the 𝜒𝑐1(3872) state is determined for the first time, which is inconsistent with zero by 5.5 standard deviations. The width of the 𝜓2(3823) state is found to be consistent with zero and an upper limit is set.",
+  "authors": [
+    {
+      "name": "Dmitrii Pereima",
+      "affiliation": [
+        {
+          "name": "NATIONAL RESEARCH CENTER «KURCHATOV INSTITUTE» «Institute for Theoretical and Experimental Physics»",
+          "ror": "00n1nz186"
+        }
+      ],
+      "orcid": "0000-0002-7008-8082"
+    }
+  ],
+  "file_paths": [
+    "files/Thesis/THS_100002__CERN-THESIS-2020-204.pdf"
+  ]
+}

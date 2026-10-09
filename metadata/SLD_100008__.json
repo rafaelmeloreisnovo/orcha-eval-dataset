@@ -1,0 +1,72 @@
+{
+  "doi": null,
+  "title": "Porting the CMS pixel reconstruction to Julia: preliminary results",
+  "publication_date": "2024-10-01",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Maya Ali",
+      "affiliation": [
+        {
+          "name": "American University of Beirut",
+          "ror": "04pznsd21"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ayman Charaf",
+      "affiliation": [
+        {
+          "name": "American University of Beirut",
+          "ror": "04pznsd21"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Khaled Charaf",
+      "affiliation": [
+        {
+          "name": "American University of Beirut",
+          "ror": "04pznsd21"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ruba El Houssami",
+      "affiliation": [
+        {
+          "name": "American University of Beirut",
+          "ror": "04pznsd21"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Andrea Bocci",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-6515-5666"
+    },
+    {
+      "name": "Phillipe Gras",
+      "affiliation": [
+        {
+          "name": "Université Paris-Saclay",
+          "ror": "03xjwb503"
+        }
+      ],
+      "orcid": "0000-0002-3932-5967"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100008__JuliaHEP - Porting the CMS pixel reconstruction to Julia_ preliminary results.pdf"
+  ]
+}

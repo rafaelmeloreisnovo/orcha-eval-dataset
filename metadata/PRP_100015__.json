@@ -1,0 +1,98 @@
+{
+  "doi": null,
+  "title": "Order Parameter Discovery for Quantum Many-Body Systems",
+  "publication_date": "2024-11-18",
+  "language": "English",
+  "abstract": "Quantum phase transitions reveal deep insights into the behavior of many-body quantum systems, but identifying these transitions without well-defined order parameters remains a significant challenge. In this work, we introduce a novel approach to constructing phase diagrams using the vector field of the reduced fidelity susceptibility (RFS). This method maps quantum phases and formulates an optimization problem to discover observables corresponding to order parameters. We demonstrate the effectiveness of our approach by applying it to well-established models, including the Axial Next Nearest Neighbour Interaction (ANNNI) model, a cluster state model, and a chain of Rydberg atoms. By analyzing observable decompositions into eigen-projectors and finite-size scaling, our method successfully identifies order parameters and characterizes quantum phase transitions with high precision. Our results provide a powerful tool for exploring quantum phases in systems where conventional order parameters are not readily available.",
+  "authors": [
+    {
+      "name": "Nicola Mariella",
+      "affiliation": [
+        {
+          "name": "IBM Quantum, IBM Research Europe - Dublin",
+          "ror": "0146h2h75"
+        }
+      ],
+      "orcid": "0000-0001-7268-1149"
+    },
+    {
+      "name": "Tara Murphy",
+      "affiliation": [
+        {
+          "name": "IBM Quantum, IBM Research Europe - Dublin",
+          "ror": "0146h2h75"
+        },
+        {
+          "name": "Cavendish Laboratory, University of Cambridge",
+          "ror": "013meh722"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Francesco Di Marcantonio",
+      "affiliation": [
+        {
+          "name": "Department of Physical Chemistry and EHU Quantum Center, University of the Basque Country",
+          "ror": "000xsnr85"
+        }
+      ],
+      "orcid": "0000-0003-0634-4659"
+    },
+    {
+      "name": "Khadijeh Najafi",
+      "affiliation": [
+        {
+          "name": "IBM Quantum, IBM T. J. Watson Research Center",
+          "ror": "0265w5591"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sofia Vallecorsa",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-7003-5765"
+    },
+    {
+      "name": "Sergiy Zhuk",
+      "affiliation": [
+        {
+          "name": "IBM Quantum, IBM Research Europe - Dublin",
+          "ror": "0146h2h75"
+        }
+      ],
+      "orcid": "0000-0003-4265-8161"
+    },
+    {
+      "name": "Enrique Rico",
+      "affiliation": [
+        {
+          "name": "Department of Physical Chemistry and EHU Quantum Center, University of the Basque Country",
+          "ror": "000xsnr85"
+        },
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "Donostia International Physics Center",
+          "ror": "02e24yw40"
+        },
+        {
+          "name": "IKERBASQUE, Basque Foundation for Science",
+          "ror": "01cc3fy72"
+        }
+      ],
+      "orcid": "0000-0003-4414-6821"
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100015__2408.01400v3.pdf"
+  ]
+}

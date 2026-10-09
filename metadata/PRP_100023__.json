@@ -1,0 +1,86 @@
+{
+  "doi": null,
+  "title": "Odyssey: A PUBLIC GPU-BASED CODE FOR GENERAL RELATIVISTIC RADIATIVE TRANSFER IN KERR SPACETIME",
+  "publication_date": "2016-01-20",
+  "language": "English",
+  "abstract": "General relativistic radiative transfer calculations coupled with the calculation of geodesics in the Kerr spacetime are an essential tool for determining the images, spectra, and light curves from matter in the vicinity of black holes. Such studies are especially important for ongoing and upcoming millimeter/submillimeter very long baseline interferometry observations of the supermassive black holes at the centers of Sgr A* and M87. To this end we introduce Odyssey, a graphics processing unit (GPU)-based code for ray tracing and radiative transfer in the Kerr spacetime. On a single GPU, the performance of Odyssey can exceed 1 ns per photon, per Runge–Kutta integration step. Odyssey is publicly available, fast, accurate, and flexible enough to be modified to suit the specific needs of new users. Along with a Graphical User Interface powered by a video-accelerated display architecture, we also present an educational software tool, Odyssey_Edu, for showing in real time how null geodesics around a Kerr black hole vary as a function of black hole spin and angle of incidence onto the black hole.",
+  "keywords": [
+  "gravitation",
+  "methods: numerical",
+  "radiative transfer",
+  "Black hole physics"
+],
+  "license": null,
+  "copyright": null,
+  "funding": [
+  {
+    "funder_name": "Alexander von Humboldt Fellowship",
+    "grant_number": null
+  },
+  {
+    "funder_name": "ERC Synergy Grant \"BlackHoleCam - Imaging the Event Horizon of Black Holes\"",
+    "grant_number": "610058"
+  },
+  {
+    "funder_name": "National Research Foundation of Korea to the Centre for Galaxy Evolution Research",
+    "grant_number": "2010-0027910"
+  },
+  {
+    "funder_name": "Mid-Career Researcher Program through the National Research Foundation (NRF) of Korea",
+    "grant_number": "2015-008049"
+  },
+  {
+    "funder_name": "Yonsei University Future-leading Research Initiative of 2014-2015",
+    "grant_number": null
+  }
+],
+  "authors": [
+    {
+      "name": "Hung-Yi Pu",
+      "affiliation": [
+        {
+          "name": "Institute of Astronomy & Astrophysics, Academia Sinica",
+          "ror": "01hfpy566"
+        }
+      ],
+      "orcid": "0000-0001-9270-8812"
+    },
+    {
+      "name": "Kiyun Yun",
+      "affiliation": [
+        {
+          "name": "Department of Astronomy & Center for Galaxy Evolution Research, Yonsei University",
+          "ror": "01wjejq96"
+        }
+      ],
+      "orcid": "0000-0003-1636-2455"
+    },
+    {
+      "name": "Ziri Younsi",
+      "affiliation": [
+        {
+          "name": "Institut für Theoretische Physik",
+          "ror": "025en1p25"
+        },
+        {
+          "name": "Mullard Space Science Laboratory, University College London",
+          "ror": "02jx3x895"
+        }
+      ],
+      "orcid": "0000-0001-9283-1191"
+    },
+    {
+      "name": "Suk-Jin Yoon",
+      "affiliation": [
+        {
+          "name": "Department of Astronomy & Center for Galaxy Evolution Research, Yonsei University",
+          "ror": "01wjejq96"
+        }
+      ],
+      "orcid": "0000-0001-7673-6266"
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100023__1601.02063v2.pdf"
+  ]
+}

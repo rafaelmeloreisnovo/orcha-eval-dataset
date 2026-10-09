@@ -1,0 +1,47 @@
+{
+  "doi": "10.1093/oso/9780198881193.001.0001",
+  "title": "Big Science, Innovation, and Societal Contributions",
+  "subtitle": "The Organisations and Collaborations in Big Science Experiments",
+  "publication_date": "2024",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Shantha Liyanage",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-0561-3183"
+    },
+    {
+      "name": "Markus Nordberg",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-5187-9340"
+    },
+    {
+      "name": "Marilena Streit-Bianchi",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "ARSCIENCIA",
+          "ror": null
+        }
+      ],
+      "orcid": "0009-0001-7432-8346"
+    }
+  ],
+  "file_paths": [
+    "files/Book/BOK_100014__9780198881223_web.pdf"
+  ]
+}

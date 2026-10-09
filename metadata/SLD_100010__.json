@@ -1,0 +1,22 @@
+{
+  "doi": null,
+  "title": "Advancing the CMS Level-1 Trigger: Jet Tagging with DeepSets at the HL-LHC",
+  "publication_date": "null",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Christopher Brown",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-7766-6615"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100010__DeepSets_FastML_CB_0309.pdf"
+  ]
+}

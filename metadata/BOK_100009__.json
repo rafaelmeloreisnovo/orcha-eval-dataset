@@ -1,0 +1,32 @@
+{
+  "doi": "10.3390/books978-3-7258-0614-0",
+  "title": "Top Quark at the New Physics Frontier",
+  "publication_date": "2024",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Efe Yazgan",
+      "affiliation": [
+        {
+          "name": "National Taiwan University",
+          "ror": "05bqach95"
+        }
+      ],
+      "orcid": "0000-0001-5732-7950"
+    },
+    {
+      "name": "Pedro Ferreira da Silva",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-5081-0763"
+    }
+  ],
+  "file_paths": [
+    "files/Book/BOK_100009__Top_Quark_at_the_New_Physics_Frontier.pdf"
+  ]
+}

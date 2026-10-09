@@ -1,0 +1,26 @@
+{
+  "doi": null,
+  "title": "Optimization and Outer Tracker Extension of the Cellular Automaton Algorithm for CMS Phase-2 HLT Tracking",
+  "publication_date": "2025-11-11",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Jan Gerrit Schulz",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "RWTH Aachen University",
+          "ror": "04xfq0f34"
+        }
+      ],
+      "orcid": "0009-0008-1373-3197"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100006__CTD2025-CMS-PatatrackPixelTracking.pdf"
+  ]
+}

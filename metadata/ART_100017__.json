@@ -1,0 +1,174 @@
+{
+  "doi": "10.1029/2026GL122048",
+  "title": "Surface Runoff Discrepancy in Urban-PLUMBER Land Surface Models",
+  "publication_date": "2026",
+  "language": "English",
+  "abstract": "Enhanced surface runoff in urban environments reduces water availability and limits the evaporative cooling potential. We evaluate surface runoff in 18 urban land surface models (ULSM) in Urban‐PLUMBER for 6,570 rainfall events across 21 urban sites. Surface runoff occurs when rainfall exceeds the infiltration, saturation, or interception capacity. Ten models omit at least one of these processes, while seven fail to increase runoff with increasing imperviousness. Surprisingly, some models lack any runoff during intense (>50mmh 1) or prolonged (>20 mm) rainfall. Urban land surface models (ULSMs) turn 0%-86% rainfall into runoff. Most models produce runoff in agreement with an empirical comparison offered by the CN method, especially for high imperviousness. However, ULSM runoff exceeds CN runoff estimates for low impervious fraction, particularly by models with incomplete process description and for low-intensity rainfall. The large discrepancy between ULSMs calls for advancing the rban hydrology representation in ULSMs, which is essential for correct simulation of evaporative cooling in cities",
+  "authors": [
+    {
+      "name": "Harro Jongen",
+      "affiliation": [
+        {
+          "name": "Institute for Water and Environment, Karlsruhe Institute of Technology",
+          "ror": "04t3en479"
+        },
+        {
+          "name": "Hydrology and Environmental Hydraulics, Wageningen University",
+          "ror": "04qw24q55"
+        },
+        {
+          "name": "Meteorology and Air Quality, Wageningen University",
+          "ror": "04qw24q55"
+        }
+      ],
+      "orcid": "0000-0002-7538-4796"
+    },
+    {
+      "name": "Mathew Lipson",
+      "affiliation": [
+        {
+          "name": "ARC Center of Excellence for Weather of the 21st Century, University of New South Wales",
+          "ror": "03r8z3t63"
+        }
+      ],
+      "orcid": "0000-0001-5322-1796"
+    },
+    {
+      "name": "Adriaan J. Teuling",
+      "affiliation": [
+        {
+          "name": "Hydrology and Environmental Hydraulics, Wageningen University",
+          "ror": "04qw24q55"
+        }
+      ],
+      "orcid": "0000-0003-4302-2835"
+    },
+    {
+      "name": "Sue Grimmond",
+      "affiliation": [
+        {
+          "name": "Department of Meteorology, University of Reading",
+          "ror": "05v62cm79"
+        }
+      ],
+      "orcid": "0000-0002-3166-9415"
+    },
+    {
+      "name": "Martin Best",
+      "affiliation": [
+        {
+          "name": "Met Office",
+          "ror": "01ch2yn61"
+        }
+      ],
+      "orcid": "0000-0003-4468-876X"
+    },
+    {
+      "name": "Jong-Jin Baik",
+      "affiliation": [
+        {
+          "name": "School of Earth and Environmental Sciences, Seoul National University",
+          "ror": "04h9pn542"
+        }
+      ],
+      "orcid": "0000-0003-3709-0532"
+    },
+    {
+      "name": "Matthias Demuzere",
+      "affiliation": [
+        {
+          "name": "B-Kode VOF",
+          "ror": "00cv9y106"
+        }
+      ],
+      "orcid": "0000-0003-3237-4077"
+    },
+    {
+      "name": "Krzysztof Fortuniak",
+      "affiliation": [
+        {
+          "name": "Department of Meteorology and Climatology, Faculty of Geographical Sciences, University of Lodz",
+          "ror": "05cq64r17"
+        }
+      ],
+      "orcid": "0000-0001-7043-8751"
+    },
+    {
+      "name": "Yuqi Huang",
+      "affiliation": [
+        {
+          "name": "School of Meteorology, University of Oklahoma",
+          "ror": "02aqsxs83"
+        }
+      ],
+      "orcid": "0009-0003-1021-2103"
+    },
+    {
+      "name": "Martin G. De Kauwe",
+      "affiliation": [
+        {
+          "name": "School of Biological Sciences, University of Bristol",
+          "ror": "0524sp257"
+        }
+      ],
+      "orcid": "0000-0002-3399-9098"
+    },
+    {
+      "name": "Naika Meili",
+      "affiliation": [
+        {
+          "name": "Future Cities Laboratory Global, Singapore-ETH Center",
+          "ror": "01x6n3581"
+        }
+      ],
+      "orcid": "0000-0001-6283-2134"
+    },
+    {
+      "name": "Seung-Bu. Park",
+      "affiliation": [
+        {
+          "name": "School of Environmental Engineering, University of Seoul",
+          "ror": "05en5nh73"
+        }
+      ],
+      "orcid": "0000-0003-4287-3160"
+    },
+    {
+      "name": "Chenghao Wang",
+      "affiliation": [
+        {
+          "name": "School of Meteorology, University of Oklahoma",
+          "ror": "02aqsxs83"
+        },
+        {
+          "name": "Department of Geography and Environmental Sustainability, University of Oklahoma",
+          "ror": "02aqsxs83"
+        }
+      ],
+      "orcid": "0000-0001-8846-4130"
+    },
+    {
+      "name": "Zhi-Hua Wang",
+      "affiliation": [
+        {
+          "name": "School of Sustainable Engineering and the Built Environment, Arizona State University",
+          "ror": "03efmqc40"
+        }
+      ],
+      "orcid": "0000-0001-9155-8605"
+    },
+    {
+      "name": "Gert-Jan Steeneveld",
+      "affiliation": [
+        {
+          "name": "Meteorology and Air Quality, Wageningen University",
+          "ror": "04qw24q55"
+        }
+      ],
+      "orcid": "0000-0002-5922-8179"
+    }
+  ],
+  "file_paths": [
+    "files/Articles/ART_100017__Jongen_etal_GRL_2026.pdf"
+  ]
+}

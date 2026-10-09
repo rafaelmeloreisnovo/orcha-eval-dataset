@@ -1,0 +1,22 @@
+{
+  "doi": "10.5281/zenodo.17899685",
+  "title": "POSTSOWJETISCHE MIGRANTEN IN DEUTSCHLAND UND TRANSNATIONALE SOCIALMEDIA-ÖFFENTLICHKEITEN",
+  "publication_date": "2018-07",
+  "language": "German",
+  "abstract": "Das Projekt „Postsowjetische Migranten in Deutschland und transnationale Öffentlichkeiten auf Social Media“ geht der Frage nach, wie und inwiefern sich unter Beteiligung postsowjetischer Migrant*innen in Deutschland transnationale, russisch-deutsche Öffentlichkeiten mittels Social Media entwickeln. Für die Studie wurden Daten über eine Schnittstelle des größten russischen sozialen Netzwerks VKontakte erhoben. Analysiert wurde nicht das Nutzungsverhalten einzelner User, sondern Interaktionsdaten von Gruppen und öffentlichen Seiten (Public Pages): Immer wenn eine Gruppe den Inhalt einer weiteren Gruppe, öffentlichen Seite oder anderen Ressource teilt, wurde dies als Verbindung ausgewertet, aus der sich zum einen auf einen Informationsfluss und eine inhaltliche Nähe, zum anderen auf einen Einfluss schließen lässt. Anhand dieser sogenannten Reposts ergaben sich komplexe Netzwerke, die mithilfe einer Software analysiert und graphisch repräsentiert werden konnten.",
+  "authors": [
+    {
+      "name": "Tatiana Golova",
+      "affiliation": [
+        {
+          "name": "Zois Zentrum für Osteuropa- und Internationale Studien. Centre for East European and International Studies",
+          "ror": "00a0w0523"
+        }
+      ],
+      "orcid": "0000-0002-4952-3879"
+    }
+  ],
+  "file_paths": [
+    "files/Reports/RPT_100004__ZOiS_Report_2_2018.pdf"
+  ]
+}

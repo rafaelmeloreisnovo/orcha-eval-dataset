@@ -1,0 +1,66 @@
+{
+  "doi": null,
+  "title": "A Hyperparameter Optimization Framework for Preparing ML Models for Real-Time Trigger Deployment",
+  "publication_date": "2026-05-26",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Anastasiia Petrovych",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0001-1741-7174"
+    },
+    {
+      "name": "Roope Oskari Niemi",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0006-1753-1248"
+    },
+    {
+      "name": "Maurizio Pierini",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-1939-4268"
+    },
+    {
+      "name": "Michael Kagan",
+      "affiliation": [
+        {
+          "name": "SLAC National Accelerator Laboratory",
+          "ror": "05gzmn429"
+        }
+      ],
+      "orcid": "0000-0002-3386-6869"
+    },
+    {
+      "name": "Vladimir Lončar",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "University of Belgrade",
+          "ror": "02qsmb048"
+        }
+      ],
+      "orcid": "0000-0003-3651-0232"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100035__CHEP2026_Anastasiia_PETROVYCH.pdf"
+  ]
+}

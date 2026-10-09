@@ -1,0 +1,22 @@
+{
+  "doi": null,
+  "title": "Study of Higgs-boson production with large transverse momentum using the H → bb¯ decay with the ATLAS detector",
+  "publication_date": "2021-03-26",
+  "language": "English",
+  "abstract": "This note reports studies of Higgs boson production with sizeable transverse momentum decaying to a bb¯ quark pair. The analyzed data were recorded with the ATLAS detector in proton–proton collisions with a center-of-mass energy of √ s = 13 TeV at the Large Hadron Collider between 2015 and 2018, corresponding to an integrated luminosity of 136 fb−1 . Higgs bosons decaying to bb¯ are reconstructed as single large-radius jets and identified by the experimental signature of two b-hadron decays. The experimental techniques are validated in the same kinematic regime using the Z → bb¯ process. For Higgs boson production at transverse momenta above 450 GeV, the production cross section is found to be 13 ± 57(stat.) ± 22(syst.) ± 3(theo.) fb. The differential cross section 95% confidence level upper limits as a function of Higgs boson transverse momentum are σH (300 < p H T < 450 GeV) < 2.8 pb, σH (450 < p H T < 650 GeV) < 91 fb, σH (p H T > 650 GeV) < 40.5 fb, and σH (p H T > 1 TeV) < 10.3 fb. All results are consistent with the Standard Model predictions.",
+  "authors": [
+    {
+      "name": "The ATLAS Collaboration",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Experiment_note/EXN_100005__ATLAS-CONF-2021-010.pdf"
+  ]
+}

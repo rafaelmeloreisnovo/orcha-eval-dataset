@@ -1,0 +1,284 @@
+{
+  "doi": "10.1088/1748-0221/21/04/C04028",
+  "title": "First prototype of a low-power timing chip for strip LGAD readout: LATRIC0",
+  "publication_date": "2026-04-14",
+  "language": "English",
+  "abstract": "LATRIC0 is a single-channel readout chip designed for the Outer Tracker (OTK) of the reference detector on the Circular Electron Positron Collider (CEPC). The OTK employs AC-coupled Low-Gain Avalanche Detector (AC-LGAD) microstrip sensors to achieve high-precision spatial (10 µm) and timing (50 ps) measurements. Fabricated using a 55 nm CMOS process, LATRIC0 integrates an analog front-end amplifier and an event-driven ring-oscillator-based Time-to-Digital Converter (TDC) in a compact architecture. Measurements show that the prototype achieves a Least Significant Bit (LSB) of approximately 30 ps from both Time-over-Threshold (TOT) and Time-of-Arrival (TOA). The TDC core consumes less than 1.0 mW, while the total power of the front-end and TDC together is below 7.0 mW. The measured Integral Nonlinearity (INL) and Differential Nonlinearity (DNL) are within 1 LSB. LATRIC0 not only validates the proposed timing architecture but also establishes a foundation for the development of a future fully functional version with 128 channels and 100-µm channel pitch.",
+  "authors": [
+    {
+      "name": "Chuanye Wang",
+      "affiliation": [
+        {
+          "name": "Department of Physics, Nanjing University",
+          "ror": "01rxvg760"
+        },
+        {
+          "name": "Institute of High Energy Physics, Chinese Academy of Sciences",
+          "ror": "03v8tnc06"
+        }
+      ],
+      "orcid": "0009-0002-4873-9253"
+    },
+    {
+      "name": "Xiaoting Li",
+      "affiliation": [
+        {
+          "name": "Institute of High Energy Physics, Chinese Academy of Sciences",
+          "ror": "03v8tnc06"
+        },
+        {
+          "name": "High Energy Physics Research Center, Henan Academy of Sciences",
+          "ror": "00hy87220"
+        }
+      ],
+      "orcid": "0000-0003-3893-8195"
+    },
+    {
+      "name": "Y. Bai",
+      "affiliation": [
+        {
+          "name": "Institute of High Energy Physics, Chinese Academy of Sciences",
+          "ror": "03v8tnc06"
+        },
+        {
+          "name": "School of Physics and Electronic Information, Gannan Normal University",
+          "ror": "02jf7e446"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Herbert Chen",
+      "affiliation": [
+        {
+          "name": "Institute of High Energy Physics, Chinese Academy of Sciences",
+          "ror": "03v8tnc06"
+        },
+        {
+          "name": "Department of Physics, Nanjing University",
+          "ror": "01rxvg760"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jiaolong Chen",
+      "affiliation": [
+        {
+          "name": "Institute of High Energy Physics, Chinese Academy of Sciences",
+          "ror": "03v8tnc06"
+        }
+      ],
+      "orcid": "0009-0002-3741-4410"
+    },
+    {
+      "name": "YunQi Deng",
+      "affiliation": [
+        {
+          "name": "Institute of High Energy Physics, Chinese Academy of Sciences",
+          "ror": "03v8tnc06"
+        },
+        {
+          "name": "PLAC, Key Laboratory of Quark and Lepton Physics, Central China Normal University",
+          "ror": "03x1jna21"
+        }
+      ],
+      "orcid": "0000-0003-2244-0990"
+    },
+    {
+      "name": "Wenqian Huang",
+      "affiliation": [
+        {
+          "name": "Institute of High Energy Physics, Chinese Academy of Sciences",
+          "ror": "03v8tnc06"
+        },
+        {
+          "name": "School of Nuclear Science and Technology, University of Chinese Academy of Sciences",
+          "ror": "05qbk4x57"
+        }
+      ],
+      "orcid": "0000-0002-1407-1729"
+    },
+    {
+      "name": "Hui Jiang",
+      "affiliation": [
+        {
+          "name": "Institute of High Energy Physics, Chinese Academy of Sciences",
+          "ror": "03v8tnc06"
+        },
+        {
+          "name": "School of Physical Sciences, University of Chinese Academy of Sciences",
+          "ror": "05qbk4x57"
+        }
+      ],
+      "orcid": "0009-0002-2988-3655"
+    },
+    {
+      "name": "Huaishen Li",
+      "affiliation": [
+        {
+          "name": "Institute of High Energy Physics, Chinese Academy of Sciences",
+          "ror": "03v8tnc06"
+        },
+        {
+          "name": "High Energy Physics Research Center, Henan Academy of Sciences",
+          "ror": "00hy87220"
+        }
+      ],
+      "orcid": "0000-0001-9853-6601"
+    },
+    {
+      "name": "Zehong Liang",
+      "affiliation": [
+        {
+          "name": "Institute of High Energy Physics, Chinese Academy of Sciences",
+          "ror": "03v8tnc06"
+        },
+        {
+          "name": "PLAC, Key Laboratory of Quark and Lepton Physics, Central China Normal University",
+          "ror": "03x1jna21"
+        }
+      ],
+      "orcid": "0009-0009-3299-7830"
+    },
+    {
+      "name": "Lei Liu",
+      "affiliation": [
+        {
+          "name": "Institute of High Energy Physics, Chinese Academy of Sciences",
+          "ror": "03v8tnc06"
+        },
+        {
+          "name": "PLAC, Key Laboratory of Quark and Lepton Physics, Central China Normal University",
+          "ror": "03x1jna21"
+        }
+      ],
+      "orcid": "0009-0009-0699-6842"
+    },
+    {
+      "name": "X. Wang",
+      "affiliation": [
+        {
+          "name": "Institute of High Energy Physics, Chinese Academy of Sciences",
+          "ror": "03v8tnc06"
+        },
+        {
+          "name": "School of Nuclear Science and Technology, University of Chinese Academy of Sciences",
+          "ror": "05qbk4x57"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Zheng Wang",
+      "affiliation": [
+        {
+          "name": "Institute of High Energy Physics, Chinese Academy of Sciences",
+          "ror": "03v8tnc06"
+        }
+      ],
+      "orcid": "0000-0001-5802-6949"
+    },
+    {
+      "name": "Qingkang Wu",
+      "affiliation": [
+        {
+          "name": "Institute of High Energy Physics, Chinese Academy of Sciences",
+          "ror": "03v8tnc06"
+        },
+        {
+          "name": "Department of Physics, Nanjing University",
+          "ror": "01rxvg760"
+        }
+      ],
+      "orcid": "0009-0002-7158-8254"
+    },
+    {
+      "name": "Qi Yan",
+      "affiliation": [
+        {
+          "name": "Institute of High Energy Physics, Chinese Academy of Sciences",
+          "ror": "03v8tnc06"
+        },
+        {
+          "name": "High Energy Physics Research Center, Henan Academy of Sciences",
+          "ror": "00hy87220"
+        }
+      ],
+      "orcid": "0000-0001-6725-5399"
+    },
+    {
+      "name": "Xiongbo Yan",
+      "affiliation": [
+        {
+          "name": "Institute of High Energy Physics, Chinese Academy of Sciences",
+          "ror": "03v8tnc06"
+        },
+        {
+          "name": "High Energy Physics Research Center, Henan Academy of Sciences",
+          "ror": "00hy87220"
+        },
+        {
+          "name": "School of Physical Sciences, University of Chinese Academy of Sciences",
+          "ror": "05qbk4x57"
+        }
+      ],
+      "orcid": "0000-0002-5402-7327"
+    },
+    {
+      "name": "Jingbo Ye",
+      "affiliation": [
+        {
+          "name": "Institute of High Energy Physics, Chinese Academy of Sciences",
+          "ror": "03v8tnc06"
+        },
+        {
+          "name": "High Energy Physics Research Center, Henan Academy of Sciences",
+          "ror": "00hy87220"
+        }
+      ],
+      "orcid": "0000-0001-9274-707X"
+    },
+    {
+      "name": "Lian-Lian Zhang",
+      "affiliation": [
+        {
+          "name": "Department of Physics, Nanjing University",
+          "ror": "01rxvg760"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "G. Zhang",
+      "affiliation": [
+        {
+          "name": "Institute of High Energy Physics, Chinese Academy of Sciences",
+          "ror": "03v8tnc06"
+        },
+        {
+          "name": "School of Nuclear Science and Technology, University of Chinese Academy of Sciences",
+          "ror": "05qbk4x57"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Qiusheng Zhu",
+      "affiliation": [
+        {
+          "name": "Institute of High Energy Physics, Chinese Academy of Sciences",
+          "ror": "03v8tnc06"
+        },
+        {
+          "name": "School of Physics and Electronic Information, Gannan Normal University",
+          "ror": "02jf7e446"
+        }
+      ],
+      "orcid": "0009-0006-1501-604X"
+    }
+  ],
+  "file_paths": [
+    "files/Conference_papers/CFP_100000__Wang_2026_J._Inst._21_C04028.pdf"
+  ]
+}

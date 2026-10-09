@@ -1,0 +1,26 @@
+{
+  "doi": null,
+  "title": "Next Generation Triggers for the ATLAS and CMS Experiments",
+  "publication_date": "2025",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Cristina Botta",
+      "affiliation": [
+        {
+          "name": "University of Zurich",
+          "ror": "02crff812"
+        },
+        {
+          "name": "European Organization for Nuclear Research",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-8072-795X"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100021__ACAT_NextGenerationTriggers_CBotta.pdf"
+  ]
+}

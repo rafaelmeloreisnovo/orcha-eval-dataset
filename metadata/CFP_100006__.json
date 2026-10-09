@@ -1,0 +1,126 @@
+{
+  "doi": "10.1088/1748-0221/21/02/P02014",
+  "title": "Investigation of the FastIC+ ASIC for timing characterisation of heterostructured scintillators and BGO",
+  "publication_date": "2026-02-05",
+  "language": "English",
+  "abstract": "BGO and EJ-232-based heterostructured scintillators offer a combination of high detection efficiency and good timing performance by combining the two materials in a stack of alternating micrometer thick layers. This makes them interesting for Time Of Flight Positron Emission Tomography (TOF-PET) where 𝛾-detection efficiency and the Coincidence Time Resolution (CTR) are key parameters. After the 𝛾-ray is absorbed in the BGO layer, a recoil electron is emitted, which can deposit energy in both materials. This leads to an additional faster light emission from the plastic scintillator which improves the timing capabilities of the detector. This process is called energy sharing and a key challenge lies in the fact that the amount of energy deposited in each material is random. Therefore, an event classification is required to account for the different event types produced, which increases the demands for data processing and sensor readout capabilities compared to detectors that make use of bulk crystals. This makes their implementation in scalable readout systems which are needed for PET imaging challenging. In this work we demonstrate a proof-of-concept event classification method using the readout features of the scalable FastIC+ ASIC. We also compared the timing properties of the heterostructured scintillators to bulk BGO crystals. For 20 mm heterostructured samples, the overall CTR was 390 ± 20 ps and 212 ± 11 ps for the events with energy deposition above 50 keV in EJ-232. In comparison, 20 mm bulk BGO samples achieved a CTR of 413 ± 21 ps, while 3 mm BGO samples reached a CTR of 265 ± 13 ps. The readout system also enabled the use of prompt Cherenkov photons via rise-time readout to further enhance the timing performance.",
+  "authors": [
+    {
+      "name": "Carsten Lowis",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-7194-3917"
+    },
+    {
+      "name": "Cesar Luis Cardona",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "RWTH Aachen University",
+          "ror": "04xfq0f34"
+        }
+      ],
+      "orcid": "0009-0007-5232-7768"
+    },
+    {
+      "name": "Giulia Terragni",
+      "affiliation": [
+        {
+          "name": "Boston University",
+          "ror": "05qwgg493"
+        }
+      ],
+      "orcid": "0000-0002-1030-0758"
+    },
+    {
+      "name": "David Mazzanti Tarancón",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0003-9319-777X"
+    },
+    {
+      "name": "Rafael Ballabriga Sune",
+      "affiliation": [
+        {
+          "name": "University of Barcelona",
+          "ror": "021018s57"
+        }
+      ],
+      "orcid": "0000-0002-7372-6131"
+    },
+    {
+      "name": "Jerome Alozy",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0008-6994-2967"
+    },
+    {
+      "name": "S. Gómez",
+      "affiliation": [
+        {
+          "name": "Polytechnic University of Catalonia",
+          "ror": "03mb6wj31"
+        }
+      ],
+      "orcid": "0000-0002-3064-9834"
+    },
+    {
+      "name": "David Gascón",
+      "affiliation": [
+        {
+          "name": "University of Barcelona",
+          "ror": "021018s57"
+        }
+      ],
+      "orcid": "0000-0001-9607-6154"
+    },
+    {
+      "name": "Karl-Josef Langen",
+      "affiliation": [
+        {
+          "name": "Department of Nuclear Medicine, RWTH Aachen University Clinic",
+          "ror": "04xfq0f34"
+        }
+      ],
+      "orcid": "0000-0003-1101-5075"
+    },
+    {
+      "name": "Karl Ziemons",
+      "affiliation": [
+        {
+          "name": "FH Aachen — University of Applied Sciences",
+          "ror": "04tqgg260"
+        }
+      ],
+      "orcid": "0000-0001-5744-7290"
+    },
+    {
+      "name": "Etiennette Auffray",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-8540-1097"
+    }
+  ],
+  "file_paths": [
+    "files/Conference_papers/CFP_100006__Lowis_2026_J._Inst._21_P02014.pdf"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "doi": null,
+  "title": "Demonstrator for HEP event-processing framework in Julia: performance perspective",
+  "publication_date": "2025-07-30",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Mateusz Fila",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-3917-2371"
+    },
+    {
+      "name": "Graeme A Stewart",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-0182-7088"
+    },
+    {
+      "name": "Justin Kowalski",
+      "affiliation": [
+        {
+          "name": "ETH Zürich",
+          "ror": "05a28rw58"
+        }
+      ],
+      "orcid": "0009-0000-9600-365X"
+    },
+    {
+      "name": "Oleksandr Shchur",
+      "affiliation": [
+        {
+          "name": "Ukrainian Catholic University",
+          "ror": "05tt5nr09"
+        }
+      ],
+      "orcid": "0009-0009-3275-533X"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100034__FrameworkDemo_2025.pdf"
+  ]
+}

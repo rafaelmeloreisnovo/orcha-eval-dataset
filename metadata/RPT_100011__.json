@@ -1,0 +1,23 @@
+{
+  "doi": null,
+  "title": "EVALUATION REPORT",
+  "subtitle": "2024",
+  "publication_date": "2024",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Alberto Di Meglio",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-6466-5413"
+    }
+  ],
+  "file_paths": [
+    "files/Reports/RPT_100011__NGT Annual Report 2024.pdf"
+  ]
+}

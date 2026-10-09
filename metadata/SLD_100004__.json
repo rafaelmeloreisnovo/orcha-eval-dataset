@@ -1,0 +1,74 @@
+{
+  "doi": null,
+  "title": "User Story: Integration of ROOT RNTuple to CMSSW's SoA data structures",
+  "publication_date": "2025-11-18",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Markus Holzer",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-5499-5857"
+    },
+    {
+      "name": "Leonardo Beltrame",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "Politecnico di Milano",
+          "ror": "01nffqt88"
+        }
+      ],
+      "orcid": "0009-0006-5994-0170"
+    },
+    {
+      "name": "Andrea Bocci",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-6515-5666"
+    },
+    {
+      "name": "Felice Pantaleo",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-3266-4357"
+    },
+    {
+      "name": "Simone Balducci",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "Universita di Bologna",
+          "ror": "01111rn36"
+        },
+        {
+          "name": "INFN-CNAF Bologna",
+          "ror": "001d5wc61"
+        }
+      ],
+      "orcid": "Simone Balducci"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100004__MarkusHolzerCMSSWSoA.pdf"
+  ]
+}

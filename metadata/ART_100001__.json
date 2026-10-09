@@ -1,0 +1,308 @@
+{
+  "doi": "10.21468/SciPostPhysCommRep.15",
+  "title": "Simplified template cross sections – Stage 1.1 and 1.2",
+  "publication_date": "2026-01-07",
+  "language": "English",
+  "abstract": "Simplified Template Cross Sections (STXS) have been adopted by the LHC experiments as a common framework for Higgs measurements. Their purpose is to reduce the theoretical uncertainties that are directly folded into the measurements as much as possible, while at the same time allowing for the combination of the measurements between different decay channels as well as between experiments. We report the complete, revised definition of the STXS kinematic bins (stage 1.1 and stage 1.2), which have been used for the measurements by the ATLAS and CMS experiments using the full LHC Run 2 datasets. The main focus is on the four dominant Higgs production processes, namely gluon fusion, vector-boson fusion, production in association with a vector boson, and in association with a t̄t pair. We also comment briefly on the treatment of other production modes.",
+  "authors": [
+    {
+      "name": "Nicolas Berger",
+      "affiliation": [
+        {
+          "name": "LAPP",
+          "ror": "049nhh297"
+        }
+      ],
+      "orcid": "0000-0002-7963-9725"
+    },
+    {
+      "name": "Claudia Bertella",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "Institute of High Energy Physics, Chinese Academy of Sciences",
+          "ror": "05cvf7v30"
+        }
+      ],
+      "orcid": "0000-0002-3160-147X"
+    },
+    {
+      "name": "Matteo Bonanomi",
+      "affiliation": [
+        {
+          "name": "University of Hamburg",
+          "ror": "00g30e956"
+        }
+      ],
+      "orcid": "0000-0003-3629-6264"
+    },
+    {
+      "name": "Nihal Brahimi",
+      "affiliation": [
+        {
+          "name": "LAPP",
+          "ror": "049nhh297"
+        }
+      ],
+      "orcid": "0000-0003-0992-3509"
+    },
+    {
+      "name": "Thomas P. Calvet",
+      "affiliation": [
+        {
+          "name": "Stony Brook University",
+          "ror": "05qghxh33"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Milene Calvetti",
+      "affiliation": [
+        {
+          "name": "Università and INFN Sezione di Pisa",
+          "ror": "05symbg58"
+        }
+      ],
+      "orcid": "0000-0003-0125-2165"
+    },
+    {
+      "name": "Valerio Dao",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-1645-8393"
+    },
+    {
+      "name": "Marco Delmastro",
+      "affiliation": [
+        {
+          "name": "LAPP",
+          "ror": "049nhh297"
+        }
+      ],
+      "orcid": "0000-0003-2992-3805"
+    },
+    {
+      "name": "Michael Duehrssen-Debling",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-5833-7058"
+    },
+    {
+      "name": "Paolo Francavilla",
+      "affiliation": [
+        {
+          "name": "Università and INFN Sezione di Pisa",
+          "ror": "05symbg58"
+        }
+      ],
+      "orcid": "0000-0003-1164-6870"
+    },
+    {
+      "name": "Yacine Haddad",
+      "affiliation": [
+        {
+          "name": "Northeastern University",
+          "ror": "04t5xt781"
+        }
+      ],
+      "orcid": "0000-0003-4916-7752"
+    },
+    {
+      "name": "Sarah Heim",
+      "affiliation": [
+        {
+          "name": "Deutsches Elektronen-Synchrotron (DESY)",
+          "ror": "01js2sh04"
+        },
+        {
+          "name": "University of Hamburg",
+          "ror": "00g30e956"
+        }
+      ],
+      "orcid": "0000-0002-2639-6571"
+    },
+    {
+      "name": "Jelena Jovicevic",
+      "affiliation": [
+        {
+          "name": "Institute of Physics Belgrade",
+          "ror": "04h3h5b09"
+        }
+      ],
+      "orcid": "0000-0001-5650-4556"
+    },
+    {
+      "name": "Oleh Kivernyk",
+      "affiliation": [
+        {
+          "name": "LAPP",
+          "ror": "049nhh297"
+        }
+      ],
+      "orcid": "0000-0002-6854-2717"
+    },
+    {
+      "name": "Maria Moreno Llacer",
+      "affiliation": [
+        {
+          "name": "University of Valencia and CSIC",
+          "ror": "043nxc105"
+        }
+      ],
+      "orcid": "0000-0003-1113-3645"
+    },
+    {
+      "name": "Jonathon Langford",
+      "affiliation": [
+        {
+          "name": "Imperial College London",
+          "ror": "041kmwe10"
+        }
+      ],
+      "orcid": "0000-0002-3931-4379"
+    },
+    {
+      "name": "Changqiao Li",
+      "affiliation": [
+        {
+          "name": "University of Science and Technology of China",
+          "ror": "04c4dkn09"
+        }
+      ],
+      "orcid": "0000-0003-3495-7778"
+    },
+    {
+      "name": "Giovanni Marchiori",
+      "affiliation": [
+        {
+          "name": "LPNHE, Sorbonne Université",
+          "ror": "02en5vm52"
+        }
+      ],
+      "orcid": "0000-0003-2655-7643"
+    },
+    {
+      "name": "Josh McFayden",
+      "affiliation": [
+        {
+          "name": "University of Sussex",
+          "ror": "00ayhx656"
+        }
+      ],
+      "orcid": "0000-0001-9273-2564"
+    },
+    {
+      "name": "Johannes K. L. Michel",
+      "affiliation": [
+        {
+          "name": "University of Amsterdam",
+          "ror": "04dkp9463"
+        }
+      ],
+      "orcid": "0000-0003-0120-1165"
+    },
+    {
+      "name": "Predrag Milenovic",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "University of Belgrade",
+          "ror": "02qsmb048"
+        }
+      ],
+      "orcid": "0000-0001-7132-3550"
+    },
+    {
+      "name": "Carlo E. Pandini",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-3838-1307"
+    },
+    {
+      "name": "Edward Scott",
+      "affiliation": [
+        {
+          "name": "Imperial College London",
+          "ror": "041kmwe10"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Frank J. Tackmann",
+      "affiliation": [
+        {
+          "name": "Deutsches Elektronen-Synchrotron (DESY)",
+          "ror": "01js2sh04"
+        }
+      ],
+      "orcid": "0000-0002-0975-0006"
+    },
+    {
+      "name": "Kerstin Tackmann",
+      "affiliation": [
+        {
+          "name": "Deutsches Elektronen-Synchrotron (DESY)",
+          "ror": "01js2sh04"
+        },
+        {
+          "name": "University of Hamburg",
+          "ror": "00g30e956"
+        }
+      ],
+      "orcid": "0000-0003-3917-3761"
+    },
+    {
+      "name": "Lorenzo Viliani",
+      "affiliation": [
+        {
+          "name": "Università and INFN Sezione di Firenze",
+          "ror": "02vv5y108"
+        }
+      ],
+      "orcid": "0000-0002-1909-6343"
+    },
+    {
+      "name": "Meng Xiao",
+      "affiliation": [
+        {
+          "name": "Johns Hopkins University",
+          "ror": "00za53h95"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Hongtao Yang",
+      "affiliation": [
+        {
+          "name": "University of Science and Technology of China",
+          "ror": "04c4dkn09"
+        }
+      ],
+      "orcid": "0000-0003-3554-7113"
+    }
+  ],
+  "file_paths": [
+    "files/Articles/ART_100001__SciPostPhysCommRep_15.pdf"
+  ]
+}

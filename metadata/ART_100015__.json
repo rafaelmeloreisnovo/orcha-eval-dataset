@@ -1,0 +1,132 @@
+{
+  "doi": "10.1088/1742-6596/3206/1/012130",
+  "title": "Speeding up Madgraph5 aMC@NLO through CPU vectorization and GPU offloading: towards a first alpha release",
+  "publication_date": "2023-12-08",
+  "language": "English",
+  "abstract": "The matrix element (ME) calculation in any Monte Carlo physics event generator is an ideal fit for implementing data parallelism with lockstep processing on GPUs and vector CPUs. For complex physics processes where the ME calculation is the computational bottleneck of event generation workflows, this can lead to large overall speedups by efficiently exploiting these hardware architectures, which are now largely underutilized in HEP. In this paper, we present the status of our work on the reengineering of the MadGraph5_aMC@NLO event generator at the time of the ACAT2022 conference. The progress achieved since our previous publication in the ICHEP2022 proceedings [1] is discussed, for our implementations of the ME calculations in vectorized C++, in CUDA, and in the SYCL framework, as well as in their integration into the existing MadEvent framework. The outlook towards a first alpha release of the software supporting QCD LO processes usable by the LHC experiments is also discussed.",
+  "authors": [
+    {
+      "name": "Andrea Valassi",
+      "affiliation": [
+        {
+          "name": "IT Department, CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-9322-9565"
+    },
+    {
+      "name": "John Childers",
+      "affiliation": [
+        {
+          "name": "Argonne National Laboratory",
+          "ror": "05gvnxz63"
+        }
+      ],
+      "orcid": "0000-0002-0492-613X"
+    },
+    {
+      "name": "Laurence Field",
+      "affiliation": [
+        {
+          "name": "IT Department, CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-5650-4502"
+    },
+    {
+      "name": "Stephan Hageböck",
+      "affiliation": [
+        {
+          "name": "IT Department, CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "W. Hopkins",
+      "affiliation": [
+        {
+          "name": "Argonne National Laboratory",
+          "ror": "05gvnxz63"
+        }
+      ],
+      "orcid": "0000-0001-7814-8740"
+    },
+    {
+      "name": "Olivier Mattelaer",
+      "affiliation": [
+        {
+          "name": "Université Catholique de Louvain",
+          "ror": "02495e989"
+        }
+      ],
+      "orcid": "0000-0002-7302-7744"
+    },
+    {
+      "name": "Nathan Nichols",
+      "affiliation": [
+        {
+          "name": "Argonne National Laboratory",
+          "ror": "05gvnxz63"
+        }
+      ],
+      "orcid": "0000-0002-4360-0407"
+    },
+    {
+      "name": "Stefan Roiser",
+      "affiliation": [
+        {
+          "name": "IT Department, CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-5600-8592"
+    },
+    {
+      "name": "D. Smith",
+      "affiliation": [
+        {
+          "name": "IT Department, CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jørgen Teig",
+      "affiliation": [
+        {
+          "name": "IT Department, CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0002-5618-776X"
+    },
+    {
+      "name": "Carl Vuosalo",
+      "affiliation": [
+        {
+          "name": "University of Wisconsin-Madison",
+          "ror": "01y2jtd41"
+        }
+      ],
+      "orcid": "0000-0001-7571-5826"
+    },
+    {
+      "name": "Zenny Wettersten",
+      "affiliation": [
+        {
+          "name": "IT Department, CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-6099-1799"
+    }
+  ],
+  "file_paths": [
+    "files/Articles/ART_100015__Valassi_2026_J._Phys.__Conf._Ser._3206_012130.pdf"
+  ]
+}

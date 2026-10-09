@@ -1,0 +1,66 @@
+{
+  "doi": " 10.5281/zenodo.21074847",
+  "title": "The Sustainable and TrAnsparent Research data (STAR) study: Final report",
+  "publication_date": "2026-07-01",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Jessica R. Wheeler",
+      "affiliation": [
+        {
+          "name": "University of Bristol",
+          "ror": "0524sp257"
+        }
+      ],
+      "orcid": "0000-0003-0802-7286"
+    },
+    {
+      "name": "Pen-Yuan Hsing",
+      "affiliation": [
+        {
+          "name": "University of Bristol",
+          "ror": "0524sp257"
+        }
+      ],
+      "orcid": "0000-0002-5394-879X"
+    },
+    {
+      "name": "Rosalind Strang",
+      "affiliation": [
+        {
+          "name": "University of Bristol",
+          "ror": "0524sp257"
+        }
+      ],
+      "orcid": "0000-0001-7499-7892"
+    },
+    {
+      "name": "Lorna Duncan",
+      "affiliation": [
+        {
+          "name": "University of Bristol",
+          "ror": "0524sp257"
+        }
+      ],
+      "orcid": "0000-0002-9629-030X"
+    },
+    {
+      "name": "Neil Jacobs",
+      "affiliation": [
+        {
+          "name": "UK Reproducibility Network",
+          "ror": "049czkm07"
+        },
+        {
+          "name": "University of Bristol",
+          "ror": "0524sp257"
+        }
+      ],
+      "orcid": "0000-0002-8050-8175"
+    }
+  ],
+  "file_paths": [
+    "files/Reports/RPT_100014__Working Paper 12 - STAR Report v1.1.pdf"
+  ]
+}

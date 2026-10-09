@@ -1,0 +1,23 @@
+{
+  "doi": null,
+  "title": "Technologie du Colisionneur Linéaire",
+  "subtitle": "Rapport sur le choix Super-Conducteur par l’ITRP",
+  "publication_date": "2004-09-03",
+  "language": "French",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Jean-Eudes Augustin",
+      "affiliation": [
+        {
+          "name": "International Committee for Future Accelerators (ICFA)",
+          "ror": null
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100015__Augustin.pdf"
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "doi": "10.3847/1538-4357/ae5938",
+  "title": "The DREAMS Project: Disentangling the Impact of Halo-to-halo Variance and Baryonic Feedback on Milky Way Dark Matter Density Profiles",
+  "publication_date": "2026-05-01",
+  "language": "English",
+  "abstract": "In this work, we utilize a new suite of Milky Way–mass halos from the DREAMS Project, simulated with cold dark matter (CDM), to quantify the influence of baryon feedback and intrinsic halo-to-halo variance on dark matter density profiles. Our suite of 1024 halos varies over supernova and black hole feedback parameters from the IllustrisTNG model, as well as variations in two cosmological parameters. We find that, for the DREAMS parameter variations, Milky Way–mass dark matter density profiles in the IllustrisTNG model are largely insensitive to astrophysics and cosmology variations, with the dominant source of scatter instead arising from halo-to-halo variance. However, most of the (comparatively minor) feedback-driven variations come from the changes to supernova prescriptions. By comparing to dark-matter-only simulations, we find that the strongest supernova wind energies are so effective at preventing galaxy formation that the halos are nearly entirely collisionless dark matter. Finally, regardless of physics variation, all of the DREAMS halos are roughly consistent with a halo contracting adiabatically from the presence of baryons, unlike models that have bursty stellar feedback. This work represents a step toward assessing the uncertainty in Milky Way dark matter profiles, with direct implications for dark matter searches where systematic uncertainty in the density profile remains a major challenge.",
+  "authors": [
+    {
+      "name": "Alex M. Garcia",
+      "affiliation": [
+        {
+          "name": "Department of Astronomy, University of Virginia",
+          "ror": "0153tk833"
+        },
+        {
+          "name": "Virginia Institute for Theoretical Astronomy, University of Virginia",
+          "ror": "0153tk833"
+        },
+        {
+          "name": "The NSF-Simons AI Institute for Cosmic Origins",
+          "ror": "0424mzx13"
+        }
+      ],
+      "orcid": "0000-0002-8111-9884"
+    },
+    {
+      "name": "Jonah C. Rose",
+      "affiliation": [
+        {
+          "name": "Department of Physics, Princeton University",
+          "ror": "00hx57361"
+        },
+        {
+          "name": "Center for Computational Astrophysics, Flatiron Institute",
+          "ror": "00sekdz59"
+        }
+      ],
+      "orcid": "0000-0002-2628-0237"
+    },
+    {
+      "name": "Paul Torrey",
+      "affiliation": [
+        {
+          "name": "Department of Astronomy, University of Virginia",
+          "ror": "0153tk833"
+        },
+        {
+          "name": "Virginia Institute for Theoretical Astronomy, University of Virginia",
+          "ror": "0153tk833"
+        },
+        {
+          "name": "The NSF-Simons AI Institute for Cosmic Origins",
+          "ror": "0424mzx13"
+        }
+      ],
+      "orcid": "0000-0002-5653-0786"
+    },
+    {
+      "name": "Andrea Caputo",
+      "affiliation": [
+        {
+          "name": "Theoretical Physics Department, CERN",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "Dipartimento di Fisica, Sapienza Università di Roma & Sezione INFN Roma1",
+          "ror": "02be6w209"
+        },
+        {
+          "name": "Department of Particle Physics and Astrophysics, Weizmann Institute of Science",
+          "ror": "0316ej306"
+        }
+      ],
+      "orcid": "0000-0003-1122-6606"
+    },
+    {
+      "name": "Mariangela Lisanti",
+      "affiliation": [
+        {
+          "name": "Department of Physics, Princeton University",
+          "ror": "00hx57361"
+        },
+        {
+          "name": "Center for Computational Astrophysics, Flatiron Institute",
+          "ror": "00sekdz59"
+        }
+      ],
+      "orcid": "0000-0002-8495-8659"
+    },
+    {
+      "name": "Andrew B. Pace",
+      "affiliation": [
+        {
+          "name": "Department of Astronomy, University of Virginia",
+          "ror": "0153tk833"
+        },
+        {
+          "name": "Virginia Institute for Theoretical Astronomy, University of Virginia",
+          "ror": "0153tk833"
+        },
+        {
+          "name": "The NSF-Simons AI Institute for Cosmic Origins",
+          "ror": "0424mzx13"
+        }
+      ],
+      "orcid": "0000-0002-6021-8760"
+    },
+    {
+      "name": "Hongwan Liu",
+      "affiliation": [
+        {
+          "name": "Physics Department, Boston University",
+          "ror": "05qwgg493"
+        }
+      ],
+      "orcid": "0000-0003-2486-0681"
+    },
+    {
+      "name": "Abdelaziz Hussein",
+      "affiliation": [
+        {
+          "name": "Department of Physics and Kavli Institute for Astrophysics and Space Research, Massachusetts Institute of Technology",
+          "ror": "042nb2s44"
+        }
+      ],
+      "orcid": "0000-0002-5560-8668"
+    },
+    {
+      "name": "Francisco Villaescusa-Navarro",
+      "affiliation": [
+        {
+          "name": "Center for Computational Astrophysics, Flatiron Institute",
+          "ror": "00sekdz59"
+        }
+      ],
+      "orcid": "0000-0002-4816-0455"
+    },
+    {
+      "name": "John Barry",
+      "affiliation": [
+        {
+          "name": "College of Science, Northeastern University",
+          "ror": "04t5xt781"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ilem Leisher",
+      "affiliation": [
+        {
+          "name": "Grinnell College",
+          "ror": "04tmmky42"
+        },
+        {
+          "name": "Department of Physics, Massachusetts Institute of Technology",
+          "ror": "042nb2s44"
+        },
+        {
+          "name": "Kavli Institute for Astrophysics and Space Research, Massachusetts Institute of Technology",
+          "ror": "042nb2s44"
+        }
+      ],
+      "orcid": "0009-0006-5740-5318"
+    },
+    {
+      "name": "Belén Costanza",
+      "affiliation": [
+        {
+          "name": "Facultad de Ciencias Astronómicas y Geofísicas, Universidad Nacional de La Plata",
+          "ror": "01tjs6929"
+        },
+        {
+          "name": "Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)",
+          "ror": "03cqe8w59"
+        }
+      ],
+      "orcid": "0009-0008-6301-1539"
+    },
+    {
+      "name": "Jonathan Kho",
+      "affiliation": [
+        {
+          "name": "Department of Astronomy, University of Virginia",
+          "ror": "0153tk833"
+        },
+        {
+          "name": "Virginia Institute for Theoretical Astronomy, University of Virginia",
+          "ror": "0153tk833"
+        },
+        {
+          "name": "The NSF-Simons AI Institute for Cosmic Origins",
+          "ror": "0424mzx13"
+        }
+      ],
+      "orcid": "0000-0002-0275-3001"
+    },
+    {
+      "name": "Ethan Lilie",
+      "affiliation": [
+        {
+          "name": "Department of Physics, Princeton University",
+          "ror": "00hx57361"
+        }
+      ],
+      "orcid": "0009-0000-8180-9044"
+    },
+    {
+      "name": "Jiaxuan Li",
+      "affiliation": [
+        {
+          "name": "Department of Astrophysical Sciences, Princeton University",
+          "ror": "00hx57361"
+        }
+      ],
+      "orcid": "0000-0001-9592-4190"
+    },
+    {
+      "name": "Niusha Ahvazi",
+      "affiliation": [
+        {
+          "name": "Department of Astronomy, University of Virginia",
+          "ror": "0153tk833"
+        },
+        {
+          "name": "Virginia Institute for Theoretical Astronomy, University of Virginia",
+          "ror": "0153tk833"
+        },
+        {
+          "name": "The NSF-Simons AI Institute for Cosmic Origins",
+          "ror": "0424mzx13"
+        }
+      ],
+      "orcid": "0009-0002-1233-2013"
+    },
+    {
+      "name": "Aklant Bhowmick",
+      "affiliation": [
+        {
+          "name": "Department of Astronomy, University of Virginia",
+          "ror": "0153tk833"
+        },
+        {
+          "name": "Virginia Institute for Theoretical Astronomy, University of Virginia",
+          "ror": "0153tk833"
+        },
+        {
+          "name": "The NSF-Simons AI Institute for Cosmic Origins",
+          "ror": "0424mzx13"
+        }
+      ],
+      "orcid": "0000-0002-7080-2864"
+    },
+    {
+      "name": "Tri Nguyen",
+      "affiliation": [
+        {
+          "name": "Center for Interdisciplinary Exploration and Research in Astrophysics, Northwestern University",
+          "ror": "000e0be47"
+        },
+        {
+          "name": "NSF-Simons AI Institute for the Sky",
+          "ror": "0424mzx13"
+        }
+      ],
+      "orcid": "0000-0001-6189-8457"
+    },
+    {
+      "name": "Stephanie O'Neil",
+      "affiliation": [
+        {
+          "name": "Department of Physics, Princeton University",
+          "ror": "00hx57361"
+        },
+        {
+          "name": "Department of Physics & Astronomy, University of Pennsylvania",
+          "ror": "00b30xv10"
+        }
+      ],
+      "orcid": "0000-0002-7968-2088"
+    },
+    {
+      "name": "Xiaowei Ou",
+      "affiliation": [
+        {
+          "name": "Department of Astronomy, University of Virginia",
+          "ror": "0153tk833"
+        },
+        {
+          "name": "Virginia Institute for Theoretical Astronomy, University of Virginia",
+          "ror": "0153tk833"
+        },
+        {
+          "name": "The NSF-Simons AI Institute for Cosmic Origins",
+          "ror": "0424mzx13"
+        }
+      ],
+      "orcid": "0000-0002-4669-9967"
+    },
+    {
+      "name": "Xuejian Shen",
+      "affiliation": [
+        {
+          "name": "Department of Physics and Kavli Institute for Astrophysics and Space Research, Massachusetts Institute of Technology",
+          "ror": "042nb2s44"
+        }
+      ],
+      "orcid": "0000-0002-6196-823X"
+    },
+    {
+      "name": "Arya Farahi",
+      "affiliation": [
+        {
+          "name": "The NSF-Simons AI Institute for Cosmic Origins",
+          "ror": "0424mzx13"
+        },
+        {
+          "name": "Departments of Statistics and Data Sciences, University of Texas at Austin",
+          "ror": "00hj54h04"
+        }
+      ],
+      "orcid": "0000-0003-0777-4618"
+    },
+    {
+      "name": "Nitya Kallivayalil",
+      "affiliation": [
+        {
+          "name": "Department of Astronomy, University of Virginia",
+          "ror": "0153tk833"
+        },
+        {
+          "name": "Virginia Institute for Theoretical Astronomy, University of Virginia",
+          "ror": "0153tk833"
+        },
+        {
+          "name": "The NSF-Simons AI Institute for Cosmic Origins",
+          "ror": "0424mzx13"
+        }
+      ],
+      "orcid": "0000-0002-3204-1742"
+    },
+    {
+      "name": "Lina Necib",
+      "affiliation": [
+        {
+          "name": "Department of Physics and Kavli Institute for Astrophysics and Space Research, Massachusetts Institute of Technology",
+          "ror": "042nb2s44"
+        },
+        {
+          "name": "The NSF AI Institute for Artificial Intelligence and Fundamental Interactions",
+          "ror": "04pvzz946"
+        }
+      ],
+      "orcid": "0000-0003-2806-1414"
+    },
+    {
+      "name": "Mark Vogelsberger",
+      "affiliation": [
+        {
+          "name": "Department of Physics and Kavli Institute for Astrophysics and Space Research, Massachusetts Institute of Technology",
+          "ror": "042nb2s44"
+        },
+        {
+          "name": "The NSF AI Institute for Artificial Intelligence and Fundamental Interactions",
+          "ror": "04pvzz946"
+        },
+        {
+          "name": "Fachbereich Physik, Philipps Universität Marburg",
+          "ror": "01rdrb571"
+        }
+      ],
+      "orcid": "0000-0001-8593-7692"
+    }
+  ],
+  "file_paths": [
+    "files/Articles/ART_100002__Garcia_2026_ApJ_1002_8.pdf"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "doi": "10.2172/1881270",
+  "title": "Physics at the High Luminosity LHC with ATLAS and CMS",
+  "publication_date": "2022-07-23",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Jennet Dickinson",
+      "affiliation": [
+        {
+          "name": "Fermilab",
+          "ror": "020hgte69"
+        }
+      ],
+      "orcid": "0000-0001-5450-5328"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100028__fermilab-slides-22-151-ppd.pdf"
+  ]
+}

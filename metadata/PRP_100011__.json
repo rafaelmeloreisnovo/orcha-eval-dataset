@@ -1,0 +1,54 @@
+{
+  "doi": null,
+  "title": "Out-of-Equilibrium Dynamics in a U(1) Lattice Gauge Theory via Local Information Flows: Scattering and String Breaking",
+  "publication_date": "2025-10-17",
+  "language": "English",
+  "abstract": "We introduce local information flows as a diagnostic tool for characterizing out-of-equilibrium quantum dynamics in lattice gauge theories. We employ the information lattice framework, a local decomposition of total information into spatial- and scale-resolved contributions, to characterize the propagation and buildup of quantum correlations in real-time processes. Focusing on the Schwinger model, a canonical (1 + 1)-dimensional U(1) lattice gauge theory, we apply this framework to two scenarios. First, in the near-threshold scattering of two vector mesons, we demonstrate that the emergence of correlations at a longer length scale in the information lattice marks the production of heavier scalar mesons. Second, in the dynamics of electric field strings, we clearly distinguish between the confining regime, which evolves towards a steady state with a static correlation profile, and the string-breaking sector. The latter is characterized by dynamic correlation patterns that reflect the sequential formation and annihilation of strings. This information-centric approach provides a direct, quantitative, and interpretable visualization of complex many-body phenomena, offering a promising tool for analyzing dynamics in higher-dimensional gauge theories and experiments on quantum hardware.",
+  "authors": [
+    {
+      "name": "Claudia Artiaco",
+      "affiliation": [
+        {
+          "name": "Department of Physics, KTH Royal Institute of Technology",
+          "ror": "026vcq606"
+        }
+      ],
+      "orcid": "0000-0002-0141-1878"
+    },
+    {
+      "name": "João Barata",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN), Theoretical Physics Department",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Enrique Rico Ortega",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN), Theoretical Physics Department",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "EHU Quantum Center and Department of Physical Chemistry, University of the Basque Country",
+          "ror": "000xsnr85"
+        },
+        {
+          "name": "DIPC - Donostia International Physics Center",
+          "ror": "02e24yw40"
+        },
+        {
+          "name": "IKERBASQUE, Basque Foundation for Science",
+          "ror": "01cc3fy72"
+        }
+      ],
+      "orcid": "0000-0003-4414-6821"
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100011__2510.16101v1.pdf"
+  ]
+}

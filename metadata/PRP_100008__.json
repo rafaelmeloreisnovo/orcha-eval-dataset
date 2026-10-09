@@ -1,0 +1,68 @@
+{
+  "doi": null,
+  "title": "Quantum Krylov Subspace Diagonalization via Time Reversal Symmetries",
+  "publication_date": "2025-10-14",
+  "language": "English",
+  "abstract": "Krylov quantum diagonalization methods have emerged as a promising use case for quantum computers. However, many existing implementations rely on controlled operations, which pose challenges to near-term quantum hardware. We introduce a novel protocol, termed Krylov Time Reversal (KTR), that circumvents these bottlenecks by leveraging time-reversal symmetry in Hamiltonian evolution. Using symmetric time dynamics, we show that it is possible to recover real-valued Krylov matrix elements, which significantly reduces the circuit depth and enhances compatibility with shallow quantum architectures. Furthermore, the protocol’s structure indirectly reduces the total evolution time, benefiting both near-term and long-term architectures. We validate our method through numerical simulations on paradigmatic Hamiltonians exhibiting time-reversal symmetry, including the transverse-field Ising model and a lattice gauge theory, demonstrating accurate spectral estimation and favorable circuit constructions.",
+  "authors": [
+    {
+      "name": "Nicola Mariella",
+      "affiliation": [
+        {
+          "name": "IBM Quantum, IBM Research Europe, Trinity Business School",
+          "ror": "0146h2h75"
+        }
+      ],
+      "orcid": "0000-0001-7268-1149"
+    },
+    {
+      "name": "Enrique Rico Ortega",
+      "affiliation": [
+        {
+          "name": "EHU Quantum Center and Department of Physical Chemistry, University of the Basque Country",
+          "ror": "000xsnr85"
+        },
+        {
+          "name": "DIPC - Donostia International Physics Center",
+          "ror": "02e24yw40"
+        },
+        {
+          "name": "IKERBASQUE, Basque Foundation for Science",
+          "ror": "01cc3fy72"
+        },
+        {
+          "name": "European Organization for Nuclear Research (CERN), Theoretical Physics Department",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-4414-6821"
+    },
+    {
+      "name": "Adam Byrne",
+      "affiliation": [
+        {
+          "name": "IBM Quantum, IBM Research Europe, Trinity Business School",
+          "ror": "0146h2h75"
+        },
+        {
+          "name": "School of Mathematics, Trinity College Dublin",
+          "ror": "02tyrky19"
+        }
+      ],
+      "orcid": "0000-0003-1870-2484"
+    },
+    {
+      "name": "Sergiy Zhuk",
+      "affiliation": [
+        {
+          "name": "IBM Quantum, IBM Research Europe, Trinity Business School",
+          "ror": "0146h2h75"
+        }
+      ],
+      "orcid": "0000-0003-4265-8161"
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100008__2507.22559v3.pdf"
+  ]
+}

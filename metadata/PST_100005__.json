@@ -1,0 +1,46 @@
+{
+  "doi": null,
+  "title": "Remote Offloading for the High-Level Trigger of the Compact Muon Solenoid Experiment at CERN",
+  "publication_date": null,
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Anna Polova",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "Ukranian Catholic University",
+          "ror": "05tt5nr09"
+        }
+      ],
+      "orcid": "0009-0004-5261-970X"
+    },
+    {
+      "name": "Andrea Bocci",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-6515-5666"
+    },
+    {
+      "name": "Mario Gonzalez",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Poster/PST_100005__poster.pdf"
+  ]
+}

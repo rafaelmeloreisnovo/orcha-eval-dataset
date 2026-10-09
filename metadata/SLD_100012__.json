@@ -1,0 +1,26 @@
+{
+  "doi": null,
+  "title": "Muon Tracking at the CMS High-Level Trigger for the HL-LHC Upgrade",
+  "publication_date": "2025-11-11",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Luca Ferragina",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157 "
+        },
+        {
+          "name": "University of Bologna",
+          "ror": "01111rn36"
+        }
+      ],
+      "orcid": "0009-0004-3148-0315"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100012__CTD_2025_CMS_Muon_Tracking.pdf"
+  ]
+}

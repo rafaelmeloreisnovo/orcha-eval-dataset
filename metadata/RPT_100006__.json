@@ -1,0 +1,52 @@
+{
+  "doi": "10.5281/zenodo.17374955",
+  "title": "GUTACHTEN: ETHISCHE STANDARDS FÜR BIG DATA UND DEREN BEGRÜNDUNG",
+  "publication_date": "2018",
+  "language": "German",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Prof. Dr. Stefan Selke",
+      "affiliation": [
+        {
+          "name": "Furtwangen University",
+          "ror": "02m11x738"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Dr. Peter Biniok",
+      "affiliation": [
+        {
+          "name": "Bundesanstalt für Arbeitsschutz und Arbeitsmedizin",
+          "ror": "01aa1sn70"
+        }
+      ],
+      "orcid": "0000-0002-0725-3487"
+    },
+    {
+      "name": "Dr. Johannes Achatz",
+      "affiliation": [
+        {
+          "name": "Martin Luther University Halle-Wittenberg",
+          "ror": "05gqaka33"
+        }
+      ],
+      "orcid": "0000-0001-5045-1027"
+    },
+    {
+      "name": "Elisabeth Späth",
+      "affiliation": [
+        {
+          "name": "Johannes Gutenberg University Mainz",
+          "ror": "023b0x485"
+        }
+      ],
+      "orcid": "0009-0001-5872-5050"
+    }
+  ],
+  "file_paths": [
+    "files/Reports/RPT_100006__ABIDA Gutachten Ethische Standards.pdf"
+  ]
+}

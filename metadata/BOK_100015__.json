@@ -1,0 +1,83 @@
+{
+  "doi": "10.5281/zenodo.17104428",
+  "title": "ENTWICKLUNG RAUMLICHER VORSTELLUNGEN",
+  "subtitle": "Aufgabensammlung für den Mathematikunterricht der Schuljahrgänge 1 bis 6",
+  "publication_date": "2020",
+  "language": "German",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Sabine Schmidt",
+      "affiliation": [
+        {
+          "name": "Technical University of Denmark",
+          "ror": "04qtj9h94"
+        }
+      ],
+      "orcid": "0000-0002-1711-1167"
+    },
+    {
+      "name": "Thomas Viehweg",
+      "affiliation": [
+        {
+          "name": null,
+          "ror": null
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sara Neunübel",
+      "affiliation": [
+        {
+          "name": null,
+          "ror": null
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Claudia Rolle",
+      "affiliation": [
+        {
+          "name": null,
+          "ror": null
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ralf Ningler",
+      "affiliation": [
+        {
+          "name": null,
+          "ror": null
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Ralph Thielbeer",
+      "affiliation": [
+        {
+          "name": null,
+          "ror": null
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Katja Wolf",
+      "affiliation": [
+        {
+          "name": null,
+          "ror": null
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Book/BOK_100015__DIALOG31_web.pdf"
+  ]
+}

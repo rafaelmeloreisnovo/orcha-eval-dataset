@@ -1,0 +1,46 @@
+{
+  "doi": null,
+  "title": "Robust Edge Classification through Contrastive Learning on Graphs for Event Reconstruction",
+  "publication_date": null,
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Christine Zeh",
+      "affiliation": [
+        {
+          "name": "Technical University Vienna",
+          "ror": "04d836q62"
+        },
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0004-1093-8657"
+    },
+    {
+      "name": "Wahid Redjeb",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-9794-8292"
+    },
+    {
+      "name": "Felice Pantaleo",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-3266-4357"
+    }
+  ],
+  "file_paths": [
+    "files/Poster/PST_100003__MML_GNN_Poster-Final.pdf"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "doi": "10.5281/zenodo.13375994",
+  "title": "Benin - 1999",
+  "publication_date": "2000",
+  "language": "German",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Dirk Kohnert",
+      "affiliation": [
+        {
+          "name": "GIGA Institut für Afrika-Studien",
+          "ror": "00681ts17"
+        }
+      ],
+      "orcid": "0000-0003-3921-1158"
+    }
+  ],
+  "file_paths": [
+    "files/Book_chapter/BKC_100010__Be-AJB.1999.pdf"
+  ]
+}

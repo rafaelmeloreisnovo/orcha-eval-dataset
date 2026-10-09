@@ -1,0 +1,82 @@
+{
+  "doi": null,
+  "title": "Performance and integration challenges of using Julia language for trigger and reconstruction",
+  "publication_date": "2026-05-26",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Mateusz Fila",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-3917-2371"
+    },
+    {
+      "name": "Maya Ali",
+      "affiliation": [
+        {
+          "name": "American University of Beirut",
+          "ror": "04pznsd21"
+        }
+      ],
+      "orcid": "null"
+    },
+    {
+      "name": "Andrea Bocci",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-6515-5666"
+    },
+    {
+      "name": "Mohamad Ayman Charaf",
+      "affiliation": [
+        {
+          "name": "American University of Beirut",
+          "ror": "04pznsd21"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Mohamad Khaled Charaf",
+      "affiliation": [
+        {
+          "name": "American University of Beirut",
+          "ror": "04pznsd21"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Justin Kowalski",
+      "affiliation": [
+        {
+          "name": "ETH Zürich",
+          "ror": "05a28rw58"
+        }
+      ],
+      "orcid": "0009-0000-9600-365X"
+    },
+    {
+      "name": "Graeme A Stewart",
+      "affiliation": [
+        {
+          "name": "DESY",
+          "ror": "01js2sh04"
+        }
+      ],
+      "orcid": "0000-0003-0182-7088"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100017__20260526_chep_fila_julia.pdf"
+  ]
+}

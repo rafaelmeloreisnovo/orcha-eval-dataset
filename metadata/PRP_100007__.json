@@ -1,0 +1,114 @@
+{
+  "doi": null,
+  "title": "Trends of aerosol chemical composition from online measurements",
+  "publication_date": "null",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Anna Font",
+      "affiliation": [
+        {
+          "name": "Centre for Energy and Environment, IMT Nord Europe, Institut Mines-Télécom, Univ",
+          "ror": "042rh9p26"
+        }
+      ],
+      "orcid": "0000-0003-1488-8090"
+    },
+    {
+      "name": "Laura-Helena Georgette Rivellini",
+      "affiliation": [
+        {
+          "name": "Laboratoire des Sciences du Climat et de l’Environnement, CEA/Orme des Merisiers",
+          "ror": "03dsd0g48"
+        },
+        {
+          "name": "Aerosol Chemical Monitor Calibration Center, CEA/Orme des Merisiers",
+          "ror": "00spvm362"
+        }
+      ],
+      "orcid": "0009-0007-6407-1819"
+    },
+    {
+      "name": "Vaios Moschos",
+      "affiliation": [
+        {
+          "name": "School of Natural Sciences, Ryan Institute’s Centre for Climate and Air Pollution Studies, University of Galway",
+          "ror": "03bea9k73"
+        }
+      ],
+      "orcid": "0000-0002-6251-4117"
+    },
+    {
+      "name": "Benjamin Chazeau",
+      "affiliation": [
+        {
+          "name": "Aix Marseille Univ, CNRS, LCE",
+          "ror": "035xkbk20"
+        }
+      ],
+      "orcid": "0000-0001-8844-2652"
+    },
+    {
+      "name": "Hasna Chebaicheb",
+      "affiliation": [
+        {
+          "name": "Aerosol Chemical Monitor Calibration Center, CEA/Orme des Merisiers",
+          "ror": "00spvm362"
+        },
+        {
+          "name": "Institut National de l’Environnement Industriel et des Risques, Parc Technologique ALATA",
+          "ror": "034yrjf77"
+        }
+      ],
+      "orcid": "0000-0002-1652-2933"
+    },
+    {
+      "name": "Samira Atabakhsh",
+      "affiliation": [
+        {
+          "name": "Atmospheric Chemistry Department, Leibniz Institute for Tropospheric Research",
+          "ror": "03a5xsc56"
+        }
+      ],
+      "orcid": "0000-0002-9800-5779"
+    },
+    {
+      "name": "Tamara Baz",
+      "affiliation": [
+        {
+          "name": "Institut National de l’Environnement Industriel et des Risques, Parc Technologique ALATA",
+          "ror": "034yrjf77"
+        }
+      ],
+      "orcid": "0009-0008-0952-6777"
+    },
+    {
+      "name": "Laurent Poulain",
+      "affiliation": [
+        {
+          "name": "Atmospheric Chemistry Department, Leibniz Institute for Tropospheric Research",
+          "ror": "03a5xsc56"
+        }
+      ],
+      "orcid": "0000-0002-9128-7881"
+    },
+    {
+      "name": "Jean-Eudes Petit",
+      "affiliation": [
+        {
+          "name": "Laboratoire des Sciences du Climat et de l’Environnement, CEA/Orme des Merisiers",
+          "ror": "03dsd0g48"
+        },
+        {
+          "name": "Aerosol Chemical Monitor Calibration Center, CEA/Orme des Merisiers",
+          "ror": "00spvm362"
+        }
+      ],
+      "orcid": "0000-0003-1516-5927"
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100007__Trends aerosol composition.pdf"
+  ]
+}

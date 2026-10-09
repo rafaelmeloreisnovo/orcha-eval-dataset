@@ -1,0 +1,95 @@
+{
+  "doi": "10.5281/zenodo.20405010",
+  "titles": [
+    {
+      "english_title": "Game space in the formation of cognitive and communicative competence of foreign students"
+    },
+    {
+      "ukranian_title": "Ігровий простір у формуванні когнітивно-комунікативної компетентності іноземних студентів"
+    }
+  ],
+  "publication_date": "2026-05-26",
+  "languages": [
+    {
+      "first_language": "English"
+    },
+    {
+      "second_language": "Ukranian"
+    }
+  ],
+  "abstracts": [
+    {
+      "english_abstract": "The article theoretically substantiates and practically illustrates the effectiveness of using modified game-based learning methods as an efficient meansof forming foreign language communicative competence in international students."
+    },
+    {
+      "ukranian_abstract": "У статті теоретично обґрунтовано та практично проілюстровано ефективність використання модифікованих ігрових методів навчання як дієвого засобу формування іншомовної комунікативної компетентності студентів-іноземців."
+    }
+  ],
+  "authors_in_english": [
+    {
+      "name": "Sokolova Halyna",
+      "affiliation": [
+        {
+          "name": "Beketov’s Kharkiv National University of Municipal Economy",
+          "ror": "05ws31q32"
+        }
+      ],
+      "orcid": "0000-0002-7260-0975"
+    },
+    {
+      "name": "Lysenko Iryna",
+      "affiliation": [
+        {
+          "name": "Beketov’s Kharkiv National University of Municipal Economy",
+          "ror": "05ws31q32"
+        }
+      ],
+      "orcid": "0000-0002-7306-8626"
+    },
+    {
+      "name": "Valchenko Inna",
+      "affiliation": [
+        {
+          "name": "Beketov’s Kharkiv National University of Municipal Economy",
+          "ror": "05ws31q32"
+        }
+      ],
+      "orcid": "0000-0003-2080-7760"
+    }
+  ],
+  "authors_in_ukranian": [
+    {
+      "name": "Соколова Галина Павлівна",
+      "affiliation": [
+        {
+          "name": "Харківський національний університет міського господарства імені О. М. Бекетова",
+          "ror": "05ws31q32"
+        }
+      ],
+      "orcid": "0000-0002-7260-0975"
+    },
+    {
+      "name": "Лисенко Ірина Олександрівна",
+      "affiliation": [
+        {
+          "name": "Харківський національний університет міського господарства імені О. М. Бекетова",
+          "ror": "05ws31q32"
+        }
+      ],
+      "orcid": "0000-0002-7306-8626"
+    },
+    {
+      "name": "Вальченко Інна Вікторівна",
+      "affiliation": [
+        {
+          "name": "Харківський національний університет міського господарства імені О. М. Бекетова",
+          "ror": "05ws31q32"
+        }
+      ],
+      "orcid": "0000-0003-2080-7760"
+    }
+  ],
+  "file_paths": [
+    "files/Articles/ART_100008__sokolova_lysenko_stattya.pdf"
+  ]
+}

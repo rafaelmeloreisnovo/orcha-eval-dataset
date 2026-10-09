@@ -1,0 +1,22 @@
+{
+  "doi": null,
+  "title": "Anomaly Detection in the CMS L1 Trigger",
+  "publication_date": "2024-10-24",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Melissa Quinnan",
+      "affiliation": [
+        {
+          "name": "University of California San Diego",
+          "ror": "0168r3w48"
+        }
+      ],
+      "orcid": "0000-0003-2902-5597"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100027__chep_axol1tl_quinnan.pdf"
+  ]
+}

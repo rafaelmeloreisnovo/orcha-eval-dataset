@@ -1,0 +1,52 @@
+{
+  "doi": null,
+  "title": "Enhancing the L0 Muon Trigger: project goals and needs",
+  "publication_date": "2024",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Oliver Kortner",
+      "affiliation": [
+        {
+          "name": "Max Planck Institute for Physics",
+          "ror": "0079jjr10"
+        }
+      ],
+      "orcid": "0000-0003-0352-3096"
+    },
+    {
+      "name": "Verena Martinez Outschoorn",
+      "affiliation": [
+        {
+          "name": "University of Massachusetts Amherst",
+          "ror": "0072zz521"
+        }
+      ],
+      "orcid": "0000-0001-7102-6388"
+    },
+    {
+      "name": "Maria Carnesale",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-3570-7332"
+    },
+    {
+      "name": "Rimsky Rojas",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-6888-9462"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100016__SMARTHEP_talk.pdf"
+  ]
+}

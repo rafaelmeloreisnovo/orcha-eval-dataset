@@ -1,0 +1,22 @@
+{
+  "doi": null,
+  "title": "Simulation truth for optimal CMS pixel tracking",
+  "publication_date": "2025-11",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Jan Gerrit Schulz",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0008-1373-3197"
+    }
+  ],
+  "file_paths": [
+    "files/Poster/PST_100014__CTD Poster-SimPixelTracks.pdf"
+  ]
+}

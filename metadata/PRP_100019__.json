@@ -1,0 +1,132 @@
+{
+  "doi": null,
+  "title": "Real-Time Dynamics in a (2+1)-D Gauge Theory: The Stringy Nature on a Superconducting Quantum Simulator",
+  "publication_date": "2025-07-14",
+  "language": "English",
+  "abstract": "Understanding the confinement mechanism in gauge theories and the universality of effective string-like descriptions of gauge flux tubes remains a fundamental challenge in modern physics. We probe string modes of motion with dynamical matter in a digital quantum simulation of a (2+1) dimensional gauge theory using a superconducting quantum processor with up to 144 qubits, stretching the hardware capabilities with quantum-circuit depths comprising up to 192 two-qubit layers. We realize the Z2-Higgs model (Z2HM) through an optimized embedding into a heavy-hex superconducting qubit architecture, directly mapping matter and gauge fields to vertex and link superconducting qubits, respectively. Using the structure of local gauge symmetries, we implement a comprehensive suite of error suppression, mitigation, and correction strategies to enable real-time observation and manipulation of electric strings connecting dynamical charges. Our results resolve a dynamical hierarchy of longitudinal oscillations and transverse bending at the end points of the string, which are precursors to hadronization and rotational spectra of mesons. We further explore multi-string processes, observing the fragmentation and recombination of strings. The experimental design supports 300,000 measurement shots per circuit, totaling 600,000 shots per time step, enabling high-fidelity statistics. We employ extensive tensor network simulations using the basis update and Galerkin method to predict large-scale real-time dynamics and validate our error-aware protocols. This work establishes a milestone for probing non-perturbative gauge dynamics via superconducting quantum simulation and elucidates the real-time behavior of confining strings.",
+  "authors": [
+    {
+      "name": "Jesús Cobos Jiménez",
+      "affiliation": [
+        {
+          "name": "EHU Quantum Center and Department of Physical Chemistry, University of the Basque Country",
+          "ror": "000xsnr85"
+        }
+      ],
+      "orcid": "0009-0008-3031-5667"
+    },
+    {
+      "name": "Joana Fraxanet",
+      "affiliation": [
+        {
+          "name": "IBM Quantum, IBM Thomas J Watson Research Center",
+          "ror": "0265w5591"
+        }
+      ],
+      "orcid": "0000-0003-3871-0510"
+    },
+    {
+      "name": "César Benito",
+      "affiliation": [
+        {
+          "name": "Instituto de Fısica Teorica, UAM-CSIC, Universidad Autonoma de Madrid",
+          "ror": "02p0gd045"
+        }
+      ],
+      "orcid": "0009-0003-3953-7817"
+    },
+    {
+      "name": "Francesco di Marcantonio",
+      "affiliation": [
+        {
+          "name": "EHU Quantum Center and Department of Physical Chemistry, University of the Basque Country",
+          "ror": "000xsnr85"
+        }
+      ],
+      "orcid": "0000-0003-0634-4659"
+    },
+    {
+      "name": "Pedro Rivero",
+      "affiliation": [
+        {
+          "name": "IBM Quantum, IBM Thomas J Watson Research Center",
+          "ror": "0265w5591"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Kornél Kapás",
+      "affiliation": [
+        {
+          "name": "Strongly Correlated Systems Lendulet Research Group, Wigner Research Centre for Physics",
+          "ror": "035dsb084"
+        }
+      ],
+      "orcid": "0000-0002-5906-7942"
+    },
+    {
+      "name": "Miklós Antal Werner",
+      "affiliation": [
+        {
+          "name": "Strongly Correlated Systems Lendulet Research Group, Wigner Research Centre for Physics",
+          "ror": "035dsb084"
+        }
+      ],
+      "orcid": "0000-0001-5491-4033"
+    },
+    {
+      "name": "Ors Legeza",
+      "affiliation": [
+        {
+          "name": "Strongly Correlated Systems Lendulet Research Group, Wigner Research Centre for Physics",
+          "ror": "035dsb084"
+        },
+        {
+          "name": "Institute for Advanced Study, Technical University of Munich",
+          "ror": "02kkvpp62"
+        },
+        {
+          "name": "Parmenides Stiftung",
+          "ror": "01crqqh49"
+        }
+      ],
+      "orcid": "0000-0002-9746-5802"
+    },
+    {
+      "name": "Alejandro Bermudez",
+      "affiliation": [
+        {
+          "name": "Instituto de Fısica Teorica, UAM-CSIC, Universidad Autonoma de Madrid",
+          "ror": "02p0gd045"
+        }
+      ],
+      "orcid": "0000-0002-7331-1139"
+    },
+    {
+      "name": "Enrique Rico Ortega",
+      "affiliation": [
+        {
+          "name": "EHU Quantum Center and Department of Physical Chemistry, University of the Basque Country",
+          "ror": "000xsnr85"
+        },
+        {
+          "name": "DIPC - Donostia International Physics Center",
+          "ror": "02e24yw40"
+        },
+        {
+          "name": "IKERBASQUE, Basque Foundation for Science",
+          "ror": "01cc3fy72"
+        },
+        {
+          "name": "European Organization for Nuclear Research (CERN), Theoretical Physics Department",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-4414-6821"
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100019__2507.08088v1.pdf"
+  ]
+}

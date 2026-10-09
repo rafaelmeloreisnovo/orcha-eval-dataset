@@ -1,0 +1,92 @@
+{
+  "doi": null,
+  "title": "Exploring the Phase Diagram of the quantum one-dimensional ANNNI model",
+  "publication_date": "2024-02-20",
+  "language": "English",
+  "abstract": "In this manuscript, we explore the intersection of Quantum Machine Learning (QML) and Tensor Networks (TNs) in the context of the one-dimensional Axial Next-Nearest-Neighbour Ising (ANNNI) model with a transverse field. The study aims to concretely connect QML and TN by combining them in various stages of algorithm construction, focusing on phase diagram reconstruction for the ANNNI model, with supervised and unsupervised techniques. The model’s significance lies in its representation of quantum fluctuations and frustrated exchange interactions, making it a paradigm for studying magnetic ordering, frustration, and the presence of a floating phase. It concludes with discussions of the results, including insights from increased system sizes and considerations for future work, such as addressing limitations in Quantum Convolutional Neural Networks (QCNNs) and exploring more realistic implementations of Quantum Circuits (QCs).",
+  "authors": [
+    {
+      "name": "María Cea Fernández",
+      "affiliation": [
+        {
+          "name": "Max-Planck-Institut für Quantenoptik",
+          "ror": "01vekys64"
+        },
+        {
+          "name": "Munich Center for Quantum Science and Technology (MCQST)",
+          "ror": "04xrcta15"
+        }
+      ],
+      "orcid": "0009-0005-1946-0589"
+    },
+    {
+      "name": "Michele Grossi",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-1718-1314"
+    },
+    {
+      "name": "Saverio Monaco",
+      "affiliation": [
+        {
+          "name": "RWTH Aachen University",
+          "ror": "04xfq0f34"
+        },
+        {
+          "name": "Deutsches Elektronen-Synchrotron (DESY)",
+          "ror": "01js2sh04"
+        }
+      ],
+      "orcid": "0000-0001-8784-5011"
+    },
+    {
+      "name": "Enrique Rico Ortega",
+      "affiliation": [
+        {
+          "name": "Department of Physical Chemistry, University of the Basque Country",
+          "ror": "000xsnr85"
+        },
+        {
+          "name": "Donostia International Physics Center",
+          "ror": "02e24yw40"
+        },
+        {
+          "name": "EHU Quantum Center, University of the Basque Country",
+          "ror": "000xsnr85"
+        },
+        {
+          "name": "IKERBASQUE, Basque Foundation for Science",
+          "ror": "01cc3fy72"
+        }
+      ],
+      "orcid": "0000-0003-4414-6821"
+    },
+    {
+      "name": "Luca Tagliacozzo",
+      "affiliation": [
+        {
+          "name": "Institute of Fundamental Physics IFF-CSIC",
+          "ror": "009wseg80"
+        }
+      ],
+      "orcid": "0000-0002-5858-1587"
+    },
+    {
+      "name": "Sofia Vallecorsa",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-7003-5765"
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100009__2402.11022v1.pdf"
+  ]
+}

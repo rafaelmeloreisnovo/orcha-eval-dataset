@@ -1,0 +1,112 @@
+{
+  "doi": "10.5281/zenodo.20056118",
+  "title": "An Updated CSR Intermediate Mean Gravity Field Model: GIF63",
+  "publication_date": "2025-10-07",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Chaoyang Zhang",
+      "affiliation": [
+        {
+          "name": "Center for Space Research, University of Texas at Austin",
+          "ror": "00hj54h04"
+        }
+      ],
+      "orcid": "0009-0008-5997-4893"
+    },
+    {
+      "name": "Byron Tapley",
+      "affiliation": [
+        {
+          "name": "Center for Space Research, University of Texas at Austin",
+          "ror": "00hj54h04"
+        }
+      ],
+      "orcid": "0000-0003-3689-5750"
+    },
+    {
+      "name": "John Ries",
+      "affiliation": [
+        {
+          "name": "Center for Space Research, University of Texas at Austin",
+          "ror": "00hj54h04"
+        }
+      ],
+      "orcid": "0000-0002-4136-4682"
+    },
+    {
+      "name": "Srinivas Bettadpur",
+      "affiliation": [
+        {
+          "name": "Center for Space Research, University of Texas at Austin",
+          "ror": "00hj54h04"
+        }
+      ],
+      "orcid": "0000-0003-3885-2228"
+    },
+    {
+      "name": "Himanshu Save",
+      "affiliation": [
+        {
+          "name": "Center for Space Research, University of Texas at Austin",
+          "ror": "00hj54h04"
+        }
+      ],
+      "orcid": "0000-0003-4565-9354"
+    },
+    {
+      "name": "Joao Teixeira da Encarnacao",
+      "affiliation": [
+        {
+          "name": "Center for Space Research, University of Texas at Austin",
+          "ror": "00hj54h04"
+        }
+      ],
+      "orcid": "0000-0001-6824-2733"
+    },
+    {
+      "name": "Steven Poole",
+      "affiliation": [
+        {
+          "name": "Center for Space Research, University of Texas at Austin",
+          "ror": "00hj54h04"
+        }
+      ],
+      "orcid": "0000-0002-8047-2651"
+    },
+    {
+      "name": "Peter Nagel",
+      "affiliation": [
+        {
+          "name": "Center for Space Research, University of Texas at Austin",
+          "ror": "00hj54h04"
+        }
+      ],
+      "orcid": "0000-0002-1398-2985"
+    },
+    {
+      "name": "Zhigui Kang",
+      "affiliation": [
+        {
+          "name": "Center for Space Research, University of Texas at Austin",
+          "ror": "00hj54h04"
+        }
+      ],
+      "orcid": "0000-0003-4714-563X"
+    },
+    {
+      "name": "Nadege Pie",
+      "affiliation": [
+        {
+          "name": "Center for Space Research, University of Texas at Austin",
+          "ror": "00hj54h04"
+        }
+      ],
+      "orcid": "0000-0001-9163-7856"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100001__Zhang et al GIF63 GSTM25.pdf"
+  ]
+}

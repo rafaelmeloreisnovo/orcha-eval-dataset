@@ -1,0 +1,22 @@
+{
+  "doi": null,
+  "title": "ATLAS Computing Acknowledgements",
+  "publication_date": "2021-07-23",
+  "language": "English",
+  "abstract": "Document listing the centres providing major contributions to ATLAS computing in terms of CPU resources in 2020 and 2021. To be referenced in the acknowledgement section of ATLAS papers.",
+  "authors": [
+    {
+      "name": "The ATLAS Collaboration",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Experiment_note/EXN_100002__ATL-SOFT-PUB-2021-003.pdf"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "doi": null,
+  "title": "Porting CMS Pixel Track Reconstruction to Julia: Final Results",
+  "publication_date": "2025-07-29",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Mohamad Khaled Charaf",
+      "affiliation": [
+        {
+          "name": "American University of Beirut",
+          "ror": "04pznsd21"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Mohamad Ayman Charaf",
+      "affiliation": [
+        {
+          "name": "American University of Beirut",
+          "ror": "04pznsd21"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Maya Ali",
+      "affiliation": [
+        {
+          "name": "American University of Beirut",
+          "ror": "04pznsd21"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Andrea Bocci",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-6515-5666"
+    },
+    {
+      "name": "Phillipe Gras",
+      "affiliation": [
+        {
+          "name": "Université Paris-Saclay",
+          "ror": "03xjwb503"
+        }
+      ],
+      "orcid": "0000-0002-3932-5967"
+    },
+    {
+      "name": "Mateusz Jakub Fila",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-3917-2371"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100024__juliahep presentation.pdf"
+  ]
+}

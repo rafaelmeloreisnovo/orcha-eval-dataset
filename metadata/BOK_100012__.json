@@ -1,0 +1,52 @@
+{
+  "doi": null,
+  "title": "TALKS PRESENTED AT THE SYMPOSIUM ON HIGH ENERGY INTERACTIONS AND MULTIPARTICLE PRODUCTION",
+  "publication_date": "1970-11-19",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Donald E. Lyon, Jr.",
+      "affiliation": [
+        {
+          "name": "University of Michigan",
+          "ror": "00jmfr291"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Alberto Pignotti",
+      "affiliation": [
+        {
+          "name": "University of Washington",
+          "ror": "00cvxb145"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Gerald A. Smith",
+      "affiliation": [
+        {
+          "name": "Michigan State University",
+          "ror": "05hs6h993"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Marc Ross",
+      "affiliation": [
+        {
+          "name": "University of Michigan",
+          "ror": "00jmfr291"
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Book/BOK_100012__ANL_HEP-7107.pdf"
+  ]
+}

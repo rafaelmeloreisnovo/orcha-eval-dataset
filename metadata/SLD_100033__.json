@@ -1,0 +1,53 @@
+{
+  "doi": "10.5281/zenodo.20174887",
+  "title": "RETHINKING THE ADVANCEMENT OF HUMANITIES KNOWLEDGE",
+  "subtitle": "INNOVATION AND CHANGE IN THE HUMANITIES DATA ECOSYSTEM",
+  "publication_date": "2025-05-31",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Nathan D. Woods",
+      "affiliation": [
+        {
+          "name": "University of Lethbridge Humanities Innovation Lab",
+          "ror": "044j76961"
+        }
+      ],
+      "orcid": "0000-0002-1082-2396"
+    },
+    {
+      "name": "Davide Pafumi",
+      "affiliation": [
+        {
+          "name": "University of Lethbridge Humanities Innovation Lab",
+          "ror": "044j76961"
+        }
+      ],
+      "orcid": "0000-0002-1113-187X"
+    },
+    {
+      "name": "Barbara Bordalejo",
+      "affiliation": [
+        {
+          "name": "University of Lethbridge Humanities Innovation Lab",
+          "ror": "044j76961"
+        }
+      ],
+      "orcid": "0000-0001-8255-0265"
+    },
+    {
+      "name": "Daniel Paul O’Donnell",
+      "affiliation": [
+        {
+          "name": "University of Lethbridge Humanities Innovation Lab",
+          "ror": "044j76961"
+        }
+      ],
+      "orcid": "0000-0002-0127-4893"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100033__HDI.HumanitiesInnovation.20250531.v2.pdf"
+  ]
+}

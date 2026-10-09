@@ -1,0 +1,22 @@
+{
+  "doi": null,
+  "title": "Mars Orbit Anomaly of Interstellar Object 3I/ATLAS between 9 October and 25 November 2025",
+  "publication_date": "2025-12-19",
+  "language": "English",
+  "abstract": "Interstellar cometary object 3I/ATLAS moved into the inner solar system where, after a planetary passage near Mars at a distance of 0.193 AU, it had two distinct approaches to the Martian osculating orbit on 9 October 2025 and 25 November 2025, with distances of 0.129 AU and 0.018 AU, respectively. Here, by analyzing JPL/Horizons astrometric data, it is shown that between these two dates 3I/ATLAS was on an anomalous trajectory with exceptional proximity, radial speed, and alignment to the planetary orbit of Mars. Conditional on the 9 October passage, these data consistently result in a probability of less than 2 in a million that 3I/ATLAS was on a random course from an isotropic distribution before the tight orbital approach at 0.018 AU. This estimate suggests a recurrence time of interstellar objects with a comparable Mars orbit anomaly of the order of 100 million years, and that the timing of 3I/ATLAS discovery might not have been accidental.",
+  "authors": [
+    {
+      "name": "Andreas Martin Lisewski",
+      "affiliation": [
+        {
+          "name": "School of Science, Constructor University",
+          "ror": "02yrs2n53"
+        }
+      ],
+      "orcid": "0000-0003-3403-6880"
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100000__AAS_Lisewski_2025_3I_MARS_20251219.pdf"
+  ]
+}

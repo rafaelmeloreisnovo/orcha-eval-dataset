@@ -1,0 +1,67 @@
+{
+  "doi": null,
+  "title": "NPTFit: A Code Package for Non-Poissonian Template Fitting",
+  "publication_date": "2017-06-06",
+  "language": "English",
+  "abstract": "We present NPTFit, an open-source code package, written in Python and Cython, for performing non-Poissonian template fits (NPTFs). The NPTF is a recently developed statistical procedure for characterizing the contribution of unresolved point sources (PSs) to astrophysical data sets. The NPTF was first applied to Fermi gamma-ray data to provide evidence that the excess of ∼GeV gamma-rays observed in the inner regions of the Milky Way likely arises from a population of sub-threshold point sources, and the NPTF has since found additional applications studying sub-threshold extragalactic sources at high Galactic latitudes. The NPTF generalizes traditional astrophysical template fits to allow for the ability to search for populations of unresolved PSs that may follow a given spatial distribution. NPTFit builds upon the framework of the fluctuation analyses developed in X-ray astronomy, thus it likely has applications beyond those demonstrated with gamma-ray data. The NPTFit package utilizes novel computational methods to perform the NPTF efficiently. The code is available at https://github.com/bsafdi/NPTFit and up-to-date and extensive documentation may be found at http://nptfit.readthedocs.io.",
+  "keywords": null,
+  "license": null,
+  "copyright": null,
+  "funding": [
+  {
+    "funder_name": "American Australian Association's ConocoPhillips Fellowship",
+    "grant_number": null
+  },
+  {
+    "funder_name": "Pappalardo Fellowship in Physics at MIT",
+    "grant_number": null
+  },
+  {
+    "funder_name": "National Science Foundation",
+    "grant_number": "PHY-1066293"
+  },
+  {
+    "funder_name": "U.S. Department of Energy (DOE)",
+    "grant_number": "DE-SC0012567"
+  },
+  {
+    "funder_name": "U.S. Department of Energy (DOE)",
+    "grant_number": "DE-SC-0013999"
+  }
+],
+  "authors": [
+    {
+      "name": "Siddharth Mishra-Sharma",
+      "affiliation": [
+        {
+          "name": "Department of Physics, Princeton University",
+          "ror": "00hx57361"
+        }
+      ],
+      "orcid": "0000-0001-9088-7845"
+    },
+    {
+      "name": "Nicholas L. Rodd",
+      "affiliation": [
+        {
+          "name": "Center for Theoretical Physics, Massachusetts Institute of Technology",
+          "ror": "042nb2s44"
+        }
+      ],
+      "orcid": "0000-0003-3472-7606"
+    },
+    {
+      "name": "Benjamin R. Safdi",
+      "affiliation": [
+        {
+          "name": "Center for Theoretical Physics, Massachusetts Institute of Technology",
+          "ror": "042nb2s44"
+        }
+      ],
+      "orcid": "0000-0001-9531-1319"
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100027__1612.03173v2.pdf"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "doi": "10.5281/zenodo.15102693",
+  "title": "¿Una joya marina con acceso limitado?: elementos para el manejo en Arrecife Alacranes",
+  "publication_date": null,
+  "language": "Spanish",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Armando Carmona-Escalante",
+      "affiliation": [
+        {
+          "name": "Posgrado en Medio Ambiente y Desarrollo, Universidad Autonoma de Baja California",
+          "ror": "05xwcq167"
+        },
+        {
+          "name": "Unidad Multidisciplinaria de Docencia e Investigacion, Facultad de Ciencias, UNAM",
+          "ror": "01tmp8f25"
+        }
+      ],
+      "orcid": "0000-0001-8226-2597"
+    },
+    {
+      "name": " Laura Elena Vidal-Hernandez",
+      "affiliation": [
+        {
+          "name": "Unidad Multidisciplinaria de Docencia e Investigacion, Facultad de Ciencias, UNAM",
+          "ror": "01tmp8f25"
+        }
+      ],
+      "orcid": "0000-0002-1350-2443"
+    },
+    {
+      "name": "Nuno Simoes",
+      "affiliation": [
+        {
+          "name": "Unidad Multidisciplinaria de Docencia e Investigacion, Facultad de Ciencias, UNAM",
+          "ror": "01tmp8f25"
+        },
+        {
+          "name": "International Chair for Coastal and Marine Studies, Harte Research Institute for Gulf of Mexico Studies, Texas A&M University–Corpus Christi",
+          "ror": "04rpe5h19"
+        },
+        {
+          "name": "Laboratorio Nacional de Resiliencia Costera, Laboratorios Nacionales, CONACYT, Mexico",
+          "ror": "059ex5q34"
+        }
+      ],
+      "orcid": "0000-0001-7490-3147"
+    },
+    {
+      "name": "Maria Concepcion Arredondo Garcia",
+      "affiliation": [
+        {
+          "name": "Facultad de Ciencias Marinas, Universidad Autonoma de Baja California",
+          "ror": "05xwcq167"
+        }
+      ],
+      "orcid": "0000-0003-0021-3674"
+    },
+    {
+      "name": "Cristobal Caceres G. Canton",
+      "affiliation": [
+        {
+          "name": "Comision Nacional de Areas Naturales Protegidas, unidad Merida",
+          "ror": null
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Poster/PST_100009__2019_AlacranesUnaJoyaMarina.pdf"
+  ]
+}

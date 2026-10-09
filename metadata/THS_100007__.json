@@ -1,0 +1,43 @@
+{
+  "doi": null,
+  "titles": [
+    {
+      "serbian_title": "МЕТОД МЕРЕЊА ОДНОСА ГРАНАЊА ХИГСОВОГ БОЗОНА BR(H→γγ) НА 3 ТЕV CLIC"
+    },
+    {
+      "english_title": "MEASUREMENT OF THE HIGGS BOSON BRACHING RATIO BR(H→γγ) AT 3 TeV CLIC"
+    }
+  ],
+  "publication_date": "2024-02-08",
+  "languages": [
+    {
+      "first_language": "Serbian"
+    },
+    {
+      "second_language": "English"
+    }
+  ],
+  "abstracts": [
+    {
+      "serbian_abstract": "Ова теза адресира питање тачности индивидуалног мерења односа гранања Хигсовог бозона на пар фотона BR(H→γγ), на енергији 3 TeV у систему центра масе, са 5ab-1 псеудоподатака. Како је фотон безмасена честица, услед одржања, на нивоу вакуума, локалне симетрије Лагранжијана СМ чији је генератор наелектрисање, спрезање Хигсовог бозона са фотонима дешава се на нивоу петље у којој могу бити размењене постојеће или неоткривене тешке честице. У том смислу, одступање мерене вредности односа гранања BR(H→γγ), односно фактора спрезања Хигсовог бозона gHγγ, од вредности које су предвиђене Стандардним моделом представљало би индикацију нове физике. Извршена је пуна симулација физичких процеса и одговора детектора, узимајући у обзир релевантне физичке и машинске шумове, као и реалистични спектар луминозности на CLIC. Сигнал је сепарисан од шума применом машинског учења - мултиваријантне анализе 12 осетљивих опсервабли. Математичко моделирање сигнала и шума извршено је одговарајућим функцијама густине вероватноће. Извршено је пребројавање броја догађаја сигнала у поновљеним псеудо-експериментима. Показано је да статистичка дисипација очекиване вредности мерења износи 5.5% средње вредности мерења, што је уједно и релативна статистичка неодређеност мерења односа гранања BR(H→γγ), са нивоом поверења од 68%, уколико тачно познајемо ефикасни пресек за продукцију Хигсовог бозона у WW-фузији на енергији 3 TeV у систему центра масе."
+    },
+    {
+      "english_abstract": "In this thesis is addressed the potential of the Compact Linear Collider (CLIC) operating at 3 TeV center-of-mass energy to measure branching fraction of Higgs boson decay to two photons BR(H->γγ), with 5 ab-1 of integrated luminosity. Since photons are massless, Higgs boson coupling to photons is realized through higher order processes involving the heavy particles either from the Standard Model or beyond. Any deviation of the measured BR(H->γγ) and consequently of the Higgs coupling gHγγ from the predictions of the Standard Model, may indicate New Physics. The Higgs decay to two photons is thus an interesting probe of the Higgs sector at future Higgs factories. The study is performed using the full simulation of а detector for CLIC and by considering relevant physics and beam-induced processes in a full reconstruction chain. Multivariate analysis is employed to separate signal from background, while the shape of the reconstructed di-photon invariant mass distribution is described with the probability density functions (PDFs) for signal and background. Pseudo-data are fitted with PDFs to extract the number of signal events. It is found that, once the Higgs production cross section in WW-fusion is known, BR(H -> γγ) can be measured with a relative statistical uncertainty of 5.5% at the confidence level of 68%."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Goran Kačarević",
+      "affiliation": [
+        {
+          "name": "UNIVERSITY OF KRAGUJEVAC",
+          "ror": "04f7vj627"
+        }
+      ],
+      "orcid": "0000-0003-0072-2022"
+    }
+  ],
+  "file_paths": [
+    "files/Thesis/THS_100007__CERN-THESIS-2023-343.pdf"
+  ]
+}

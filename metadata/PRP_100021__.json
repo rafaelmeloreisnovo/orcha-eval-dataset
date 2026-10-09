@@ -1,0 +1,73 @@
+{
+  "doi": null,
+  "title": "Fast Blue Optical Transients Due to Circumstellar Interaction and the Mysterious Supernova SN 2018gep",
+  "publication_date": "2021-04-28",
+  "language": "English",
+  "abstract": "The discovery of SN 2018gep (ZTF 18abukavn) challenged our understanding of the late-phase evolution of massive stars and their supernovae (SNe). The fast rise in luminosity of this SN (spectroscopically classified as a broad-lined Type Ic SN) indicates that the ejecta interacts with a dense circumstellar medium (CSM), while an additional energy source such as 56Ni decay is required to explain the late-time light curve. These features hint at the explosion of a massive star with pre-SN mass loss. In this work, we examine the physical origins of rapidly evolving astrophysical transients like SN 2018gep. We investigate the wave-driven mass-loss mechanism and how it depends on model parameters such as progenitor mass and deposition energy, searching for stellar progenitor models that can reproduce the observational data. A model with an ejecta mass ∼2 Me, explosion energy ∼10^52 erg, a CSM of mass ∼0.3 Me and radius ∼1000 Re, and a 56Ni mass ∼0.3 Me provides a good fit to the bolometric light curve. We also examine how interaction-powered light curves depend more generally on these parameters and how ejecta velocities can help break degeneracies. We find both wave-driven mass loss and mass ejection via pulsational pair instability can plausibly create the dense CSM in SN 2018gep, but we favor the latter possibility.",
+  "keywords": [
+  "Supernovae(1668)",
+  "Supernova dynamics(1664)",
+  "Concept: Radiative transfer",
+  "Concept: Light curves",
+  "Stellar pulsations(1625)"
+],
+  "license": null,
+  "copyright": null,
+  "funding": [
+  {
+    "funder_name": "NASA",
+    "grant_number": "HSTAR-15021.001-A"
+  },
+  {
+    "funder_name": "NASA",
+    "grant_number": "80NSSC18K1017"
+  },
+  {
+    "funder_name": "World Premier International Research Center Initiative (WPI Initiative), MEXT, Japan",
+    "grant_number": null
+  },
+  {
+    "funder_name": "JSPS KAKENHI",
+    "grant_number": "JP17K05382"
+  },
+  {
+    "funder_name": "JSPS KAKENHI",
+    "grant_number": "JP20K04024"
+  }
+],
+  "authors": [
+    {
+      "name": "Shing Chi Leung",
+      "affiliation": [
+        {
+          "name": "TAPIR, Walter Burke Institute for Theoretical Physics",
+          "ror": "05dxps055"
+        }
+      ],
+      "orcid": "0000-0002-4972-3803"
+    },
+    {
+      "name": "Jim Fuller",
+      "affiliation": [
+        {
+          "name": "TAPIR, Walter Burke Institute for Theoretical Physics",
+          "ror": "05dxps055"
+        }
+      ],
+      "orcid": "0000-0002-4544-0750"
+    },
+    {
+      "name": "Ken'ichi Nomoto",
+      "affiliation": [
+        {
+          "name": "Kavli Institute for the Physics and Mathematics of the Universe (WPI), The University of Tokyo Institutes for Advanced Study, The University of Tokyo",
+          "ror": "02chw6z69"
+        }
+      ],
+      "orcid": "0000-0001-9553-0685"
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100021__2103.06548v3.pdf"
+  ]
+}

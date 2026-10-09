@@ -1,0 +1,88 @@
+{
+  "doi": "10.1088/1742-6596/3206/1/012125",
+  "title": "Towards an open-source framework to perform quantum calibration and characterization",
+  "publication_date": "2026",
+  "language": "English",
+  "abstract": "In this proceedings we present Qibocal, an open-source software package for calibration and characterization of quantum processing units (QPUs) based on the Qibo framework. Qibocal is specifically designed for self-hosted QPUs and provides the groundwork to easily develop, deploy, and distribute characterization and calibration routines for all levels of hardware abstraction. Qibocal is based on a modular, QPU platform-agnostic approach, and it provides a general-purpose toolkit for superconducting qubits with the possibility of extensions to other quantum technologies. After motivating the need for such a module, we explain the program's flow and show examples of actual use for QPU calibration. We also showcase additional features provided by the library, including automatic report generation and live plotting.",
+  "authors": [
+    {
+      "name": "Andrea Pasquale",
+      "affiliation": [
+        {
+          "name": "Quantum Research Center, Technology Innovation Institute",
+          "ror": "001kv2y39"
+        },
+        {
+          "name": "TIF Lab, Dipartimento di Fisica, Universita degli Studi di Milano and INFN Sezione di Milano",
+          "ror": "04w4m6z96"
+        }
+      ],
+      "orcid": "0000-0002-7305-286X"
+    },
+    {
+      "name": "Stavros Efthymiou",
+      "affiliation": [
+        {
+          "name": "Quantum Research Center, Technology Innovation Institute",
+          "ror": "001kv2y39"
+        }
+      ],
+      "orcid": "0000-0001-8746-4665"
+    },
+    {
+      "name": "Sergi Ramos-Calderer",
+      "affiliation": [
+        {
+          "name": "Quantum Research Center, Technology Innovation Institute",
+          "ror": "001kv2y39"
+        },
+        {
+          "name": "Departament de Fısica Quantica i Astrofısica and Institut de Ciencies del Cosmos (ICCUB), Universitat de Barcelona",
+          "ror": "044fgj614"
+        }
+      ],
+      "orcid": "0000-0002-9629-9814"
+    },
+    {
+      "name": "Jadwiga Wilkens",
+      "affiliation": [
+        {
+          "name": "Quantum Research Center, Technology Innovation Institute",
+          "ror": "001kv2y39"
+        }
+      ],
+      "orcid": "0009-0009-0072-9284"
+    },
+    {
+      "name": "Ingo Roth",
+      "affiliation": [
+        {
+          "name": "Quantum Research Center, Technology Innovation Institute",
+          "ror": "001kv2y39"
+        }
+      ],
+      "orcid": "0000-0002-1191-7442"
+    },
+    {
+      "name": "Stefano Carrazza",
+      "affiliation": [
+        {
+          "name": "TIF Lab, Dipartimento di Fisica, Universita degli Studi di Milano and INFN Sezione di Milano",
+          "ror": "04w4m6z96"
+        },
+        {
+          "name": "Quantum Research Center, Technology Innovation Institute",
+          "ror": "001kv2y39"
+        },
+        {
+          "name": "CERN, Theoretical Physics Department",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-0079-6753"
+    }
+  ],
+  "file_paths": [
+    "files/Articles/ART_100004__Pasquale_2026_J._Phys.__Conf._Ser._3206_012125.pdf"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "doi": null,
+  "title": "Realtime Anomaly Detection with the CMS Level-1 Global Trigger Test Crate",
+  "publication_date": "2023-11-07",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Jannicke Pearkes",
+      "affiliation": [
+        {
+          "name": "University of Colorado Boulder",
+          "ror": "02ttsq026"
+        }
+      ],
+      "orcid": "0000-0002-5205-4065"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100031__2023_11_07_axol1tl_ml4jets_jp.pdf"
+  ]
+}

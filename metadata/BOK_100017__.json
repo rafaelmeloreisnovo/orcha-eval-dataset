@@ -1,0 +1,45 @@
+{
+  "doi": "10.5281/zenodo.19220100",
+  "title": "PĘKNIĘCIA SENSU KRYTYCZNA PRACA Z AI W EDUKACJI ARTYSTYCZNEJ",
+  "subtitle": "KRYTYCZNA PRACA Z AI W EDUKACJI ARTYSTYCZNEJ",
+  "publication_date": "2026",
+  "language": "Polish",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Joanna Szczepanik",
+      "affiliation": [
+        {
+          "name": "West Pomeranian University of Technology",
+          "ror": "0596m7f19"
+        },
+        {
+          "name": "Polish Society for Aesthetics",
+          "ror": null
+        }
+      ],
+      "orcid": "0000-0002-6371-4161"
+    },
+    {
+      "name": "Justyna Gorzkowicz",
+      "affiliation": [
+        {
+          "name": "Research Center on the Legacy of Polish Migration",
+          "ror": null
+        },
+        {
+          "name": "Polish Society for Aesthetics",
+          "ror": null
+        },
+        {
+          "name": "Blue Point Art Gallery",
+          "ror": null
+        }
+      ],
+      "orcid": "0000-0003-1139-2137"
+    }
+  ],
+  "file_paths": [
+    "files/Book/BOK_100017__PĘKNIĘCIA SENSU_przeowdnik metodyczno-teoretyczny. PTE.pdf"
+  ]
+}

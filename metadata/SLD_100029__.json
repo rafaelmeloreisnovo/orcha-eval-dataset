@@ -1,0 +1,22 @@
+{
+  "doi": null,
+  "title": "CMS Level-1 Trigger Data Scouting for HL-LHC",
+  "publication_date": "2025-09-08",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Efe Yigitbasi",
+      "affiliation": [
+        {
+          "name": "Rice University",
+          "ror": "008zs3103"
+        }
+      ],
+      "orcid": "0000-0002-9595-2623"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100029__CMS_L1TDSPhase2_ACAT2025_08.09.2025.pdf"
+  ]
+}

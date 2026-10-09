@@ -1,0 +1,36 @@
+{
+  "doi": null,
+  "title": "Performance Comparison of Lossless Compression Algorithms on CMS Data using ROOT TTree and RNTuple",
+  "publication_date": "2025",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Simone Rossi Tisbeni",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "INFN and Università Bologna",
+          "ror": "04j0x0h93"
+        }
+      ],
+      "orcid": "0000-0001-6776-285X"
+    },
+    {
+      "name": "Silvio Donato",
+      "affiliation": [
+        {
+          "name": "INFN and Università Pisa",
+          "ror": "05symbg58"
+        }
+      ],
+      "orcid": "0000-0001-7646-4977"
+    }
+  ],
+  "file_paths": [
+    "files/Poster/PST_100002__acat2025-poster-compression.pdf"
+  ]
+}

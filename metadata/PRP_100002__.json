@@ -1,0 +1,22 @@
+{
+  "doi": null,
+  "title": "Observation of τ lepton pair production in ultraperipheral nucleus-nucleus collisions with the CMS experiment and the first limits on (g − 2)τ at the LHC",
+  "publication_date": "2022-05-13",
+  "language": "English",
+  "abstract": "The first observation of tau lepton pair production in ultraperipheral nucleus-nucleus collisions, a pure quantum electrodynamics (QED) process, is presented. The measurement is based on a data sample collected by the CMS experiment at a per nucleon center-of-mass energy of 5.02 TeV, and corresponding to an integrated luminosity of 404 microbarns-1. The gamma gamma -> tau+ tau- production is observed with a statistical significance of at least five standard deviations for tau+ tau- events with a muon and three charged hadrons in the final state. The cross section is measured in a fiducial phase space region, and is found to be sigma(gamma gamma -> tau+ tau-) = 4.8 +/- 0.6 (stat) +/- 0.5 (syst) microbarns, in agreement with leading-order QED predictions. The measurement, based on a small fraction of the expected integrated luminosity of the LHC nuclear program, establishes the potential for a substantially more precise determination of the anomalous magnetic moment of the tau lepton, which is currently poorly constrained.",
+  "authors": [
+    {
+      "name": "Arash Jofrehei",
+      "affiliation": [
+        {
+          "name": "Physics Institute, University of Zurich",
+          "ror": "02crff812"
+        }
+      ],
+      "orcid": "0000-0002-8992-5426"
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100002__2205.05312v2.pdf"
+  ]
+}

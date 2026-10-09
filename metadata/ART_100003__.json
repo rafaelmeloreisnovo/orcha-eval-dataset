@@ -1,0 +1,914 @@
+{
+  "doi": "10.1140/epjc/s10052-026-15502-9",
+  "title": "Measurement of the cosmic-ray rate over the period 2019–2025 at very high latitude (78.9°N)",
+  "publication_date": "2026-03-20",
+  "language": "English",
+  "abstract": "Since 2019, the Extreme Energy Events (EEE) Project has installed three muon detection stations at the Svalbard Islands (78.9◦N latitude), employing scintillator-based detectors. This initiative represents the first systematic effort to monitor cosmic-muons rates at high geomagnetic latitudes beyond the Arctic Circle, with the objective of improving our understanding of cosmic-ray propagation and modulation in polar regions. The present study analyses temporal variations in the muon detection rates over a six-year period (2019–2025), including the study of periodic modulations and underlying trends in the observed rates.",
+  "authors": [
+    {
+      "name": "Marcello Abbrescia",
+      "affiliation": [
+        {
+          "name": "Dipartimento di Fisica “M. Merlin”, Università e Politecnico di Bari",
+          "ror": "03c44v465"
+        },
+        {
+          "name": "INFN, Sezione di Bari",
+          "ror": "022hq6c49"
+        }
+      ],
+      "orcid": "0000-0001-8727-7544"
+    },
+    {
+      "name": "C. Avanzini",
+      "affiliation": [
+        {
+          "name": "Dipartimento di Fisica “E. Fermi”, Università di Pisa",
+          "ror": "03ad39j10"
+        },
+        {
+          "name": "INFN, Sezione di Pisa",
+          "ror": "05symbg58"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Luca Baldini",
+      "affiliation": [
+        {
+          "name": "Dipartimento di Fisica “E. Fermi”, Università di Pisa",
+          "ror": "03ad39j10"
+        },
+        {
+          "name": "INFN, Sezione di Pisa",
+          "ror": "05symbg58"
+        }
+      ],
+      "orcid": "0000-0002-9785-7726"
+    },
+    {
+      "name": "R. Baldini Ferroli",
+      "affiliation": [
+        {
+          "name": "INFN, Laboratori Nazionali di Frascati",
+          "ror": "049jf1a25"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Giovanni Batignani",
+      "affiliation": [
+        {
+          "name": "Dipartimento di Fisica “E. Fermi”, Università di Pisa",
+          "ror": "03ad39j10"
+        },
+        {
+          "name": "INFN, Sezione di Pisa",
+          "ror": "05symbg58"
+        },
+        {
+          "name": "Museo Storico della Fisica e Centro Studi e Ricerche “E. Fermi”",
+          "ror": "01qb1sw63"
+        }
+      ],
+      "orcid": "0000-0003-3917-3104"
+    },
+    {
+      "name": "Marco Battaglieri",
+      "affiliation": [
+        {
+          "name": "INFN, Sezione di Genova",
+          "ror": "02v89pq06"
+        }
+      ],
+      "orcid": "0000-0001-5002-8771"
+    },
+    {
+      "name": "Edoardo Bossini",
+      "affiliation": [
+        {
+          "name": "INFN, Sezione di Pisa",
+          "ror": "05symbg58"
+        }
+      ],
+      "orcid": "0000-0002-2303-2588"
+    },
+    {
+      "name": "Francesca Carnesecchi",
+      "affiliation": [
+        {
+          "name": "INFN, Laboratori Nazionali di Frascati",
+          "ror": "049jf1a25"
+        },
+        {
+          "name": "Museo Storico della Fisica e Centro Studi e Ricerche “E. Fermi”",
+          "ror": "01qb1sw63"
+        }
+      ],
+      "orcid": "0000-0001-9981-7536"
+    },
+    {
+      "name": "D. Cavazza",
+      "affiliation": [
+        {
+          "name": "INFN Sezione di Bologna",
+          "ror": "04j0x0h93"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Corrado Cicalò",
+      "affiliation": [
+        {
+          "name": "INFN, Sezione di Cagliari",
+          "ror": "03paz5966"
+        }
+      ],
+      "orcid": "0000-0001-5129-1723"
+    },
+    {
+      "name": "Luisa Cifarelli",
+      "affiliation": [
+        {
+          "name": "INFN Sezione di Bologna",
+          "ror": "04j0x0h93"
+        },
+        {
+          "name": "Dipartimento di Fisica e Astronomia “A. Righi”, Università di Bologna",
+          "ror": "01111rn36"
+        },
+        {
+          "name": "Museo Storico della Fisica e Centro Studi e Ricerche “E. Fermi”",
+          "ror": "01qb1sw63"
+        }
+      ],
+      "orcid": "0000-0002-6806-3206"
+    },
+    {
+      "name": "Fabrizio Coccetti",
+      "affiliation": [
+        {
+          "name": "Museo Storico della Fisica e Centro Studi e Ricerche “E. Fermi”",
+          "ror": "01qb1sw63"
+        }
+      ],
+      "orcid": "0000-0001-7041-3394"
+    },
+    {
+      "name": "Eugenio Coccia",
+      "affiliation": [
+        {
+          "name": "Gran Sasso Science Institute",
+          "ror": "043qcb444"
+        }
+      ],
+      "orcid": "0000-0002-6669-5787"
+    },
+    {
+      "name": "Alessandro Corvaglia",
+      "affiliation": [
+        {
+          "name": "INFN Sezione di Lecce",
+          "ror": "00qrf6g60"
+        }
+      ],
+      "orcid": "0000-0002-2386-3592"
+    },
+    {
+      "name": "Annalisa De Caro",
+      "affiliation": [
+        {
+          "name": "Museo Storico della Fisica e Centro Studi e Ricerche “E. Fermi”",
+          "ror": "01qb1sw63"
+        },
+        {
+          "name": "Dipartimento di Fisica “E. R. Caianiello”, Università di Salerno",
+          "ror": "0192m2k53"
+        },
+        {
+          "name": "INFN Gruppo Collegato di Salerno",
+          "ror": "043kfae87"
+        }
+      ],
+      "orcid": "0000-0002-7865-4202"
+    },
+    {
+      "name": "Daniele De Gruttola",
+      "affiliation": [
+        {
+          "name": "Museo Storico della Fisica e Centro Studi e Ricerche “E. Fermi”",
+          "ror": "01qb1sw63"
+        },
+        {
+          "name": "Dipartimento di Fisica “E. R. Caianiello”, Università di Salerno",
+          "ror": "0192m2k53"
+        },
+        {
+          "name": "INFN Gruppo Collegato di Salerno",
+          "ror": "043kfae87"
+        }
+      ],
+      "orcid": "0000-0002-7055-6181"
+    },
+    {
+      "name": "Salvatore De Pasquale",
+      "affiliation": [
+        {
+          "name": "Museo Storico della Fisica e Centro Studi e Ricerche “E. Fermi”",
+          "ror": "01qb1sw63"
+        },
+        {
+          "name": "Dipartimento di Fisica “E. R. Caianiello”, Università di Salerno",
+          "ror": "0192m2k53"
+        },
+        {
+          "name": "INFN Gruppo Collegato di Salerno",
+          "ror": "043kfae87"
+        }
+      ],
+      "orcid": "0000-0001-9236-0748"
+    },
+    {
+      "name": "Lorenzo Galante",
+      "affiliation": [
+        {
+          "name": "Teaching and Language Lab, Politecnico di Torino",
+          "ror": "00bgk9508"
+        }
+      ],
+      "orcid": "0000-0001-7473-3942"
+    },
+    {
+      "name": "Marco Garbini",
+      "affiliation": [
+        {
+          "name": "INFN Sezione di Bologna",
+          "ror": "04j0x0h93"
+        },
+        {
+          "name": "Museo Storico della Fisica e Centro Studi e Ricerche “E. Fermi”",
+          "ror": "01qb1sw63"
+        }
+      ],
+      "orcid": "0000-0002-3016-6373"
+    },
+    {
+      "name": "Luigi Ernesto Ghezzer",
+      "affiliation": [
+        {
+          "name": "Dipartimento di Fisica Università di Trento",
+          "ror": "05trd4x28"
+        }
+      ],
+      "orcid": "0009-0009-3207-6636"
+    },
+    {
+      "name": "Ivan Gnesi",
+      "affiliation": [
+        {
+          "name": "Museo Storico della Fisica e Centro Studi e Ricerche “E. Fermi”",
+          "ror": "01qb1sw63"
+        },
+        {
+          "name": "INFN Gruppo Collegato di Cosenza",
+          "ror": "039epzh36"
+        }
+      ],
+      "orcid": "0000-0002-0772-7312"
+    },
+    {
+      "name": "Fabiana Gramegna",
+      "affiliation": [
+        {
+          "name": "INFN Laboratori Nazionali di Legnaro",
+          "ror": "025e3ct30"
+        }
+      ],
+      "orcid": "0000-0001-6112-0602"
+    },
+    {
+      "name": "Eirik Gramstad",
+      "affiliation": [
+        {
+          "name": "Physics Department, Oslo University",
+          "ror": "01xtthb56"
+        }
+      ],
+      "orcid": "0000-0001-5792-5352"
+    },
+    {
+      "name": "Stefano Grazzi",
+      "affiliation": [
+        {
+          "name": "INFN, Sezione di Genovay",
+          "ror": "02v89pq06"
+        },
+        {
+          "name": "Dipartimento di Scienze Matematiche e Informatiche, Scienze Fisiche e Scienze della Terra, Università di Messina",
+          "ror": "05ctdxz19"
+        }
+      ],
+      "orcid": "0000-0001-5606-4976"
+    },
+    {
+      "name": "E. S. Haland",
+      "affiliation": [
+        {
+          "name": "Physics Department, Oslo University",
+          "ror": "01xtthb56"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Despina Hatzifotiadou",
+      "affiliation": [
+        {
+          "name": "European Organisation for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "INFN Sezione di Bologna",
+          "ror": "04j0x0h93"
+        }
+      ],
+      "orcid": "0000-0002-7638-2047"
+    },
+    {
+      "name": "Paola La Rocca",
+      "affiliation": [
+        {
+          "name": "Dipartimento di Fisica e Astronomia “E. Majorana”, Università di Catania",
+          "ror": "03a64bh57"
+        },
+        {
+          "name": "INFN Sezione di Catania",
+          "ror": "02pq29p90"
+        },
+        {
+          "name": "Museo Storico della Fisica e Centro Studi e Ricerche “E. Fermi”",
+          "ror": "01qb1sw63"
+        }
+      ],
+      "orcid": "0000-0002-7291-8166"
+    },
+    {
+      "name": "Rocco Liotino",
+      "affiliation": [
+        {
+          "name": "INFN, Sezione di Bari",
+          "ror": "022hq6c49"
+        },
+        {
+          "name": "Museo Storico della Fisica e Centro Studi e Ricerche “E. Fermi”",
+          "ror": "01qb1sw63"
+        }
+      ],
+      "orcid": "0009-0006-1203-1500"
+    },
+    {
+      "name": "Giuseppe Mandaglio",
+      "affiliation": [
+        {
+          "name": "Dipartimento di Scienze Matematiche e Informatiche, Scienze Fisiche e Scienze della Terra, Università di Messina",
+          "ror": "05ctdxz19"
+        },
+        {
+          "name": "INFN Sezione di Catania",
+          "ror": "02pq29p90"
+        }
+      ],
+      "orcid": "0000-0003-4486-4807"
+    },
+    {
+      "name": "Anselmo Margotti",
+      "affiliation": [
+        {
+          "name": "INFN Sezione di Bologna",
+          "ror": "04j0x0h93"
+        }
+      ],
+      "orcid": "0000-0003-2146-0391"
+    },
+    {
+      "name": "Gaetano Maron",
+      "affiliation": [
+        {
+          "name": "INFN Laboratori Nazionali di Legnaro",
+          "ror": "025e3ct30"
+        }
+      ],
+      "orcid": "0000-0003-3970-6986"
+    },
+    {
+      "name": "Mario Nicola Mazziotta",
+      "affiliation": [
+        {
+          "name": "INFN, Sezione di Bari",
+          "ror": "022hq6c49"
+        }
+      ],
+      "orcid": "0000-0001-9325-4672"
+    },
+    {
+      "name": "Alice Mulliri",
+      "affiliation": [
+        {
+          "name": "Dipartimento di Fisica, Università di Cagliari",
+          "ror": "003109y17"
+        },
+        {
+          "name": "INFN, Sezione di Cagliari",
+          "ror": "03paz5966"
+        }
+      ],
+      "orcid": "0000-0002-1074-5116"
+    },
+    {
+      "name": "Rosario Nania",
+      "affiliation": [
+        {
+          "name": "INFN Sezione di Bologna",
+          "ror": "04j0x0h93"
+        },
+        {
+          "name": "Museo Storico della Fisica e Centro Studi e Ricerche “E. Fermi”",
+          "ror": "01qb1sw63"
+        }
+      ],
+      "orcid": "0000-0002-6039-190X"
+    },
+    {
+      "name": "Francesco Noferini",
+      "affiliation": [
+        {
+          "name": "INFN Sezione di Bologna",
+          "ror": "04j0x0h93"
+        },
+        {
+          "name": "Museo Storico della Fisica e Centro Studi e Ricerche “E. Fermi”",
+          "ror": "01qb1sw63"
+        }
+      ],
+      "orcid": "0000-0002-6704-0256"
+    },
+    {
+      "name": "Francesco Nozzoli",
+      "affiliation": [
+        {
+          "name": "INFN Trento Institute for Fundamental Physics and Applications",
+          "ror": "00nhs3j29"
+        },
+        {
+          "name": "Dipartimento di Fisica Università di Trento",
+          "ror": "05trd4x28"
+        }
+      ],
+      "orcid": "0000-0002-4355-7947"
+    },
+    {
+      "name": "Farid Ould-Saada",
+      "affiliation": [
+        {
+          "name": "Physics Department, Oslo University",
+          "ror": "01xtthb56"
+        }
+      ],
+      "orcid": "0000-0002-9404-835X"
+    },
+    {
+      "name": "Federico Palmonari",
+      "affiliation": [
+        {
+          "name": "INFN Sezione di Bologna",
+          "ror": "04j0x0h93"
+        },
+        {
+          "name": "Dipartimento di Fisica e Astronomia “A. Righi”, Università di Bologna",
+          "ror": "01111rn36"
+        }
+      ],
+      "orcid": "0000-0003-3707-0013"
+    },
+    {
+      "name": "Marco Panareo",
+      "affiliation": [
+        {
+          "name": "INFN Sezione di Lecce",
+          "ror": "00qrf6g60"
+        },
+        {
+          "name": "Dipartimento di Matematica e Fisica “E. De Giorgi”, Università del Salento",
+          "ror": "03fc1k060"
+        }
+      ],
+      "orcid": "0000-0002-7757-5553"
+    },
+    {
+      "name": "Maria Paola Panetta",
+      "affiliation": [
+        {
+          "name": "INFN, Sezione di Bari",
+          "ror": "022hq6c49"
+        }
+      ],
+      "orcid": "0000-0001-8792-4027"
+    },
+    {
+      "name": "Riccardo Paoletti",
+      "affiliation": [
+        {
+          "name": "INFN, Sezione di Pisa",
+          "ror": "05symbg58"
+        },
+        {
+          "name": "Dipartimento di Scienze Fisiche, della Terra e dell’Ambiente, Università di Siena",
+          "ror": "01tevnk56"
+        }
+      ],
+      "orcid": "0000-0003-0158-2826"
+    },
+    {
+      "name": "Carmelo Pellegrino",
+      "affiliation": [
+        {
+          "name": "INFN-CNAF",
+          "ror": "001d5wc61"
+        }
+      ],
+      "orcid": "0000-0003-1530-4595"
+    },
+    {
+      "name": "Laura Perasso",
+      "affiliation": [
+        {
+          "name": "INFN, Sezione di Genova",
+          "ror": "02v89pq06"
+        }
+      ],
+      "orcid": "0000-0003-4716-8647"
+    },
+    {
+      "name": "Ombretta Pinazza",
+      "affiliation": [
+        {
+          "name": "INFN Sezione di Bologna",
+          "ror": "04j0x0h93"
+        },
+        {
+          "name": "Museo Storico della Fisica e Centro Studi e Ricerche “E. Fermi”",
+          "ror": "01qb1sw63"
+        },
+        {
+          "name": "European Organisation for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-8923-4003"
+    },
+    {
+      "name": "Chiara Pinto",
+      "affiliation": [
+        {
+          "name": "European Organisation for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-7454-4324"
+    },
+    {
+      "name": "Silvia Pisano",
+      "affiliation": [
+        {
+          "name": "INFN, Laboratori Nazionali di Frascati",
+          "ror": "049jf1a25"
+        },
+        {
+          "name": "Museo Storico della Fisica e Centro Studi e Ricerche “E. Fermi”",
+          "ror": "01qb1sw63"
+        }
+      ],
+      "orcid": "0000-0003-4080-6562"
+    },
+    {
+      "name": "kristian Piscicchia",
+      "affiliation": [
+        {
+          "name": "INFN, Laboratori Nazionali di Frascati",
+          "ror": "049jf1a25"
+        },
+        {
+          "name": "Museo Storico della Fisica e Centro Studi e Ricerche “E. Fermi”",
+          "ror": "01qb1sw63"
+        }
+      ],
+      "orcid": "0000-0001-6879-452X"
+    },
+    {
+      "name": "Luca Quaglia",
+      "affiliation": [
+        {
+          "name": "INFN Sezione di Torino",
+          "ror": "01vj6ck58"
+        }
+      ],
+      "orcid": "0000-0002-0793-8275"
+    },
+    {
+      "name": "Marika Rasà",
+      "affiliation": [
+        {
+          "name": "Museo Storico della Fisica e Centro Studi e Ricerche “E. Fermi”",
+          "ror": "01qb1sw63"
+        },
+        {
+          "name": "Dipartimento di Fisica e Astronomia “E. Majorana”, Università di Catania",
+          "ror": "03a64bh57"
+        },
+        {
+          "name": "INFN Sezione di Catania",
+          "ror": "02pq29p90"
+        }
+      ],
+      "orcid": "0000-0001-9561-2533"
+    },
+    {
+      "name": "Francesco Riggi",
+      "affiliation": [
+        {
+          "name": "Museo Storico della Fisica e Centro Studi e Ricerche “E. Fermi”",
+          "ror": "01qb1sw63"
+        },
+        {
+          "name": "Dipartimento di Fisica e Astronomia “E. Majorana”, Università di Catania",
+          "ror": "03a64bh57"
+        },
+        {
+          "name": "INFN Sezione di Catania",
+          "ror": "02pq29p90"
+        }
+      ],
+      "orcid": "0000-0002-0030-8377"
+    },
+    {
+      "name": "Giancarlo C. Righini",
+      "affiliation": [
+        {
+          "name": "CNR, Istituto di Fisica Applicata “Nello Carrara”",
+          "ror": "00dqega85"
+        }
+      ],
+      "orcid": "0000-0002-6081-6971"
+    },
+    {
+      "name": "Cristina Ripoli",
+      "affiliation": [
+        {
+          "name": "Museo Storico della Fisica e Centro Studi e Ricerche “E. Fermi”",
+          "ror": "01qb1sw63"
+        },
+        {
+          "name": "Dipartimento di Fisica “E. R. Caianiello”, Università di Salerno",
+          "ror": "0192m2k53"
+        },
+        {
+          "name": "INFN Gruppo Collegato di Salerno",
+          "ror": "043kfae87"
+        }
+      ],
+      "orcid": "0000-0002-6309-6199"
+    },
+    {
+      "name": "M. Rizzi",
+      "affiliation": [
+        {
+          "name": "INFN, Sezione di Bari",
+          "ror": "022hq6c49"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Bianca Sabiu",
+      "affiliation": [
+        {
+          "name": "INFN Sezione di Bologna",
+          "ror": "04j0x0h93"
+        },
+        {
+          "name": "Dipartimento di Fisica e Astronomia “A. Righi”, Università di Bologna",
+          "ror": "01111rn36"
+        }
+      ],
+      "orcid": "0009-0009-5581-5745"
+    },
+    {
+      "name": "Gabriella Sartorelli",
+      "affiliation": [
+        {
+          "name": "INFN Sezione di Bologna",
+          "ror": "04j0x0h93"
+        },
+        {
+          "name": "Dipartimento di Fisica e Astronomia “A. Righi”, Università di Bologna",
+          "ror": "01111rn36"
+        }
+      ],
+      "orcid": "0000-0003-1910-5948"
+    },
+    {
+      "name": "Eugenio Scapparone",
+      "affiliation": [
+        {
+          "name": "INFN Sezione di Bologna",
+          "ror": "04j0x0h93"
+        }
+      ],
+      "orcid": "0000-0001-5960-6734"
+    },
+    {
+      "name": "Marco Schioppa",
+      "affiliation": [
+        {
+          "name": "INFN Gruppo Collegato di Cosenza",
+          "ror": "039epzh36"
+        },
+        {
+          "name": "Dipartimento di Fisica, Università della Calabria",
+          "ror": "02rc97e94"
+        }
+      ],
+      "orcid": "0000-0003-0628-0579"
+    },
+    {
+      "name": "Gilda Scioli",
+      "affiliation": [
+        {
+          "name": "INFN Sezione di Bologna",
+          "ror": "04j0x0h93"
+        },
+        {
+          "name": "Dipartimento di Fisica e Astronomia “A. Righi”, Università di Bologna",
+          "ror": "01111rn36"
+        }
+      ],
+      "orcid": "0000-0003-0144-0713"
+    },
+    {
+      "name": "A. Scribano",
+      "affiliation": [
+        {
+          "name": "INFN, Sezione di Pisa",
+          "ror": "05symbg58"
+        },
+        {
+          "name": "Dipartimento di Scienze Fisiche, della Terra e dell’Ambiente, Università di Siena",
+          "ror": "01tevnk56"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Marco Selvi",
+      "affiliation": [
+        {
+          "name": "INFN Sezione di Bologna",
+          "ror": "04j0x0h93"
+        }
+      ],
+      "orcid": "0000-0003-0243-0840"
+    },
+    {
+      "name": "A. Shtimermann",
+      "affiliation": [
+        {
+          "name": "INFN-CNAF",
+          "ror": "001d5wc61"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Mauro Gino Taiuti",
+      "affiliation": [
+        {
+          "name": "INFN, Sezione di Genova",
+          "ror": "02v89pq06"
+        },
+        {
+          "name": "Dipartimento di Fisica, Università di Genova",
+          "ror": "0107c5v14"
+        }
+      ],
+      "orcid": "0000-0001-9795-5169"
+    },
+    {
+      "name": "Antonio Trifirò",
+      "affiliation": [
+        {
+          "name": "Dipartimento di Scienze Matematiche e Informatiche, Scienze Fisiche e Scienze della Terra, Università di Messina",
+          "ror": "05ctdxz19"
+        },
+        {
+          "name": "INFN Sezione di Catania",
+          "ror": "02pq29p90"
+        }
+      ],
+      "orcid": "0000-0003-1078-1157"
+    },
+    {
+      "name": "Marina Trimarchi",
+      "affiliation": [
+        {
+          "name": "Dipartimento di Scienze Matematiche e Informatiche, Scienze Fisiche e Scienze della Terra, Università di Messina",
+          "ror": "05ctdxz19"
+        },
+        {
+          "name": "INFN Sezione di Catania",
+          "ror": "02pq29p90"
+        }
+      ],
+      "orcid": "0000-0001-7429-7036"
+    },
+    {
+      "name": "Maria Cristina Vistoli",
+      "affiliation": [
+        {
+          "name": "INFN-CNAF",
+          "ror": "001d5wc61"
+        }
+      ],
+      "orcid": "0000-0001-8083-7019"
+    },
+    {
+      "name": "Lucia Votano",
+      "affiliation": [
+        {
+          "name": "INFN Laboratori Nazionali del Gran Sasso",
+          "ror": "02s8k0k61"
+        }
+      ],
+      "orcid": "0000-0002-1772-1328"
+    },
+    {
+      "name": "Crispin Williams",
+      "affiliation": [
+        {
+          "name": "European Organisation for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "ICSC World Laboratory",
+          "ror": null
+        }
+      ],
+      "orcid": "0000-0003-3589-0181"
+    },
+    {
+      "name": "Antonino Zichichi",
+      "affiliation": [
+        {
+          "name": "European Organisation for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "INFN Sezione di Bologna",
+          "ror": "04j0x0h93"
+        },
+        {
+          "name": "Dipartimento di Fisica e Astronomia “A. Righi”, Università di Bologna",
+          "ror": "01111rn36"
+        },
+        {
+          "name": "Museo Storico della Fisica e Centro Studi e Ricerche “E. Fermi”",
+          "ror": "01qb1sw63"
+        },
+        {
+          "name": "ICSC World Laboratory",
+          "ror": null
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Raman Zuyeuski",
+      "affiliation": [
+        {
+          "name": "European Organisation for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "ICSC World Laboratory",
+          "ror": null
+        }
+      ],
+      "orcid": "0000-0002-1614-7926"
+    }
+  ],
+  "file_paths": [
+    "files/Articles/ART_100003__s10052-026-15502-9.pdf"
+  ]
+}

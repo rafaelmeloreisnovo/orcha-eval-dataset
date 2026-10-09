@@ -1,0 +1,2560 @@
+{
+  "records": {
+    "ART_100001__": {
+      "category": "Articles",
+      "document": {
+        "path": "files/Articles/ART_100001__SciPostPhysCommRep_15.pdf",
+        "sha256": "1f20c67c5bd3c95e7a3519f8f99d1b64b5cd847262c2c94cb29448fe4919dac9",
+        "size": 271998,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/ART_100001__.json",
+        "sha256": "4f3e7fa453cdb2770e8e7bdff1bf825c36d218a3e8b433acf0dd285c5ef5f2a8",
+        "size": 7347
+      }
+    },
+    "ART_100002__": {
+      "category": "Articles",
+      "document": {
+        "path": "files/Articles/ART_100002__Garcia_2026_ApJ_1002_8.pdf",
+        "sha256": "31c09e2ac04f088182fdda5cf058ec2e0db8e60f8e3aee7d42aba22c01b0ef9c",
+        "size": 4445273,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/ART_100002__.json",
+        "sha256": "43bb372d655baa675c8f08584cae50d2dcc047d7a26bc8aa3e848e2f50eeb3d1",
+        "size": 11738
+      }
+    },
+    "ART_100003__": {
+      "category": "Articles",
+      "document": {
+        "path": "files/Articles/ART_100003__s10052-026-15502-9.pdf",
+        "sha256": "ae458c2c3533b400d29cc6481654ae88982ff920643f99c3294edce2aaf6d39a",
+        "size": 2079075,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/ART_100003__.json",
+        "sha256": "d2453d0c39e6eaff9867374e0f359fafe4805185b80e6f7133a1e6d9447013f8",
+        "size": 23014
+      }
+    },
+    "ART_100004__": {
+      "category": "Articles",
+      "document": {
+        "path": "files/Articles/ART_100004__Pasquale_2026_J._Phys.__Conf._Ser._3206_012125.pdf",
+        "sha256": "0371e0cbb0064f9c47e1295f611db9625ebdbb57fee1586917b2ff2727b9d084",
+        "size": 965350,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/ART_100004__.json",
+        "sha256": "60d29e4f99b9937dc158fc767597dc78d6289f071ee8fcbd6991c2a7b14e1bf7",
+        "size": 3245
+      }
+    },
+    "ART_100008__": {
+      "category": "Articles",
+      "document": {
+        "path": "files/Articles/ART_100008__sokolova_lysenko_stattya.pdf",
+        "sha256": "268e11d9362cfa6eeb077ca90ed0ed69d31316fd18eac9d4ae6d5a5023307146",
+        "size": 380911,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/ART_100008__.json",
+        "sha256": "0ae8572aefc891b508f2cdabe267ccc019c51223dfdfcf6f051fb8994ee4db28",
+        "size": 3279
+      }
+    },
+    "ART_100009__": {
+      "category": "Articles",
+      "document": {
+        "path": "files/Articles/ART_100009__appendix1.pdf",
+        "sha256": "b720a5f8efed7c64a2572d0a44114b753dc4b75f0813cfdaed8585429e129377",
+        "size": 131633,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/ART_100009__.json",
+        "sha256": "f86df00cdf688c9d48464dc34ec10593a0df93505a3ebf8f9320eb5f16917a7f",
+        "size": 795
+      }
+    },
+    "ART_100010__": {
+      "category": "Articles",
+      "document": {
+        "path": "files/Articles/ART_100010__1-s2.0-S0969806X2600294X-main.pdf",
+        "sha256": "ec1bdb355df7069709377c3c427655d494c249502f398365e7b4041f8376f064",
+        "size": 2779911,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/ART_100010__.json",
+        "sha256": "d88e707dec1cdb2005c4ff4abd71fed00caad3b8afeab2afb825714d1800fdba",
+        "size": 18285
+      }
+    },
+    "ART_100012__": {
+      "category": "Articles",
+      "document": {
+        "path": "files/Articles/ART_100012__applsci-14-00387-v2.pdf",
+        "sha256": "2cb624128337b4887800323d0c5bad05c92c503241b060ab4d801ef81d92698b",
+        "size": 19867349,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/ART_100012__.json",
+        "sha256": "77d2aa72cfd6796490d037a71972c77a952b48a73da519ce399746b0dc80f4ff",
+        "size": 14970
+      }
+    },
+    "ART_100013__": {
+      "category": "Articles",
+      "document": {
+        "path": "files/Articles/ART_100013__1jh5-65xh.pdf",
+        "sha256": "24562fc39240f85afa074244c37d9a14a8384939236ca277b9fe6ca9e1a595b3",
+        "size": 6610051,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/ART_100013__.json",
+        "sha256": "e883ffb852373f86c4c1eb2e6aae560ea054e221b31dc6625ff8b6b2628e3a0d",
+        "size": 5743
+      }
+    },
+    "ART_100014__": {
+      "category": "Articles",
+      "document": {
+        "path": "files/Articles/ART_100014__3680256.3722203.pdf",
+        "sha256": "4a7a2653c499fecd2973516fb5707b0d44d349939d5dc4121aac6563e3bdec9a",
+        "size": 1168020,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/ART_100014__.json",
+        "sha256": "3b88e58e87e6908d38bbe70cf74ed99d8c06e84407c2e95dda3a85bc75c2fc9c",
+        "size": 2139
+      }
+    },
+    "ART_100015__": {
+      "category": "Articles",
+      "document": {
+        "path": "files/Articles/ART_100015__Valassi_2026_J._Phys.__Conf._Ser._3206_012130.pdf",
+        "sha256": "d7291e72f34635961b86342cb0c38a8dcbc3e1cf1d65d2993d406793250faa0c",
+        "size": 998955,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/ART_100015__.json",
+        "sha256": "061fc7ea2f5a1c69500f016c1fd4aa6b9b7da4be43b9108c2fbbe183356fc589",
+        "size": 3820
+      }
+    },
+    "ART_100016__": {
+      "category": "Articles",
+      "document": {
+        "path": "files/Articles/ART_100016__Schulte_2026_J._Phys.__Conf._Ser._3206_012065.pdf",
+        "sha256": "acb77473572ac9aac54867dec07437cd7588f32075facb4fc1aae93608dae9ae",
+        "size": 1080788,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/ART_100016__.json",
+        "sha256": "5b9494500d9980e4706803c4863c6ebcd841ec870f6172982dd46e1ad44234d3",
+        "size": 2883
+      }
+    },
+    "ART_100017__": {
+      "category": "Articles",
+      "document": {
+        "path": "files/Articles/ART_100017__Jongen_etal_GRL_2026.pdf",
+        "sha256": "58a4bb8864d137c34707a078602dee1096aeba403fece525d2a2a57454477262",
+        "size": 691228,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/ART_100017__.json",
+        "sha256": "6b32cd776391c4a1ab0d6912cdc8d670a26ffebc1ae4b0a9568629776e84f01e",
+        "size": 5418
+      }
+    },
+    "ART_100018__": {
+      "category": "Articles",
+      "document": {
+        "path": "files/Articles/ART_100018__Luo_2024_J._Inst._19_P05021.pdf",
+        "sha256": "55a5c7e432d6246708e09d231769b7fcc1afd2aadbaa7912efdb3f440f6b4ba0",
+        "size": 4428942,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/ART_100018__.json",
+        "sha256": "eb5e79905a4746e69932b726383cc6bb7ec39b1debc2fe4a3b6a3dc950d04e80",
+        "size": 5686
+      }
+    },
+    "ART_100019__": {
+      "category": "Articles",
+      "document": {
+        "path": "files/Articles/ART_100019__article1921.pdf",
+        "sha256": "a9f01fbffaa3e8a87dff6cbde89666b446e2e1a510ac74d49456445950d60e13",
+        "size": 138266,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/ART_100019__.json",
+        "sha256": "7b9c2da9072ef5eaf57ae3466baa1c9802a81b95466a042f097c76a9bcbb230b",
+        "size": 417
+      }
+    },
+    "ART_100020__": {
+      "category": "Articles",
+      "document": {
+        "path": "files/Articles/ART_100020__Impedance_Characterization_of_a_HL-LHC_Nb3Sn_MQXFS_Model_Magnet_During_Powered_Operation_at_Nominal_Current.pdf",
+        "sha256": "a8495005346e97ec140dd9673c9608a866af406d57e1aee97c41a8e611d4ac6e",
+        "size": 966495,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/ART_100020__.json",
+        "sha256": "63bd9da2bf678240ef3ad4878388130da6ef688525cb654b4e76abf7999cefe6",
+        "size": 5432
+      }
+    },
+    "ART_100023__": {
+      "category": "Articles",
+      "document": {
+        "path": "files/Articles/ART_100023__Støstad_2015_ApJ_808_106.pdf",
+        "sha256": "269cdf0a7a90c7b11448d119ced10e14fab798bb6c90b3471dd164c14144efbf",
+        "size": 1240681,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/ART_100023__.json",
+        "sha256": "5c6b1eebe9fb8d9a4daf14d2cf3518bd7f9351bea50e8287bdb273ea6f7bc296",
+        "size": 3377
+      }
+    },
+    "ART_100025__": {
+      "category": "Articles",
+      "document": {
+        "path": "files/Articles/ART_100025__AC_Loss_Measurement_and_Validation_of_an_HTS_Soldered_Stack_Cable_for_Accelerator_Magnets.pdf",
+        "sha256": "fd9ce750bf0fc056717c46ba56fd8ee1cee8b81795497f611c22f4f573a31bc9",
+        "size": 964001,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/ART_100025__.json",
+        "sha256": "147e8e2f55e58d3dd87158189775fb891ea25b192aa083b62a7381af6c2a89c0",
+        "size": 4268
+      }
+    },
+    "ART_100026__": {
+      "category": "Articles",
+      "document": {
+        "path": "files/Articles/ART_100026__hindi paper Sahitya Samhita.pdf",
+        "sha256": "58ce5c9b43bf4b53aff061170df30d7542a8af6d1ffaab2ddd5490f00134838a",
+        "size": 391362,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/ART_100026__.json",
+        "sha256": "bf7ee58b3659a2ad0ef96f6abb670277fd806c9b88d237631ea8aacee05249ea",
+        "size": 4687
+      }
+    },
+    "ART_100027__": {
+      "category": "Articles",
+      "document": {
+        "path": "files/Articles/ART_100027__Daniel Antonio Muñoz Coello.pdf",
+        "sha256": "7170a232b868b394b41bf314a963140e725b26628a3a75b48451cf14e8df9b0a",
+        "size": 418212,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/ART_100027__.json",
+        "sha256": "62052e82551a1a60b1b5a5f76cafed716a09fb0b5dc810ea6cab3d1ebe6bb46b",
+        "size": 5793
+      }
+    },
+    "ART_100028__": {
+      "category": "Articles",
+      "document": {
+        "path": "files/Articles/ART_100028__s42452-022-05122-9.pdf",
+        "sha256": "4c4634da88cc1e44828d8a78df7b4990c992ad10a0330a9af3d774439b89584c",
+        "size": 1398487,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/ART_100028__.json",
+        "sha256": "c69da56920b1eb0490f6dc0a3f5de778ba745a4b90c10fabbd59993d9ecbfb20",
+        "size": 2106
+      }
+    },
+    "ART_100029__": {
+      "category": "Articles",
+      "document": {
+        "path": "files/Articles/ART_100029__s41467-025-66912-4.pdf",
+        "sha256": "afe3d6ed58a85dd523ceb26fd2ddd2d7474536b66ace800347a718fc45dd7656",
+        "size": 1345890,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/ART_100029__.json",
+        "sha256": "aebea41cdf33ccba6c869a20a873d070cc26f75572b979d4a0391f024d75afff",
+        "size": 8911
+      }
+    },
+    "ART_100030__": {
+      "category": "Articles",
+      "document": {
+        "path": "files/Articles/ART_100030__AnisotropicCrystallization.pdf",
+        "sha256": "f64b54187b3e000ab531d44bf4a75e4b6f2afa79308b8b4c47a4e1fc5e2d3ef2",
+        "size": 11140805,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/ART_100030__.json",
+        "sha256": "8f85ff08cd6639929cda5a66c50acf5253d4ba4feb976f804fe2513e82854c46",
+        "size": 4311
+      }
+    },
+    "ART_100031__": {
+      "category": "Articles",
+      "document": {
+        "path": "files/Articles/ART_100031__MRR20264157.pdf",
+        "sha256": "e3c8b7daf2589ca6364333196f88553efbfa345c09e6b399c9076161743d121b",
+        "size": 776786,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/ART_100031__.json",
+        "sha256": "d783d9654150a0fb637c75e4c445a40d9e34693d5e956ba9bb06a9cd795a37c9",
+        "size": 3062
+      }
+    },
+    "ART_100033__": {
+      "category": "Articles",
+      "document": {
+        "path": "files/Articles/ART_100033__s10052-026-15570-x.pdf",
+        "sha256": "20169074215b07b7b788363f7f557bffefa560b91dfcc3f13979aefa67c413e3",
+        "size": 943987,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/ART_100033__.json",
+        "sha256": "2c6fc841ae0d79c6742730a95d943a0facf40926f170cf03a960aa0540628974",
+        "size": 5249
+      }
+    },
+    "BKC_100000__": {
+      "category": "Book_chapter",
+      "document": {
+        "path": "files/Book_chapter/BKC_100000__b2cd7133544da5cabc5b6e6abd8b49e7.pdf",
+        "sha256": "1696e5ff3b819c2114420b525bbdeacc585058b679a1afea27d76bac1351e462",
+        "size": 1552912,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BKC_100000__.json",
+        "sha256": "44ada52377305ef002d39d6592fa925ce99cad19386d7591f8f31f8de9914e42",
+        "size": 2211
+      }
+    },
+    "BKC_100001__": {
+      "category": "Book_chapter",
+      "document": {
+        "path": "files/Book_chapter/BKC_100001__44a424bfb619b3ad97a229d2621b8e65.pdf",
+        "sha256": "6a9e518dfc63c3bd10302f4e19aa1c18bfe86d0602773858d43d72e727d0b402",
+        "size": 141365,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BKC_100001__.json",
+        "sha256": "8eef4840b3c9ccb641ea95558da23f656dad285afaf0308b763ee9ba8babc7c1",
+        "size": 1682
+      }
+    },
+    "BKC_100002__": {
+      "category": "Book_chapter",
+      "document": {
+        "path": "files/Book_chapter/BKC_100002__p264.pdf",
+        "sha256": "84e7acd335ceb97229715e847292a9595060b1aa867db7d7dccbab89b2dad9be",
+        "size": 4324809,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BKC_100002__.json",
+        "sha256": "b31a5fe193dd5201d51f0fc27e723a1abe676288343f0a23f119bb3637822a4e",
+        "size": 752
+      }
+    },
+    "BKC_100003__": {
+      "category": "Book_chapter",
+      "document": {
+        "path": "files/Book_chapter/BKC_100003__Eraldaketarako baliabideak DOI.pdf",
+        "sha256": "9224e3007d003c71fb09247f5720041223344c2115206ee09964b0adf0bba377",
+        "size": 1820230,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BKC_100003__.json",
+        "sha256": "77b3e23146aebb5a7226078dbd931b30081ee7411989493b23f7ed4e7cb3dec0",
+        "size": 500
+      }
+    },
+    "BKC_100004__": {
+      "category": "Book_chapter",
+      "document": {
+        "path": "files/Book_chapter/BKC_100004__778bc5567558b97f8ad1c311b5064672.pdf",
+        "sha256": "a55f5521ea88fad470e9581cbada6673c575a857aae9d7e414f20279beb5411c",
+        "size": 730768,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BKC_100004__.json",
+        "sha256": "26b122643c112665970254c3b515133173e42453012fed11e127a7d81dafe31f",
+        "size": 2033
+      }
+    },
+    "BKC_100005__": {
+      "category": "Book_chapter",
+      "document": {
+        "path": "files/Book_chapter/BKC_100005__京大人文研 『漢語史の諸問題』　親族名称　Ver.1.pdf",
+        "sha256": "2be407269d9ca1c7a97d2a439d2daf50be9a0c03a523a5f9d9aca91e251c9a32",
+        "size": 7919554,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BKC_100005__.json",
+        "sha256": "f263aa33b66738ee37e22268063d351b20468c7c2a960a41706da6306b0b7287",
+        "size": 833
+      }
+    },
+    "BKC_100006__": {
+      "category": "Book_chapter",
+      "document": {
+        "path": "files/Book_chapter/BKC_100006__Capítulo 12.pdf",
+        "sha256": "8c7b47315478c5dd806c8600cf3724c8000e24b227993b781f492e850b4a4c7e",
+        "size": 4160317,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BKC_100006__.json",
+        "sha256": "edb722f6de05d3509bd575723d6a4f9b825f04ec78dd859848c61030ad110b39",
+        "size": 939
+      }
+    },
+    "BKC_100007__": {
+      "category": "Book_chapter",
+      "document": {
+        "path": "files/Book_chapter/BKC_100007__Capítulo 11.pdf",
+        "sha256": "4d4fb27d4373c03864199da6f41682c95a625deb54b93a628a989a8905ab242e",
+        "size": 1223780,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BKC_100007__.json",
+        "sha256": "2b2d91537c37766d8f9deb195c0c3d5ab1e5936b955812e2c1dc06084454eabd",
+        "size": 581
+      }
+    },
+    "BKC_100008__": {
+      "category": "Book_chapter",
+      "document": {
+        "path": "files/Book_chapter/BKC_100008__Epílogo.pdf",
+        "sha256": "d942dd51a63d636f97a59241618cbc996d14fa2eb4e675a3a27cec76bc2bc0e6",
+        "size": 520713,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BKC_100008__.json",
+        "sha256": "cae1cd2545db74f9df3fcf0101d5a2d4f8e216e34cde487a76df249c2757b6a3",
+        "size": 558
+      }
+    },
+    "BKC_100009__": {
+      "category": "Book_chapter",
+      "document": {
+        "path": "files/Book_chapter/BKC_100009__CM-P00058277.pdf",
+        "sha256": "2dd98a340835b56fe0c405732194a0cb2b95e4724befb98c34dedae0070e5d1c",
+        "size": 638867,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BKC_100009__.json",
+        "sha256": "0faab677134520739185787e86b14ada6a5c194d0777587f167d4dee9d8c5f78",
+        "size": 524
+      }
+    },
+    "BKC_100010__": {
+      "category": "Book_chapter",
+      "document": {
+        "path": "files/Book_chapter/BKC_100010__Be-AJB.1999.pdf",
+        "sha256": "e3fbc887dd91784e602b10a693460c700d58e1ab744a3f9721154b8076848a69",
+        "size": 123087,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BKC_100010__.json",
+        "sha256": "2c2875d48cc194a49347521b10ec8a7093c0fd0ecb8351e44ea1a370a13f5a2a",
+        "size": 450
+      }
+    },
+    "BOK_100000__": {
+      "category": "Book",
+      "document": {
+        "path": "files/Book/BOK_100000__Supersymmetry_and_String_Theory.pdf",
+        "sha256": "2e629da8b5e63b2db9ab5f3195216d70b1c9bb3258ddfb50e1419509de19d3d9",
+        "size": 6348612,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BOK_100000__.json",
+        "sha256": "54fb31da631381034895b91bbfea2d16eee060c101f03bb8f531aa9553dd5452",
+        "size": 526
+      }
+    },
+    "BOK_100001__": {
+      "category": "Book",
+      "document": {
+        "path": "files/Book/BOK_100001__UCRL-10022.pdf",
+        "sha256": "23a26f8ebad78682e5403e847bf307157d3af97912b43c690d46b3abb9a5427c",
+        "size": 24715403,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BOK_100001__.json",
+        "sha256": "5a6e43afbb780a520b55601a034d43fa6e70a3f7525d2ad6060b0b248e5cabbf",
+        "size": 546
+      }
+    },
+    "BOK_100002__": {
+      "category": "Book",
+      "document": {
+        "path": "files/Book/BOK_100002__LEKARSKE ZADRUGE PRIPREMA SA CIPOM STAMPA 2.pdf",
+        "sha256": "2aabe4ef3be03bf1677ccb6aa5a27f5d862e8226707aef58bcedf173904aace5",
+        "size": 10354394,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BOK_100002__.json",
+        "sha256": "501d9b8045ccb4865371a6bf0daf07b2a18a23eea31d4316ad1c5aca9f57ff91",
+        "size": 1059
+      }
+    },
+    "BOK_100003__": {
+      "category": "Book",
+      "document": {
+        "path": "files/Book/BOK_100003__compilation_of_photoproduction_data.pdf",
+        "sha256": "6148db2e3ebdc67c481658ad725278ad461916ca999f157f20475c4a6b55ce74",
+        "size": 4784025,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BOK_100003__.json",
+        "sha256": "cc28c821d4ddcc4df5693007d043f4755f2e12c26b6894ed2d15b794b0566acc",
+        "size": 588
+      }
+    },
+    "BOK_100004__": {
+      "category": "Book",
+      "document": {
+        "path": "files/Book/BOK_100004__978-3-031-59120-4.pdf",
+        "sha256": "a41bbe5383455321db1d58f972cd619d696f581247685a0c80c959662073e6ba",
+        "size": 10376817,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BOK_100004__.json",
+        "sha256": "c6ff15746e915e9513233e9d1ccdb7b2dc0b9aa291e60aea9d780cf234f2ca78",
+        "size": 573
+      }
+    },
+    "BOK_100005__": {
+      "category": "Book",
+      "document": {
+        "path": "files/Book/BOK_100005__Gil Benumeya (2020) - Majrit al islamiyya.pdf",
+        "sha256": "d27745ed99c2bf7b827d2ccdab8854c53938e3753e2a8e8c6e2a34591cb22634",
+        "size": 113778687,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BOK_100005__.json",
+        "sha256": "3b3937ad2ab73eff8452078c8cef42ba1a025658b6d6e795727e48abd06b6240",
+        "size": 533
+      }
+    },
+    "BOK_100006__": {
+      "category": "Book",
+      "document": {
+        "path": "files/Book/BOK_100006__cm-p000517821.pdf",
+        "sha256": "ed702a37dc52f0628385db8c72aefe1ce1358fef455126c583af2c7683364a39",
+        "size": 16179331,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BOK_100006__.json",
+        "sha256": "8b7db2b76e64dcf550d2def195dc0da4f57a87c33d64c71f9bdd83aa97ded207",
+        "size": 795
+      }
+    },
+    "BOK_100007__": {
+      "category": "Book",
+      "document": {
+        "path": "files/Book/BOK_100007__bnl-683.pdf",
+        "sha256": "351b7a9ed3f1bfe76cdd9d7d7ec01620a263c65ec6b67415e986bc882911cb36",
+        "size": 2964464,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BOK_100007__.json",
+        "sha256": "7cac4c291777aafa025964ee4deea2b679677f27fd12bf7da107e69f98dab37d",
+        "size": 431
+      }
+    },
+    "BOK_100008__": {
+      "category": "Book",
+      "document": {
+        "path": "files/Book/BOK_100008__An_Introduction_to_the_Standard_Model_of_Particle_Physics.pdf",
+        "sha256": "d031b6d561b83e0eaa9bb3411fd99e2c9a2d8a5ca0a5e2ddefc9a3ffc51314c2",
+        "size": 5455060,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BOK_100008__.json",
+        "sha256": "1e8bb6ae304c8e5f87a84f88bd5714a34d39a854fc745f6061ff808ca24123a1",
+        "size": 696
+      }
+    },
+    "BOK_100009__": {
+      "category": "Book",
+      "document": {
+        "path": "files/Book/BOK_100009__Top_Quark_at_the_New_Physics_Frontier.pdf",
+        "sha256": "85911706bda8426d35a98fb1f2ca9c8329cf2f12f00c4147ac48049442ead21d",
+        "size": 46179468,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BOK_100009__.json",
+        "sha256": "94cd00fe568aa9742b987fc0d53b14141cddb98fc27bc454b2996906af003c45",
+        "size": 690
+      }
+    },
+    "BOK_100010__": {
+      "category": "Book",
+      "document": {
+        "path": "files/Book/BOK_100010__MTA_ActaPhysHung_26_n1-2.pdf",
+        "sha256": "0a9b3b19a9b8b2ac41154c421a492884c6d390871176d21f0bf82e0af9437950",
+        "size": 79619199,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BOK_100010__.json",
+        "sha256": "3e393f1335ee4293171d90a66c7c8d90f3cdc095fdf260c72ec7b864858904b2",
+        "size": 426
+      }
+    },
+    "BOK_100011__": {
+      "category": "Book",
+      "document": {
+        "path": "files/Book/BOK_100011__978-3-031-91167-5.pdf",
+        "sha256": "5958db89ccde4ca88388971b8b4849747de9c031304a6694544033024f402029",
+        "size": 84133742,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BOK_100011__.json",
+        "sha256": "e68606d40d62057bdc7d380d310eac6af97454d31c403f3c50aa8e5fe6f431b4",
+        "size": 950
+      }
+    },
+    "BOK_100012__": {
+      "category": "Book",
+      "document": {
+        "path": "files/Book/BOK_100012__ANL_HEP-7107.pdf",
+        "sha256": "62f99de5236bc1edad276130fec90e1550bd0e8fe37d8865a3b3dc4bf1008471",
+        "size": 36898352,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BOK_100012__.json",
+        "sha256": "0cbe82ba3a6f4f51a946d45f58993524ca47caeb3bca4c45c8bd0a125e2402bc",
+        "size": 1058
+      }
+    },
+    "BOK_100013__": {
+      "category": "Book",
+      "document": {
+        "path": "files/Book/BOK_100013__Estrategias_construcción-de-paz_Colombia.pdf",
+        "sha256": "e90996f1524f9eb71ff3593ad2ccc5aac90ba5edc6213290195d86d53a67e29a",
+        "size": 2581062,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BOK_100013__.json",
+        "sha256": "c5b08f97071978db277bdc11bdb4f7ba1ac8b4c6aa3a5751e7281f9b9a8e81f7",
+        "size": 1234
+      }
+    },
+    "BOK_100014__": {
+      "category": "Book",
+      "document": {
+        "path": "files/Book/BOK_100014__9780198881223_web.pdf",
+        "sha256": "09d1994b9eb2c51c641a5a30391e49b88f3bbfe906ac033200088560714f416e",
+        "size": 57372025,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BOK_100014__.json",
+        "sha256": "7d710484338477915e846fd7cd55ada877875f46d23587f5c466a1e19691a68e",
+        "size": 1018
+      }
+    },
+    "BOK_100015__": {
+      "category": "Book",
+      "document": {
+        "path": "files/Book/BOK_100015__DIALOG31_web.pdf",
+        "sha256": "a52f842eb6bc0e461db1fedc6bb61285cb4d2ccad74e785fec5a51e421e2584c",
+        "size": 9340865,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BOK_100015__.json",
+        "sha256": "03ea4d4edc26ef54495e0eb82cdeeea52fc89a249ae174033099e8c699fdf56c",
+        "size": 1531
+      }
+    },
+    "BOK_100016__": {
+      "category": "Book",
+      "document": {
+        "path": "files/Book/BOK_100016__978-3-031-60931-2.pdf",
+        "sha256": "341b8cabe6157af6aa5152e17e405a95f8140c9cd44e5832ebcf119df36b98fa",
+        "size": 8247102,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BOK_100016__.json",
+        "sha256": "88970c77ac982652845451c89213586d4d21e2ec5c1704bc9409a9186b925f3b",
+        "size": 704
+      }
+    },
+    "BOK_100017__": {
+      "category": "Book",
+      "document": {
+        "path": "files/Book/BOK_100017__PĘKNIĘCIA SENSU_przeowdnik metodyczno-teoretyczny. PTE.pdf",
+        "sha256": "f5da906fd0b1b9d46d7e94529ebf43a89bad4587507d0c3aa9c9e9e01c6f6754",
+        "size": 21624156,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/BOK_100017__.json",
+        "sha256": "2c3a36ef286090f2bb8d9a024ce057ca773ec11f0a970557578f7ed2075c6d33",
+        "size": 1119
+      }
+    },
+    "CFP_100000__": {
+      "category": "Conference_papers",
+      "document": {
+        "path": "files/Conference_papers/CFP_100000__Wang_2026_J._Inst._21_C04028.pdf",
+        "sha256": "dd3fb1a009c21278b1343b09170ec7d9f1f03e94e5fc1cdfc3f4509cb788c054",
+        "size": 4993636,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/CFP_100000__.json",
+        "sha256": "4793a327189205a632785054ffc3c7b1ce4c6ea3b24df878dcfb6b337a1dc411",
+        "size": 8640
+      }
+    },
+    "CFP_100001__": {
+      "category": "Conference_papers",
+      "document": {
+        "path": "files/Conference_papers/CFP_100001__chep2024_proceeding.pdf",
+        "sha256": "45eff78b241952b0df76f0295af6499c37fd80df3c79bbb3aca1a9c2e392271b",
+        "size": 2284195,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/CFP_100001__.json",
+        "sha256": "66e2b4d18545b8baac4e64b92d456bae88de50fd15ad1fd58539ec60f2984821",
+        "size": 2301
+      }
+    },
+    "CFP_100002__": {
+      "category": "Conference_papers",
+      "document": {
+        "path": "files/Conference_papers/CFP_100002__Rummler_2026_J._Inst._21_C01008.pdf",
+        "sha256": "ead1a6968b3d94c1893d581dcdb5d8a5a474a5ed1a60199695c4a3c9d276dcab",
+        "size": 4013518,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/CFP_100002__.json",
+        "sha256": "c45f83ba5f905aadeac79983bfb65f23b26504a224893f3d6c49566666e4bf57",
+        "size": 4871
+      }
+    },
+    "CFP_100003__": {
+      "category": "Conference_papers",
+      "document": {
+        "path": "files/Conference_papers/CFP_100003__g-2.pdf",
+        "sha256": "510fdb189f4bc8e89327b512511b29ec46813429633e94cdc991c1bd2cee1a6a",
+        "size": 281011,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/CFP_100003__.json",
+        "sha256": "fed0ac3bf41e99ffc7449c9466349a999ade04163b1ee59fe48c4621fd59e9df",
+        "size": 765
+      }
+    },
+    "CFP_100004__": {
+      "category": "Conference_papers",
+      "document": {
+        "path": "files/Conference_papers/CFP_100004__198103525.pdf",
+        "sha256": "2d199cc33409e624e5d7dcb068391e7649d67bc31a94fa1c8b27b8ee95d9f353",
+        "size": 1179012,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/CFP_100004__.json",
+        "sha256": "39e79d23a780a3bbb4c2139be15f15495449ca270d9e94e86fd71f32e2acd11b",
+        "size": 1455
+      }
+    },
+    "CFP_100005__": {
+      "category": "Conference_papers",
+      "document": {
+        "path": "files/Conference_papers/CFP_100005__2005.09889.pdf",
+        "sha256": "1d1100c19d5d9141196fdd96fcaf2abb3b4119c949298903ebef348db31919c7",
+        "size": 634857,
+        "source": "remote",
+        "url": "https://arxiv.org/pdf/2005.09889v1"
+      },
+      "metadata": {
+        "path": "metadata/CFP_100005__.json",
+        "sha256": "0e2ac7521d4b6546b8d14b2d0ebec3f6987a43e529dba7509d02369279b00554",
+        "size": 7109
+      }
+    },
+    "CFP_100006__": {
+      "category": "Conference_papers",
+      "document": {
+        "path": "files/Conference_papers/CFP_100006__Lowis_2026_J._Inst._21_P02014.pdf",
+        "sha256": "c106ba801cdd3b9efadac7e02fd3ea89aa2afdf6b2768fc9e8aafc25540ca452",
+        "size": 3244274,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/CFP_100006__.json",
+        "sha256": "80b9c2a4cf65048ff232ab0256f81c0a851b5b7f9c1d846959f2c3c52ed7b52c",
+        "size": 4718
+      }
+    },
+    "CFP_100007__": {
+      "category": "Conference_papers",
+      "document": {
+        "path": "files/Conference_papers/CFP_100007__AALANDIRMAFAALYETLERNNBAARIORANLARIVESEBEPLER.pdf",
+        "sha256": "6ada01b04d2c9e21f99e3d43c0a64211b24ebfe89eb6a41fd9804ec67cc3b669",
+        "size": 954553,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/CFP_100007__.json",
+        "sha256": "523ffc51ac15d339a786b3e5dc16af3cbf69002b2e9866054491586a72d3c381",
+        "size": 3600
+      }
+    },
+    "CFP_100008__": {
+      "category": "Conference_papers",
+      "document": {
+        "path": "files/Conference_papers/CFP_100008__CERN-NPA-63-20.pdf",
+        "sha256": "5e8636ab6aa35ddddcfafc0ef053bfe878230c182f102b445e44271b9061234f",
+        "size": 11807526,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/CFP_100008__.json",
+        "sha256": "d086b4d029600d45374f2b870b350ea422638ee008af3ae58b64c69bace02e2a",
+        "size": 3029
+      }
+    },
+    "CFP_100009__": {
+      "category": "Conference_papers",
+      "document": {
+        "path": "files/Conference_papers/CFP_100009__LHCb-CONF-2020-001.pdf",
+        "sha256": "1c8b6a1ab8c8942fe29bead0eed201fdb4b671f0d46ebf01ac315c3eb2354ace",
+        "size": 1848937,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/CFP_100009__.json",
+        "sha256": "64830d038034dda1a9da4900fe2aff4a2fb786b4aeb0fc29be1ec45561bc8810",
+        "size": 1892
+      }
+    },
+    "CFP_100010__": {
+      "category": "Conference_papers",
+      "document": {
+        "path": "files/Conference_papers/CFP_100010__CM-P00055555.pdf",
+        "sha256": "50560251aeebe77a3301a9d6c25c894d9bf7c6edb1bb0f04e21f91b7f4254274",
+        "size": 2338706,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/CFP_100010__.json",
+        "sha256": "aaf5b43d20687540810714f1b6d219d7946e4d82ba70310253619991545c52c7",
+        "size": 976
+      }
+    },
+    "EXN_100000__": {
+      "category": "Experiment_note",
+      "document": {
+        "path": "files/Experiment_note/EXN_100000__ATL-DAQ-PROC-2011-024.pdf",
+        "sha256": "6fee9d645756d3bd7cab33806f6b3e34b5728b4c04e214bd34326e992e7fad92",
+        "size": 615368,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/EXN_100000__.json",
+        "sha256": "c594a7df7abba081c4ba8df2469b06dd205e1d7ffe5b37d1e5616eb93b970642",
+        "size": 2842
+      }
+    },
+    "EXN_100001__": {
+      "category": "Experiment_note",
+      "document": {
+        "path": "files/Experiment_note/EXN_100001__MICROBOONE-NOTE-1097-PUB.pdf",
+        "sha256": "4872a1e087515d9bbe98553d59b3ea27f0dec724a142654c934ca7ae45e43a96",
+        "size": 1445154,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/EXN_100001__.json",
+        "sha256": "6a89020202eaac575ffd3eeda92cdfbb08efbbbf5afd3dd4730451b8831ca9f8",
+        "size": 1573
+      }
+    },
+    "EXN_100002__": {
+      "category": "Experiment_note",
+      "document": {
+        "path": "files/Experiment_note/EXN_100002__ATL-SOFT-PUB-2021-003.pdf",
+        "sha256": "e778c5c47cd4ded5ea4aea9d473732b73b35414b2967765c2a51941073e26a6c",
+        "size": 232158,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/EXN_100002__.json",
+        "sha256": "dda4fd88d72aa8555f0ace7093fefe7866771be2b86457a900dfd37433175fe3",
+        "size": 618
+      }
+    },
+    "EXN_100003__": {
+      "category": "Experiment_note",
+      "document": {
+        "path": "files/Experiment_note/EXN_100003__SPS-RF-DB-bS-76-30.pdf",
+        "sha256": "af3e993826a65969dacd47e76cecf10325f95cdbd252d440eab817292839662c",
+        "size": 33643038,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/EXN_100003__.json",
+        "sha256": "71c787223da6bc9ef515403d0486bb16d5a42e27d24efed2bc805d9b2d98dd38",
+        "size": 449
+      }
+    },
+    "EXN_100004__": {
+      "category": "Experiment_note",
+      "document": {
+        "path": "files/Experiment_note/EXN_100004__ATLAS-CONF-2021-023.pdf",
+        "sha256": "ef0293006af532ad4101b496f93d3ece266ee8aef2fbdb757b81b1ad2cb1131e",
+        "size": 899049,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/EXN_100004__.json",
+        "sha256": "81eac8f9f39f7de39ecfb305c0dec74cef466db019c897ef629af23e0e2d7edf",
+        "size": 1495
+      }
+    },
+    "EXN_100005__": {
+      "category": "Experiment_note",
+      "document": {
+        "path": "files/Experiment_note/EXN_100005__ATLAS-CONF-2021-010.pdf",
+        "sha256": "1c9a6ec52d71d479d6ef6420b9d0638cbfb01d004c95af4571ba029f9998edfd",
+        "size": 2328689,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/EXN_100005__.json",
+        "sha256": "66a63684cee7a55f32b9dac7ad772562db7c7f9a74e17d8544327ad22d199f4c",
+        "size": 1594
+      }
+    },
+    "EXN_100006__": {
+      "category": "Experiment_note",
+      "document": {
+        "path": "files/Experiment_note/EXN_100006__MICROBOONE-NOTE-1099-PUB.pdf",
+        "sha256": "f5050c0cca7ce4b4e2ba7408742cf52e8d4970fb30030d43769efa5edfd9d790",
+        "size": 1318189,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/EXN_100006__.json",
+        "sha256": "6b81e120b19bf72e3a3422d0af220d2478dba4dbb45f2d9f50734ad597138c1a",
+        "size": 579
+      }
+    },
+    "EXN_100007__": {
+      "category": "Experiment_note",
+      "document": {
+        "path": "files/Experiment_note/EXN_100007__Retrieval_Catalogue_Apr_2023.pdf",
+        "sha256": "d61c0493553a2dfbbd3ee7d1ae522d59ad3714c77274e306f6788bf474230e2c",
+        "size": 135251,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/EXN_100007__.json",
+        "sha256": "885ffd01b515c976f6a0808033848455e3a51adbddba7889a3ad599b4748d0c2",
+        "size": 705
+      }
+    },
+    "EXN_100008__": {
+      "category": "Experiment_note",
+      "document": {
+        "path": "files/Experiment_note/EXN_100008__2402.09955.pdf",
+        "sha256": "013843299525142c64d420ff7c7adfeb6ddca6498f6b2c6808a6e5ea86860fac",
+        "size": 160706,
+        "source": "remote",
+        "url": "https://arxiv.org/pdf/2402.09955v1"
+      },
+      "metadata": {
+        "path": "metadata/EXN_100008__.json",
+        "sha256": "29b4e5afb6ef45385049d334f11794138618454b72e6a45e905235e0664ccb6c",
+        "size": 6289
+      }
+    },
+    "PRP_100000__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100000__AAS_Lisewski_2025_3I_MARS_20251219.pdf",
+        "sha256": "15fbf3fb3eafe0df3ee9810a92659afed0f272dfb0da592dc8e9b5011a85419c",
+        "size": 965898,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100000__.json",
+        "sha256": "f332fbe021105268abe89bdc17250801d616ac369544fad5f61e9805abfa6d07",
+        "size": 1507
+      }
+    },
+    "PRP_100001__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100001__7903107.pdf",
+        "sha256": "9317f9863a861d255d3bdc6026a518c1be294caaa3e11e18e0b2822ca5cb7beb",
+        "size": 609006,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100001__.json",
+        "sha256": "a5536c2c3a957b8cef5a4a1a2dd83c371a6b54bd5f5413af495436c5f7616af5",
+        "size": 1865
+      }
+    },
+    "PRP_100002__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100002__2205.05312v2.pdf",
+        "sha256": "b1862306c49eea479c78c08a5a44cfdb1db1db4785561dcbcc74c0f0ea7c0625",
+        "size": 374581,
+        "source": "remote",
+        "url": "https://arxiv.org/pdf/2205.05312v2"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100002__.json",
+        "sha256": "cbbd437b84ef84bd37e66a17b1011685dccba2bd6023d10d6d0d849111efebd0",
+        "size": 1620
+      }
+    },
+    "PRP_100003__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100003__CERN-EP-2020-054.pdf",
+        "sha256": "826503f44a8d3ad2586487ae0875be56887a500b0dbc8947ec572e3a40cd911f",
+        "size": 6694599,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100003__.json",
+        "sha256": "4e4a8c076c52c6d54b4478dbb0119f623f26c74672b9b5239eaa644ad0c538a0",
+        "size": 8058
+      }
+    },
+    "PRP_100004__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100004__2602.10191v1.pdf",
+        "sha256": "376f1e7ed3189ababf22030193282817b821c750ed4bd5b57d82c406fc6c0baf",
+        "size": 8700780,
+        "source": "remote",
+        "url": "https://arxiv.org/pdf/2602.10191v1"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100004__.json",
+        "sha256": "999dc0cf8908d6f8fbbb0d9f12a930f1511169a7d5818e943468b09a39219b0a",
+        "size": 5898
+      }
+    },
+    "PRP_100005__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100005__PDF_Datastream.pdf",
+        "sha256": "efbca0a96cd51b5c3ee8ded64e37be27cb1befd84f1ba8185631d2e3964a4e52",
+        "size": 413830,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100005__.json",
+        "sha256": "59cadbfb3889079567fbc4e1d6bb2d1d94041e74cc039e8f4c13303cf9c68bee",
+        "size": 1161
+      }
+    },
+    "PRP_100006__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100006__1912.13466.pdf",
+        "sha256": "d0e71a7331ee75838c1d6095c5596849fae3c702cd50e7cddcd33e525191bfa0",
+        "size": 810316,
+        "source": "remote",
+        "url": "https://arxiv.org/pdf/1912.13466v1"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100006__.json",
+        "sha256": "4006fc3044fa604134c8f489f32f8450e34146d64a88edcb018b8a7dd931aa99",
+        "size": 11529
+      }
+    },
+    "PRP_100007__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100007__Trends aerosol composition.pdf",
+        "sha256": "be753bba29155ff659a739592915cc2157b728cce5a47cdbb7d3552e94408dfd",
+        "size": 168621,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100007__.json",
+        "sha256": "c8c8cc4fdc64186c0d28c38cac3a8555802c6ffe9a068a22680b16edc8ec65e5",
+        "size": 3097
+      }
+    },
+    "PRP_100008__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100008__2507.22559v3.pdf",
+        "sha256": "fc806ede97c426fd4672a55320b026084dfccdd40cc6fcf754ebcb04af6d3f4a",
+        "size": 768602,
+        "source": "remote",
+        "url": "https://arxiv.org/pdf/2507.22559v3"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100008__.json",
+        "sha256": "fbbadd0f6a20a9a9ddb847534a334b4723317aa257ba3242a0989c3a61eaec89",
+        "size": 2777
+      }
+    },
+    "PRP_100009__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100009__2402.11022v1.pdf",
+        "sha256": "557e7e8ce97d4402d125acab1af02dda66911646e3a2f42b803831ac588ab901",
+        "size": 2539609,
+        "source": "remote",
+        "url": "https://arxiv.org/pdf/2402.11022v1"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100009__.json",
+        "sha256": "eef8c82d3023be75d20d3998224bf2c08bad41b5574ea10cdaac18bfd48be84b",
+        "size": 3186
+      }
+    },
+    "PRP_100010__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100010__7805106.pdf",
+        "sha256": "7b15537f31300e1a902b1a21672bc551314b7f24eb49946ecc3e4dad69e1a3bd",
+        "size": 271954,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100010__.json",
+        "sha256": "b367333b4c8aab44ca6728834cd5e2096b4b746e6aa4432b8fe31f4606f88f53",
+        "size": 1119
+      }
+    },
+    "PRP_100011__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100011__2510.16101v1.pdf",
+        "sha256": "e19a5bc86ae01435115b9919c0ab7e6699c2ec8a5fcc7873651fe2a891fc14b8",
+        "size": 3727247,
+        "source": "remote",
+        "url": "https://arxiv.org/pdf/2510.16101v1"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100011__.json",
+        "sha256": "a5d54eed54c6ef3831905dbd77572b88863cd800d41b755c2036b90993d9213d",
+        "size": 2772
+      }
+    },
+    "PRP_100012__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100012__8001025.pdf",
+        "sha256": "9b8a061f314f4e0f2ff66ea39e1ecc4aa43e411c88dda7adbbf07621ff3bfe37",
+        "size": 245183,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100012__.json",
+        "sha256": "7575e4b8249bb4bde1b7736c09937885f6a313cbcb38101fe1ac31333dae117c",
+        "size": 975
+      }
+    },
+    "PRP_100013__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100013__2409.07104v1.pdf",
+        "sha256": "1a9872be6289f71e971d348da7e416c83c85df48e0d1c6c7026f3dcb8cde1a4a",
+        "size": 6488289,
+        "source": "remote",
+        "url": "https://arxiv.org/pdf/2409.07104v1"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100013__.json",
+        "sha256": "2db74892767d952a6ad54c0e40baa5fb24460c42211f9b68f54fa9d29179b492",
+        "size": 3856
+      }
+    },
+    "PRP_100014__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100014__2505.23853v1.pdf",
+        "sha256": "f85ac8602ea3785e2146c7a6368ae5173db3eef67359a6469b758fbbd0eb87fe",
+        "size": 1283861,
+        "source": "remote",
+        "url": "https://arxiv.org/pdf/2505.23853v1"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100014__.json",
+        "sha256": "e19c4f2cddb820e95ede5ac7871b633a4eeb8d35c84d2d5a7f3057dfb1eb80ca",
+        "size": 2995
+      }
+    },
+    "PRP_100015__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100015__2408.01400v3.pdf",
+        "sha256": "200a002caea69cd30b435dd4abdd6a1efdb40f8c7885e3015d5fa12bc6237d40",
+        "size": 3258962,
+        "source": "remote",
+        "url": "https://arxiv.org/pdf/2408.01400v3"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100015__.json",
+        "sha256": "ddc7ef3e4e58d1c520951346991e437d6ff2a86b765bdca6353bcdd3ff41f7ba",
+        "size": 3410
+      }
+    },
+    "PRP_100016__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100016__7808016.pdf",
+        "sha256": "45ca82a3dabf7df6a62f344171923a46a46bd31b3b9bb2a1bf69d0a72b354d65",
+        "size": 352467,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100016__.json",
+        "sha256": "45ccb2b80dc8faf06c2edf592459eeb6f69ad77f147f12189aecf459f553b04e",
+        "size": 1175
+      }
+    },
+    "PRP_100017__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100017__7709213.pdf",
+        "sha256": "a834c423d73f7a6b4b33ef9eef244524b84333deaf1b30cca934b053152d68f2",
+        "size": 721260,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100017__.json",
+        "sha256": "4ecad3f5b9d1dc0da7f1997fd26552c3cdbf175432b0db4ee3a27628b0ff523c",
+        "size": 800
+      }
+    },
+    "PRP_100018__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100018__CM-P00058881.pdf",
+        "sha256": "de478c170c23df5730fea0a012863881cbedfcdee44097beca4d50655daadee9",
+        "size": 406569,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100018__.json",
+        "sha256": "421d30e5ed689fa175173344cc5b9a8774f064a17aa0870667f84b31d65e7908",
+        "size": 1484
+      }
+    },
+    "PRP_100019__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100019__2507.08088v1.pdf",
+        "sha256": "201a18edfd9e6038fbc29cc29dc711b87701ac08b45a0baf41e0182ba25678f5",
+        "size": 4417512,
+        "source": "remote",
+        "url": "https://arxiv.org/pdf/2507.08088v1"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100019__.json",
+        "sha256": "450f3a42eb802b5cb464d362ee27e7fb6531f5b1de99cd540d17ab63375de5c3",
+        "size": 5265
+      }
+    },
+    "PRP_100020__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100020__ESGO-WP-2026-03.pdf",
+        "sha256": "2cd2d025086f772d32ea78d5aba88d844b9f948149a770f30b4e5ec8f8ef5bb8",
+        "size": 714476,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100020__.json",
+        "sha256": "87760d46aa411e6d4ec0a5b0aefd0a6febbfba5b325b3e33dcd4809326edaf6c",
+        "size": 3164
+      }
+    },
+    "PRP_100021__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100021__2103.06548v3.pdf",
+        "sha256": "2af476f0c6795e3819da9534c869202e2e4b74999fa6452e35c2c8bdc76047eb",
+        "size": 1051513,
+        "source": "remote",
+        "url": "https://arxiv.org/pdf/2103.06548v3"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100021__.json",
+        "sha256": "959ffdc40917f6e777cfcf7dd25ff2fd0ac0fe65ba06a95c99aab9008b15da21",
+        "size": 3117
+      }
+    },
+    "PRP_100022__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100022__1609.06680v3.pdf",
+        "sha256": "c99f1bbea6f11ccbf798ba47906e5309bdd38e4f064c6d29f394f8f540b86616",
+        "size": 1181414,
+        "source": "remote",
+        "url": "https://arxiv.org/pdf/1609.06680v3"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100022__.json",
+        "sha256": "eb676f3f826ff13a491bc8ce4f7a1b1b41181321ff340b1e0d3e7ab15e26a633",
+        "size": 3264
+      }
+    },
+    "PRP_100023__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100023__1601.02063v2.pdf",
+        "sha256": "84cdfedb16d874b87b0c4794ff57583c756d704deccd0a1a301f42f3989ad451",
+        "size": 9311171,
+        "source": "remote",
+        "url": "https://arxiv.org/pdf/1601.02063v2"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100023__.json",
+        "sha256": "a720cf1a000b9ff0ae3ee1f5a03cd171a7af1b4af881d94858be57779216aca7",
+        "size": 3326
+      }
+    },
+    "PRP_100024__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100024__1711.00467v1.pdf",
+        "sha256": "a7c953e6180aeaa6e36b4b45ac87bc3e50f6ad551f364b4e8eef369079a582ea",
+        "size": 10550877,
+        "source": "remote",
+        "url": "https://arxiv.org/pdf/1711.00467v1"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100024__.json",
+        "sha256": "cde81598b832675fec5d00e7c9b3454a3d039ba5686df3dcdaab15272ce6d83d",
+        "size": 2706
+      }
+    },
+    "PRP_100025__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100025__1612.05282v1.pdf",
+        "sha256": "cc558c299bb1a2d7ff88e31b82f0ddc593c95742b70d4f1cb409fcb77194685a",
+        "size": 15511500,
+        "source": "remote",
+        "url": "https://arxiv.org/pdf/1612.05282v1"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100025__.json",
+        "sha256": "de74e2e418d197fce84e46b8b6e41c3e882bf07531d370ea5bc0b03e2e285529",
+        "size": 4852
+      }
+    },
+    "PRP_100026__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100026__2109.14592v1.pdf",
+        "sha256": "f6248b182b9a82a540f44bc73e537aab643a1ef447991330d959b3285d628797",
+        "size": 9570632,
+        "source": "remote",
+        "url": "https://arxiv.org/pdf/2109.14592v1"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100026__.json",
+        "sha256": "b32eb20f296953a2bff1a0551ca04aad0a5473119a8177c5a719bdaab4ba5296",
+        "size": 4505
+      }
+    },
+    "PRP_100027__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100027__1612.03173v2.pdf",
+        "sha256": "37b34365e2185965452786fc2bd02243ec8a1c4fb546cae9439d97de33c9bce9",
+        "size": 1338845,
+        "source": "remote",
+        "url": "https://arxiv.org/pdf/1612.03173v2"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100027__.json",
+        "sha256": "a80a0507b00b75e355b6525237c0681d8ca5457695d3ff45b1c1ac781614214e",
+        "size": 2801
+      }
+    },
+    "PRP_100028__": {
+      "category": "Preprint",
+      "document": {
+        "path": "files/Preprint/PRP_100028__1706.06187v2.pdf",
+        "sha256": "33270fa5617911f2173af622d5ea1ff90a1082276490b4cd0d3dffc5cf3237af",
+        "size": 3137012,
+        "source": "remote",
+        "url": "https://arxiv.org/pdf/1706.06187v2"
+      },
+      "metadata": {
+        "path": "metadata/PRP_100028__.json",
+        "sha256": "1a1eb13eec698dc9bc8e0f188b316c68e49e47fdbb4793555f0c31d0d52b6d9f",
+        "size": 6457
+      }
+    },
+    "PST_100000__": {
+      "category": "Poster",
+      "document": {
+        "path": "files/Poster/PST_100000__Poster_DRAMU.png",
+        "sha256": "6453dcd4a610e7340946b9dca2e0868596dfaf58681d5575f894797767382afe",
+        "size": 585447,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PST_100000__.json",
+        "sha256": "99dafafa61d1f16c4605c6f9bec1ca751eaa85ba748f500bb0529adde62ab779",
+        "size": 513
+      }
+    },
+    "PST_100001__": {
+      "category": "Poster",
+      "document": {
+        "path": "files/Poster/PST_100001__CMS_P2L1T_Electron_ID_regression.pdf",
+        "sha256": "527e7e8e1f266e57d6327f881c7bd7594ed32a8d8abb3b99877e50ccbeca79ed",
+        "size": 31996758,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PST_100001__.json",
+        "sha256": "b1b63c8fdc29a397ae26302416778831eaebaa32112b2ee85ce9cc2e4036964f",
+        "size": 602
+      }
+    },
+    "PST_100002__": {
+      "category": "Poster",
+      "document": {
+        "path": "files/Poster/PST_100002__acat2025-poster-compression.pdf",
+        "sha256": "f0b9f6d54cff962b58930ba326336545d9866d37b2d9b94a33cf10b080aac465",
+        "size": 5454538,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PST_100002__.json",
+        "sha256": "053ec9f949614f55b5f7dd7b12f4d0a2ae32dd7ee513ce3909d71da5c66d3ce9",
+        "size": 814
+      }
+    },
+    "PST_100003__": {
+      "category": "Poster",
+      "document": {
+        "path": "files/Poster/PST_100003__MML_GNN_Poster-Final.pdf",
+        "sha256": "597ac1beba75a61cf032d9b063682d8a49b7ff1173a9d683b03453bba74f707d",
+        "size": 2351839,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PST_100003__.json",
+        "sha256": "98af4e0db903804f3d83fdb7733b5b4312631b38fc2ff1fac879839c3359c4e4",
+        "size": 1092
+      }
+    },
+    "PST_100004__": {
+      "category": "Poster",
+      "document": {
+        "path": "files/Poster/PST_100004__CoolStarsPoster.pdf",
+        "sha256": "2647c7e35e7fa77e401f5c90e473467b324986c34bd0f7035c61c3d985550e90",
+        "size": 3571645,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PST_100004__.json",
+        "sha256": "a6140bfd820ba6ee5b2c234a1524a834c4c27e76792a750ad3411004ad61c472",
+        "size": 443
+      }
+    },
+    "PST_100005__": {
+      "category": "Poster",
+      "document": {
+        "path": "files/Poster/PST_100005__poster.pdf",
+        "sha256": "32079be18d4c8549b2b69085bd0b64ac6e306c1843b60b02bef367bf6e67c9df",
+        "size": 1530345,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PST_100005__.json",
+        "sha256": "6b4080dbefdcd7aff295c7ffdc1cdeba7fc95d9744f16fac73e27f4e56607e5b",
+        "size": 926
+      }
+    },
+    "PST_100006__": {
+      "category": "Poster",
+      "document": {
+        "path": "files/Poster/PST_100006__ISCT2026_Cocultivos invivo.pdf",
+        "sha256": "c1768e6c9bb1218f1556d61bb985a82d9c9fe5448da51a7ff2e98e7da668ea19",
+        "size": 1293109,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PST_100006__.json",
+        "sha256": "8334ebe9956afc78e3cd2d6ae56271b01b40545bf2c32cf55c5e7339f7290d18",
+        "size": 6582
+      }
+    },
+    "PST_100007__": {
+      "category": "Poster",
+      "document": {
+        "path": "files/Poster/PST_100007__Ascidias_CC.pdf",
+        "sha256": "21e455589631c0e15727d5e94058c054eab45bce5a2cb11444c5bca5a4506826",
+        "size": 4131496,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PST_100007__.json",
+        "sha256": "781b5aaa0603ef73dad70787845dbbb20338d267118c7474916068c502687c45",
+        "size": 1182
+      }
+    },
+    "PST_100008__": {
+      "category": "Poster",
+      "document": {
+        "path": "files/Poster/PST_100008__Poster_ΕΚΠΑΙΔΕΥΤΙΚΗ_ΕΦΑΡΜΟΓΗ.pdf",
+        "sha256": "bdb7f32d490f349704d1eec44907ac4639bee7a94c9b7105dd8b90b092a9e852",
+        "size": 3001683,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PST_100008__.json",
+        "sha256": "4c44e4af700f85cef6b4abe3b03bc8d7261977f746f97e8b99d4b4b81cb0d396",
+        "size": 4953
+      }
+    },
+    "PST_100009__": {
+      "category": "Poster",
+      "document": {
+        "path": "files/Poster/PST_100009__2019_AlacranesUnaJoyaMarina.pdf",
+        "sha256": "e2ba20edd65f0d5c240fa409e7b30ebea8218442479a9aa2d1c3a914629a243f",
+        "size": 15408451,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PST_100009__.json",
+        "sha256": "a44e1a084625b886e89cfa90bcdcc0aee31c6a12e8b3554c1bedfee4770a9d60",
+        "size": 2169
+      }
+    },
+    "PST_100010__": {
+      "category": "Poster",
+      "document": {
+        "path": "files/Poster/PST_100010__ACAT__Efficient_Data_Movement.pdf",
+        "sha256": "bb4c07b476ee17a9b889431fcf86fc169c18f7c3e8fb3a16482acb92ca7f6d5e",
+        "size": 1616263,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PST_100010__.json",
+        "sha256": "408db6f45ab7bf27db72f971cdd45d92f6551c841ef6a9a8cc7c9b5830c7cc35",
+        "size": 2500
+      }
+    },
+    "PST_100011__": {
+      "category": "Poster",
+      "document": {
+        "path": "files/Poster/PST_100011__Яegresaʀ_Poster.pdf",
+        "sha256": "3992ca32a84e88f9967f280c7da48a559a973963b9a6a9a3ea4cbfe41988d947",
+        "size": 1723491,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PST_100011__.json",
+        "sha256": "6dbac8813b7607c4c2917acd9bafaca3d5535118432562e53e04c7128c1aacbc",
+        "size": 1464
+      }
+    },
+    "PST_100012__": {
+      "category": "Poster",
+      "document": {
+        "path": "files/Poster/PST_100012__ACAT_CMSL1AD.pdf",
+        "sha256": "566c833fb81aac8b996a497f78882fb364e6e44414d3379a0b813237c9569383",
+        "size": 2263264,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PST_100012__.json",
+        "sha256": "5f84c62829f6a0227ca268ef3ced1019b53612f1af54c3aef5d993908fdb900d",
+        "size": 452
+      }
+    },
+    "PST_100013__": {
+      "category": "Poster",
+      "document": {
+        "path": "files/Poster/PST_100013__Entre_huesos_y_plumas_Marqueta_M.png",
+        "sha256": "4305d0fe1670318e716d88b375462dd51899b4f42c2cd1e8f78bb72a7afbe126",
+        "size": 33651983,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PST_100013__.json",
+        "sha256": "31961ec6c5ad0c905c0fb6a7387baf6822a96471ac8ecb66521b153a2449965e",
+        "size": 718
+      }
+    },
+    "PST_100014__": {
+      "category": "Poster",
+      "document": {
+        "path": "files/Poster/PST_100014__CTD Poster-SimPixelTracks.pdf",
+        "sha256": "e96c31680fd2fba859955836c200c55f72f180284e08b75c711ecca08abbb99d",
+        "size": 2315439,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PST_100014__.json",
+        "sha256": "8867d75bab4bcd05422c2e40f4b6fd08380e8e77e63d5f02de5e06564f89c141",
+        "size": 452
+      }
+    },
+    "PST_100015__": {
+      "category": "Poster",
+      "document": {
+        "path": "files/Poster/PST_100015__Evolution_of_data_structures_for_heterogeneous_reconstruction_in_CMSSW.pdf",
+        "sha256": "d7c9cae1d4ead0457bde65511fd4c78e74ee77c7719b7b8aad0ff00bbf1c66c6",
+        "size": 637867,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PST_100015__.json",
+        "sha256": "b2e6d1115ea518f465f7274e52ad62e93ee9f3c7b6e80ed3dbad0ad0c3e3068c",
+        "size": 1937
+      }
+    },
+    "PST_100016__": {
+      "category": "Poster",
+      "document": {
+        "path": "files/Poster/PST_100016__Feroce400GPoster_v0.pdf",
+        "sha256": "5d90c58ff9a6cb5c852d781674c97fd9fb35b1ebfec085ab95492ca2a3551733",
+        "size": 2681722,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PST_100016__.json",
+        "sha256": "c024d88ecdc6b02a8fb38355c8aa9d844d619836691d48e3fa6b1e3576704ca5",
+        "size": 794
+      }
+    },
+    "PST_100017__": {
+      "category": "Poster",
+      "document": {
+        "path": "files/Poster/PST_100017__poster_chep.pdf",
+        "sha256": "05571286cc52504b4f60f13bafdf46e6b347aa0098c339e21a06a89a32162d45",
+        "size": 2106427,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/PST_100017__.json",
+        "sha256": "99b5969ba32f119ed2448c708a82148fe36cead8b72eba732cdeda49c7d36947",
+        "size": 396
+      }
+    },
+    "RPT_100000__": {
+      "category": "Reports",
+      "document": {
+        "path": "files/Reports/RPT_100000__Julia_NGT_report.pdf",
+        "sha256": "3808deba84b8d2a9b5e41fb20e9e5113579e248cc1e99ed2227704e1eb5fda42",
+        "size": 517142,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/RPT_100000__.json",
+        "sha256": "e3e62f89b00c09d6e6ac81530184b291c05e3bede5a5b34b998210654ba3c5a9",
+        "size": 2118
+      }
+    },
+    "RPT_100001__": {
+      "category": "Reports",
+      "document": {
+        "path": "files/Reports/RPT_100001__2026-06-29 Empfehlung Kuratierung NFDI Repos in re3data.pdf",
+        "sha256": "b6ca9aefcc89b921a4a24eebd444a3e1b0d908032921c176e2fa48910ac240e6",
+        "size": 233311,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/RPT_100001__.json",
+        "sha256": "4fdc4da2df33a9610262148ec52f79d2e4c8dc1fb476251a11bdea10172194ac",
+        "size": 2999
+      }
+    },
+    "RPT_100002__": {
+      "category": "Reports",
+      "document": {
+        "path": "files/Reports/RPT_100002__GAZTEAK_2018_AZKENA.pdf",
+        "sha256": "1ebaaa21a1a94dbd4010140f0b246e620319e3bf8577be795c36b1b93cef5300",
+        "size": 4541161,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/RPT_100002__.json",
+        "sha256": "13bc65f595d03ee17d89ada4c79a3f63a460b825aa087ca54cce7fa237b72f02",
+        "size": 1723
+      }
+    },
+    "RPT_100003__": {
+      "category": "Reports",
+      "document": {
+        "path": "files/Reports/RPT_100003__Análogos de GLP-1 y fin de la ecónomia del deseo.pdf",
+        "sha256": "c312311c894219c76b874bee305f4992132f7413cea9e5eb030e60e1363085d3",
+        "size": 425001,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/RPT_100003__.json",
+        "sha256": "0abe18f00a1056cb9fa1e7b35743daaa152da859556a340d267a2bd1ca14300d",
+        "size": 514
+      }
+    },
+    "RPT_100004__": {
+      "category": "Reports",
+      "document": {
+        "path": "files/Reports/RPT_100004__ZOiS_Report_2_2018.pdf",
+        "sha256": "7fdd446eefb1d471bad9df63c0857085208d96e61609f3bd90aba5a714804040",
+        "size": 10849678,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/RPT_100004__.json",
+        "sha256": "5b5951ac488b6eac99cc97ba7bee7f5a65f76b5e5932af98b3182aedf44d364e",
+        "size": 1594
+      }
+    },
+    "RPT_100005__": {
+      "category": "Reports",
+      "document": {
+        "path": "files/Reports/RPT_100005__CERN-OPEN-2020-006.pdf",
+        "sha256": "e8629ff63df207eea1150fa8c1e09f59e1c3345a2c2249ca0fcbf87d8f313646",
+        "size": 3045945,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/RPT_100005__.json",
+        "sha256": "467106ae790407d712b108209891ec2087badd27d8a862fdebafbf87b777e65a",
+        "size": 26119
+      }
+    },
+    "RPT_100006__": {
+      "category": "Reports",
+      "document": {
+        "path": "files/Reports/RPT_100006__ABIDA Gutachten Ethische Standards.pdf",
+        "sha256": "8badf372edfbd9cef63e70158792769a1de6f3e7029f66a652662f227960cc07",
+        "size": 6395388,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/RPT_100006__.json",
+        "sha256": "983d3c60d1f85137385b146f0a3a70489d7adf1729463ad6fc8a2a1815deecca",
+        "size": 1193
+      }
+    },
+    "RPT_100007__": {
+      "category": "Reports",
+      "document": {
+        "path": "files/Reports/RPT_100007__CM-P00057891.pdf",
+        "sha256": "6aef18487eee4d322069614a8477ab89830de12c3036bc733700aa2ce5316ec0",
+        "size": 1265483,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/RPT_100007__.json",
+        "sha256": "23358f6a02df8e5616a1efd999bf5d6958c086317560739f00ad6043d2fd7178",
+        "size": 443
+      }
+    },
+    "RPT_100008__": {
+      "category": "Reports",
+      "document": {
+        "path": "files/Reports/RPT_100008__2002.12220.pdf",
+        "sha256": "93819d99742f623ebc91ca34c58e17f1a37def5a02eb443419637b13b79a4877",
+        "size": 10043900,
+        "source": "remote",
+        "url": "https://arxiv.org/pdf/2002.12220v1"
+      },
+      "metadata": {
+        "path": "metadata/RPT_100008__.json",
+        "sha256": "49eb99884847c57a90b48bf87656b42fd799048033347178bdb4bfa75c5aee95",
+        "size": 23799
+      }
+    },
+    "RPT_100009__": {
+      "category": "Reports",
+      "document": {
+        "path": "files/Reports/RPT_100009__NGT_EvaluationReport_Foundation_2025.pdf",
+        "sha256": "f748bf24417b2003e781a6411d94c555170d6a6fabb4aaf43fa865dade433067",
+        "size": 24947294,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/RPT_100009__.json",
+        "sha256": "93186a42dc3194a33e2e6a0a483a47b97a01b9773d3a8743a8cf2fbd4b4b201f",
+        "size": 434
+      }
+    },
+    "RPT_100010__": {
+      "category": "Reports",
+      "document": {
+        "path": "files/Reports/RPT_100010__CERN-2016-001.pdf",
+        "sha256": "2ffb3032f24294d4b4ef5af094fc728ea163524fd81de9b36900d232a9735ecd",
+        "size": 57980386,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/RPT_100010__.json",
+        "sha256": "3823b297b9b4be50019ab8f1880191e80fab5017698e344e9ae9b46b4e84ecf0",
+        "size": 1279
+      }
+    },
+    "RPT_100011__": {
+      "category": "Reports",
+      "document": {
+        "path": "files/Reports/RPT_100011__NGT Annual Report 2024.pdf",
+        "sha256": "3825d125286a0bf92e879f7a4bd9f81f0596693bd0b1963e436be8c194dd8b5f",
+        "size": 19092867,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/RPT_100011__.json",
+        "sha256": "467eb0ed7dec0e5322c7d032d159723e2907d1689eff1f8ffa0b01feb0aa3cac",
+        "size": 439
+      }
+    },
+    "RPT_100012__": {
+      "category": "Reports",
+      "document": {
+        "path": "files/Reports/RPT_100012__14 Fiskerstrand, 2018 - Regning som grunnleggende ferdighet.pdf",
+        "sha256": "f08ca8bec53297919b42d4ac3825b731e42c74e13d7cbf1b005ddbf792e4bd0b",
+        "size": 442575,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/RPT_100012__.json",
+        "sha256": "c8e4c237f175d67d6e5f3418a0e15f7335e4e59ca8ba86246e5f0214e5acb932",
+        "size": 1200
+      }
+    },
+    "RPT_100013__": {
+      "category": "Reports",
+      "document": {
+        "path": "files/Reports/RPT_100013__Next-Generation-HEP-Triggers-Proposal.pdf",
+        "sha256": "6cd29f5093a7bb6cb0ab46228255ee276a5ef16695d5ed7a10501d973631fb37",
+        "size": 416037,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/RPT_100013__.json",
+        "sha256": "ee7b2bf775a0b5388f6362e0558146d2d63b9d7206e73068009c1dd4ab05ca0f",
+        "size": 471
+      }
+    },
+    "RPT_100014__": {
+      "category": "Reports",
+      "document": {
+        "path": "files/Reports/RPT_100014__Working Paper 12 - STAR Report v1.1.pdf",
+        "sha256": "b34e602a78608d4e712e8d47f035c09e1947a95d6970a64e3bdcd4c0f152e9fe",
+        "size": 903936,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/RPT_100014__.json",
+        "sha256": "a82ed6f320ddec505161308a017102f59cd8bd104985f0e202995b481016c480",
+        "size": 1449
+      }
+    },
+    "SLD_100000__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100000__twepp2025_p2l1ds_rardino_v2.pdf",
+        "sha256": "963468dd9b2bc8d7715527851f6e1397e8665c8dca6154ebe8e4e43c8e77c861",
+        "size": 14743508,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100000__.json",
+        "sha256": "85a42eafd3af11bdfec3a515e7b1a9be78c1c7ba787c9748efbc009c7e5fdc29",
+        "size": 510
+      }
+    },
+    "SLD_100001__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100001__Zhang et al GIF63 GSTM25.pdf",
+        "sha256": "5a4ea788c616bf97bb3c0c6af2a2120451df7c777d4f8026163f7c8bbb25add8",
+        "size": 4982388,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100001__.json",
+        "sha256": "3a82c7278f6dfc64288f76f554f800b375318d3652d3c43cd92eccf928a54da1",
+        "size": 2702
+      }
+    },
+    "SLD_100002__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100002__robotizacion_agroalimentaria.pdf",
+        "sha256": "7ebf1eb2bc268c6108cbaf16992e572d85a04c1f9304bed6e937b109fcd2cc5b",
+        "size": 7392386,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100002__.json",
+        "sha256": "ea4a2514e6c704b9f697978eb7eb29d6ec931aebdc6f6962d46436d05621d6be",
+        "size": 618
+      }
+    },
+    "SLD_100003__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100003__ICHEP2024-ngadiuba-v2.pdf",
+        "sha256": "fd38a2e4fa1148c00652177dfd79afff6c66fbe657e96e76fe96444d08e98d1b",
+        "size": 39516606,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100003__.json",
+        "sha256": "e8e80610ea10971b211f95b3e7a0e063bdb9266c3ce672c11db208afc28ad09c",
+        "size": 446
+      }
+    },
+    "SLD_100004__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100004__MarkusHolzerCMSSWSoA.pdf",
+        "sha256": "1c76b6edd0293c02f5e7e9fc050fbd1e90a154c5af4f100353468279ac5bc074",
+        "size": 1420135,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100004__.json",
+        "sha256": "2e415ef5b9e110146e0a7c8e7a60157b9401cd636cec1280d16456d4fae14bb7",
+        "size": 1499
+      }
+    },
+    "SLD_100005__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100005__Mangano_WP1overview.pdf",
+        "sha256": "3208faf99dcd0a9b3d0d5ff0e90c0a1e3d9b180968f236146515ce5039056473",
+        "size": 2272550,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100005__.json",
+        "sha256": "e79584d29b69b624804a416ed3cac82f5a671c7f62c1c40300cd5421ff4191a7",
+        "size": 619
+      }
+    },
+    "SLD_100006__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100006__CTD2025-CMS-PatatrackPixelTracking.pdf",
+        "sha256": "73b30cbcd023f45f11dd6ae98b290db8c18789d5bc8a27385b17715892a71596",
+        "size": 7593723,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100006__.json",
+        "sha256": "e12780970f25c0010544c3368c6c0c52a96d5aa7247a100fdd66a1c64e37decb",
+        "size": 616
+      }
+    },
+    "SLD_100007__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100007__NGT-WP1-Intro-Task1.7-2024-02-08.pdf",
+        "sha256": "11a73169e1bcd567b555a65842120a3f5c5a5c93c594483f2f0e650d08d8dfb6",
+        "size": 786839,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100007__.json",
+        "sha256": "ebdbd16526fb5c232bc7a5752e969269a174398230c439a8c1a5c82b3b2bf898",
+        "size": 532
+      }
+    },
+    "SLD_100008__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100008__JuliaHEP - Porting the CMS pixel reconstruction to Julia_ preliminary results.pdf",
+        "sha256": "e908c237cee30c0876fd97feeaff64e1ce73b61a37121fdbe43e0778e91f7563",
+        "size": 2381212,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100008__.json",
+        "sha256": "9f9b0068dcec3aa9778652435c83b10d7251d4ae6c2010d7cc3e392a7172aae1",
+        "size": 1510
+      }
+    },
+    "SLD_100009__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100009__Low-latency_AI_for_triggering_on_electrons_at_High_Luminosity_LHC_with_the_CMS_Level-1_hardware_Trigger_draft.pdf",
+        "sha256": "000926ff7f626e674550f59c04ee27c5c9a6211565c970ec921706282a788b52",
+        "size": 9458207,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100009__.json",
+        "sha256": "ca26013b486ac7607106e959cbeed6d5aef529696267bcdcc2c32fbbe0103e79",
+        "size": 684
+      }
+    },
+    "SLD_100010__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100010__DeepSets_FastML_CB_0309.pdf",
+        "sha256": "912927a0c547e9e6337376608509d44abf39cbab2290116fe58f97b773f59aac",
+        "size": 6311527,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100010__.json",
+        "sha256": "b54e50a6410955468b64d93783924fe0956b161c502bb81b26f530280c63bc9e",
+        "size": 474
+      }
+    },
+    "SLD_100011__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100011__ACAT25-SOFIE.pdf",
+        "sha256": "e156539e67f4d76f475f9ef26542b55a7d9625429565842757eda2915a3ea838",
+        "size": 4519199,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100011__.json",
+        "sha256": "643cd2b05f6341166e7d01e9b8b75bbb640d161b5af98690c2f8f8073fbe4b2c",
+        "size": 1517
+      }
+    },
+    "SLD_100012__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100012__CTD_2025_CMS_Muon_Tracking.pdf",
+        "sha256": "942ce76d456e5edb5b2b82023180be4642346b7f0871474d10b541afb512b6c1",
+        "size": 9573679,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100012__.json",
+        "sha256": "b80991ea312a422409e5ad788d25e58956acb9a2394c34be1c7cbf00d74941a3",
+        "size": 566
+      }
+    },
+    "SLD_100013__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100013__acat2025_cluestering_balducci.pdf",
+        "sha256": "fe2473a807da4fe09a75b58135ad03b8b9de53ca484ac5211953d02d9fd6819c",
+        "size": 4372808,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100013__.json",
+        "sha256": "01ef76f36fbb963f1e98fb602692d073b9084d3d64e75c1e7b07a7fdb6c6ac99",
+        "size": 1710
+      }
+    },
+    "SLD_100014__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100014__ACAT_talk.pdf",
+        "sha256": "8f665f775b7a8438afeff05ad9f922251639c15d1e6d98f3fd9fed9d9918e099",
+        "size": 4601787,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100014__.json",
+        "sha256": "9704a4e646a023cb09366518de821d883ac69f70d4e73a498ee342f96bb36c69",
+        "size": 482
+      }
+    },
+    "SLD_100015__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100015__Augustin.pdf",
+        "sha256": "b0f2d454af870636e17c86928e88efa080fe6cb3b7596b5552c62b4a5aec6644",
+        "size": 2179363,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100015__.json",
+        "sha256": "12574de8fd0ed85b2a991342725b301479c7f0e13aa2e57cb710f90c228304e0",
+        "size": 523
+      }
+    },
+    "SLD_100016__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100016__SMARTHEP_talk.pdf",
+        "sha256": "dedd6f6bc9e08d1caaeff7cd08e48d5d5a31a5392eba6d410a8f483920950b5a",
+        "size": 7686108,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100016__.json",
+        "sha256": "f58e22980028af977ea2fdf97af1706de36ae697ce07d93733417fa98ff93af8",
+        "size": 1078
+      }
+    },
+    "SLD_100017__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100017__20260526_chep_fila_julia.pdf",
+        "sha256": "6f98da034babc668fcfcaa6665d0f2a6e1f0cb92c2570822d965546f081b0a0d",
+        "size": 2537769,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100017__.json",
+        "sha256": "bb7bbf51655e6acb12515a60f64063e3d0f46c335b2c6bfff1dabd2d987b7629",
+        "size": 1670
+      }
+    },
+    "SLD_100018__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100018__ichep2024_L1Scouting_emeschi-v3.pdf",
+        "sha256": "ab8a89d1ce3069279b68b9041219d0778011248f4331f94b45ee62f4cb255655",
+        "size": 5228632,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100018__.json",
+        "sha256": "7d7689ea20d0a6fb306e9847097f61f8f0d8775f03f49e319b8957c17fff7665",
+        "size": 477
+      }
+    },
+    "SLD_100019__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100019__Jean_Firmino_Cardoso_Apresentação_PRH_48_1_Relatório_atividades_parciais_2025.pdf",
+        "sha256": "4eedbaf08b0068567bfae5e819ec710661fbb70fbcd232b8de7abf5feaeefd2a",
+        "size": 2512751,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100019__.json",
+        "sha256": "bd7a536912d5c52dbafbf9f0e4af7345964f2b48797d60f1e7465b5486188511",
+        "size": 1143
+      }
+    },
+    "SLD_100020__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100020__FASTML_2024_Talk_Noah_zipper.pdf",
+        "sha256": "eb588fee0e50573395b971b5f80c51c7488ed68761eefcb101e835e4682b1c99",
+        "size": 4345420,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100020__.json",
+        "sha256": "f1fb6156c186e3a6f66e77470d69bd1011c34b564391498102c04a7b38de8277",
+        "size": 480
+      }
+    },
+    "SLD_100021__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100021__ACAT_NextGenerationTriggers_CBotta.pdf",
+        "sha256": "d451d6506822b6ae0ffa61b1defe934877f5438dcc8ac0deb12a02ffe38cf4db",
+        "size": 58917026,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100021__.json",
+        "sha256": "d8a6a1517a1197cf9091945fc3bf7f66e0c42bdcad2557bf606e0352669bb411",
+        "size": 596
+      }
+    },
+    "SLD_100022__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100022__Prelim_CTD_slides.pdf",
+        "sha256": "55ff6f02294d93ddb523d17d7a837a664b6b2228b9af5bccf464d572711b95e1",
+        "size": 3581726,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100022__.json",
+        "sha256": "8ea015048a90bf2d4142e481d2bce0bdd7679e93b291c6a27e87b508ef8e135b",
+        "size": 488
+      }
+    },
+    "SLD_100023__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100023__ichep.pdf",
+        "sha256": "874b370706418f8818be243a30444a806f30d4ab0b706790fe1caed86d171639",
+        "size": 9860597,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100023__.json",
+        "sha256": "98c2a5c17ecd817486fc7f1070fbb2c1967b26a79ebd90740c187be0a892dcb5",
+        "size": 455
+      }
+    },
+    "SLD_100024__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100024__juliahep presentation.pdf",
+        "sha256": "73f0792107d1a67adf513ca20ee88ddf3af0b6ceafac10ad3fed22d4ab9db3ab",
+        "size": 2347372,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100024__.json",
+        "sha256": "4cb00542acd2901a60b89265eea84a6826b2fd8659214148c0f66cc4912bc24f",
+        "size": 1460
+      }
+    },
+    "SLD_100025__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100025__FM_Collide2V_EMoreno.pdf",
+        "sha256": "3e4aabc32975db75e6f7f2aeadcb3d144406f3d1d3869430fcb00f23ebcaf65d",
+        "size": 10308960,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100025__.json",
+        "sha256": "62f3bd3284d5e7a8895dec293692030ed788795594cbd278e3beb4a243193d53",
+        "size": 3145
+      }
+    },
+    "SLD_100026__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100026__CMS_NGT_BSMMiniWorkshop.pdf",
+        "sha256": "5075cbf4b9fc440a1f7a6511b0b2267cc2f9fa10201740765a01ed034419efdf",
+        "size": 15639123,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100026__.json",
+        "sha256": "3f226944afd187132c6fe05bf73f574b64564982aa6bd1be832d912db9e19f4f",
+        "size": 1962
+      }
+    },
+    "SLD_100027__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100027__chep_axol1tl_quinnan.pdf",
+        "sha256": "f8bdd4a97e85f0e8d4ff1b7ff2fb870c3160b0a03d86e4cf72cc0883d84dffcc",
+        "size": 17698686,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100027__.json",
+        "sha256": "cf0625a13da10b083cc4219959e013ab3e934e5c4880f39c1d8c0ac4eb0443bb",
+        "size": 470
+      }
+    },
+    "SLD_100028__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100028__fermilab-slides-22-151-ppd.pdf",
+        "sha256": "ec0322f07d6e336ddde3bbb745f2f180eb9733ae87ef96b114bf02133555c0a8",
+        "size": 6030457,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100028__.json",
+        "sha256": "9065556c7db1e1a199a9457cf675f165a131db7d09b4175250158289d6e9c3b0",
+        "size": 478
+      }
+    },
+    "SLD_100029__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100029__CMS_L1TDSPhase2_ACAT2025_08.09.2025.pdf",
+        "sha256": "4e1deb832c041e7461b37922e40b5cd54cb6e64d050822c0995fd60ef24e1807",
+        "size": 49689633,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100029__.json",
+        "sha256": "28d4b7cbd6ccc74956c95663faffafc64c3e6b697477769d00b615d0997b2c25",
+        "size": 469
+      }
+    },
+    "SLD_100030__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100030__Massaro_TALK_CSC_2024.pdf",
+        "sha256": "d731fdfabbd4c84899d2611dda1da16ab719dea2d5bc83d84044537367d219e0",
+        "size": 1359842,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100030__.json",
+        "sha256": "d255a4928999d4e59cf227018e4d082734b1baef76d6ddd7c4611c7adf7c6f02",
+        "size": 433
+      }
+    },
+    "SLD_100031__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100031__2023_11_07_axol1tl_ml4jets_jp.pdf",
+        "sha256": "6856631380872a61d905f36ac780b19a9084a28d805166df055256c881ce086a",
+        "size": 5630315,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100031__.json",
+        "sha256": "0bcde9e3b8bd816235260f4d48a8abd7b9caea2fd8e9704831185c4f0b36255c",
+        "size": 510
+      }
+    },
+    "SLD_100032__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100032__RossiTisbeni_compression.pdf",
+        "sha256": "6ed3aebb0d5b00f148d3b0e2195add64dd400d844503454ccb399dc94b8ac067",
+        "size": 3029644,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100032__.json",
+        "sha256": "7f3d03aaa2bbbd0dd1b866a8dc686a5c2d0d7a7e2e2b589fd0f4e55130fccbca",
+        "size": 818
+      }
+    },
+    "SLD_100033__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100033__HDI.HumanitiesInnovation.20250531.v2.pdf",
+        "sha256": "e048e61e411e90350f93abafd7c63a70701c83dc9a11a44c16c04d3a79f46cbe",
+        "size": 1145766,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100033__.json",
+        "sha256": "619ce0cc16449a6a513d196fc7234354331c4af9d8027cdc0ba0e0a515d35331",
+        "size": 1322
+      }
+    },
+    "SLD_100034__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100034__FrameworkDemo_2025.pdf",
+        "sha256": "725a5b0bc4c028261c8fe5d7354eeab61ae8c6e60afd363abb12c07c92d1438a",
+        "size": 2455610,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100034__.json",
+        "sha256": "87d0f52265b2887aafa81b25488921f7a3fe67e3431b3d9d2b524df7243c60e3",
+        "size": 1081
+      }
+    },
+    "SLD_100035__": {
+      "category": "Slides",
+      "document": {
+        "path": "files/Slides/SLD_100035__CHEP2026_Anastasiia_PETROVYCH.pdf",
+        "sha256": "02575cd41e878cfe81da8c9bc6d72328578b5c9977306b5e856735fa4eb474ef",
+        "size": 15281994,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/SLD_100035__.json",
+        "sha256": "1e2096f7f4582cfafa4903ad95264de664b5c7ffb7744e6589f444d2c26300c6",
+        "size": 1400
+      }
+    },
+    "THS_100000__": {
+      "category": "Thesis",
+      "document": {
+        "path": "files/Thesis/THS_100000__CERN-THESIS-2024-219.pdf",
+        "sha256": "18245a385aef62e62b71d9f53d5ed71b11b5f2e3c8c236d7509d6afcc3085fdc",
+        "size": 165751678,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/THS_100000__.json",
+        "sha256": "2428533ec393fb5587439199e0e37d89074c3efb553aa7ba5898c6cdfdbe5297",
+        "size": 6133
+      }
+    },
+    "THS_100001__": {
+      "category": "Thesis",
+      "document": {
+        "path": "files/Thesis/THS_100001__CERN-THESIS-2021-163.pdf",
+        "sha256": "fd2e1daa43e47943088775e2eaaf937f0e49965ec836e892028234d8ed1a32a3",
+        "size": 18447593,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/THS_100001__.json",
+        "sha256": "e88fb4d66293b027bf6e73ad80c25ec9f12c166dee14dbd0a0cef689e6bf3117",
+        "size": 549
+      }
+    },
+    "THS_100002__": {
+      "category": "Thesis",
+      "document": {
+        "path": "files/Thesis/THS_100002__CERN-THESIS-2020-204.pdf",
+        "sha256": "27c07e730e531fcf3142d40e80493dfab0fc57247fdc2aaadaea2bfe8f7ee276",
+        "size": 5714371,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/THS_100002__.json",
+        "sha256": "ba1245c940bef8c38cdf31606684d91a689c293848741aadfc71f43fabb20f2d",
+        "size": 2999
+      }
+    },
+    "THS_100003__": {
+      "category": "Thesis",
+      "document": {
+        "path": "files/Thesis/THS_100003__CERN-THESIS-2011-445.pdf",
+        "sha256": "48891697c0dba756496f985c27337d497db744e043ddbbf3dcaacd24642cbc34",
+        "size": 5807817,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/THS_100003__.json",
+        "sha256": "b9ea27eb49fea5bc34fd0b091aa622c90b74454f061c45a4c2421850f87c114e",
+        "size": 534
+      }
+    },
+    "THS_100004__": {
+      "category": "Thesis",
+      "document": {
+        "path": "files/Thesis/THS_100004__thesisGreek.pdf",
+        "sha256": "c7260d078ddff58382578d05370b5f605a453223e2f2b03dca4978577d7aa302",
+        "size": 2131642,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/THS_100004__.json",
+        "sha256": "8ed9043e6f01d5320301e29ab40fb4c9041fda8d3c46181af58fef557b2726f2",
+        "size": 2457
+      }
+    },
+    "THS_100005__": {
+      "category": "Thesis",
+      "document": {
+        "path": "files/Thesis/THS_100005__CERN-THESIS-2024-095.pdf",
+        "sha256": "c049b354314b16906a7b2fe38457e5db8dda64df8210737fd7c020522f0340f8",
+        "size": 19168727,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/THS_100005__.json",
+        "sha256": "e8b0c2e804bd00671072ab9ece5df47ac84e94b81888157e1e7dd62304a38c6f",
+        "size": 7713
+      }
+    },
+    "THS_100006__": {
+      "category": "Thesis",
+      "document": {
+        "path": "files/Thesis/THS_100006__Thesis-1991-Monnier.pdf",
+        "sha256": "2148f2754e66354c75a0fc53af7f3a3c32ed9650549f7d75decb5feec09b92c6",
+        "size": 7252705,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/THS_100006__.json",
+        "sha256": "b335ee0c13182cb90ee1488f4950ab56bb4a3017f7394d1c101e79db1f8191c3",
+        "size": 504
+      }
+    },
+    "THS_100007__": {
+      "category": "Thesis",
+      "document": {
+        "path": "files/Thesis/THS_100007__CERN-THESIS-2023-343.pdf",
+        "sha256": "615f7868ee2e4d17fcbeaedce7b13dbced70d8f9f139dc5e4b64591f4c527e79",
+        "size": 4338738,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/THS_100007__.json",
+        "sha256": "be7efe74059eb88b82f1f637ab09051ddd08d9201b85f937b04eb54848dbf8b6",
+        "size": 4809
+      }
+    },
+    "THS_100008__": {
+      "category": "Thesis",
+      "document": {
+        "path": "files/Thesis/THS_100008__fulltext_2.pdf",
+        "sha256": "c3892b136a3c09b3b534c490fda60acaa01c99f082bc4df9515bef68a2a220a4",
+        "size": 4338574,
+        "source": "dataset"
+      },
+      "metadata": {
+        "path": "metadata/THS_100008__.json",
+        "sha256": "18ddc0c1ddc29d0e45a6f6d9803f9269ea8904033ea93400187728c67c5e1344",
+        "size": 512
+      }
+    }
+  },
+  "schema_version": 1
+}

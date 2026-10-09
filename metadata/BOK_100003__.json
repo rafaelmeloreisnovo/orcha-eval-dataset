@@ -1,0 +1,22 @@
+{
+  "doi": null,
+  "title": "COMPILATION OF PHOTOPRODUCTION DATA ABOVE 1.2 GEV ",
+  "publication_date": "1970-09-23",
+  "language": "English",
+  "abstract": "A compilation is presented of 3477 existing data from 243 references on experimental photoproduction above 1.2 GeV.",
+  "authors": [
+    {
+      "name": "Peter Joos",
+      "affiliation": [
+        {
+          "name": "Deutsches Elektronen-Synchrotron DESY",
+          "ror": "01js2sh04"
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Book/BOK_100003__compilation_of_photoproduction_data.pdf"
+  ]
+}

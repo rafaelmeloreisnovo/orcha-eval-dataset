@@ -1,0 +1,169 @@
+{
+  "doi": null,
+  "title": "A DETAILED COMPARISON OF MULTI-DIMENSIONAL BOLTZMANN NEUTRINO TRANSPORT METHODS IN CORE-COLLAPSE SUPERNOVAE",
+  "publication_date": "2017-09-14",
+  "language": "English",
+  "abstract": "The mechanism driving core-collapse supernovae is sensitive to the interplay between matter and neutrino radiation. However, neutrino radiation transport is very difficult to simulate, and several radiation transport methods of varying levels of approximation are available. We carefully compare for the first time in multiple spatial dimensions the discrete ordinates (DO) code of Nagakura, Yamada, and Sumiyoshi and the Monte Carlo (MC) code Sedonu, under the assumptions of a static fluid background, flat spacetime, elastic scattering, and full special relativity. We find remarkably good agreement in all spectral, angular, and fluid interaction quantities, lending confidence to both methods. The DO method excels in determining the heating and cooling rates in the optically thick region. The MC method predicts sharper angular features due to the effectively infinite angular resolution, but struggles to drive down noise in quantities where subtractive cancellation is prevalent, such as the net gain in the protoneutron star and off-diagonal components of the Eddington tensor. We also find that errors in the angular moments of the distribution functions induced by neglecting velocity dependence are subdominant to those from limited momentum-space resolution. We briefly compare directly computed second angular moments to those predicted by popular algebraic two-moment closures, and we find that the errors from the approximate closures are comparable to the difference between the DO and MC methods. Included in this work is an improved Sedonu code, which now implements a fully special relativistic, time-independent version of the grid-agnostic MC random walk approximation.",
+  "keywords": [
+  "supernovae: general",
+  "neutrinos",
+  "radiative transfer"
+],
+  "license": null,
+  "copyright": null,
+  "funding": [
+  {
+    "funder_name": "National Science Foundation (NSF) Blue Waters Graduate Fellowship",
+    "grant_number": null
+  },
+  {
+    "funder_name": "National Science Foundation",
+    "grant_number": "OCI-0725070"
+  },
+  {
+    "funder_name": "National Science Foundation",
+    "grant_number": "ACI-1238993"
+  },
+  {
+    "funder_name": "State of Illinois",
+    "grant_number": null
+  },
+  {
+    "funder_name": "NSF XSEDE network",
+    "grant_number": "TGPHY100033"
+  },
+  {
+    "funder_name": "Blue Waters",
+    "grant_number": "ACI-1440083"
+  },
+  {
+    "funder_name": "JSPS Postdoctoral Fellowships for Research Abroad",
+    "grant_number": "27-348"
+  },
+  {
+    "funder_name": "International Research Unit of Advanced Future Studies at the Yukawa Institute for Theoretical Physics",
+    "grant_number": null
+  },
+  {
+    "funder_name": "Sherman Fairchild Foundation",
+    "grant_number": null
+  },
+  {
+    "funder_name": "NSF",
+    "grant_number": "TCAN AST-1333520"
+  },
+  {
+    "funder_name": "NSF",
+    "grant_number": "CAREER PHY-1151197"
+  },
+  {
+    "funder_name": "NSF",
+    "grant_number": "PHY-1404569"
+  },
+  {
+    "funder_name": "Grant-in-Aid for Scientific Research from the Ministry of Education, Culture, Sports, Science, and Technology (MEXT) of Japan",
+    "grant_number": "15K05093"
+  },
+  {
+    "funder_name": "Grant-in-Aid for Scientific Research from the Ministry of Education, Culture, Sports, Science, and Technology (MEXT) of Japan",
+    "grant_number": "16H03986"
+  },
+  {
+    "funder_name": "Grant-in-Aid for Scientific Research from the Ministry of Education, Culture, Sports, Science, and Technology (MEXT) of Japan",
+    "grant_number": "26104006"
+  },
+  {
+    "funder_name": "HPCI Strategic Program of Japanese MEXT and K computer at the RIKEN and Post-K project",
+    "grant_number": "hpci 170304"
+  },
+  {
+    "funder_name": "HPCI Strategic Program of Japanese MEXT and K computer at the RIKEN and Post-K project",
+    "grant_number": "170230"
+  },
+  {
+    "funder_name": "HPCI Strategic Program of Japanese MEXT and K computer at the RIKEN and Post-K project",
+    "grant_number": "170031"
+  },
+  {
+    "funder_name": "Laboratory Directed Research and Development program at Los Alamos National Laboratory (LANL)",
+    "grant_number": null
+  },
+  {
+    "funder_name": "National Nuclear Security Administration of the US Department of Energy",
+    "grant_number": null
+  }
+],
+  "authors": [
+    {
+      "name": "Sherwood Richers",
+      "affiliation": [
+        {
+          "name": "TAPIR, Walter Burke Institute for Theoretical Physics, California Institute of Technology",
+          "ror": "05dxps055"
+        }
+      ],
+      "orcid": "0000-0001-5031-6829"
+    },
+    {
+      "name": "Hiroki Nagakura",
+      "affiliation": [
+        {
+          "name": "TAPIR, Walter Burke Institute for Theoretical Physics, Mail code 350-17, California Institute of Technology",
+          "ror": "05dxps055"
+        }
+      ],
+      "orcid": "0000-0002-7205-6367"
+    },
+    {
+      "name": "Christian David Ott",
+      "affiliation": [
+        {
+          "name": "TAPIR, Walter Burke Institute for Theoretical Physics, Mail code 350-17, California Institute of Technology",
+          "ror": "05dxps055"
+        },
+        {
+          "name": "Center for Gravitational Physics and International Research Unit of Advanced Future Studies, Yukawa Institute for Theoretical Physics, Kyoto University",
+          "ror": "0589kgd85"
+        }
+      ],
+      "orcid": "0000-0003-4993-2055"
+    },
+    {
+      "name": "Joshua Dolence",
+      "affiliation": [
+        {
+          "name": "CCS-2, Los Alamos National Laboratory",
+          "ror": "01e41cf67"
+        }
+      ],
+      "orcid": "0000-0003-4353-8751"
+    },
+    {
+      "name": "Kohsuke Sumiyoshi",
+      "affiliation": [
+        {
+          "name": "Numazu College of Technology",
+          "ror": "02gn4kd94"
+        }
+      ],
+      "orcid": "0000-0002-9224-9449"
+    },
+    {
+      "name": "Shoichi Yamada",
+      "affiliation": [
+        {
+          "name": "Advanced Research Institute for Science & Engineering, Waseda University",
+          "ror": "00ntfnx83"
+        },
+        {
+          "name": "Department of Science and Engineering, Waseda University",
+          "ror": "00ntfnx83"
+        }
+      ],
+      "orcid": "0000-0002-2166-5605"
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100028__1706.06187v2.pdf"
+  ]
+}

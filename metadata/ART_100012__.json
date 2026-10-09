@@ -1,0 +1,538 @@
+{
+  "doi": "10.3390/app14010387",
+  "title": "Quantum Information with Integrated Photonics",
+  "publication_date": "2023-12-31",
+  "language": "English",
+  "abstract": "Since the 1980s, researchers have taken giant steps in understanding how to use quantum mechanics for solving real problems—for example, making a computer that works according to the laws of quantum mechanics. In recent decades, researchers have tried to develop a platform for quantum information and computation that can be integrated into digital and telecom technologies without the need of a cryogenic environment. The current status of research in the field of quantum integrated photonics will be reviewed. A review of the most common integrated photonic platforms will be given, together with the main achievements and results in the last decade.",
+  "authors": [
+    {
+      "name": "Paolo Piergentili",
+      "affiliation": [
+        {
+          "name": "Scuola di Scienze e Tecnologie, Divisione di Fisica, Università di Camerino",
+          "ror": "0005w8d69"
+        },
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Perugia",
+          "ror": "005ta0471"
+        }
+      ],
+      "orcid": "0000-0003-2125-4766"
+    },
+    {
+      "name": "Francesco Amanti",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Pisa",
+          "ror": "005ta0471"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Greta Andrini",
+      "affiliation": [
+        {
+          "name": "Dipartimento di Elettronica e Telecomunicazioni, Politecnico di Torino",
+          "ror": "00bgk9508"
+        },
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Torino",
+          "ror": "01vj6ck58"
+        }
+      ],
+      "orcid": "0000-0002-8628-2592"
+    },
+    {
+      "name": "Fabrizio Armani",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Milano",
+          "ror": "04w4m6z96"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Vittorio Bellani",
+      "affiliation": [
+        {
+          "name": "Dipartimento di Fisica, Università di Pavia",
+          "ror": "00s6t1f81"
+        },
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Pavia",
+          "ror": "01st30669"
+        }
+      ],
+      "orcid": "0000-0003-2914-1459"
+    },
+    {
+      "name": "Vincenzo Bonaiuto",
+      "affiliation": [
+        {
+          "name": "Dipartimento di Ingegneria Industriale, Università di Roma Tor Vergata",
+          "ror": "02p77k626"
+        },
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Roma Tor Vergata",
+          "ror": "025rrx658"
+        }
+      ],
+      "orcid": "0000-0002-2328-4793"
+    },
+    {
+      "name": "Simone Cammarata",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Pisa",
+          "ror": "005ta0471"
+        },
+        {
+          "name": "Dipartimento di Ingegneria dell’Informazione, Università di Pisa",
+          "ror": "03ad39j10"
+        }
+      ],
+      "orcid": "0000-0002-2541-5689"
+    },
+    {
+      "name": "Matteo Campostrini",
+      "affiliation": [
+        {
+          "name": "Laboratori Nazionali di Legnaro, Istituto Nazionale di Fisica Nucleare",
+          "ror": "025e3ct30"
+        }
+      ],
+      "orcid": "0000-0001-8902-6618"
+    },
+    {
+      "name": "Samuele Cornia",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Pavia",
+          "ror": "01st30669"
+        },
+        {
+          "name": "Dipartimento di Scienze Fisiche, Informatiche e Matematiche, Università di Modena e Reggio Emilia",
+          "ror": "02d4c4y02"
+        }
+      ],
+      "orcid": "0000-0002-0549-9870"
+    },
+    {
+      "name": "Thu Ha Dao",
+      "affiliation": [
+        {
+          "name": "Dipartimento di Ingegneria Industriale, Università di Roma Tor Vergata",
+          "ror": "02p77k626"
+        },
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Roma Tor Vergata",
+          "ror": "025rrx658"
+        }
+      ],
+      "orcid": "0000-0003-1866-3390"
+    },
+    {
+      "name": "Fabio De Matteis",
+      "affiliation": [
+        {
+          "name": "Dipartimento di Ingegneria Industriale, Università di Roma Tor Vergata",
+          "ror": "02p77k626"
+        },
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Roma Tor Vergata",
+          "ror": "025rrx658"
+        }
+      ],
+      "orcid": "0000-0001-7860-9754"
+    },
+    {
+      "name": "Valeria Demontis",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Pavia",
+          "ror": "01st30669"
+        },
+        {
+          "name": "National Enterprise for nanoScience and nanoTechnology, Scuola Normale Superiore and Istituto Nanoscienze—Consiglio Nazionale delle Ricerche",
+          "ror": "01sgfhb12"
+        }
+      ],
+      "orcid": "0000-0002-1613-4383"
+    },
+    {
+      "name": "Giovanni Di Giuseppe",
+      "affiliation": [
+        {
+          "name": "Scuola di Scienze e Tecnologie, Divisione di Fisica, Università di Camerino",
+          "ror": "0005w8d69"
+        },
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Perugia",
+          "ror": "005ta0471"
+        }
+      ],
+      "orcid": "0000-0002-6880-3139"
+    },
+    {
+      "name": "Sviatoslav Ditalia Tchernij",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Torino",
+          "ror": "01vj6ck58"
+        },
+        {
+          "name": "Dipartimento di Fisica, Università di Torino",
+          "ror": "048tbm396"
+        }
+      ],
+      "orcid": "0000-0002-2639-5229"
+    },
+    {
+      "name": "Simone Donati",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Pisa",
+          "ror": "005ta0471"
+        },
+        {
+          "name": "Dipartimento di Fisica, Università di Pisa",
+          "ror": "03ad39j10"
+        }
+      ],
+      "orcid": "0000-0002-6212-5234"
+    },
+    {
+      "name": "Andrea Fontana",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Pavia",
+          "ror": "01st30669"
+        }
+      ],
+      "orcid": "0000-0003-4718-5711"
+    },
+    {
+      "name": "Jacopo Forneris",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Torino",
+          "ror": "01vj6ck58"
+        },
+        {
+          "name": "Dipartimento di Fisica, Università di Torino",
+          "ror": "048tbm396"
+        }
+      ],
+      "orcid": "0000-0003-2583-7424"
+    },
+    {
+      "name": "Roberto Francini",
+      "affiliation": [
+        {
+          "name": "Dipartimento di Ingegneria Industriale, Università di Roma Tor Vergata",
+          "ror": "02p77k626"
+        },
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Roma Tor Vergata",
+          "ror": "025rrx658"
+        }
+      ],
+      "orcid": "0000-0003-2771-9341"
+    },
+    {
+      "name": "Luca Frontini",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Milano",
+          "ror": "04w4m6z96"
+        },
+        {
+          "name": "Dipartimento di Fisica, Università di Milano",
+          "ror": "00wjc7c48"
+        }
+      ],
+      "orcid": "0000-0002-1137-8629"
+    },
+    {
+      "name": "Roberto Gunnella",
+      "affiliation": [
+        {
+          "name": "Scuola di Scienze e Tecnologie, Divisione di Fisica, Università di Camerino",
+          "ror": "0005w8d69"
+        },
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Perugia",
+          "ror": "005ta0471"
+        }
+      ],
+      "orcid": "0000-0003-4739-6375"
+    },
+    {
+      "name": "Simone Iadanza",
+      "affiliation": [
+        {
+          "name": "Paul Scherrer Institute",
+          "ror": "03eh3y714"
+        }
+      ],
+      "orcid": "0000-0001-8470-4600"
+    },
+    {
+      "name": "Ali Emre Kaplan",
+      "affiliation": [
+        {
+          "name": "Optoelectronics Research Center, University of Southampton",
+          "ror": "01ryk1543"
+        }
+      ],
+      "orcid": "0000-0002-9080-6686"
+    },
+    {
+      "name": "Cosimo Lacava",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Pavia",
+          "ror": "01st30669"
+        },
+        {
+          "name": "Dipartimento di Ingegneria Industriale e dell’Informazione, Università di Pavia",
+          "ror": "00s6t1f81"
+        }
+      ],
+      "orcid": "0000-0002-9950-8642"
+    },
+    {
+      "name": "Valentino Liberali",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Milano",
+          "ror": "04w4m6z96"
+        },
+        {
+          "name": "Dipartimento di Fisica, Università di Milano",
+          "ror": "00wjc7c48"
+        }
+      ],
+      "orcid": "0000-0003-1333-6876"
+    },
+    {
+      "name": "Francesco Marzioni",
+      "affiliation": [
+        {
+          "name": "Scuola di Scienze e Tecnologie, Divisione di Fisica, Università di Camerino",
+          "ror": "0005w8d69"
+        },
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Perugia",
+          "ror": "005ta0471"
+        },
+        {
+          "name": "Dipartimento di Fisica, Università di Napoli “Federico II”",
+          "ror": "05290cv24"
+        }
+      ],
+      "orcid": "0009-0003-3052-6927"
+    },
+    {
+      "name": "Elena Nieto Hernández",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Torino",
+          "ror": "01vj6ck58"
+        },
+        {
+          "name": "Dipartimento di Fisica, Università di Torino",
+          "ror": "048tbm396"
+        }
+      ],
+      "orcid": "0000-0001-6216-9256"
+    },
+    {
+      "name": "Elena Pedreschi",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Pisa",
+          "ror": "005ta0471"
+        }
+      ],
+      "orcid": "0001-7631-3933"
+    },
+    {
+      "name": "Domenic Prete",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Pavia",
+          "ror": "01st30669"
+        }
+      ],
+      "orcid": "0000-0002-8044-0924"
+    },
+    {
+      "name": "Paolo Prosposito",
+      "affiliation": [
+        {
+          "name": "Dipartimento di Ingegneria Industriale, Università di Roma Tor Vergata",
+          "ror": "02p77k626"
+        },
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Roma Tor Vergata",
+          "ror": "025rrx658"
+        }
+      ],
+      "orcid": "0000-0001-9183-0162"
+    },
+    {
+      "name": "Valentino Rigato",
+      "affiliation": [
+        {
+          "name": "Laboratori Nazionali di Legnaro, Istituto Nazionale di Fisica Nucleare",
+          "ror": "025e3ct30"
+        }
+      ],
+      "orcid": "0000-0003-0671-7750"
+    },
+    {
+      "name": "Carlo Roncolato",
+      "affiliation": [
+        {
+          "name": "Laboratori Nazionali di Legnaro, Istituto Nazionale di Fisica Nucleare",
+          "ror": "025e3ct30"
+        }
+      ],
+      "orcid": "0000-0002-4261-8672"
+    },
+    {
+      "name": "Francesco Rossella",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Pavia",
+          "ror": "01st30669"
+        },
+        {
+          "name": "Dipartimento di Scienze Fisiche, Informatiche e Matematiche, Università di Modena e Reggio Emilia",
+          "ror": "02d4c4y02"
+        }
+      ],
+      "orcid": "0000-0002-0601-4927"
+    },
+    {
+      "name": "Andrea Salamon",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Roma Tor Vergata",
+          "ror": "025rrx658"
+        }
+      ],
+      "orcid": "0000-0002-8438-8983"
+    },
+    {
+      "name": "Matteo Salvato",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Roma Tor Vergata",
+          "ror": "025rrx658"
+        },
+        {
+          "name": "Dipartimento di Fisica, Università di Roma Tor Vergata",
+          "ror": "02p77k626"
+        }
+      ],
+      "orcid": "0000-0002-6018-0723"
+    },
+    {
+      "name": "Fausto Sargeni",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Roma Tor Vergata",
+          "ror": "025rrx658"
+        },
+        {
+          "name": "Dipartimento di Ingegneria Elettronica, Università di Roma Tor Vergata",
+          "ror": "02p77k626"
+        }
+      ],
+      "orcid": "0000-0002-0131-236X"
+    },
+    {
+      "name": "Jafar (Seyed R) Shojaii",
+      "affiliation": [
+        {
+          "name": "Space Technology and Industry Institute, Swinburne University of Technology",
+          "ror": "031rekg67"
+        }
+      ],
+      "orcid": "0000-0002-9449-0412"
+    },
+    {
+      "name": "Franco Spinella",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Pisa",
+          "ror": "005ta0471"
+        }
+      ],
+      "orcid": "0000-0002-9607-7920"
+    },
+    {
+      "name": "Alberto Stabile",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Milano",
+          "ror": "04w4m6z96"
+        },
+        {
+          "name": "Dipartimento di Fisica, Università di Milano",
+          "ror": "00wjc7c48"
+        }
+      ],
+      "orcid": "0000-0002-6868-8329"
+    },
+    {
+      "name": "Alessandra Toncelli",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Pisa",
+          "ror": "005ta0471"
+        },
+        {
+          "name": "Dipartimento di Fisica, Università di Pisa",
+          "ror": "03ad39j10"
+        }
+      ],
+      "orcid": "0000-0003-4400-8808"
+    },
+    {
+      "name": "Gabriella Trucco",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Milano",
+          "ror": "04w4m6z96"
+        },
+        {
+          "name": "Dipartimento di Informatica, Università di Milano",
+          "ror": "00wjc7c48"
+        }
+      ],
+      "orcid": "0000-0002-5904-0969"
+    },
+    {
+      "name": "Valerio Vitali",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Pavia",
+          "ror": "01st30669"
+        },
+        {
+          "name": "Dipartimento di Ingegneria Industriale e dell’Informazione, Università di Pavia",
+          "ror": "00s6t1f81"
+        }
+      ],
+      "orcid": "0000-0003-0965-7503"
+    }
+  ],
+  "file_paths": [
+    "files/Articles/ART_100012__applsci-14-00387-v2.pdf"
+  ]
+}

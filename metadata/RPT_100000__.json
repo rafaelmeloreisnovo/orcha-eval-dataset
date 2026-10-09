@@ -1,0 +1,22 @@
+{
+  "doi": null,
+  "title": "Summary of Julia projects in CERN EP R&D and Next Generation Triggers",
+  "publication_date": "2025-11",
+  "language": "English",
+  "abstract": "This document reports on a series of R&D projects at CERN EP R&D and Next Generation Triggers that explored the use of Julia for selected high-energy physics applications. The projects include: (1) ahead-of-time compilation of JetReconstruction.jl, a Julia implementation of FastJet algorithms; (2) development of a scheduling demonstrator for event-processing application frameworks; and (3) porting the CMS Patatrack pixel track reconstruction to Julia. While Julia offers attractive ergonomics and a rich package ecosystem, these studies revealed multiple limitations. Ahead-of-time compilation remains incomplete, and residual just-in-time compilation may persist in produced binaries, limiting their suitability for latency-sensitive applications. Trimming binaries to reduce size is currently difficult, so generated binaries are very large and could further increase the footprint of software stacks if adopted at larger scale. Multi-threaded performance is significantly constrained by Julia's stop-the-world garbage collector, impacting applications such as event reconstruction. Additionally, several widely used packages have exhibited serious maintenance issues, raising concerns about ecosystem sustainability. The community's strong enthusiasm and active promotion of the language, while not uncommon for programming language communities, can make it difficult to obtain a clear picture of its actual maturity, highlighting the need for a critical assessment. Julia can be a useful tool for specific tasks, but caution is warranted when considering it for latency-sensitive, high-parallel, high-throughput applications or long-term HEP projects.",
+  "authors": [
+    {
+      "name": "Mateusz Fila",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-3917-2371"
+    }
+  ],
+  "file_paths": [
+    "files/Reports/RPT_100000__Julia_NGT_report.pdf"
+  ]
+}

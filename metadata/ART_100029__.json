@@ -1,0 +1,330 @@
+{
+  "doi": "10.1038/s41467-025-66912-4",
+  "title": "Dynamical development of strength and stability of asteroid material under 440 GeV proton beam irradiation",
+  "publication_date": "2025-11-28",
+  "language": "English",
+  "abstract": "Asteroid materials experience rapid thermoelastic and plastic stress evolution when subjected to high-energy irradiation – an effect that has not previously been captured through non-destructive, time-resolved experiments. Yet, accurate modeling of asteroid deflection scenarios, such as those proposed for planetary defense, critically depends on precise knowledge of the material’s mechanical behavior under extreme conditions to predict kinetic energy transfer and orbital deviation. In an experimental campaign at CERN’s High Radiation to Materials facility (HiRadMat), we irradiated a Campo del Cielo iron meteorite sample with 440 GeV protons from the Super Proton Synchrotron. Using Laser Doppler Vibrometry, we captured the resulting thermally induced stress waves in real time. Our results demonstrate that asteroid materials can absorb significantly more energy without structural failure than normal material parameters would suggest. Crucially, we were able to reproduce–under controlled laboratory conditions–the discrepancy factor observed between laboratory-derived yield strength values and those inferred from atmospheric meteor breakup events.",
+  "authors": [
+    {
+      "name": "Melanie Bochmann",
+      "affiliation": [
+        {
+          "name": "BoS GmbH/OuSoCo",
+          "ror": "00qerf253"
+        }
+      ],
+      "orcid": "0009-0008-1128-3014"
+    },
+    {
+      "name": "K.-G. Schlesinger",
+      "affiliation": [
+        {
+          "name": "BoS GmbH/OuSoCo",
+          "ror": "00qerf253"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Charles Arrowsmith",
+      "affiliation": [
+        {
+          "name": "Department of Physics, University of Oxford",
+          "ror": "052gg0110"
+        },
+        {
+          "name": "University of Rochester Laboratory for Laser Energetics",
+          "ror": "006rjbv46"
+        }
+      ],
+      "orcid": "0000-0001-6186-2227"
+    },
+    {
+      "name": "Paraskevi Alexaki",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "Department of Physics, National Kapodistrian University of Athens",
+          "ror": "04gnjpq42"
+        }
+      ],
+      "orcid": "0009-0002-0439-1101"
+    },
+    {
+      "name": "M. Alfonso Poza",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "M. Ambarki",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "E. M. Andersen",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "University of Bergen",
+          "ror": "03zga2b32"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Pablo Jaime Bilbao",
+      "affiliation": [
+        {
+          "name": "GoLP/Instituto de Plasmas e Fusão Nuclear, Instituto Superior Técnico, Universidade de Lisboa",
+          "ror": "01c27hj86"
+        }
+      ],
+      "orcid": "0000-0002-1841-4397"
+    },
+    {
+      "name": "Robert Bingham",
+      "affiliation": [
+        {
+          "name": "STFC & Department of Physics, University of Strathclyde",
+          "ror": "00n3w3b69"
+        },
+        {
+          "name": "Rutherford Appleton Laboratory",
+          "ror": "03gq8fr08"
+        }
+      ],
+      "orcid": "0000-0002-9843-7635"
+    },
+    {
+      "name": "F. D. Cruz",
+      "affiliation": [
+        {
+          "name": "GoLP/Instituto de Plasmas e Fusão Nuclear, Instituto Superior Técnico, Universidade de Lisboa",
+          "ror": "01c27hj86"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "A. Ebn Rahmoun",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "A. M. Goillot",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jack Halliday",
+      "affiliation": [
+        {
+          "name": "Department of Physics, University of Oxford",
+          "ror": "052gg0110"
+        },
+        {
+          "name": "STFC & Department of Physics, University of Strathclyde",
+          "ror": "00n3w3b69"
+        }
+      ],
+      "orcid": "0000-0003-1842-9393"
+    },
+    {
+      "name": "B. Todd Huffman",
+      "affiliation": [
+        {
+          "name": "Department of Physics, University of Oxford",
+          "ror": "052gg0110"
+        }
+      ],
+      "orcid": "0000-0002-5332-2738"
+    },
+    {
+      "name": "Eva Kamenicka",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0001-1275-1739"
+    },
+    {
+      "name": "Massimo Lazzaroni",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-4094-1273"
+    },
+    {
+      "name": "B. Lloyd",
+      "affiliation": [
+        {
+          "name": "Department of Physics, University of Oxford",
+          "ror": "052gg0110"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Eva Los",
+      "affiliation": [
+        {
+          "name": "Department of Physics, University of Oxford",
+          "ror": "052gg0110"
+        },
+        {
+          "name": "Department of Physics, Imperial College London",
+          "ror": "041kmwe10"
+        }
+      ],
+      "orcid": "0000-0002-5545-0346"
+    },
+    {
+      "name": "J.-M. Quetsch",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Brian Reville",
+      "affiliation": [
+        {
+          "name": "Max-Planck-Institut für Kernphysik",
+          "ror": "052d0h423"
+        }
+      ],
+      "orcid": "0000-0002-3778-1432"
+    },
+    {
+      "name": "P. Rousiadou",
+      "affiliation": [
+        {
+          "name": "Department of Physics, University of Ioannina",
+          "ror": "01qg3j183"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Subir Sarkar",
+      "affiliation": [
+        {
+          "name": "Department of Physics, University of Oxford",
+          "ror": "052gg0110"
+        }
+      ],
+      "orcid": "0000-0002-3542-858X"
+    },
+    {
+      "name": "Luís O. Silva",
+      "affiliation": [
+        {
+          "name": "GoLP/Instituto de Plasmas e Fusão Nuclear, Instituto Superior Técnico, Universidade de Lisboa",
+          "ror": "01c27hj86"
+        }
+      ],
+      "orcid": "0000-0003-2906-924X"
+    },
+    {
+      "name": "Pascal Simon",
+      "affiliation": [
+        {
+          "name": "GSI Helmholtzzentrum für Schwerionenforschung GmbH",
+          "ror": "02k8cbn47"
+        }
+      ],
+      "orcid": "0000-0003-2575-3730"
+    },
+    {
+      "name": "E. Soria",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Vasiliki Stergiou",
+      "affiliation": [
+        {
+          "name": "Department of Physics, University of Oxford",
+          "ror": "052gg0110"
+        },
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0008-3341-904X"
+    },
+    {
+      "name": "S. Zhang",
+      "affiliation": [
+        {
+          "name": "Department of Physics, University of Oxford",
+          "ror": "052gg0110"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Nikolaos Charitonidis",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-9506-1022"
+    },
+    {
+      "name": "Gianluca Gregori",
+      "affiliation": [
+        {
+          "name": "Department of Physics, University of Oxford",
+          "ror": "052gg0110"
+        }
+      ],
+      "orcid": "0000-0002-4153-0628"
+    }
+  ],
+  "file_paths": [
+    "files/Articles/ART_100029__s41467-025-66912-4.pdf"
+  ]
+}

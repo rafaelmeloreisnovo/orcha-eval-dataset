@@ -1,0 +1,84 @@
+{
+  "doi": null,
+  "title": "CLUEstering: a novel high-performance clustering library for scientific computing",
+  "publication_date": "2025",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Simone Balducci",
+      "affiliation": [
+        {
+          "name": "University of Bologna",
+          "ror": "01111rn36"
+        },
+        {
+          "name": "INFN-CNAF",
+          "ror": "001d5wc61"
+        },
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0001-0186-755X"
+    },
+    {
+      "name": "Felice Pantaleo",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-3266-4357"
+    },
+    {
+      "name": "Marco Rovere",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-8048-1622"
+    },
+    {
+      "name": "Wahid Redjeb",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-9794-8292"
+    },
+    {
+      "name": "Aurora Perego",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "University of Milano Bicocca",
+          "ror": "01ynf4891"
+        }
+      ],
+      "orcid": "0000-0003-1576-6757"
+    },
+    {
+      "name": "Francesco Giacomini",
+      "affiliation": [
+        {
+          "name": "INFN-CNAF",
+          "ror": "001d5wc61"
+        }
+      ],
+      "orcid": "0000-0002-3129-2814"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100013__acat2025_cluestering_balducci.pdf"
+  ]
+}

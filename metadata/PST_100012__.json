@@ -1,0 +1,22 @@
+{
+  "doi": null,
+  "title": "REAL-TIME UNSUPERVISED ANOMALY DETECTION IN THE CMS LEVEL-1 TRIGGER",
+  "publication_date": null,
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Maciej Glowacki",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0005-7170-7024"
+    }
+  ],
+  "file_paths": [
+    "files/Poster/PST_100012__ACAT_CMSL1AD.pdf"
+  ]
+}

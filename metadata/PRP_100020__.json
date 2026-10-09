@@ -1,0 +1,53 @@
+{
+  "doi": "10.5281/zenodo.21048269",
+  "title": "Do Flood Damage Cost Models Predict Real Losses for Residential Buildings?",
+  "subtitle": "- Empirical Benchmarking from Denmark and Its Implications for Climate Adaptation Appraisal",
+  "publication_date": "2026-06-29",
+  "language": "English",
+  "abstract": "Flood damage cost models are widely used to evaluate the benefits of climate adaptation investments, yet their predictive performance is seldom tested against observed losses. This paper presents the first empirical validation of the three official Danish flood damage models—Oversvømmelsesloven, SkadesØkonomi, and Serviceniveaubekendtgørelsen—using observed insurance payouts from major storm surge and cloudburst events affecting residential buildings between 2010 and 2017. Drawing on nationally comprehensive claims data from the Danish storm surge compensation scheme and private cloudburst insurance records, we assess model accuracy, bias, and explanatory power using a range of standard validation metrics. The results reveal substantial and systematic overestimation of flood damages across both hazard types: predicted losses typically exceed realized payouts by factors of two to five, none of the models outperforms a simple mean-based benchmark, and out-of-sample coefficients of determination are consistently negative. Increased model complexity does not translate into improved predictive performance. To place these findings in an international context, we review the empirical validation evidence for widely used flood damage models, including HAZUS-MH, BN-FLEMOps, the Rhine Atlas model, and the JRC global model. The Danish results mirror a broader pattern of limited predictive accuracy documented internationally, suggesting a systemic challenge in contemporary flood damage modelling rather than a country-specific shortcoming. These findings imply that cost–benefit analyses of flood protection investments may substantially overstate expected benefits when based on existing damage models. We therefore argue that routine empirical validation, transparent model documentation, and minimum performance standards should become integral components of climate adaptation appraisal.",
+  "authors": [
+    {
+      "name": "Tenaw G. Abate",
+      "affiliation": [
+        {
+          "name": "Aarhus University",
+          "ror": "01aj84f44"
+        }
+      ],
+      "orcid": "0000-0001-6060-279X"
+    },
+    {
+      "name": "Toke Emil Panduro",
+      "affiliation": [
+        {
+          "name": "Aarhus Universitet",
+          "ror": "01aj84f44"
+        }
+      ],
+      "orcid": "0000-0002-1174-9063"
+    },
+    {
+      "name": "Julian R. Massenberg",
+      "affiliation": [
+        {
+          "name": "Aarhus University",
+          "ror": "01aj84f44"
+        }
+      ],
+      "orcid": "0000-0002-1481-9899"
+    },
+    {
+      "name": "Karsten Arnbjerg-Nielsen",
+      "affiliation": [
+        {
+          "name": "Danish Meteorological Institute",
+          "ror": "020m6x732"
+        }
+      ],
+      "orcid": "0000-0002-6221-9505"
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100020__ESGO-WP-2026-03.pdf"
+  ]
+}

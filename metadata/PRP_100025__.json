@@ -1,0 +1,153 @@
+{
+  "doi": null,
+  "title": "STAR FORMATION IN NEARBY CLOUDS (SFINCS): X-RAY AND INFRARED SOURCE CATALOGS AND MEMBERSHIP",
+  "publication_date": "2016-12-15",
+  "language": "English",
+  "abstract": "The Star Formation in Nearby Clouds (SFiNCs) project is aimed at providing a detailed study of the young stellar populations and of star cluster formation in the nearby 22 star-forming regions (SFRs) for comparison with our earlier MYStIX survey of richer, more distant clusters. As a foundation for the SFiNCs science studies, here, homogeneous data analyses of the Chandra X-ray and Spitzer mid-infrared archival SFiNCs data are described, and the resulting catalogs of over 15,300 X-ray and over 1,630,000 mid-infrared point sources are presented. On the basis of their X-ray/infrared properties and spatial distributions, nearly 8,500 point sources have been identified as probable young stellar members of the SFiNCs regions. Compared to the existing X-ray/mid-infrared publications, the SFiNCs member list increases the census of YSO members by 6%–200% for individual SFRs and by 40% for the merged sample of all 22 SFiNCs SFRs.",
+  "keywords": [
+  "infrared: stars",
+  "stars: early-type",
+  "open clusters and associations: individual (NGC 7822, IRAS 00013+6817, NGC 1333, IC 348, LkHα 101, NGC 2068-2071, Orion Nebula, OMC 2-3, Mon R2, GGD 12-15, RCW 120, Serpens Main, Serpens South, IRAS 20050+2720, Sh 2-106, IC 5146, NGC 7160, LDN 1251B, Cep OB3b, Cep A, Cep C)",
+  "open clusters and associations: general",
+  "stars: formation",
+  "stars:pre-main sequence",
+  "X-rays: stars"
+],
+  "license": null,
+  "copyright": null,
+  "funding": [
+  {
+    "funder_name": "NASA",
+    "grant_number": "NNX15AF42G"
+  },
+  {
+    "funder_name": "Chandra GO",
+    "grant_number": "SAO AR5-16001X"
+  },
+  {
+    "funder_name": "Chandra GO",
+    "grant_number": "GO2-13012X"
+  },
+  {
+    "funder_name": "Chandra GO",
+    "grant_number": "GO3-14004X"
+  },
+  {
+    "funder_name": "Chandra GO",
+    "grant_number": "GO4-15013X"
+  },
+  {
+    "funder_name": "Chandra ACIS Team",
+    "grant_number": "SV474018"
+  },
+  {
+    "funder_name": "Smithsonian Astrophysical Observatory for and on behalf of NASA",
+    "grant_number": "NAS8-03060"
+  },
+  {
+    "funder_name": "Smithsonian Astrophysical Observatory",
+    "grant_number": "SV2-82024"
+  },
+  {
+    "funder_name": "NASA",
+    "grant_number": null
+  },
+  {
+    "funder_name": "National Aeronautics and Space Administration",
+    "grant_number": null
+  },
+  {
+    "funder_name": "National Science Foundation",
+    "grant_number": null
+  }
+],
+  "authors": [
+    {
+      "name": "Konstantin Getman",
+      "affiliation": [
+        {
+          "name": "Department of Astronomy & Astrophysics, 525 Davey Laboratory, Pennsylvania State University",
+          "ror": "04p491231"
+        }
+      ],
+      "orcid": "0000-0002-6137-8280"
+    },
+    {
+      "name": "Patrick S. Broos",
+      "affiliation": [
+        {
+          "name": "Department of Astronomy & Astrophysics, 525 Davey Laboratory, Pennsylvania State University",
+          "ror": "04p491231"
+        }
+      ],
+      "orcid": "0000-0002-7872-2025"
+    },
+    {
+      "name": "Michael A. Kuhn",
+      "affiliation": [
+        {
+          "name": "Instituto de Fisica y Astronomia, Universidad de Valparaiso",
+          "ror": "00h9jrb69"
+        },
+        {
+          "name": "Millenium Institute of Astrophysics",
+          "ror": "04bpmxx45"
+        }
+      ],
+      "orcid": "0000-0002-0631-7514"
+    },
+    {
+      "name": "Eric Feigelson",
+      "affiliation": [
+        {
+          "name": "Department of Astronomy & Astrophysics, 525 Davey Laboratory, Pennsylvania State University",
+          "ror": "04p491231"
+        }
+      ],
+      "orcid": "0000-0002-5077-6734"
+    },
+    {
+      "name": "Alexander Richert",
+      "affiliation": [
+        {
+          "name": "Department of Astronomy & Astrophysics, 525 Davey Laboratory, Pennsylvania State University",
+          "ror": "04p491231"
+        }
+      ],
+      "orcid": "0000-0002-9613-6863"
+    },
+    {
+      "name": "Yosuke Ota",
+      "affiliation": [
+        {
+          "name": "Department of Astronomy & Astrophysics, 525 Davey Laboratory, Pennsylvania State University",
+          "ror": "04p491231"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Matthew Bate",
+      "affiliation": [
+        {
+          "name": "Department of Physics and Astronomy, University of Exeter",
+          "ror": "03yghzc09"
+        }
+      ],
+      "orcid": "0000-0002-2926-0493"
+    },
+    {
+      "name": "Gordon Garmire",
+      "affiliation": [
+        {
+          "name": "Huntingdon Institute for X-Ray Astronomy",
+          "ror": null
+        }
+      ],
+      "orcid": "0000-0002-7371-5416"
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100025__1612.05282v1.pdf"
+  ]
+}

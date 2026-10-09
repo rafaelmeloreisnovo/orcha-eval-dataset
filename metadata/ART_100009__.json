@@ -1,0 +1,36 @@
+{
+  "doi": null,
+  "title": "Table 4. Appendix 1 to “Spectral magnetic helicity of solar active regions” by Gosain & Brandenburg",
+  "publication_date": null,
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Sanjay Gosain",
+      "affiliation": [
+        {
+          "name": "National Solar Observatory",
+          "ror": "00b9pg524"
+        }
+      ],
+      "orcid": "0000-0002-5504-6773"
+    },
+    {
+      "name": "Axel Brandenburg",
+      "affiliation": [
+        {
+          "name": "Nordita",
+          "ror": "03r06fs10"
+        },
+        {
+          "name": "University of Colorado",
+          "ror": "054spjc55"
+        }
+      ],
+      "orcid": "0000-0002-7304-021X"
+    }
+  ],
+  "file_paths": [
+    "files/Articles/ART_100009__appendix1.pdf"
+  ]
+}

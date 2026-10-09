@@ -1,0 +1,22 @@
+{
+  "doi": null,
+  "title": "THE STATISTICAL BOOTSTRAP MODEL (THERMODYNAMICAL MODEL) OF STRONG INTERACTIONS; A GUIDE TO THE LITERATURE [STATUS OF JUNE 1972]",
+  "publication_date": "1972-07-20",
+  "language": "English",
+  "abstract": "This guide contains two tables and a list of references. It is neither complete nor unbiased. Table I gives the recommended reading sequence. After having read introductory lectures (partly overlapping) the reader should be able enter the lower boxes at any place, though it might be advantageous to follow the given sequence. The reader will notice overlaps and inconsistencies, because the reading sequence does not coincide with the historical development. Table II tries to picture the logical (and roughly the historical) connections. The isolated box with the name Koppe shall indicate that he was the first to contemplate on statistical-thermodynamical interpretations of pion production. Unfortunately his two papers came too early and went unnoticed. When two years later Fermi elaborated the same idea in great detail, he obviously had no knowledge of Koppe's work. In both tables the sequence goes along falling lines of connection, unless indicated otherwise by an arrow.",
+  "authors": [
+    {
+      "name": "Rolf Hagedorn",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100018__CM-P00058881.pdf"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "doi": null,
+  "title": "High Speed data scouting",
+  "subtitle": "Exploring RoCE and 400G Ethernet for CMS Level-1 Trigger Scouting",
+  "publication_date": "2025",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Gabriele Bortolato",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "University and INFN Padova",
+          "ror": "00z34yn88"
+        }
+      ],
+      "orcid": "0009-0009-2649-8955"
+    },
+    {
+      "name": "Matteo Migliorini",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-5441-7755"
+    }
+  ],
+  "file_paths": [
+    "files/Poster/PST_100016__Feroce400GPoster_v0.pdf"
+  ]
+}

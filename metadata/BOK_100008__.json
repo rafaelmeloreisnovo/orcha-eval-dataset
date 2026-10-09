@@ -1,0 +1,32 @@
+{
+  "doi": "10.1017/9781009401685",
+  "title": "AN INTRODUCTION TO THE STANDARD MODEL OF PARTICLE PHYSICS",
+  "publication_date": "2023",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Noel Cottingham",
+      "affiliation": [
+        {
+          "name": "University of Bristol",
+          "ror": "0524sp257"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Derek Greenwood",
+      "affiliation": [
+        {
+          "name": "University of Bristol",
+          "ror": "0524sp257"
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Book/BOK_100008__An_Introduction_to_the_Standard_Model_of_Particle_Physics.pdf"
+  ]
+}

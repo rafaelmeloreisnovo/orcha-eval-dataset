@@ -1,0 +1,72 @@
+{
+  "doi": null,
+  "title": "EFFICIENT NETWORK MONITORING FOR LARGE DATA ACQUISITION SYSTEMS",
+  "publication_date": "2011-10-05",
+  "language": "English",
+  "abstract": "Though constantly evolving and improving, the available network monitoring solutions have limitations when applied to the infrastructure of a high speed real-time data acquisition (DAQ) system. DAQ networks are particular computer networks where experts have to pay attention to both individual subsections as well as system wide traffic flows while monitoring the network. The ATLAS Network at the Large Hadron Collider (LHC) has more than 200 switches interconnecting 3500 hosts and totaling 8500 high speed links. The use of heterogeneous tools for monitoring various infrastructure parameters, in order to assure optimal DAQ system performance, proved to be a tedious and time consuming task for experts. To alleviate this problem we used our networking and DAQ expertise to build a flexible and scalable monitoring system providing an intuitive user interface with the same look and feel irrespective of the data provider that is used. Our system uses custom developed components for critical performance monitoring and seamlessly integrates complementary data from auxiliary tools, such as NAGIOS, information services or custom databases. A number of techniques (e.g. normalization, aggregation and data caching) were used in order to improve the user interface response time. The end result is a unified monitoring interface, for fast and uniform access to system statistics, which significantly reduced the time spent by experts for ad-hoc and post-mortem analysis.",
+  "authors": [
+    {
+      "name": "Dan Octavian Savu",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Brian Martin",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "A. Al-Shabibi",
+      "affiliation": [
+        {
+          "name": "Heidelberg University",
+          "ror": "04rcqnp59"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "R.Sjoen",
+      "affiliation": [
+        {
+          "name": "University of Oslo",
+          "ror": "01xtthb56"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Silvia Maria Batraneanu",
+      "affiliation": [
+        {
+          "name": "UCI, Irvine",
+          "ror": "04gyf1771"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Stefan Nicolae Stancu",
+      "affiliation": [
+        {
+          "name": "UCI, Irvine",
+          "ror": "04gyf1771"
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Experiment_note/EXN_100000__ATL-DAQ-PROC-2011-024.pdf"
+  ]
+}

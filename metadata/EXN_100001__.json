@@ -1,0 +1,22 @@
+{
+  "doi": "10.2172/2397308",
+  "title": "Selection of Λ0 Production Events in MicroBooNE",
+  "publication_date": "2021-10",
+  "language": "English",
+  "abstract": "A selection to find Cabibbo suppressed Λ production events, ν¯µ + Ar → µ+ + Λ0 + X, in the MicroBooNE detector is described. This channel is sensitive to cross section and final state interaction parameters in different ways and can help break their degeneracy. Λ0 production events are distinguished from background by the existence of a secondary vertex created when the Λ0 decays. The selection examines a list of reconstructed particles thought to be the result of a neutrino interaction, first finding a muon candidate, then a proton and π− candidate and testing their consistency with a Λ0 → p + π− decay. The selection achieves an efficiency of approximately 7% while rejecting 99.9999% of the background. This selection is designed to study neutrino interactions in the NuMI flux. After applying the selection, Monte Carlo simulation predicts 9.0 ± 0.8 (MC stat.) signal and 3.1 ± 1.4 background events when combining 1.0 × 1021 protons on target of neutrino mode flux and 1.3 × 1021 protons on target of anti-neutrino mode flux, corresponding to a significance of 2.6 σ.",
+  "authors": [
+    {
+      "name": "The MicroBooNE Collaboration",
+      "affiliation": [
+        {
+          "name": "Fermilab",
+          "ror": "020hgte69"
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Experiment_note/EXN_100001__MICROBOONE-NOTE-1097-PUB.pdf"
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "doi": "10.1109/TASC.2026.3660243",
+  "title": "Impedance Characterization of a HL-LHC Nb3Sn MQXFS Model Magnet During Powered Operation at Nominal Current",
+  "publication_date": "2026-02-06",
+  "language": "English",
+  "abstract": "Impedance measurements have long been used to study superconducting magnets in their non-energized state, providing valuable insights into their electromagnetic behaviour. However, studies involving powering have primarily been conducted at low currents, due to the impact of the power converter impedance on the measurement. This paper presents a comprehensive set of impedance measurements on the powered MQXFS7 superconducting magnet, marking the first time such measurements have been performed up to its nominal operating current of I = 16.23 kA. The magnet's impedance was characterized using two distinct measurement configurations: low-frequency (f = 10 Hz-1 kHz) and high-frequency (f = 1 kHz-45 kHz). Measurements were conducted across all powering phases (ramp-up, steady state, and ramp-down) at two cryogenic temperatures T = 1.9 K and 4.5 K. Impedance variations as a function of current were observed at T = 1.9 K, with the most notable result being an impedance shift towards the impedance measured at T=4.5K as the nominal operating current was approached. We hypothesize that this may be due to the presence of superconducting (Ti–6Al–4V) magnet poles. Being able to measure the impedance of superconducting magnets in a powered state represent a significant improvement in the understanding of impedance-based diagnostics for superconducting magnets, demonstrating their potential for characterizing magnet behaviour under operating conditions.",
+  "authors": [
+    {
+      "name": "Magnus Bøgh Borregaard Christensen",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "Aalborg University",
+          "ror": "04m5j1k67"
+        }
+      ],
+      "orcid": "0000-0001-7181-3656"
+    },
+    {
+      "name": "Mateusz Jakub Bednarek",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-9551-7720"
+    },
+    {
+      "name": "Susana Izquierdo Bermudez",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-2157-4751"
+    },
+    {
+      "name": "Reiner Denz",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-2389-9034"
+    },
+    {
+      "name": "Jerome Feuvrier",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0005-1568-2416"
+    },
+    {
+      "name": "Ariel Haziot",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-7434-2423"
+    },
+    {
+      "name": "Marvin Janitschke",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-8931-7199"
+    },
+    {
+      "name": "Peter Koch",
+      "affiliation": [
+        {
+          "name": "Aalborg University",
+          "ror": "04m5j1k67"
+        }
+      ],
+      "orcid": "0000-0002-5328-7127"
+    },
+    {
+      "name": "Jaromir Ludwin",
+      "affiliation": [
+        {
+          "name": "Institute of Nuclear Physics, Polish Academy of Sciences",
+          "ror": "01dr6c206"
+        }
+      ],
+      "orcid": "0000-0002-6920-2001"
+    },
+    {
+      "name": "Franco Mangiarotti",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-8299-0711"
+    },
+    {
+      "name": "Tomasz Podzorny",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-2704-4850"
+    },
+    {
+      "name": "Emmanuele Ravaioli",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "Lawrence Berkeley National Laboratory",
+          "ror": "02jbv0t02"
+        }
+      ],
+      "orcid": "0000-0002-7651-5313"
+    },
+    {
+      "name": "Jens Steckert",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-4648-9724"
+    },
+    {
+      "name": "Jan Uythoven",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0008-4578-8408"
+    },
+    {
+      "name": "Gerard Willering",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-0514-7488"
+    },
+    {
+      "name": "Mariusz Wozniak",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-3588-426X"
+    },
+    {
+      "name": "Jan Østergaard",
+      "affiliation": [
+        {
+          "name": "Aalborg University",
+          "ror": "04m5j1k67"
+        }
+      ],
+      "orcid": "0000-0002-3724-6114"
+    }
+  ],
+  "file_paths": [
+    "files/Articles/ART_100020__Impedance_Characterization_of_a_HL-LHC_Nb3Sn_MQXFS_Model_Magnet_During_Powered_Operation_at_Nominal_Current.pdf"
+  ]
+}

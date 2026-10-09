@@ -1,0 +1,45 @@
+{
+  "doi": null,
+  "title": "SIGNATURES OF NITROGEN CHEMISTRY IN HOT JUPITER ATMOSPHERES",
+  "publication_date": "2017-11-01",
+  "language": "English",
+  "abstract": "Inferences of molecular compositions of exoplanetary atmospheres have generally focused on carbon, hydrogen, and oxygen-bearing molecules. Recently, additional absorption in Hubble Space Telescope Wide Field Camera 3 (WFC3) transmission spectra around 1.55 μm has been attributed to nitrogen-bearing chemical species: NH3 or HCN. These species, if present in significant abundance, would be strong indicators of disequilibrium chemical processes—e.g., vertical mixing and photochemistry. The derived N abundance, in turn, could also place important constraints on planetary formation mechanisms. Here, we examine the detectability of nitrogen chemistry in exoplanetary atmospheres. In addition to the WFC3 bandpass (1.1–1.7 μm), we find that observations in the K-band at ∼2.2 μm, achievable with present ground-based telescopes, sample a strong NH3 feature, while observations at ∼3.1 μm and ∼4.0 μm sample strong HCN features. In anticipation of such observations, we predict absorption feature amplitudes due to nitrogen chemistry in the 1–5 μm spectral range possible for a typical hot Jupiter. Finally, we conduct atmospheric retrievals of nine hot Jupiter transmission spectra in search of near-infrared absorption features suggestive of nitrogen chemistry. We report weak detections of NH3 in WASP-31b (2.2σ), HCN in WASP-63b (2.3σ), and excess absorption that could be attributed to NH3 in HD 209458b. High-precision observations from 1 to 5 μm (e.g., with the James Webb Space Telescope) will enable definitive detections of nitrogen chemistry, in turn serving as powerful diagnostics of disequilibrium atmospheric chemistry and planetary formation processes.",
+  "keywords": [
+  "planets and satellites: atmospheres",
+  "methods: data analysis",
+  "techniques: spectroscopic"
+],
+  "license": null,
+  "copyright": null,
+  "funding": [
+  {
+    "funder_name": "Science and Technology Facilities Council (STFC), UK",
+    "grant_number": null
+  }
+],
+  "authors": [
+    {
+      "name": "Ryan J. MacDonald",
+      "affiliation": [
+        {
+          "name": "Institute of Astronomy, University of Cambridge",
+          "ror": "013meh722"
+        }
+      ],
+      "orcid": "0000-0003-4816-3469"
+    },
+    {
+      "name": "Nikku Madhusudhan",
+      "affiliation": [
+        {
+          "name": "Institute of Astronomy, University of Cambridge",
+          "ror": "013meh722"
+        }
+      ],
+      "orcid": "0000-0002-4869-000X"
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100024__1711.00467v1.pdf"
+  ]
+}

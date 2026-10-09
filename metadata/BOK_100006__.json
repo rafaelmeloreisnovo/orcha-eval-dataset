@@ -1,0 +1,42 @@
+{
+  "doi": null,
+  "title": "ATLAS OF PARTICLE PRODUCTION SPECTRA",
+  "publication_date": "1970",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Hartmut Grote",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-0797-3943"
+    },
+    {
+      "name": "Rolf Hagedorn",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Johannes Ranft",
+      "affiliation": [
+        {
+          "name": "Karl-Marx-Universität, Leipzig, DDR",
+          "ror": "03s7gtk40"
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Book/BOK_100006__cm-p000517821.pdf"
+  ]
+}

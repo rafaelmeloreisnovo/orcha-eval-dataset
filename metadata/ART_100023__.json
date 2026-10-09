@@ -1,0 +1,72 @@
+{
+  "doi": "10.1088/0004-637X/808/2/106",
+  "title": "MAPPING THE OUTER EDGE OF THE YOUNG STELLAR CLUSTER IN THE GALACTIC CENTER",
+  "publication_date": "2015-07-27",
+  "language": "English",
+  "abstract": "We present new near-infrared spectroscopic observations of the outer edges of the young stellar cluster around the supermassive black hole at the Galactic center. The observations show a break in the surface density profile of young stars at ∼13″ (0.52 pc). These observations spectroscopically confirm previous suggestions of a break based on photometry. Using Gemini North's Near-Infrared Integral Field Spectrometer, we are able to detect and separate early- and late-type stars with a 75% completeness at Ks = 15.5. We sample a region with radii between 7″ and 23″ (0.28–0.92 pc) from Sgr A* and present new spectral classifications of 144 stars brighter than Ks = 15.5, where 140 stars are late-type (>1 Gyr) and only four stars are early-type (young, 4–6 Myr). A broken power-law fit of the early-type surface density matches well with our data and previously published values. The projected surface density of late-type stars is also measured and found to be consistent with previous results. We find that the observed early-type surface-density profile is inconsistent with the theory of young stars originating from a tightly bound infalling cluster, as no significant trail of young stars is found at radii above 13″. We also note that either a simple disk instability criterion or a cloud–cloud collision could explain the location of the outer edge, though we lack information to make conclusive remarks on either alternative. If this break in surface density represents an edge to the young stellar cluster, it would set an important scale for the most recent episode of star formation at the Galactic center.",
+  "authors": [
+    {
+      "name": "Morten Støstad",
+      "affiliation": [
+        {
+          "name": "Department of Astronomy & Astrophysics, University of Toronto",
+          "ror": "03dbr7087"
+        }
+      ],
+      "orcid": "0000-0002-3682-2503"
+    },
+    {
+      "name": "Tuan Do",
+      "affiliation": [
+        {
+          "name": "Dunlap Institute for Astronomy and Astrophysics, University of Toronto",
+          "ror": "03dbr7087"
+        }
+      ],
+      "orcid": "0000-0001-9554-6062"
+    },
+    {
+      "name": "Norman Murray",
+      "affiliation": [
+        {
+          "name": "Canadian Institute for Theoretical Astrophysics, University of Toronto",
+          "ror": "0265wc016"
+        }
+      ],
+      "orcid": "0000-0002-8659-3729"
+    },
+    {
+      "name": "Jessica R. Lu",
+      "affiliation": [
+        {
+          "name": "Institute for Astronomy, University of Hawaii",
+          "ror": "03tzaeb71"
+        }
+      ],
+      "orcid": "0000-0001-9611-0009"
+    },
+    {
+      "name": "Sylvana Yelda",
+      "affiliation": [
+        {
+          "name": "UCLA Department of Physics and Astronomy",
+          "ror": "046rm7j60"
+        }
+      ],
+      "orcid": "0000-0001-5036-4329"
+    },
+    {
+      "name": "Andrea Ghez",
+      "affiliation": [
+        {
+          "name": "UCLA Department of Physics and Astronomy",
+          "ror": "046rm7j60"
+        }
+      ],
+      "orcid": "0000-0003-3230-5055"
+    }
+  ],
+  "file_paths": [
+    "files/Articles/ART_100023__Støstad_2015_ApJ_808_106.pdf"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "doi": null,
+  "title": "SUPERGRAVITY THEORY IN 11 DIMENSIONS",
+  "publication_date": "1978-03",
+  "language": "English",
+  "abstract": "We present the action and transformation laws of supergravity in 11 dimensions which is expected to be closely related to the 0(8) theory in 4 dimensions after dimensional reduction.",
+  "authors": [
+    {
+      "name": "Eugene Cremmer",
+      "affiliation": [
+        {
+          "name": "Laboratoire de Physique Theorique de l'Ecole Normale Superieure",
+          "ror": "03a26mh11"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Bernard Julia",
+      "affiliation": [
+        {
+          "name": "Laboratoire de Physique Theorique de l'Ecole Normale Superieure",
+          "ror": "03a26mh11"
+        }
+      ],
+      "orcid": "0000-0003-1667-6059"
+    },
+    {
+      "name": "Joel Scherk",
+      "affiliation": [
+        {
+          "name": "Laboratoire de Physique Theorique de l'Ecole Normale Superieure",
+          "ror": "03a26mh11"
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100010__7805106.pdf"
+  ]
+}

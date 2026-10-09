@@ -1,0 +1,122 @@
+{
+  "doi": " 10.1109/TASC.2026.3661477",
+  "title": "AC Loss Measurement and Validation of an HTS Soldered Stack Cable for Accelerator Magnets",
+  "publication_date": "2026-02-06",
+  "language": "English",
+  "abstract": "This work explores the use of a double-pancake coil for validating electromagnetic numerical models of HTS cables. We present a cost-effective and rapid production method using 3D- printed plastic formers. High-temperature superconducting (HTS) REBCO tapes are a promising solution for high-field magnets, par- ticularly in accelerator applications, due to their ability to maintain superconducting properties in high magnetic field and high critical current density. One of the most effective ways to utilize HTS tapes is through straight soldered stack cables, which offer excellent packing efficiency in racetrack coil geometries—ideal for Block and Common-coil dipole magnet configurations. Measurements were performed in self-field conditions in liquid nitrogen, with AC cur- rent applied at frequencies up to 20 Hz. The current was increased in steps of 5 A of peak current, reaching a maximal of 100 A—below the critical current of the tested samples. For each frequency, the AC loss dependence on peak current showed a smooth trend, while AC losses per cycle remained independent of frequency. The validation process involved finite element method (FEM) modeling, using Jc(B) interpolation from experimental data, ensuring high accuracy. Both single REBCO tapes and soldered face-to-face ca- bles were analyzed and compared to models of different modelling depth. The computational model matched the measured results with an accuracy within 10%. These findings provide a foundation for further research on the practical application of HTS straight soldered stack cables in high-field accelerator magnets.",
+  "authors": [
+    {
+      "name": "Michal Duda",
+      "affiliation": [
+        {
+          "name": "Paul Scherrer Institut PSI",
+          "ror": "03eh3y714"
+        }
+      ],
+      "orcid": "0000-0001-6420-8132"
+    },
+    {
+      "name": "Dmitry Sotnikov",
+      "affiliation": [
+        {
+          "name": "Paul Scherrer Institut PSI",
+          "ror": "03eh3y714"
+        }
+      ],
+      "orcid": "0000-0001-9603-4667"
+    },
+    {
+      "name": "Douglas Araujo",
+      "affiliation": [
+        {
+          "name": "Paul Scherrer Institut PSI",
+          "ror": "03eh3y714"
+        }
+      ],
+      "orcid": "0000-0002-5314-5428"
+    },
+    {
+      "name": "Bernhard Auchmann",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-3407-8864"
+    },
+    {
+      "name": "André Brem",
+      "affiliation": [
+        {
+          "name": "Paul Scherrer Institut PSI",
+          "ror": "03eh3y714"
+        }
+      ],
+      "orcid": "0000-0003-2981-9880"
+    },
+    {
+      "name": "Henrique Garcia Rodrigues",
+      "affiliation": [
+        {
+          "name": "Paul Scherrer Institut PSI",
+          "ror": "03eh3y714"
+        }
+      ],
+      "orcid": "0009-0008-0483-2492"
+    },
+    {
+      "name": "Thomas Hanhart",
+      "affiliation": [
+        {
+          "name": "University of Twente",
+          "ror": "006hf6230"
+        }
+      ],
+      "orcid": "0009-0009-2813-2623"
+    },
+    {
+      "name": "Anna Kario",
+      "affiliation": [
+        {
+          "name": "University of Twente",
+          "ror": "006hf6230"
+        }
+      ],
+      "orcid": "0000-0002-7241-3707"
+    },
+    {
+      "name": "Jaap Kosse",
+      "affiliation": [
+        {
+          "name": "Paul Scherrer Institut PSI",
+          "ror": "03eh3y714"
+        }
+      ],
+      "orcid": "0000-0003-2382-8495"
+    },
+    {
+      "name": "Simon Otten",
+      "affiliation": [
+        {
+          "name": "University of Twente",
+          "ror": "006hf6230"
+        }
+      ],
+      "orcid": "0000-0002-1369-6903"
+    },
+    {
+      "name": "Amalia Ballarino",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-1705-4537"
+    }
+  ],
+  "file_paths": [
+    "files/Articles/ART_100025__AC_Loss_Measurement_and_Validation_of_an_HTS_Soldered_Stack_Cable_for_Accelerator_Magnets.pdf"
+  ]
+}

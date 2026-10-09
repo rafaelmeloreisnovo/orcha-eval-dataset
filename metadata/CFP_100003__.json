@@ -1,0 +1,22 @@
+{
+  "doi": null,
+  "title": "THE ELECTRON RING ACCELERATOR",
+  "publication_date": null,
+  "language": "English",
+  "abstract": "The principles of the electron ring accelerator will be presented; along with characteristic parameters. The present status of understanding will be reviewed, with attention to the diverse phenomenon which control -- and circumscribe -- the accelerator performance. The LRL model program will be described.",
+  "authors": [
+    {
+      "name": "Andrew M. Sessler",
+      "affiliation": [
+        {
+          "name": "Lawrence Radiation Laboratory University of California, Berkeley",
+          "ror": "02jbv0t02"
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Conference_papers/CFP_100003__g-2.pdf"
+  ]
+}

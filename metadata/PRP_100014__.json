@@ -1,0 +1,78 @@
+{
+  "doi": null,
+  "title": "Roughening and dynamics of an electric flux string in a (2+1)D lattice gauge theory",
+  "publication_date": "2025-05-29",
+  "language": "English",
+  "abstract": "We investigate the roughening transition in the pure Z2 lattice gauge theory in (2+1) dimensions. Using numerical simulations with matrix product states, we explore the static and dynamical properties of an electric flux string between two static charges as the coupling is varied and approaches the deconfinement phase transition from the confined phase. Within the roughening region, we obtain the universal Lüscher correction to the confining potential and observe the expected restoration of rotational symmetry. Our simulations of the out-of-equilibrium evolution of a string reveal that the growth of the entanglement entropy of the state and the string width exhibit qualitatively different behavior in the roughening region compared to the deeply confined one. In particular, we find that the rate of entropy growth is consistent with an effective description of the string excitations by a bosonic model in the roughening phase.",
+  "authors": [
+    {
+      "name": "Francesco Di Marcantonio",
+      "affiliation": [
+        {
+          "name": "EHU Quantum Center and Department of Physical Chemistry, University of the Basque Country",
+          "ror": "000xsnr85"
+        }
+      ],
+      "orcid": "0000-0003-0634-4659"
+    },
+    {
+      "name": "Sunny Pradhan",
+      "affiliation": [
+        {
+          "name": "EHU Quantum Center and Department of Physical Chemistry, University of the Basque Country",
+          "ror": "000xsnr85"
+        }
+      ],
+      "orcid": "0000-0002-1908-8108"
+    },
+    {
+      "name": "Sofia Vallecorsa",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-7003-5765"
+    },
+    {
+      "name": "Maria Carmen Bañuls",
+      "affiliation": [
+        {
+          "name": "Max-Planck-Institut für Quantenoptik",
+          "ror": "01vekys64"
+        },
+        {
+          "name": "Munich Center for Quantum Science and Technology (MCQST)",
+          "ror": "04xrcta15"
+        }
+      ],
+      "orcid": "0000-0001-6419-6610"
+    },
+    {
+      "name": "Enrique Rico Ortega",
+      "affiliation": [
+        {
+          "name": "EHU Quantum Center and Department of Physical Chemistry, University of the Basque Country",
+          "ror": "000xsnr85"
+        },
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "Donostia International Physics Center",
+          "ror": "02e24yw40"
+        },
+        {
+          "name": "IKERBASQUE, Basque Foundation for Science",
+          "ror": "01cc3fy72"
+        }
+      ],
+      "orcid": "0000-0003-4414-6821"
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100014__2505.23853v1.pdf"
+  ]
+}

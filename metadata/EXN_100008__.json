@@ -1,0 +1,252 @@
+{
+  "doi": null,
+  "title": "Ad interim recommendations for the Higgs boson production cross sections at √s = 13.6 TeV",
+  "publication_date": "2023-05-02",
+  "language": "English",
+  "abstract": "This note documents predictions for the inclusive production cross sections of the Standard Model Higgs boson at the Large Hadron Collider at a centre of mass energy of 13.6 TeV. The predictions here are based on simple extrapolations of previously documented predictions published in the CERN Yellow Report ”Deciphering the Nature of the Higgs Sector”. The predictions documented in this note should serve as a reference while a more complete and update-to-date derivation of cross section predictions is in progress.",
+  "authors": [
+    {
+      "name": "Alexander Karlberg",
+      "affiliation": [
+        {
+          "name": "CERN, Theoretical Physics Department",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-0422-5891"
+    },
+    {
+      "name": "Julie Malcles",
+      "affiliation": [
+        {
+          "name": "IRFU, CEA, Université Paris-Saclay",
+          "ror": "05k705z76"
+        }
+      ],
+      "orcid": "0000-0002-5388-5565"
+    },
+    {
+      "name": "Bernhard Mistlberger",
+      "affiliation": [
+        {
+          "name": "SLAC National Accelerator Laboratory, Stanford University",
+          "ror": "05gzmn429"
+        }
+      ],
+      "orcid": "0000-0001-7779-8792"
+    },
+    {
+      "name": "Roberto Di Nardo",
+      "affiliation": [
+        {
+          "name": "Università degli Studi and INFN Roma Tre",
+          "ror": "009wnjh50"
+        }
+      ],
+      "orcid": "0000-0003-1111-3783"
+    },
+    {
+      "name": "Syed Haider Abidi",
+      "affiliation": [
+        {
+          "name": "Brookhaven National Laboratory",
+          "ror": "02ex6cf31"
+        }
+      ],
+      "orcid": "0000-0002-8496-9294"
+    },
+    {
+      "name": "Robin Hayes",
+      "affiliation": [
+        {
+          "name": "Nikhef",
+          "ror": "00f9tz983"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Alexander Huss",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-7799-909X"
+    },
+    {
+      "name": "Stephen Jones",
+      "affiliation": [
+        {
+          "name": "Institute for Particle Physics Phenomenology, Durham University",
+          "ror": "01v29qb04"
+        }
+      ],
+      "orcid": "0000-0003-0024-7970"
+    },
+    {
+      "name": "Gaetano Barone",
+      "affiliation": [
+        {
+          "name": "Brown University",
+          "ror": "05gq02987"
+        }
+      ],
+      "orcid": "0000-0001-5163-5936"
+    },
+    {
+      "name": "Jiayi Chen",
+      "affiliation": [
+        {
+          "name": "Department of Physics, Simon Fraser University",
+          "ror": "0213rcc28"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Stephane Cooperstein",
+      "affiliation": [
+        {
+          "name": "University of California San Diego",
+          "ror": "0168r3w48"
+        }
+      ],
+      "orcid": "0000-0003-0262-3132"
+    },
+    {
+      "name": "Silvia Ferrario Ravasio",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-0280-3758"
+    },
+    {
+      "name": "Mathieu Pellen",
+      "affiliation": [
+        {
+          "name": "Physikalisches Institut, Albert-Ludwigs-Universität Freiburg",
+          "ror": "0245cg223"
+        }
+      ],
+      "orcid": "0000-0001-5324-2765"
+    },
+    {
+      "name": "Hannah Arnold",
+      "affiliation": [
+        {
+          "name": "Nikhef",
+          "ror": "00f9tz983"
+        }
+      ],
+      "orcid": "0000-0003-3578-2228"
+    },
+    {
+      "name": "Calandri Alessandro",
+      "affiliation": [
+        {
+          "name": "ETH Zurich—Institute for Particle Physics and Astrophysics (IPA)",
+          "ror": "01cgmpb23"
+        }
+      ],
+      "orcid": "0000-0001-7774-0099"
+    },
+    {
+      "name": "Suman Chatterjee",
+      "affiliation": [
+        {
+          "name": "Institute of High Energy Physics (HEPHY), Austrian Academy of Sciences (ÖAW)",
+          "ror": "039shy520"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Giancarlo Ferrera",
+      "affiliation": [
+        {
+          "name": "Università degli Studi di Milano & INFN, Sezione di Milano",
+          "ror": "03xejxm22"
+        }
+      ],
+      "orcid": "0000-0002-4559-0740"
+    },
+    {
+      "name": "Ciaran Williams",
+      "affiliation": [
+        {
+          "name": "Department of Physics, University at Buffalo, The State University of New York",
+          "ror": "05ms04m92"
+        }
+      ],
+      "orcid": "0000-0002-7330-9485"
+    },
+    {
+      "name": "Malgorzata Worek",
+      "affiliation": [
+        {
+          "name": "Institute for Theoretical Particle Physics and Cosmology, RWTH Aachen University",
+          "ror": "04xfq0f34"
+        }
+      ],
+      "orcid": "0000-0002-6495-9136"
+    },
+    {
+      "name": "Marco Zaro",
+      "affiliation": [
+        {
+          "name": "Università degli Studi di Milano & INFN, Sezione di Milano",
+          "ror": "03xejxm22"
+        }
+      ],
+      "orcid": "0000-0002-3279-7355"
+    },
+    {
+      "name": "Chayanit Asawatangtrakuldee",
+      "affiliation": [
+        {
+          "name": "Department of Physics, Faculty of Science, Chulalongkorn University",
+          "ror": "028wp3y58"
+        }
+      ],
+      "orcid": "0000-0003-2234-7219"
+    },
+    {
+      "name": "Timothy Barklow",
+      "affiliation": [
+        {
+          "name": "SLAC National Accelerator Laboratory, Stanford University",
+          "ror": "05gzmn429"
+        }
+      ],
+      "orcid": "0000-0002-7709-037X"
+    },
+    {
+      "name": "Michael Spira",
+      "affiliation": [
+        {
+          "name": "Paul Scherrer Institut",
+          "ror": "03eh3y714"
+        }
+      ],
+      "orcid": "0000-0003-4409-1285"
+    },
+    {
+      "name": "Marius Wiesemann",
+      "affiliation": [
+        {
+          "name": "Max-Planck-Institut für Physik",
+          "ror": "0079jjr10"
+        }
+      ],
+      "orcid": "0000-0002-3527-3653"
+    }
+  ],
+  "file_paths": [
+    "files/Experiment_note/EXN_100008__2402.09955.pdf"
+  ]
+}

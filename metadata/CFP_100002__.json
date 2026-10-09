@@ -1,0 +1,190 @@
+{
+  "doi": "10.1088/1748-0221/21/01/C01008",
+  "title": "Up-to-date test beam results of ATLAS ITk pixel sensors and modules",
+  "publication_date": "2026-01-09",
+  "language": "English",
+  "abstract": "The ATLAS Inner Detector will be replaced by a new all-silicon Inner Tracker (ITk) in 2029 to meet the challenges of the High Luminosity LHC (HL-LHC). The ITk pixel system combines 3D sensors at the innermost layer, operating after exposure to fluences of up to 2 × 1016 neq/cm2, with thin n-in-p planar modules in the outer layers. Beam tests are essential for qualifying these sensors and modules before and after irradiation. Recent test beam campaigns in 2024 evaluated new fabrication techniques, thick planar sensors, and modules with the latest ITkPixV2 readout chip, while the 2025 program introduces novel 3D triplet and planar quad configurations. Recent test beam results will be presented here, highlighting sensor performance and readiness of the ITk pixel detectors for HL-LHC operation.",
+  "authors": [
+    {
+      "name": "Andre Rummler",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-8945-8760"
+    },
+    {
+      "name": "Martina Ressegotti",
+      "affiliation": [
+        {
+          "name": "INFN Sezione di Genova",
+          "ror": "02v89pq06"
+        },
+        {
+          "name": "Università di Genova",
+          "ror": "0107c5v14"
+        }
+      ],
+      "orcid": "0000-0002-6777-1761"
+    },
+    {
+      "name": "Md Arif Abdulla Samy",
+      "affiliation": [
+        {
+          "name": "University of Glasgow",
+          "ror": "00vtgdb53"
+        }
+      ],
+      "orcid": "0009-0003-1603-8759"
+    },
+    {
+      "name": "Matias Mantinan",
+      "affiliation": [
+        {
+          "name": "University of Chicago",
+          "ror": "024mw5h28"
+        }
+      ],
+      "orcid": "0009-0005-4380-9533"
+    },
+    {
+      "name": "Marek Strnad",
+      "affiliation": [
+        {
+          "name": "Czech Technical University in Prague",
+          "ror": "03kqpb082"
+        }
+      ],
+      "orcid": "0009-0000-8246-3823"
+    },
+    {
+      "name": "Simone Ravera",
+      "affiliation": [
+        {
+          "name": "INFN Sezione di Genova",
+          "ror": "02v89pq06"
+        },
+        {
+          "name": "Università di Genova",
+          "ror": "0107c5v14"
+        }
+      ],
+      "orcid": "0000-0002-3976-0985"
+    },
+    {
+      "name": "Leonardo Toffolin",
+      "affiliation": [
+        {
+          "name": "Università degli Studi di Udine",
+          "ror": "05ht0mh31"
+        }
+      ],
+      "orcid": "0000-0001-7170-410X"
+    },
+    {
+      "name": "Dmytro Hohov",
+      "affiliation": [
+        {
+          "name": "IJCLab, Université Paris-Saclay",
+          "ror": "03xjwb503"
+        }
+      ],
+      "orcid": "0000-0002-4760-1597"
+    },
+    {
+      "name": "Ali Skaf",
+      "affiliation": [
+        {
+          "name": "Georg-August-Universität Göttingen",
+          "ror": "01y9bpm73"
+        }
+      ],
+      "orcid": "0000-0003-3614-026X"
+    },
+    {
+      "name": "Simon Huiberts",
+      "affiliation": [
+        {
+          "name": "University of Bergen",
+          "ror": "03zga2b32"
+        }
+      ],
+      "orcid": "0000-0002-3277-7418"
+    },
+    {
+      "name": "Christian Krause",
+      "affiliation": [
+        {
+          "name": "Technische Universität Dortmund",
+          "ror": "01k97gp34"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Simen Hellesund",
+      "affiliation": [
+        {
+          "name": "University of Bergen",
+          "ror": "03zga2b32"
+        }
+      ],
+      "orcid": "0000-0002-4424-4643"
+    },
+    {
+      "name": "L. Foster",
+      "affiliation": [
+        {
+          "name": "Lawrence Berkeley National Laboratories",
+          "ror": "02jbv0t02"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Luc Le Pottier",
+      "affiliation": [
+        {
+          "name": "Lawrence Berkeley National Laboratories",
+          "ror": "02jbv0t02"
+        }
+      ],
+      "orcid": "0000-0002-2625-5648"
+    },
+    {
+      "name": "Serafima Nechaeva",
+      "affiliation": [
+        {
+          "name": "INFN Sezione di Bologna",
+          "ror": "04j0x0h93"
+        }
+      ],
+      "orcid": "0000-0002-0623-9034"
+    },
+    {
+      "name": "Giuseppe Carratta",
+      "affiliation": [
+        {
+          "name": "INFN Sezione di Bologna",
+          "ror": "04j0x0h93"
+        }
+      ],
+      "orcid": "0000-0002-8846-2714"
+    },
+    {
+      "name": "Lingxin Meng",
+      "affiliation": [
+        {
+          "name": "Lancaster University",
+          "ror": "04f2nsd36"
+        }
+      ],
+      "orcid": "0000-0002-2901-6589"
+    }
+  ],
+  "file_paths": [
+    "files/Conference_papers/CFP_100002__Rummler_2026_J._Inst._21_C01008.pdf"
+  ]
+}

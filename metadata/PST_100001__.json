@@ -1,0 +1,26 @@
+{
+  "doi": null,
+  "title": "FPGA-Optimized ML for low-latency electron identification and pT regression with the CMS Phase-2 L1 trigger",
+  "publication_date": null,
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "PIERO VISCONE",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "University of Zürich",
+          "ror": "02crff812"
+        }
+      ],
+      "orcid": "000-0002-7267-5555"
+    }
+  ],
+  "file_paths": [
+    "files/Poster/PST_100001__CMS_P2L1T_Electron_ID_regression.pdf"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "doi": "10.1007/978-3-031-91167-5",
+  "title": "Together Again for Geodesy",
+  "subtitle": "Proceedings of the General Assembly of the International Association of Geodesy, Berlin, Germany, 11–20 July, 2023",
+  "publication_date": "2025",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Jeffrey Freymueller",
+      "affiliation": [
+        {
+          "name": "Endowed Chair for Geology of the Solid Earth Department of Earth and Environmental Sciences Michigan State University",
+          "ror": "05hs6h993"
+        }
+      ],
+      "orcid": "0000-0003-0614-0306"
+    },
+    {
+      "name": "Laura Sánchez",
+      "affiliation": [
+        {
+          "name": "Deutsches Geodätisches Forschungsinstitut Technische Universität München",
+          "ror": "02kkvpp62"
+        }
+      ],
+      "orcid": "0000-0002-3885-0436"
+    }
+  ],
+  "file_paths": [
+    "files/Book/BOK_100011__978-3-031-91167-5.pdf"
+  ]
+}

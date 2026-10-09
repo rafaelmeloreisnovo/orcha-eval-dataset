@@ -1,0 +1,23 @@
+{
+  "doi": null,
+  "title": "Task 1.7: Common software developments for heterogeneous architectures",
+  "subtitle": "Next Generation Triggers WP1 Intro",
+  "publication_date": "2024-01-08",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Axel Naumann",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-4725-0766"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100007__NGT-WP1-Intro-Task1.7-2024-02-08.pdf"
+  ]
+}

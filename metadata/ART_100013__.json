@@ -1,0 +1,172 @@
+{
+  "doi": "10.1103/1jh5-65xh",
+  "title": "RF characterization of 1.3 GHz one-cell Nb/Cu full-seamless cavities manufactured by hydroforming",
+  "publication_date": "2026-03-02",
+  "language": "English",
+  "abstract": "In this study, we employ hydroforming technology to develop a 1.3 GHz one-cell Nb/Cu full-seamless cavity to reduce cost and improve performance. Superconducting radiofrequency (SRF) cavities made of pure niobium are expensive because of the material’s high cost and the complex manufacturing process, which involves electron beam welding. To overcome these challenges, extensive research has been conducted on using copper substrates coated with niobium, leveraging hydroforming to eliminate welding and seams, thereby reducing cost and simplifying production. The hydroforming process involves expanding oxygen-free copper tubes in two steps, followed by vacuum annealing to recover elongation. This method exhibited high productivity, with forming times of 51 and 78 s for the two steps. However, the process introduced surface roughness, compromising optimal rf performance. Following hydroforming, the cavities were coated with niobium via high-power impulse magnetron sputtering. This coating method ensured excellent film adhesion and can withstand high-pressure water rinsing. We conducted rf measurements of the cavities, achieving an accelerating gradient of 12 MV=m at 4.2 K. The quality factor was slightly below requirements, attributed to surface roughness from the hydroforming process. The maximum accelerating gradient reached 15.7 MV=m at 1.85 K with no field emission. We demonstrate the advantages of full-seamless cavities, including reduced manufacturing costs, high reproducibility, and the elimination of welding seams that can introduce defects. However, challenges such as surface roughness and its impact on the rf performance must still be addressed. This study makes a significant contribution to the development of cost-effective, high-performance SRF cavities for coating studies.",
+  "authors": [
+    {
+      "name": "Masashi Yamanaka",
+      "affiliation": [
+        {
+          "name": "High Energy Accelerator Research Organization (KEK)",
+          "ror": "01g5y5k24"
+        }
+      ],
+      "orcid": "0000-0002-3478-2157"
+    },
+    {
+      "name": "Marco Garlaschè",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-1923-7417"
+    },
+    {
+      "name": "Joanna Sylwia Swieszek",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Guillaume Jonathan Rosaz",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-5987-128X"
+    },
+    {
+      "name": "Hayato Araki",
+      "affiliation": [
+        {
+          "name": "High Energy Accelerator Research Organization (KEK)",
+          "ror": "01g5y5k24"
+        }
+      ],
+      "orcid": "0000-0003-1322-185X"
+    },
+    {
+      "name": "Kristof Brunner",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-0294-3726"
+    },
+    {
+      "name": "Said Atieh",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Carlota P. A. Carlos",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-3813-5811"
+    },
+    {
+      "name": "Adrià Gallifa Terricabras",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-8640-2673"
+    },
+    {
+      "name": "Valentin Giglia",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-4239-2332"
+    },
+    {
+      "name": "Shinichi Iwamoto",
+      "affiliation": [
+        {
+          "name": "Neuron Japan Co., Ltd.",
+          "ror": null
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Shinichiro Michizono",
+      "affiliation": [
+        {
+          "name": "High Energy Accelerator Research Organization (KEK)",
+          "ror": "01g5y5k24"
+        }
+      ],
+      "orcid": "0000-0002-8327-2954"
+    },
+    {
+      "name": "Yuya Nishi",
+      "affiliation": [
+        {
+          "name": "Neuron Japan Co., Ltd.",
+          "ror": null
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Kazuki Nishimori",
+      "affiliation": [
+        {
+          "name": "Neuron Japan Co., Ltd.",
+          "ror": null
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Walter Venturini Delsolaro",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "000-0002-1183-9675"
+    },
+    {
+      "name": "Akira Yamamoto",
+      "affiliation": [
+        {
+          "name": "High Energy Accelerator Research Organization (KEK)",
+          "ror": "01g5y5k24"
+        }
+      ],
+      "orcid": "0000-0002-5351-5169"
+    }
+  ],
+  "file_paths": [
+    "files/Articles/ART_100013__1jh5-65xh.pdf"
+  ]
+}

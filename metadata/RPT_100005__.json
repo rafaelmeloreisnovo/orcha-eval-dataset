@@ -1,0 +1,1222 @@
+{
+  "doi": null,
+  "title": "Report on the ECFA Early-Career Researchers Debate on the 2020 European Strategy Update for Particle Physics",
+  "publication_date": "2020-02-06",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Nansi Andari",
+      "affiliation": [
+        {
+          "name": "CEA, Saclay",
+          "ror": "01fv25t22"
+        }
+      ],
+      "orcid": "0000-0002-4935-4753"
+    },
+    {
+      "name": "Liliana Apolinário",
+      "affiliation": [
+        {
+          "name": "LIP",
+          "ror": "01hys1667"
+        }
+      ],
+      "orcid": "0000-0003-3500-9681"
+    },
+    {
+      "name": "Kamil Augsten",
+      "affiliation": [
+        {
+          "name": "Czech Technical University",
+          "ror": "03kqpb082"
+        }
+      ],
+      "orcid": "0000-0001-8324-0576"
+    },
+    {
+      "name": "Evelin Bakos",
+      "affiliation": [
+        {
+          "name": "Institute of Physics Belgrade",
+          "ror": "04h3h5b09"
+        }
+      ],
+      "orcid": "0000-0002-1110-4433"
+    },
+    {
+      "name": "Ignasi Bellafont",
+      "affiliation": [
+        {
+          "name": "CELLS-ALBA",
+          "ror": "02j9n6e35"
+        }
+      ],
+      "orcid": "0009-0003-9148-9090"
+    },
+    {
+      "name": "Lydia Beresford",
+      "affiliation": [
+        {
+          "name": "The University of Oxford",
+          "ror": "052gg0110"
+        }
+      ],
+      "orcid": "0000-0002-3080-1824"
+    },
+    {
+      "name": "Agni Bethani",
+      "affiliation": [
+        {
+          "name": "Universite catholique de Louvain",
+          "ror": "02495e989"
+        }
+      ],
+      "orcid": "0000-0002-8150-7043"
+    },
+    {
+      "name": "Julien-Christopher Beyer",
+      "affiliation": [
+        {
+          "name": "DESY Hamburg",
+          "ror": "01js2sh04"
+        }
+      ],
+      "orcid": "0000-0002-2942-1330"
+    },
+    {
+      "name": "Lorenzo Bianchini",
+      "affiliation": [
+        {
+          "name": "INFN Sezione di Pisa",
+          "ror": "05symbg58"
+        }
+      ],
+      "orcid": "0000-0002-6598-6865"
+    },
+    {
+      "name": "Christian Bierlich",
+      "affiliation": [
+        {
+          "name": "Lund University",
+          "ror": "012a77v79"
+        }
+      ],
+      "orcid": "0000-0002-3978-6085"
+    },
+    {
+      "name": "Bugra Bilin",
+      "affiliation": [
+        {
+          "name": "ULB/IIHE",
+          "ror": "040w2dm02"
+        }
+      ],
+      "orcid": "0000-0003-1439-7128"
+    },
+    {
+      "name": "K. L. Bjørke",
+      "affiliation": [
+        {
+          "name": "University of Oslo",
+          "ror": "01xtthb56"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Emil Sørensen Bols",
+      "affiliation": [
+        {
+          "name": "Vrije Universiteit Brussel",
+          "ror": "006e5kg04"
+        }
+      ],
+      "orcid": "0000-0002-8564-8732"
+    },
+    {
+      "name": "Paulo Brás",
+      "affiliation": [
+        {
+          "name": "Laboratory of Instrumentation and Experimental Particle Physics",
+          "ror": "01hys1667"
+        }
+      ],
+      "orcid": "0000-0001-7012-9932"
+    },
+    {
+      "name": "Lydia Brenner",
+      "affiliation": [
+        {
+          "name": "DESY - Deutsches Elektronen-SYnchrotron",
+          "ror": "01js2sh04"
+        }
+      ],
+      "orcid": "0000-0001-5350-7081"
+    },
+    {
+      "name": "Erica Brondolin",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-5420-586X"
+    },
+    {
+      "name": "Pedro Calvo",
+      "affiliation": [
+        {
+          "name": "Centro de Investigaciones Energeticas, Medioambientales y Tecnologicas (CIEMAT)",
+          "ror": "05xx77y52"
+        }
+      ],
+      "orcid": "0000-0002-1383-2813"
+    },
+    {
+      "name": "Bernat Capdevila",
+      "affiliation": [
+        {
+          "name": "Institut de Fisica d'Altes Energies",
+          "ror": "01sdrjx85"
+        }
+      ],
+      "orcid": "0000-0001-8719-5653"
+    },
+    {
+      "name": "Irina Cioara",
+      "affiliation": [
+        {
+          "name": "Horia Hulubei National Institute for R&D in Physics and Nuclear Engineering",
+          "ror": "00d3pnh21"
+        }
+      ],
+      "orcid": "0000-0002-9224-3784"
+    },
+    {
+      "name": "Lucian-Nicolae Cojocariu",
+      "affiliation": [
+        {
+          "name": "Horia Hulubei National Institute for R&D in Physics and Nuclear Engineering (IFIN-HH)",
+          "ror": "00d3pnh21"
+        }
+      ],
+      "orcid": "0000-0002-1281-5923"
+    },
+    {
+      "name": "Francesco Collamati",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare, Sezione di Roma",
+          "ror": "05eva6s33"
+        }
+      ],
+      "orcid": "0000-0001-6341-0128"
+    },
+    {
+      "name": "Adinda de Wit",
+      "affiliation": [
+        {
+          "name": "DESY",
+          "ror": "01js2sh04"
+        }
+      ],
+      "orcid": "0000-0002-5291-1661"
+    },
+    {
+      "name": "Francesca Dordei",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare (INFN), sezione di Cagliari",
+          "ror": "03paz5966"
+        }
+      ],
+      "orcid": "0000-0002-2571-5067"
+    },
+    {
+      "name": "Milos Dordevic",
+      "affiliation": [
+        {
+          "name": "VINCA Institute of Nuclear Sciences, University of Belgrade",
+          "ror": "04wecwh56"
+        }
+      ],
+      "orcid": "0000-0002-8407-3236"
+    },
+    {
+      "name": "Tristan du Pree",
+      "affiliation": [
+        {
+          "name": "Nikhef, National Institute of Subatomic Physics",
+          "ror": "00f9tz983"
+        }
+      ],
+      "orcid": "0000-0001-8703-7938"
+    },
+    {
+      "name": "Laurent Dufour",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-3924-2774"
+    },
+    {
+      "name": "Agnieszka Dziurda",
+      "affiliation": [
+        {
+          "name": "Institute of Nuclear Physics Polish Academy of Science",
+          "ror": "01n78t774"
+        }
+      ],
+      "orcid": "0000-0003-4338-7156"
+    },
+    {
+      "name": "Ulrich Einhaus",
+      "affiliation": [
+        {
+          "name": "DESY",
+          "ror": "01js2sh04"
+        }
+      ],
+      "orcid": "0000-0002-6470-5566"
+    },
+    {
+      "name": "Alison Elliot",
+      "affiliation": [
+        {
+          "name": "Queen Mary University of London",
+          "ror": "026zzn846"
+        }
+      ],
+      "orcid": "0000-0003-0921-0314"
+    },
+    {
+      "name": "Selda Esen",
+      "affiliation": [
+        {
+          "name": "Nikhef, Science Park",
+          "ror": "00f9tz983"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jose Ferradas Troitino",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-7874-9722"
+    },
+    {
+      "name": "Celso Franco",
+      "affiliation": [
+        {
+          "name": "LIP",
+          "ror": "01hys1667"
+        }
+      ],
+      "orcid": "0000-0003-2729-4064"
+    },
+    {
+      "name": "Julián García Pardiñas",
+      "affiliation": [
+        {
+          "name": "Universitat Zurich",
+          "ror": "02crff812"
+        }
+      ],
+      "orcid": "0000-0003-2316-8829"
+    },
+    {
+      "name": "Andrea García Alonso",
+      "affiliation": [
+        {
+          "name": "IFCA",
+          "ror": "040kx1j83"
+        }
+      ],
+      "orcid": "0000-0002-9566-7793"
+    },
+    {
+      "name": "Aishik Ghosh",
+      "affiliation": [
+        {
+          "name": "Universite Paris-Saclay",
+          "ror": "03xjwb503"
+        }
+      ],
+      "orcid": "0000-0003-0819-1553"
+    },
+    {
+      "name": "Gabriel Gilles",
+      "affiliation": [
+        {
+          "name": "Bergische Universitat Wuppertal",
+          "ror": "00613ak93"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Anna Giribono",
+      "affiliation": [
+        {
+          "name": "INFN - LNF",
+          "ror": "049jf1a25"
+        }
+      ],
+      "orcid": "0000-0002-9565-2209"
+    },
+    {
+      "name": "Loukas Gouskos",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-9547-7471"
+    },
+    {
+      "name": "Emanuel Gouveia",
+      "affiliation": [
+        {
+          "name": "LIP",
+          "ror": "01hys1667"
+        }
+      ],
+      "orcid": "0000-0002-7785-2047"
+    },
+    {
+      "name": "Elena Graverini",
+      "affiliation": [
+        {
+          "name": "Ecole Polytechnique Federale de Lausanne (EPFL)",
+          "ror": "02s376052"
+        }
+      ],
+      "orcid": "0000-0003-4647-6429"
+    },
+    {
+      "name": "Jaana Heikkilä",
+      "affiliation": [
+        {
+          "name": "University of Zurich",
+          "ror": "02crff812"
+        }
+      ],
+      "orcid": "0000-0002-0538-1469"
+    },
+    {
+      "name": "Natalie Heracleous",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-2744-7238"
+    },
+    {
+      "name": "Tomas Herman",
+      "affiliation": [
+        {
+          "name": "Czech Technical University in Prague",
+          "ror": "03kqpb082"
+        }
+      ],
+      "orcid": "0000-0003-4004-5265"
+    },
+    {
+      "name": "Nils Hermansson-Truedsson",
+      "affiliation": [
+        {
+          "name": "Lund University (Currently at Universitat Bern)",
+          "ror": "012a77v79"
+        }
+      ],
+      "orcid": "0000-0003-3619-2916"
+    },
+    {
+      "name": "Jaroslava Hrtankova",
+      "affiliation": [
+        {
+          "name": "Nuclear Physics Institute of the Czech Academy of Sciences",
+          "ror": "04jymbd90"
+        }
+      ],
+      "orcid": "0000-0002-0468-1726"
+    },
+    {
+      "name": "Priya Sajid Hussain",
+      "affiliation": [
+        {
+          "name": "HEPHY",
+          "ror": "039shy520"
+        }
+      ],
+      "orcid": "0000-0002-4825-5278"
+    },
+    {
+      "name": "Adrian Irles",
+      "affiliation": [
+        {
+          "name": "Universite Paris-Saclay",
+          "ror": "03xjwb503"
+        }
+      ],
+      "orcid": "0000-0001-5668-151X"
+    },
+    {
+      "name": "Hendrik Jansen",
+      "affiliation": [
+        {
+          "name": "DESY",
+          "ror": "01js2sh04"
+        }
+      ],
+      "orcid": "0000-0001-8853-7635"
+    },
+    {
+      "name": "Piotr Kalaczynski",
+      "affiliation": [
+        {
+          "name": "NCBJ",
+          "ror": "00nzsxq20"
+        }
+      ],
+      "orcid": "0000-0001-9278-5906"
+    },
+    {
+      "name": "János Karancsi",
+      "affiliation": [
+        {
+          "name": "Institute for Nuclear Research (ATOMKI)",
+          "ror": "006vxbq87"
+        }
+      ],
+      "orcid": "0000-0003-0802-7665"
+    },
+    {
+      "name": "Pantelis Kontaxakis",
+      "affiliation": [
+        {
+          "name": "National and Kapodistrian University of Athens",
+          "ror": "04gnjpq42"
+        }
+      ],
+      "orcid": "0000-0002-4860-5979"
+    },
+    {
+      "name": "Sofia Kostoglou",
+      "affiliation": [
+        {
+          "name": "National Technical University of Athens (NTUA)",
+          "ror": "03cx6bg69"
+        }
+      ],
+      "orcid": "0000-0002-7387-904X"
+    },
+    {
+      "name": "Aimilianos Koulouris",
+      "affiliation": [
+        {
+          "name": "NTU Athens",
+          "ror": "03cx6bg69"
+        }
+      ],
+      "orcid": "0000-0003-1012-4675"
+    },
+    {
+      "name": "Michal Koval",
+      "affiliation": [
+        {
+          "name": "Charles University",
+          "ror": "024d6js02"
+        }
+      ],
+      "orcid": "0000-0002-6027-317X"
+    },
+    {
+      "name": "Katarina Krizkova Gajdosova",
+      "affiliation": [
+        {
+          "name": "Czech Technical University in Prague",
+          "ror": "03kqpb082"
+        }
+      ],
+      "orcid": "0000-0002-5569-1254"
+    },
+    {
+      "name": "Janina Krzysiak",
+      "affiliation": [
+        {
+          "name": "IFJ PAN (Institute of Nuclear Physics, Polish Academy of Sciences)",
+          "ror": "01n78t774"
+        }
+      ],
+      "orcid": "0000-0002-1214-9262"
+    },
+    {
+      "name": "Magdalena Kuich",
+      "affiliation": [
+        {
+          "name": "University of Warsaw",
+          "ror": "039bjqg32"
+        }
+      ],
+      "orcid": "0000-0002-6507-8699"
+    },
+    {
+      "name": "Oliver Lantwin",
+      "affiliation": [
+        {
+          "name": "University of Zurich",
+          "ror": "02crff812"
+        }
+      ],
+      "orcid": "0000-0003-2384-5973"
+    },
+    {
+      "name": "Federico Lasagni Manghi",
+      "affiliation": [
+        {
+          "name": "INFN Bologna",
+          "ror": "04j0x0h93"
+        }
+      ],
+      "orcid": "0000-0001-6068-4473"
+    },
+    {
+      "name": "Lukas Lechner",
+      "affiliation": [
+        {
+          "name": "Institute for High Energy Physics",
+          "ror": "039shy520"
+        }
+      ],
+      "orcid": "0000-0002-3065-1141"
+    },
+    {
+      "name": "Stefanos Leontsinis",
+      "affiliation": [
+        {
+          "name": "University of Zurich",
+          "ror": "02crff812"
+        }
+      ],
+      "orcid": "0000-0002-7561-6091"
+    },
+    {
+      "name": "Kilian Lieret",
+      "affiliation": [
+        {
+          "name": "Ludwig Maximilian University",
+          "ror": "05591te55"
+        }
+      ],
+      "orcid": "0000-0003-2792-7511"
+    },
+    {
+      "name": "Artur Lobanov",
+      "affiliation": [
+        {
+          "name": "Ecole Polytechnique",
+          "ror": "05hy3tk52"
+        }
+      ],
+      "orcid": "0000-0002-5376-0877"
+    },
+    {
+      "name": "Jeanette Lorenz",
+      "affiliation": [
+        {
+          "name": "LMU Muenchen",
+          "ror": "05591te55"
+        }
+      ],
+      "orcid": "0000-0001-6530-1873"
+    },
+    {
+      "name": "Grazia Luparello",
+      "affiliation": [
+        {
+          "name": "Istituto Nazionale di Fisica Nucleare (INFN), sezione di Trieste",
+          "ror": "05j3snm48"
+        }
+      ],
+      "orcid": "0000-0002-9901-2014"
+    },
+    {
+      "name": "Nicolas Lurkin",
+      "affiliation": [
+        {
+          "name": "University of Birmingham",
+          "ror": "03angcq70"
+        }
+      ],
+      "orcid": "0000-0002-9440-5927"
+    },
+    {
+      "name": "Katja Mankinen",
+      "affiliation": [
+        {
+          "name": "Lund University",
+          "ror": "012a77v79"
+        }
+      ],
+      "orcid": "0000-0001-7357-9648"
+    },
+    {
+      "name": "Elisa Manoni",
+      "affiliation": [
+        {
+          "name": "INFN Sezione di Perugia",
+          "ror": "05478fx36"
+        }
+      ],
+      "orcid": "0000-0002-9826-7947"
+    },
+    {
+      "name": "Luca Mantani",
+      "affiliation": [
+        {
+          "name": "Universite catholique de Louvain",
+          "ror": "02495e989"
+        }
+      ],
+      "orcid": "0000-0001-6089-4673"
+    },
+    {
+      "name": "Radoslav Marchevski",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-3410-0918"
+    },
+    {
+      "name": "Carla Marin Benito",
+      "affiliation": [
+        {
+          "name": "Universite Paris-Saclay",
+          "ror": "03xjwb503"
+        }
+      ],
+      "orcid": "0000-0003-0529-6982"
+    },
+    {
+      "name": "Abhijit Mathad",
+      "affiliation": [
+        {
+          "name": "Universitat Zurich",
+          "ror": "02crff812"
+        }
+      ],
+      "orcid": "0000-0002-9428-4715"
+    },
+    {
+      "name": "Josh McFayden",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-9273-2564"
+    },
+    {
+      "name": "Predrag Milenovic",
+      "affiliation": [
+        {
+          "name": "University of Belgrade",
+          "ror": "02qsmb048"
+        }
+      ],
+      "orcid": "0000-0001-7132-3550"
+    },
+    {
+      "name": "Vukasin Milosevic",
+      "affiliation": [
+        {
+          "name": "Imperial College London, Blackett Laboratory",
+          "ror": "041kmwe10"
+        }
+      ],
+      "orcid": "0000-0002-1173-0696"
+    },
+    {
+      "name": "Dominik Stefan Mitzel",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-3650-2689"
+    },
+    {
+      "name": "Zuzana Moravcova",
+      "affiliation": [
+        {
+          "name": "Niels Bohr Institute, University of Copenhagen",
+          "ror": "035b05819"
+        }
+      ],
+      "orcid": "0000-0002-4512-1645"
+    },
+    {
+      "name": "Louis Moureaux",
+      "affiliation": [
+        {
+          "name": "ULB",
+          "ror": "01r9htc13"
+        }
+      ],
+      "orcid": "0000-0002-2310-9266"
+    },
+    {
+      "name": "Geoffrey Mullier",
+      "affiliation": [
+        {
+          "name": "Lund University",
+          "ror": "012a77v79"
+        }
+      ],
+      "orcid": "0000-0001-6771-0937"
+    },
+    {
+      "name": "Mark Everett Nelson",
+      "affiliation": [
+        {
+          "name": "Stockholm University and The Oskar Klein Centre for Cosmoparticle Physics",
+          "ror": "05f0yaq80"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jennifer Ngadiuba",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-0055-2935"
+    },
+    {
+      "name": "Nikiforos Nikiforou",
+      "affiliation": [
+        {
+          "name": "University of Texas at Austin",
+          "ror": "00hj54h04"
+        }
+      ],
+      "orcid": "0000-0003-1267-7740"
+    },
+    {
+      "name": "M. W. OKeefe",
+      "affiliation": [
+        {
+          "name": "University of Liverpool, The Oliver Lodge Laboratory",
+          "ror": "04xs57h96"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Rute Pedro",
+      "affiliation": [
+        {
+          "name": "LIP, Avenida Professor Gama Pinto 2, Lisbon, Portugal",
+          "ror": "01hys1667"
+        }
+      ],
+      "orcid": "0000-0002-7139-9587"
+    },
+    {
+      "name": "Juska Pekkanen",
+      "affiliation": [
+        {
+          "name": "University at Buffalo",
+          "ror": "01y64my43"
+        }
+      ],
+      "orcid": "0000-0002-6681-7668"
+    },
+    {
+      "name": "Michaela Queitsch-Maitland",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-4643-515X"
+    },
+    {
+      "name": "Maria Ramos",
+      "affiliation": [
+        {
+          "name": "LIP",
+          "ror": "01hys1667"
+        }
+      ],
+      "orcid": "0000-0001-7743-7364"
+    },
+    {
+      "name": "Chris Ørum Rasmussen",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-6029-1730"
+    },
+    {
+      "name": "Jonas Rembser",
+      "affiliation": [
+        {
+          "name": "CNRS/IN2P3, Institut Polytechnique de Paris, Ecole Polytechnique",
+          "ror": "042tfbd02"
+        }
+      ],
+      "orcid": "0000-0002-0632-2970"
+    },
+    {
+      "name": "Elliot Reynolds",
+      "affiliation": [
+        {
+          "name": "University of Birmingham, Edgbaston, Birmingham, United Kingdom",
+          "ror": "03angcq70"
+        }
+      ],
+      "orcid": "0000-0002-1506-5750"
+    },
+    {
+      "name": "Mike Sas",
+      "affiliation": [
+        {
+          "name": "Nikhef/Utrecht University, Science Park 105, Amsterdam, Netherlands",
+          "ror": "00f9tz983"
+        }
+      ],
+      "orcid": "0000-0003-1419-2085"
+    },
+    {
+      "name": "Robert Schofbeck",
+      "affiliation": [
+        {
+          "name": "HEPHY, Nikolsdorfergasse 18, Vienna, Austria",
+          "ror": "039shy520"
+        }
+      ],
+      "orcid": "0000-0002-2332-8784"
+    },
+    {
+      "name": "Michael Schenk",
+      "affiliation": [
+        {
+          "name": "EPFL",
+          "ror": "02s376052"
+        }
+      ],
+      "orcid": "0000-0001-9438-812X"
+    },
+    {
+      "name": "Patrick Schwendimann",
+      "affiliation": [
+        {
+          "name": "Paul Scherrer Institute",
+          "ror": "03eh3y714"
+        }
+      ],
+      "orcid": "0000-0003-1354-1386"
+    },
+    {
+      "name": "Ksenia Shchelina",
+      "affiliation": [
+        {
+          "name": "LIP, Av. Prof. Gama Pinto 2, Lisbon, Portugal",
+          "ror": "01hys1667"
+        }
+      ],
+      "orcid": "0000-0003-3742-0693"
+    },
+    {
+      "name": "Mariana Shopova",
+      "affiliation": [
+        {
+          "name": "Institute for Nuclear Research and Nuclear Energy (INRNE)",
+          "ror": "0276rjc88"
+        }
+      ],
+      "orcid": "0000-0001-6664-2493"
+    },
+    {
+      "name": "Sezen Sekmen",
+      "affiliation": [
+        {
+          "name": "Kyungpook National University",
+          "ror": "040c17130"
+        }
+      ],
+      "orcid": "0000-0003-1726-5681"
+    },
+    {
+      "name": "Simon Spannagel",
+      "affiliation": [
+        {
+          "name": "DESY",
+          "ror": "01js2sh04"
+        }
+      ],
+      "orcid": "0000-0003-4708-3774"
+    },
+    {
+      "name": "Iwona Sputowska",
+      "affiliation": [
+        {
+          "name": "The Henryk Niewodniczanski Institute of Nuclear Physics Polish Academy of Sciences",
+          "ror": "01n78t774"
+        }
+      ],
+      "orcid": "0000-0002-7590-7171"
+    },
+    {
+      "name": "Rafał Staszewski",
+      "affiliation": [
+        {
+          "name": "Institute of Nuclear Physics Polish Academy of Sciences",
+          "ror": "01n78t774"
+        }
+      ],
+      "orcid": "0000-0001-7708-9259"
+    },
+    {
+      "name": "Paweł Sznajder",
+      "affiliation": [
+        {
+          "name": "National Centre for Nuclear Research (NCBJ)",
+          "ror": "00nzsxq20"
+        }
+      ],
+      "orcid": "0000-0002-2684-803X"
+    },
+    {
+      "name": "Adam Takacs",
+      "affiliation": [
+        {
+          "name": "University of Bergen",
+          "ror": "03zga2b32"
+        }
+      ],
+      "orcid": "0000-0003-3572-831X"
+    },
+    {
+      "name": "Valentin Tenorth",
+      "affiliation": [
+        {
+          "name": "Max-Planck-Institut fur Kernphysik",
+          "ror": "052d0h423"
+        }
+      ],
+      "orcid": "0000-0002-6811-3584"
+    },
+    {
+      "name": "L. Thomas",
+      "affiliation": [
+        {
+          "name": "ULB, Boulevard du Triomphe 2, Bruxelles, Belgium",
+          "ror": "01r9htc13"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Riccardo Torre",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-8832-5488"
+    },
+    {
+      "name": "Fabrizio Trovato",
+      "affiliation": [
+        {
+          "name": "University of Sussex",
+          "ror": "00ayhx656"
+        }
+      ],
+      "orcid": "0000-0003-1041-9131"
+    },
+    {
+      "name": "M. Valente",
+      "affiliation": [
+        {
+          "name": "Universite de Geneve",
+          "ror": "01swzsf04"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Hans Van Haevermaet",
+      "affiliation": [
+        {
+          "name": "University Of Antwerp",
+          "ror": "008x57b05"
+        }
+      ],
+      "orcid": "0000-0003-2386-957X"
+    },
+    {
+      "name": "Jan Vanek",
+      "affiliation": [
+        {
+          "name": "Nuclear Physics Institute, Czech Academy of Sciences",
+          "ror": "04jymbd90"
+        }
+      ],
+      "orcid": "0000-0002-3410-038X"
+    },
+    {
+      "name": "Maja Verstraeten",
+      "affiliation": [
+        {
+          "name": "Universiteit Antwerpen",
+          "ror": "008x57b05"
+        }
+      ],
+      "orcid": "0000-0002-6972-7625"
+    },
+    {
+      "name": "Piet Verwilligen",
+      "affiliation": [
+        {
+          "name": "INFN sezione di Bari",
+          "ror": "022hq6c49"
+        }
+      ],
+      "orcid": "0000-0002-9285-8631"
+    },
+    {
+      "name": "Mauro Verzetti",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-9958-0663"
+    },
+    {
+      "name": "Vytautas Vislavicius",
+      "affiliation": [
+        {
+          "name": "University of Copenhagen",
+          "ror": "035b05819"
+        }
+      ],
+      "orcid": "0000-0003-3477-5800"
+    },
+    {
+      "name": "Benedikt Vormwald",
+      "affiliation": [
+        {
+          "name": "University of Hamburg",
+          "ror": "00g30e956"
+        }
+      ],
+      "orcid": "0000-0003-2607-7287"
+    },
+    {
+      "name": "Emmanouil Vourliotis",
+      "affiliation": [
+        {
+          "name": "National and Kapodistrian University of Athens",
+          "ror": "04gnjpq42"
+        }
+      ],
+      "orcid": "0000-0002-2270-0492"
+    },
+    {
+      "name": "James Walder",
+      "affiliation": [
+        {
+          "name": "Lancaster University",
+          "ror": "04f2nsd36"
+        }
+      ],
+      "orcid": "0000-0002-9039-8758"
+    },
+    {
+      "name": "Craig Wiglesworth",
+      "affiliation": [
+        {
+          "name": "University of Copenhagen",
+          "ror": "035b05819"
+        }
+      ],
+      "orcid": "0000-0001-6219-8946"
+    },
+    {
+      "name": "Sarah Williams",
+      "affiliation": [
+        {
+          "name": "University of Cambridge",
+          "ror": "013meh722"
+        }
+      ],
+      "orcid": "0000-0001-6174-401X"
+    },
+    {
+      "name": "Anna Zaborowska",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-6210-1921"
+    },
+    {
+      "name": "Daniele Zanzi",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-1222-7937"
+    },
+    {
+      "name": "Lidija Zivkovic",
+      "affiliation": [
+        {
+          "name": "Institute of Physics Belgrade",
+          "ror": "04h3h5b09"
+        }
+      ],
+      "orcid": "0000-0003-4236-8930"
+    }
+  ],
+  "file_paths": [
+    "files/Reports/RPT_100005__CERN-OPEN-2020-006.pdf"
+  ]
+}

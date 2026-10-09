@@ -1,0 +1,36 @@
+{
+  "doi": null,
+  "title": "LARGE INFRA-RED CORRECTIONS IN QCD PROCESSES",
+  "publication_date": "1979-11-26",
+  "language": "English",
+  "abstract": "The effect of soft gluon emission in hard processes is examined to all orders in QCDo Large corrections have been found, which sensibly modify the parton model results, and show the relevance of the appropriate kinematical limits in leptoproduction and in the Drell-Yan processo",
+  "authors": [
+    {
+      "name": "Giuseppe Curci",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Mario Greco",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "Laboratori Nazionali INFN, Frascati, Italy",
+          "ror": "049jf1a25"
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100012__8001025.pdf"
+  ]
+}

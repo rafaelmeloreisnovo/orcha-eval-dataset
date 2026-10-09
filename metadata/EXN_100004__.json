@@ -1,0 +1,22 @@
+{
+  "doi": null,
+  "title": "Search for type-III seesaw heavy leptons in leptonic final states in p p collisions at √s = 13TeV with the ATLAS detector",
+  "publication_date": "2021-06-07",
+  "language": "English",
+  "abstract": "A search for the pair production of heavy leptons as predicted by the type-III seesaw mechanism is presented. The search uses proton–proton collision data at a centre-of-mass energy of 13 TeV, corresponding to 139 fb−1 of integrated luminosity recorded by the ATLAS detector during Run 2 of the Large Hadron Collider. The analysis focuses on final states with three or four electrons or muons from the possible decays of new heavy leptons via intermediate electroweak bosons. No significant deviations above the Standard Model expectation are observed and upper and lower limits on the production cross-section and on the heavy lepton masses are derived. These results are then combined for the first time with the ones already published by ATLAS using the channel with two leptons in the final state. The observed lower limit on the mass of the type-III seesaw heavy leptons combining two, three and four lepton channels together is 910 GeV at the 95% confidence level.",
+  "authors": [
+    {
+      "name": "The ATLAS Collaboration",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Experiment_note/EXN_100004__ATLAS-CONF-2021-023.pdf"
+  ]
+}

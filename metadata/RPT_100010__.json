@@ -1,0 +1,23 @@
+{
+  "doi": "10.5170/CERN-2016-001",
+  "title": "Proceedings of the CAS - CERN Accelerator School: Plasma Wake Acceleration",
+  "subtitle": "Geneva, Switzerland, 23–29 November 2014",
+  "publication_date": "2016-01-29",
+  "language": "English",
+  "abstract": "These proceedings are of interest to staff and students in accelerator laboratories, university departments and companies working in or having an interest in the field of new acceleration techniques. Following introductory lectures on plasma and laser physics, the course covers the different components of a plasma wake accelerator and plasma beam systems. Topical seminars and an overview about alternative new techniques like dielectric accelerators are included. Lectures on the experimental studies and their latest results, on diagnostic tools and state of the art wake acceleration facilities, both present and planned, complement the theoretical part.",
+  "authors": [
+    {
+      "name": "Bernhard Holzer",
+      "affiliation": [
+        {
+          "name": "Organiser and Chair of the CERN Accelerator School on Plasma Wake Acceleration",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-8972-2883"
+    }
+  ],
+  "file_paths": [
+    "files/Reports/RPT_100010__CERN-2016-001.pdf"
+  ]
+}

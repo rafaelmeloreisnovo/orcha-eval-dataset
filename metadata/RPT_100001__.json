@@ -1,0 +1,124 @@
+{
+  "doi": null,
+  "title": "Empfehlung an die Konsortien und Mitglieder des Vereins Nationale Forschungsdateninfrastruktur (NFDI) e.V. zum Nachweis von NFDI-Datenrepositorien in re3data",
+  "publication_date": "2026-06-29",
+  "language": "German",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Leyla Jael Castro",
+      "affiliation": [
+        {
+          "name": "ZB MED - Information Centre for Life Sciences",
+          "ror": "0259fwx54"
+        }
+      ],
+      "orcid": "0000-0003-3986-0510"
+    },
+    {
+      "name": "Heike Fliegl",
+      "affiliation": [
+        {
+          "name": "FIZ Karlsruhe – Leibniz Institute for Information Infrastructure",
+          "ror": "0387prb75"
+        }
+      ],
+      "orcid": "0000-0002-7541-115X"
+    },
+    {
+      "name": "Christin Henzen",
+      "affiliation": [
+        {
+          "name": "Technische Universität Dresden",
+          "ror": "042aqky30"
+        }
+      ],
+      "orcid": "0000-0002-5181-4368"
+    },
+    {
+      "name": "Matthias Löbe",
+      "affiliation": [
+        {
+          "name": "Leipzig University",
+          "ror": "03s7gtk40"
+        }
+      ],
+      "orcid": "0000-0002-2344-0426"
+    },
+    {
+      "name": "Oliver Koepler",
+      "affiliation": [
+        {
+          "name": " TIB - Leibniz Informationszentrum Technik und Naturwissenschaften",
+          "ror": "04aj4c181"
+        }
+      ],
+      "orcid": "0000-0003-3385-4232"
+    },
+    {
+      "name": "Charlotte Neidiger",
+      "affiliation": [
+        {
+          "name": "Karlsruhe Institute of Technology",
+          "ror": "04t3en479"
+        }
+      ],
+      "orcid": "0009-0005-1794-3632"
+    },
+    {
+      "name": "Emanuel Söding",
+      "affiliation": [
+        {
+          "name": "GEOMAR Helmholtz Centre for Ocean Research Kiel",
+          "ror": "02h2x0161"
+        }
+      ],
+      "orcid": "0000-0002-4467-642X"
+    },
+    {
+      "name": "Thorsten Trippel",
+      "affiliation": [
+        {
+          "name": "Leibniz Institute for the German Language",
+          "ror": "00hvwkt50"
+        },
+        {
+          "name": "University of Tübingen",
+          "ror": "03a1kwz48"
+        }
+      ],
+      "orcid": "0000-0002-7211-7393"
+    },
+    {
+      "name": "Ulrik Stervbo",
+      "affiliation": [
+        {
+          "name": "Ruhr-Universität Bochum Medizinische Fakultät",
+          "ror": "04tsk2644"
+        },
+        {
+          "name": "Charité - Universitätsmedizin Berlin",
+          "ror": "001w7jn25"
+        }
+      ],
+      "orcid": "0000-0002-2831-8868"
+    },
+    {
+      "name": "Cord Wiljes",
+      "affiliation": [
+        {
+          "name": "Nationale Forschungsdateninfrastruktur (NFDI) e.V.",
+          "ror": "05qj6w324"
+        },
+        {
+          "name": "Bielefeld University",
+          "ror": "02hpadn98"
+        }
+      ],
+      "orcid": "0000-0003-2528-5391"
+    }
+  ],
+  "file_paths": [
+    "files/Reports/RPT_100001__2026-06-29 Empfehlung Kuratierung NFDI Repos in re3data.pdf"
+  ]
+}

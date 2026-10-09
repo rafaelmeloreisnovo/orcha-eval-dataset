@@ -1,0 +1,26 @@
+{
+  "doi": "10.1007/s42452-022-05122-9",
+  "title": "Influence of the high granularity calorimeter stainless steel absorbers onto the Compact Muon Solenoid inner magnetic field",
+  "publication_date": "2022-07-27",
+  "language": "English",
+  "abstract": "The Compact Muon Solenoid (CMS) detector is a general-purpose experimental setup at the Large Hadron Collider (LHC) at CERN to investigate the production of new particles in the proton-proton collisions at a centre of mass energy 13 TeV. The third run of the data taken is started in April 2022 and will continue till the end of 2025. Then, during a long shutdown time, the existing CMS hadron endcap calorimeter will be replaced with a new high granularity calorimeter (HGCal) designed for the higher LHC luminosity. The HGCal contains the stainless-steel absorber plates with a relative permeability limited by a value of 1.05 from estimation of the electromagnetic forces acting on this slightly magnetic material. To exclude the surprises with possible perturbation of the inner magnetic flux density in the region of the charged particle tracking system, an influence of this additional material onto the quality of the magnetic field inside the inner tracker volume is investigated at this limited value of the permeability of stainless steel. The three-dimensional model of the CMS magnet is used for this purpose. The method of the magnetic field double integrals characterizing the charged particle momentum resolution the first time is applied to the CMS detector and the first time is described in the journal publication. The results obtained with this method are presented in detail and discussed.",
+  "authors": [
+    {
+      "name": "Vyacheslav Klyukhin",
+      "affiliation": [
+        {
+          "name": "Skobeltsyn Institute of Nuclear Physics, Lomonosov Moscow State University",
+          "ror": "010pmpe69"
+        },
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-8577-6531"
+    }
+  ],
+  "file_paths": [
+    "files/Articles/ART_100028__s42452-022-05122-9.pdf"
+  ]
+}

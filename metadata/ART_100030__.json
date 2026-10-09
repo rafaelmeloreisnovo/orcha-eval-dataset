@@ -1,0 +1,120 @@
+{
+  "doi": "10.1063/5.0326525",
+  "title": "Anisotropic crystallization of orthorhombic ScSi on Si(001) substrates",
+  "publication_date": "2026-04-10",
+  "language": "English",
+  "abstract": "Scandium-based silicides have attracted attention as new contact materials for ultimately scaled CMOS devices. Excellent contact properties in combination with P-doped Si have been demonstrated. However, as opposed to the conventional Ti, Co and Ni silicides, little is known about the formation mechanisms and properties of Sc silicides. This manuscript therefore reports on the formation and structural properties of orthorhombic ScSi silicide formed by solid state reaction between a sputter deposited 15 nm Sc film and a Si(001) substrate. Synchrotron X-ray diffraction (XRD) pole figures, in combination with cross section transmission electron microscopy, are leveraged to determine the texture of ScSi. An epitaxial texture with two different components is evidenced. Large (≳ 20 nm) grains, having a minimal defectivity originating from the lattice mismatch between the silicide and the substrate, are distinguished from small (≲ 5 nm) nanotwinned grains. The formation of these two sets of grains is investigated by in situ XRD. Due to a solid state amorphization reaction between Sc and Si, the formation of orthorhombic ScSi is preceded by the formation of an amorphous ScSi phase. Orthorhombic ScSi formation is initiated at ~320°C by the crystallization of small nuclei at the interface with Si, as evidenced for the first time by cross sectional transmission electron microscopy. These nuclei share a singular epitaxial orientation, corresponding to the one of the large grains in the final ScSi film. Further crystallization occurs anisotropically in the lateral direction. Along the c-axis, the initial epitaxial orientation is maintained. However, along the a-axis, twin defects are generated, resulting in the small grain size.",
+  "authors": [
+    {
+      "name": "Bert Pollefliet",
+      "affiliation": [
+        {
+          "name": "Department of Materials Engineering, KU Leuven",
+          "ror": "05f950310"
+        },
+        {
+          "name": "imec",
+          "ror": "02kcbn207"
+        }
+      ],
+      "orcid": "0000-0003-3663-8842"
+    },
+    {
+      "name": "Clement Porret",
+      "affiliation": [
+        {
+          "name": "imec",
+          "ror": "02kcbn207"
+        }
+      ],
+      "orcid": "0000-0002-4561-348X"
+    },
+    {
+      "name": "Jean-Luc Everaert",
+      "affiliation": [
+        {
+          "name": "imec",
+          "ror": "02kcbn207"
+        }
+      ],
+      "orcid": "0000-0002-0660-9090"
+    },
+    {
+      "name": "Kiroubanand Sankaran",
+      "affiliation": [
+        {
+          "name": "imec",
+          "ror": "02kcbn207"
+        }
+      ],
+      "orcid": "0000-0001-6988-7269"
+    },
+    {
+      "name": "Olivier Richard",
+      "affiliation": [
+        {
+          "name": "imec",
+          "ror": "02kcbn207"
+        }
+      ],
+      "orcid": "0000-0002-3994-8021"
+    },
+    {
+      "name": "Han Han",
+      "affiliation": [
+        {
+          "name": "imec",
+          "ror": "02kcbn207"
+        }
+      ],
+      "orcid": "0000-0003-2169-8332"
+    },
+    {
+      "name": "Roger Loo",
+      "affiliation": [
+        {
+          "name": "imec",
+          "ror": "02kcbn207"
+        },
+        {
+          "name": "Department of Solid State Sciences, Ghent University",
+          "ror": "00cv9y106"
+        }
+      ],
+      "orcid": "0000-0003-3513-6058"
+    },
+    {
+      "name": "Christophe Detavernier",
+      "affiliation": [
+        {
+          "name": "Department of Solid State Sciences, Ghent University",
+          "ror": "00cv9y106"
+        }
+      ],
+      "orcid": "0000-0001-7653-0858"
+    },
+    {
+      "name": "André Vantomme",
+      "affiliation": [
+        {
+          "name": "Quantum Solid State Physics, KU Leuven",
+          "ror": "05f950310"
+        }
+      ],
+      "orcid": "0000-0001-9158-6534"
+    },
+    {
+      "name": "Clement Merckling",
+      "affiliation": [
+        {
+          "name": "Quantum Solid State Physics, KU Leuven",
+          "ror": "05f950310"
+        }
+      ],
+      "orcid": "0000-0003-3084-2543"
+    }
+  ],
+  "file_paths": [
+    "files/Articles/ART_100030__AnisotropicCrystallization.pdf"
+  ]
+}

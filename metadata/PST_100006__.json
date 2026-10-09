@@ -1,0 +1,216 @@
+{
+  "doi": "10.1016/j.jcyt.2026.102246",
+  "title": "INDUCED MESENCHYMAL STEM/STROMAL CELLS (MSC) PRODUCE LESS SYSTEMIC CELLULAR IMMUNE RESPONSE THAN PRIMARY MSC AFTER IN VIVO ALLOGENEIC ADMINISTRATION IN THE HORSE",
+  "publication_date": null,
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Elvira Bernad",
+      "affiliation": [
+        {
+          "name": "Laboratorio de Genética Bioquímica LAGENBIO (Universidad de Zaragoza)",
+          "ror": "012a91z28"
+        },
+        {
+          "name": "Instituto Agroalimentario de Aragón-IA2 (Universidad de Zaragoza-CITA)",
+          "ror": "012a91z28"
+        },
+        {
+          "name": "Instituto de Investigación Sanitaria de Aragón (IIS)",
+          "ror": "03njn4610"
+        }
+      ],
+      "orcid": "0000-0002-9710-0395"
+    },
+    {
+      "name": "Belén Serrano",
+      "affiliation": [
+        {
+          "name": "Laboratorio de Genética Bioquímica LAGENBIO (Universidad de Zaragoza)",
+          "ror": "012a91z28"
+        },
+        {
+          "name": "Instituto Agroalimentario de Aragón-IA2 (Universidad de Zaragoza-CITA)",
+          "ror": "012a91z28"
+        },
+        {
+          "name": "Instituto de Investigación Sanitaria de Aragón (IIS)",
+          "ror": "03njn4610"
+        }
+      ],
+      "orcid": "0009-0006-0349-2209"
+    },
+    {
+      "name": "Arantza Vitoria",
+      "affiliation": [
+        {
+          "name": "Laboratorio de Genética Bioquímica LAGENBIO (Universidad de Zaragoza)",
+          "ror": "012a91z28"
+        },
+        {
+          "name": "Instituto Agroalimentario de Aragón-IA2 (Universidad de Zaragoza-CITA)",
+          "ror": "012a91z28"
+        },
+        {
+          "name": "Instituto de Investigación Sanitaria de Aragón (IIS)",
+          "ror": "03njn4610"
+        },
+        {
+          "name": "Servicio de Cirugía y Medicina Equina, Hospital Veterinario, Universidad de Zaragoza",
+          "ror": "012a91z28"
+        }
+      ],
+      "orcid": "0000-0003-1286-4968"
+    },
+    {
+      "name": "Antonio Romero",
+      "affiliation": [
+        {
+          "name": "Laboratorio de Genética Bioquímica LAGENBIO (Universidad de Zaragoza)",
+          "ror": "012a91z28"
+        },
+        {
+          "name": "Instituto Agroalimentario de Aragón-IA2 (Universidad de Zaragoza-CITA)",
+          "ror": "012a91z28"
+        },
+        {
+          "name": "Instituto de Investigación Sanitaria de Aragón (IIS)",
+          "ror": "03njn4610"
+        },
+        {
+          "name": "Servicio de Cirugía y Medicina Equina, Hospital Veterinario, Universidad de Zaragoza",
+          "ror": "012a91z28"
+        }
+      ],
+      "orcid": "0000-0001-7188-0461"
+    },
+    {
+      "name": "Francisco José Vázquez",
+      "affiliation": [
+        {
+          "name": "Laboratorio de Genética Bioquímica LAGENBIO (Universidad de Zaragoza)",
+          "ror": "012a91z28"
+        },
+        {
+          "name": "Instituto Agroalimentario de Aragón-IA2 (Universidad de Zaragoza-CITA)",
+          "ror": "012a91z28"
+        },
+        {
+          "name": "Instituto de Investigación Sanitaria de Aragón (IIS)",
+          "ror": "03njn4610"
+        },
+        {
+          "name": "Servicio de Cirugía y Medicina Equina, Hospital Veterinario, Universidad de Zaragoza",
+          "ror": "012a91z28"
+        }
+      ],
+      "orcid": "0000-0002-8712-2275"
+    },
+    {
+      "name": "Sara Fuente",
+      "affiliation": [
+        {
+          "name": "Laboratorio de Genética Bioquímica LAGENBIO (Universidad de Zaragoza)",
+          "ror": "012a91z28"
+        },
+        {
+          "name": "Instituto Agroalimentario de Aragón-IA2 (Universidad de Zaragoza-CITA)",
+          "ror": "012a91z28"
+        },
+        {
+          "name": "Instituto de Investigación Sanitaria de Aragón (IIS)",
+          "ror": "03njn4610"
+        },
+        {
+          "name": "Servicio de Cirugía y Medicina Equina, Hospital Veterinario, Universidad de Zaragoza",
+          "ror": "012a91z28"
+        }
+      ],
+      "orcid": "0000-0002-6409-6000"
+    },
+    {
+      "name": "Pilar Zaragoza",
+      "affiliation": [
+        {
+          "name": "Laboratorio de Genética Bioquímica LAGENBIO (Universidad de Zaragoza)",
+          "ror": "012a91z28"
+        },
+        {
+          "name": "Instituto Agroalimentario de Aragón-IA2 (Universidad de Zaragoza-CITA)",
+          "ror": "012a91z28"
+        },
+        {
+          "name": "Instituto de Investigación Sanitaria de Aragón (IIS)",
+          "ror": "03njn4610"
+        }
+      ],
+      "orcid": "0000-0001-5740-0185"
+    },
+    {
+      "name": "Clementina Rodellar",
+      "affiliation": [
+        {
+          "name": "Laboratorio de Genética Bioquímica LAGENBIO (Universidad de Zaragoza)",
+          "ror": "012a91z28"
+        },
+        {
+          "name": "Instituto Agroalimentario de Aragón-IA2 (Universidad de Zaragoza-CITA)",
+          "ror": "012a91z28"
+        },
+        {
+          "name": "Instituto de Investigación Sanitaria de Aragón (IIS)",
+          "ror": "03njn4610"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Alina Cequier",
+      "affiliation": [
+        {
+          "name": "Laboratorio de Genética Bioquímica LAGENBIO (Universidad de Zaragoza)",
+          "ror": "012a91z28"
+        },
+        {
+          "name": "Instituto Agroalimentario de Aragón-IA2 (Universidad de Zaragoza-CITA)",
+          "ror": "012a91z28"
+        },
+        {
+          "name": "Instituto de Investigación Sanitaria de Aragón (IIS)",
+          "ror": "03njn4610"
+        },
+        {
+          "name": "Servicio de Cirugía y Medicina Equina, Hospital Veterinario, Universidad de Zaragoza",
+          "ror": "012a91z28"
+        }
+      ],
+      "orcid": "0000-0002-1481-9805"
+    },
+    {
+      "name": "Laura Barrachina",
+      "affiliation": [
+        {
+          "name": "Laboratorio de Genética Bioquímica LAGENBIO (Universidad de Zaragoza)",
+          "ror": "012a91z28"
+        },
+        {
+          "name": "Instituto Agroalimentario de Aragón-IA2 (Universidad de Zaragoza-CITA)",
+          "ror": "012a91z28"
+        },
+        {
+          "name": "Instituto de Investigación Sanitaria de Aragón (IIS)",
+          "ror": "03njn4610"
+        },
+        {
+          "name": "Servicio de Cirugía y Medicina Equina, Hospital Veterinario, Universidad de Zaragoza",
+          "ror": "012a91z28"
+        }
+      ],
+      "orcid": "0000-0001-9818-508X"
+    }
+  ],
+  "file_paths": [
+    "files/Poster/PST_100006__ISCT2026_Cocultivos invivo.pdf"
+  ]
+}

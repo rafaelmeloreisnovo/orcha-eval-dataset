@@ -1,0 +1,23 @@
+{
+  "doi": "10.5281/zenodo.20136367",
+  "title": "Observatorio de la Digitalización del Sector Agroalimentario Español",
+  "subtitle": "Sesión IV: Robotización en la industria agroalimentaria",
+  "publication_date": "2025-04-22",
+  "language": "Spanish",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Luis Emmi",
+      "affiliation": [
+        {
+          "name": "CSIC Consejo Superior de Investigaciones Científicas",
+          "ror": "02gfc7t72"
+        }
+      ],
+      "orcid": "0000-0003-4030-1038"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100002__robotizacion_agroalimentaria.pdf"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "doi": null,
+  "title": "WP1: “TH” tasks",
+  "subtitle": "1.4 1.5 1.6",
+  "publication_date": null,
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Michelangelo Mangano",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-0886-3789"
+    },
+    {
+      "name": "Andreas Jüttner",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100005__Mangano_WP1overview.pdf"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "doi": null,
+  "title": "Efficient Data Movement for Machine Learning Inference in Heterogeneous CMS Software",
+  "publication_date": null,
+  "language": "English",
+  "abstract": "Machine learning (ML) on GPUs is often slowed by redundant data movement between GPU memory and tensor formats. We present a new interface that converts Structure-of-Arrays (SoA) data directly into PyTorch tensors. This avoids explicit transfers, computes strides for different data types, and uses metadata to define tensor layouts for direct GPU access. Our approach eliminates unnecessary memory copies and accelerates model execution. By integrating with the alpaka library, it also supports heterogeneous environments. The result is improved GPU efficiency and simplified integration of ML models into high-performance workflows. It enables linear conversion time and depending on the size of the input data, this saved up to 500 ms in the benchmarks.",
+  "authors": [
+    {
+      "name": "Christine Zeh",
+      "affiliation": [
+        {
+          "name": "Technical University Vienna",
+          "ror": "04vev9295"
+        },
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0004-1093-8657"
+    },
+    {
+      "name": "Łukasz Michalski",
+      "affiliation": [
+        {
+          "name": "Wroclaw University of Science and Technology",
+          "ror": "008fyn775"
+        },
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0008-1635-1514"
+    },
+    {
+      "name": "Leonardo Beltrame",
+      "affiliation": [
+        {
+          "name": "Polytechnic of Milan",
+          "ror": "01nffqt88"
+        },
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0006-5994-0170"
+    },
+    {
+      "name": "Davide Valsecchi",
+      "affiliation": [
+        {
+          "name": "ETH Zurich",
+          "ror": "05a28rw58"
+        }
+      ],
+      "orcid": "0000-0001-8587-8266"
+    },
+    {
+      "name": "Felice Pantaleo",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-3266-4357"
+    },
+    {
+      "name": "Eric Cano",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0002-1025-9801"
+    }
+  ],
+  "file_paths": [
+    "files/Poster/PST_100010__ACAT__Efficient_Data_Movement.pdf"
+  ]
+}

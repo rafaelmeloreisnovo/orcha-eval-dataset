@@ -1,0 +1,62 @@
+{
+  "doi": "10.5281/zenodo.5504246",
+  "title": "Ascidias",
+  "publication_date": null,
+  "language": "Spanish",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Rosana M. Rocha",
+      "affiliation": [
+        {
+          "name": "UFPR",
+          "ror": "05syd6y78"
+        }
+      ],
+      "orcid": "0000-0001-6712-7960"
+    },
+    {
+      "name": "Lilian A. Palomino-Alvarez",
+      "affiliation": [
+        {
+          "name": "UNAM",
+          "ror": "01tmp8f25"
+        }
+      ],
+      "orcid": "0000-0002-2560-9416"
+    },
+    {
+      "name": "Diana Ugalde",
+      "affiliation": [
+        {
+          "name": "PCMyL, UNAM",
+          "ror": "01tmp8f25"
+        }
+      ],
+      "orcid": "0000-0003-2084-0114"
+    },
+    {
+      "name": "Nuno Simoes",
+      "affiliation": [
+        {
+          "name": "UNAM",
+          "ror": "01tmp8f25"
+        }
+      ],
+      "orcid": "0000-0001-7490-3147"
+    },
+    {
+      "name": "Alberto Guerra",
+      "affiliation": [
+        {
+          "name": "UFPR",
+          "ror": "05syd6y78"
+        }
+      ],
+      "orcid": "0009-0008-0843-4184"
+    }
+  ],
+  "file_paths": [
+    "files/Poster/PST_100007__Ascidias_CC.pdf"
+  ]
+}

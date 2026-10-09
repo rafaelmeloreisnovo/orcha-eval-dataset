@@ -1,0 +1,160 @@
+{
+  "doi": "10.5281/zenodo.18273630",
+  "title": "Μυθοτοπία, η εκπαιδευτική εφαρμογή",
+  "publication_date": "2022-10-20",
+  "language": "Greek",
+  "abstract": "Το έργο «Μυθολογικές Διαδρομές στην Ανατολική Μακεδονία και Θράκη» έχει στόχο να αναδείξει τον πολιτισμικό πλούτο της Περιφέρειας Ανατολικής Μακεδονίας και Θράκης (Π.Α.Μ.Θ.) ως άξονα τουριστικής ανάπτυξης της περιοχής, με αφετηρία τη συστηματική καταγραφή, χαρτογράφηση και ανάδειξη των μύθων που αναφέρονται σε περιοχές της Π.Α.Μ.Θ. Το έργο υλοποιείται από το ΙΕΛ/Ε.Κ. Αθηνά-Παράρτημα Ξάνθης και το ΤΕΦ/Δημοκρίτειο Πανεπιστήμιο Θράκης. Το υλικό που συλλέχθηκε από την έρευνα αξιοποιήθηκε για την ανάπτυξη εκπαιδευτικής εφαρμογής που απευθύνεται σε διδάσκοντες και μαθητές όλων των βαθμίδων εκπαίδευσης. Η διάρκεια του έργου είναι από 02/12/2020 έως 15/05/2023.",
+  "authors": [
+    {
+      "name": "Panagiotis Karioris",
+      "affiliation": [
+        {
+          "name": "Institute for Language and Speech Processing",
+          "ror": "00z24kr14"
+        }
+      ],
+      "orcid": "0000-0002-2912-589X"
+    },
+    {
+      "name": "Anna Vacalopoulou",
+      "affiliation": [
+        {
+          "name": "Institute for Language and Speech Processing",
+          "ror": "00z24kr14"
+        }
+      ],
+      "orcid": "0000-0002-1509-2951"
+    },
+    {
+      "name": "Giorgos Giannopoulos",
+      "affiliation": [
+        {
+          "name": "Athena Research and Innovation Center in Information Communication and Knowledge Technologies",
+          "ror": "0576by029"
+        },
+        {
+          "name": "National Observatory of Athens",
+          "ror": "03dtebk39"
+        }
+      ],
+      "orcid": "0000-0002-8252-9869"
+    },
+    {
+      "name": "Voula Giouli",
+      "affiliation": [
+        {
+          "name": "Institute for Language and Speech Processing",
+          "ror": "00z24kr14"
+        }
+      ],
+      "orcid": "0000-0002-1501-9754"
+    },
+    {
+      "name": "Athanasios Doupas",
+      "affiliation": [
+        {
+          "name": null,
+          "ror": null
+        }
+      ],
+      "orcid": "0000-0002-4695-6791"
+    },
+    {
+      "name": "Natasa Michailidou",
+      "affiliation": [
+        {
+          "name": "Athena Research Center",
+          "ror": "0576by029"
+        }
+      ],
+      "orcid": "0000-0003-0049-5560"
+    },
+    {
+      "name": "Yiannis Mourthos",
+      "affiliation": [
+        {
+          "name": "Institouto Epexergasias tou Logou-Xanthe",
+          "ror": "00z24kr14"
+        }
+      ],
+      "orcid": "0000-0001-6693-1201"
+    },
+    {
+      "name": "Nikos Bikakis",
+      "affiliation": [
+        {
+          "name": "Hellenic Mediterranean University",
+          "ror": "039ce0m20"
+        },
+        {
+          "name": "Athena Research and Innovation Center in Information Communication and Knowledge Technologies",
+          "ror": "0576by029"
+        }
+      ],
+      "orcid": "0000-0001-6859-1941"
+    },
+    {
+      "name": "Paraskevi Botini",
+      "affiliation": [
+        {
+          "name": "Institute for Language and Speech Processing",
+          "ror": "00z24kr14"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Domna Sarafopoulou",
+      "affiliation": [
+        {
+          "name": "Athena Research Centre",
+          "ror": "0576by029"
+        }
+      ],
+      "orcid": "0009-0008-7068-6278"
+    },
+    {
+      "name": "Nikolaos Sidiropoulos",
+      "affiliation": [
+        {
+          "name": "Institute for Language and Speech Processing",
+          "ror": "00z24kr14"
+        }
+      ],
+      "orcid": "0000-0002-5776-0946"
+    },
+    {
+      "name": "Gregory Stainhauer",
+      "affiliation": [
+        {
+          "name": "Institute for Language and Speech Processing",
+          "ror": "00z24kr14"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Despoina Tsiafaki",
+      "affiliation": [
+        {
+          "name": "Athena Research Center in Information, Communication and Knowledge Technologies",
+          "ror": "0576by029"
+        }
+      ],
+      "orcid": "0000-0003-4948-255X"
+    },
+    {
+      "name": "Christina Flouda",
+      "affiliation": [
+        {
+          "name": "Institute for Language and Speech Processing",
+          "ror": "00z24kr14"
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Poster/PST_100008__Poster_ΕΚΠΑΙΔΕΥΤΙΚΗ_ΕΦΑΡΜΟΓΗ.pdf"
+  ]
+}

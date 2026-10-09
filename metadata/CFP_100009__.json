@@ -1,0 +1,32 @@
+{
+  "doi": null,
+  "title": "Measurement of the CKM angle γ in B± → DK± and B± → Dπ± decays with D → K0Sh±h∓",
+  "publication_date": "2020-07-31",
+  "language": "English",
+  "abstract": "A measurement of CP-violating observables is performed using the decays B± → DK± and B± → Dπ±, where the D meson is reconstructed in one of the selfconjugate three-body final states K0Sπ+π− and K0SK+K− (h±h∓ = π±π∓, K±K∓). The decays are analysed in bins of the D-decay phase space, leading to a measurement that is independent of the modelling of the D-decay amplitude. Using the full Run 1 and 2 LHCb data sample, the observables of interest are measured to be xDK− = ( 5.6 ± 1.0 ± 0.2 ± 0.3) × 10−2 yDK− = ( 6.5 ± 1.1 ± 0.3 ± 0.4) × 10−2 xDK+ = (−9.2 ± 1.0 ± 0.2 ± 0.2) × 10−2 yDK+ = (−1.2 ± 1.2 ± 0.3 ± 0.3) × 10−2 xDπξ = (−5.3 ± 2.0 ± 0.3 ± 0.2) × 10−2 yDπξ = ( 1.0 ± 2.3 ± 0.5 ± 0.3) × 10−2 where the first uncertainty is statistical, the second arises from systematic effects in the method or other experimental effects, and the third from external inputs of strong-phase measurements from CLEO and BESIII. The measurements can be interpreted in terms of the CKM angle γ, leading to γ = (69 ± 5)◦. Measurements of the hadronic parameters rDKB, rDπB,δDKB, and δDπB are also reported.",
+  "authors": [
+    {
+      "name": "Sneha Malde",
+      "affiliation": [
+        {
+          "name": "University of Oxford",
+          "ror": "052gg0110"
+        }
+      ],
+      "orcid": "0000-0002-8179-0707"
+    },
+    {
+      "name": "Mikkel Bjørn",
+      "affiliation": [
+        {
+          "name": "University of Oxford",
+          "ror": "052gg0110"
+        }
+      ],
+      "orcid": "0000-0002-1335-0830"
+    }
+  ],
+  "file_paths": [
+    "files/Conference_papers/CFP_100009__LHCb-CONF-2020-001.pdf"
+  ]
+}

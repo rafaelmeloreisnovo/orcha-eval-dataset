@@ -1,0 +1,42 @@
+{
+  "doi": "10.5281/zenodo.18329523",
+  "title": "Caracterização de Rochas Reservatório por Meio da Análise de Imagens de Microtomografia de Raios X Utilizando Ferramentas Open Source e Aprendizado de Máquina",
+  "publication_date": "2025-11",
+  "language": "Portuguese",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Jean Firmino Cardoso",
+      "affiliation": [
+        {
+          "name": "Universidade Federal de Pernambuco",
+          "ror": "047908t24"
+        }
+      ],
+      "orcid": "0000-0001-6092-713X"
+    },
+    {
+      "name": "Antonio Celso Dantas Antonino",
+      "affiliation": [
+        {
+          "name": "Universidade Federal de Pernambuco",
+          "ror": "047908t24"
+        }
+      ],
+      "orcid": "0000-0002-4120-9404"
+    },
+    {
+      "name": "José Miguel Reichert",
+      "affiliation": [
+        {
+          "name": "Universidade Federal de Pernambuco",
+          "ror": "047908t24"
+        }
+      ],
+      "orcid": "0000-0001-9943-2898"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100019__Jean_Firmino_Cardoso_Apresentação_PRH_48_1_Relatório_atividades_parciais_2025.pdf"
+  ]
+}

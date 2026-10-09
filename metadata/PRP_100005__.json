@@ -1,0 +1,50 @@
+{
+  "doi": null,
+  "title": "Properties of Quantum 2 x 2 Matrices ",
+  "publication_date": "1989-12",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Julius Wess",
+      "affiliation": [
+        {
+          "name": "Inst. fur Theor. Physik University of Karlsruhe",
+          "ror": "01t1kq612"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Bruno Zumino",
+      "affiliation": [
+        {
+          "name": "Department of Physics University of California",
+          "ror": "01an7q238"
+        },
+        {
+          "name": "Theoretical Physics Group Physics Division Lawrence Berkeley Laboratory",
+          "ror": "02jbv0t02"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "S.P. Vokos",
+      "affiliation": [
+        {
+          "name": "Department of Physics University of California",
+          "ror": "01an7q238"
+        },
+        {
+          "name": "Theoretical Physics Group Physics Division Lawrence Berkeley Laboratory",
+          "ror": "02jbv0t02"
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100005__PDF_Datastream.pdf"
+  ]
+}

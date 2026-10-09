@@ -1,0 +1,86 @@
+{
+  "doi": null,
+  "title": "PERIOD ESTIMATION FOR SPARSELY SAMPLED QUASI-PERIODIC LIGHT CURVES APPLIED TO MIRAS",
+  "publication_date": "2016-11-17",
+  "language": "English",
+  "abstract": "We develop a nonlinear semi-parametric Gaussian process model to estimate periods of Miras with sparsely sampled light curves. The model uses a sinusoidal basis for the periodic variation and a Gaussian process for the stochastic changes. We use maximum likelihood to estimate the period and the parameters of the Gaussian process, while integrating out the effects of other nuisance parameters in the model with respect to a suitable prior distribution obtained from earlier studies. Since the likelihood is highly multimodal for period, we implement a hybrid method that applies the quasi-Newton algorithm for Gaussian process parameters and searches the period/frequency parameter space over a dense grid. A large-scale, high-fidelity simulation is conducted to mimic the sampling quality of Mira light curves obtained by the M33 Synoptic Stellar Survey. The simulated data set is publicly available and can serve as a testbed for future evaluation of different period estimation methods. The semi-parametric model outperforms an existing algorithm on this simulated test data set as measured by period recovery rate and quality of the resulting period–luminosity relations.",
+ "keywords": [
+  "methods: statistical",
+  "stars: variables: Miras"
+],
+  "license": null,
+  "copyright": null,
+  "funding": [
+  {
+    "funder_name": "Texas A&M University-NSFC Joint Research Program",
+    "grant_number": null
+  },
+  {
+    "funder_name": "NSF",
+    "grant_number": "1211603"
+  },
+  {
+    "funder_name": "Mitchell Institute for Fundamental Physics and Astronomy at Texas A&M University",
+    "grant_number": null
+  },
+  {
+    "funder_name": "NSF",
+    "grant_number": "DMS-1208952"
+  }
+],
+  "authors": [
+    {
+      "name": "Shiyuan He",
+      "affiliation": [
+        {
+          "name": "Department of Statistics, Texas A&M University",
+          "ror": "01f5ytq51"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Wenlong Yuan",
+      "affiliation": [
+        {
+          "name": "George P. and Cynthia W. Mitchell Institute for Fundamental Physics & Astronomy, Department of Physics & Astronomy, Texas A&M University",
+          "ror": "01f5ytq51"
+        }
+      ],
+      "orcid": "0000-0001-9420-6525"
+    },
+    {
+      "name": "Jianhua Z. Huang",
+      "affiliation": [
+        {
+          "name": "Department of Statistics, Texas A&M University",
+          "ror": "01f5ytq51"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "James Long",
+      "affiliation": [
+        {
+          "name": "Department of Statistics, Texas A&M University",
+          "ror": "01f5ytq51"
+        }
+      ],
+      "orcid": "0000-0001-5853-5938"
+    },
+    {
+      "name": "Lucas M. Macri",
+      "affiliation": [
+        {
+          "name": "George P. and Cynthia W. Mitchell Institute for Fundamental Physics & Astronomy, Department of Physics & Astronomy, Texas A&M University",
+          "ror": "01f5ytq51"
+        }
+      ],
+      "orcid": "0000-0002-1775-4859"
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100022__1609.06680v3.pdf"
+  ]
+}

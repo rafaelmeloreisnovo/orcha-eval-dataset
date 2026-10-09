@@ -1,0 +1,92 @@
+{
+  "doi": null,
+  "title": "Developing a Framework for Sonifying Variational Quantum Algorithms: Implications for Music Composition",
+  "publication_date": "2024-04-02",
+  "language": "English",
+  "abstract": "This chapter examines the Variational Quantum Harmonizer, a software tool and musical interface that focuses on the problem of sonification of the minimization steps of Variational Quantum Algorithms (VQA), used for simulating properties of quantum systems and optimization problems assisted by quantum hardware. Particularly, it details the sonification of Quadratic Unconstrained Binary Optimization (QUBO) problems using QA. A flexible design enables its future applications both as a sonification tool for auditory displays in scientific investigation, and as a hybrid quantum-digital musical instrument for artistic endeavours. In turn, sonification can help researchers understand complex systems better and can serve for the training of quantum physics and quantum computing. The VQH structure, including its software implementation, control mechanisms, and sonification mappings are detailed. Moreover, it guides the design of QUBO cost functions in VQH as a music compositional object. The discussion is extended to the implications of applying quantum-assisted simulation in quantum-computer aided composition and live-coding performances. An artistic output is showcased by the piece Hexagonal Chambers (Thomas & Itaborai, 2023).",
+  "authors": [
+    {
+      "name": "Paulo Vitor Itaboraí",
+      "affiliation": [
+        {
+          "name": "Center for Quantum Technologies and Applications - Deutsches Elektronen-Synchrotron DESY",
+          "ror": "01js2sh04"
+        },
+        {
+          "name": "Computation-based Science and Technology Research Center - The Cyprus Institute",
+          "ror": "01q8k8p90"
+        }
+      ],
+      "orcid": "0000-0002-4956-2958"
+    },
+    {
+      "name": "Peter Thomas",
+      "affiliation": [
+        {
+          "name": "Interdisciplinary Centre for Computer Music Research - University of Plymouth",
+          "ror": "008n7pv89"
+        }
+      ],
+      "orcid": "0000-0001-6531-8675"
+    },
+    {
+      "name": "Arianna Crippa",
+      "affiliation": [
+        {
+          "name": "Center for Quantum Technologies and Applications - Deutsches Elektronen-Synchrotron DESY",
+          "ror": "01js2sh04"
+        },
+        {
+          "name": "Institut für Physik - Humboldt-Universität zu Berlin",
+          "ror": "01hcx6992"
+        }
+      ],
+      "orcid": "0000-0003-2376-5682"
+    },
+    {
+      "name": "Karl Jansen",
+      "affiliation": [
+        {
+          "name": "Center for Quantum Technologies and Applications - Deutsches Elektronen-Synchrotron DESY",
+          "ror": "01js2sh04"
+        },
+        {
+          "name": "Computation-based Science and Technology Research Center - The Cyprus Institute",
+          "ror": "01q8k8p90"
+        }
+      ],
+      "orcid": "0000-0002-1574-7591"
+    },
+    {
+      "name": "Tim Schwägerl",
+      "affiliation": [
+        {
+          "name": "Center for Quantum Technologies and Applications - Deutsches Elektronen-Synchrotron DESY",
+          "ror": "01js2sh04"
+        },
+        {
+          "name": "Institut für Physik - Humboldt-Universität zu Berlin",
+          "ror": "01hcx6992"
+        }
+      ],
+      "orcid": "0009-0002-1161-0763"
+    },
+    {
+      "name": "María Aguado Yáñez",
+      "affiliation": [
+        {
+          "name": "Center for Quantum Technologies and Applications - Deutsches Elektronen-Synchrotron DESY",
+          "ror": "01js2sh04"
+        },
+        {
+          "name": "Music Technology Group - Pompeu Fabra University",
+          "ror": "04n0g0b29"
+        }
+      ],
+      "orcid": "0009-0003-7133-4681"
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100013__2409.07104v1.pdf"
+  ]
+}

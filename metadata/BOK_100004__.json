@@ -1,0 +1,22 @@
+{
+  "doi": "10.1007/978-3-031-59120-4",
+  "title": "Noncommutative Geometry and Particle Physics",
+  "publication_date": "2025",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Walter van Suijlekom",
+      "affiliation": [
+        {
+          "name": "Department of Astrophysics, Institute for Mathematics, Astrophysics and Particle Physics (IMAPP) Radboud University",
+          "ror": "016xsfp80"
+        }
+      ],
+      "orcid": "0000-0003-4507-5041"
+    }
+  ],
+  "file_paths": [
+    "files/Book/BOK_100004__978-3-031-59120-4.pdf"
+  ]
+}

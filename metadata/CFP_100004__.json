@@ -1,0 +1,22 @@
+{
+  "doi": null,
+  "title": "HOW TO DEAL WITH RELATIVISTIC HEAVY ION COLLISIONS",
+  "publication_date": "1981-01-05",
+  "language": "English",
+  "abstract": "A qualitative review is given of the theoretical problems and possibilities arising when one tries to understand what happens in relativistic heavy ion collisions. The striking similarity between these and pp collisions suggests the use of techniques similar to those used 5–12 years ago in pp collisions to disentangle collective motions from thermodynamics. A very heuristic and qualitative sketch of statistical bootstrap thermodynamics concludes an idealized picture in which a relativistic heavy ion collision appears as a superposition of moving ‘fireballs’ with equilibrium thermodynamics in the rest frames of these fireballs. The interesting problems arise where this theoretician’s picture deviates from reality: non-equilibrium, more complicated motion (shock waves, turbulence, spin) and the collision history. Only if these problems have been solved or shown to be irrelevant can we safely identify signatures of unusual states of hadronic matter as, for example, a quark-gluon plasma or density isomers.",
+  "authors": [
+    {
+      "name": "Rolf Hagedorn",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Conference_papers/CFP_100004__198103525.pdf"
+  ]
+}

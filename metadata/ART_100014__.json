@@ -1,0 +1,46 @@
+{
+  "doi": "10.1145/3680256.3722203",
+  "title": "Optimizing Memory Access Patterns through Automatic Data Layout Transformation (Work in Progress Paper)",
+  "publication_date": "2025",
+  "language": "English",
+  "abstract": "In many programming languages, memory access patterns exhibited by an application are dictated by the data structures defined by the programmer, which, in turn, dictate how the data are ordered in memory. Exploring access pattern optimizations is essential for performance: we demonstrate, through several benchmarks, the effects of Array of Structures (AoS) and Structure of Arrays (SoA) layouts on cache utilization, auto-vectorization, and false sharing. Despite these benefits, exploration remains a time-consuming task because it requires rewriting data structure definitions and, very often, computing kernel code to accommodate these changes. We argue that such changes could and should be automated. In this work, we propose the design of a C++ framework for automatically redefining data structures to modify the data layout and access patterns. Leveraging experimental C++26 reflection and token injection features, we can modify the structure while preserving the original C++ syntax for accessing data. Our framework enables rapid prototyping of access pattern optimizations, potentially unlocking significant performance gains.",
+  "authors": [
+    {
+      "name": "Jolly Chen",
+      "affiliation": [
+        {
+          "name": "University of Twente",
+          "ror": "006hf6230"
+        },
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-1110-1256"
+    },
+    {
+      "name": "Ana-Lucia Varbanescu",
+      "affiliation": [
+        {
+          "name": "University of Twente",
+          "ror": "006hf6230"
+        }
+      ],
+      "orcid": "0000-0002-4932-1900"
+    },
+    {
+      "name": "Axel Naumann",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-4725-0766"
+    }
+  ],
+  "file_paths": [
+    "files/Articles/ART_100014__3680256.3722203.pdf"
+  ]
+}

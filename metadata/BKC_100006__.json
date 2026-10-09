@@ -1,0 +1,32 @@
+{
+  "doi": "10.5281/zenodo.20388343",
+  "title": "12. Entre el miedo, la desconfianza y la oportunidad: Docencia colaborativa y percepciones estudiantiles en la adopción de la IA en un programa doctoral",
+  "publication_date": null,
+  "language": "Spanish",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "J. Fernando Galindo",
+      "affiliation": [
+        {
+          "name": "Universidad Mayor de San Simon, Facultad de Humanidades y Ciencias de la Educacion, PROEIB Andes",
+          "ror": "03z27es23"
+        }
+      ],
+      "orcid": "0000-0001-5843-8943"
+    },
+    {
+      "name": "Tania Rodriguez Chavez",
+      "affiliation": [
+        {
+          "name": "Universidad Mayor de San Simón, Facultad de Humanidades y Ciencias de la Educación",
+          "ror": "03z27es23"
+        }
+      ],
+      "orcid": "0000-0002-8209-7840"
+    }
+  ],
+  "file_paths": [
+    "files/Book_chapter/BKC_100006__Capítulo 12.pdf"
+  ]
+}

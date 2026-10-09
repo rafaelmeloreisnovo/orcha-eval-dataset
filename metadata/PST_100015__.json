@@ -1,0 +1,56 @@
+{
+  "doi": null,
+  "title": "Evolution of data structures for heterogeneous reconstruction in CMSSW",
+  "publication_date": "2025",
+  "language": "English",
+  "abstract": "An SoA stores each field in its own contiguous array, in contrast to the Array of Structures (AoS) layout, where object fields are interleaved. While object-oriented designs are conceptually affine to High Energy Physics, they often map to AoS and become inefficient. Especially for heterogeneous computing, which is widely used in CMSSW, SoA layouts provide better cache locality, and coalesced GPU accesses. To support more flexible and efficient workflows, we deliver a user-friendly, portable SoA that preserves an object-oriented syntax while achieving data-oriented design efficiency",
+  "authors": [
+    {
+      "name": "Leonardo Beltrame",
+      "affiliation": [
+        {
+          "name": "Polytechnic of Milan",
+          "ror": "01nffqt88"
+        },
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0006-5994-0170"
+    },
+    {
+      "name": "Felice Pantaleo",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-3266-4357"
+    },
+    {
+      "name": "Andrea Bocci",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-6515-5666"
+    },
+    {
+      "name": "Eric Cano",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research (CERN)",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0002-1025-9801"
+    }
+  ],
+  "file_paths": [
+    "files/Poster/PST_100015__Evolution_of_data_structures_for_heterogeneous_reconstruction_in_CMSSW.pdf"
+  ]
+}

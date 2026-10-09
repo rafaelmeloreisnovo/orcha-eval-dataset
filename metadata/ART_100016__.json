@@ -1,0 +1,84 @@
+{
+  "doi": "10.1088/1742-6596/3206/1/012065",
+  "title": "Development of the Topological Trigger for LHCb Run 3",
+  "publication_date": "2026",
+  "language": "English",
+  "abstract": "The data-taking conditions expected in Run 3 of the LHCb experiment at CERN are unprecedented and challenging for the software and computing systems. Despite that, the LHCb collaboration pioneers the use of a software-only trigger system to cope with the increased event rate efficiently. The beauty physics programme of LHCb is heavily reliant on topological triggers. These are devoted to selecting beauty-hadron candidates inclusively, based on the characteristic decay topology and kinematic properties expected from beauty decays. The following proceeding describes the current progress of the Run 3 implementation of the topological triggers using Lipschitz monotonic neural networks. This architecture offers robustness under varying detector conditions and sensitivity to long-lived candidates, improving the possibility of discovering new physics at LHCb.",
+  "authors": [
+    {
+      "name": "Nicole Schulte",
+      "affiliation": [
+        {
+          "name": "TU Dortmund University",
+          "ror": "01k97gp34"
+        }
+      ],
+      "orcid": "0000-0003-0166-2105"
+    },
+    {
+      "name": "Blaise Raheem Delaney",
+      "affiliation": [
+        {
+          "name": "Massachusetts Institute of Technology",
+          "ror": "042nb2s44"
+        },
+        {
+          "name": "NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)",
+          "ror": "04pvzz946"
+        }
+      ],
+      "orcid": "0009-0007-6371-8035"
+    },
+    {
+      "name": "Niklas Nolte",
+      "affiliation": [
+        {
+          "name": "Massachusetts Institute of Technology",
+          "ror": "042nb2s44"
+        },
+        {
+          "name": "NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)",
+          "ror": "04pvzz946"
+        }
+      ],
+      "orcid": "0000-0003-2536-4209"
+    },
+    {
+      "name": "Gregory Max Ciezarek",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Johannes Albrecht",
+      "affiliation": [
+        {
+          "name": "TU Dortmund University",
+          "ror": "01k97gp34"
+        }
+      ],
+      "orcid": "0000-0001-8636-1621"
+    },
+    {
+      "name": "Mike Williams",
+      "affiliation": [
+        {
+          "name": "Massachusetts Institute of Technology",
+          "ror": "042nb2s44"
+        },
+        {
+          "name": "NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)",
+          "ror": "04pvzz946"
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Articles/ART_100016__Schulte_2026_J._Phys.__Conf._Ser._3206_012065.pdf"
+  ]
+}

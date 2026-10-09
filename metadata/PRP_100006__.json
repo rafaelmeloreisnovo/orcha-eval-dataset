@@ -1,0 +1,562 @@
+{
+  "doi": null,
+  "title": "Charting the European Course to the High-Energy Frontier",
+  "publication_date": "2019-12-31",
+  "language": "English",
+  "abstract": "We review the capabilities of two projects that have been proposed as the next major European facility, for consideration in the upcoming update of the European Strategy for Particle Physics: CLIC and FCC. We focus on their physics potentials and emphasise the key differences between the linear or circular approaches. We stress the uniqueness of the FCC-ee programme for precision electroweak physics at the Z peak and the WW threshold, as well as its unequalled statistics for Higgs physics and high accuracy for observing possible new phenomena in Higgs and Z decays, whereas CLIC and FCC-ee offer similar capabilities near the tt threshold. Whilst CLIC offers the possibility of energy upgrades to 1500 and 3000 GeV, FCC-ee paves the way for FCC-hh. The latter offers unique capabilities for making direct or indirect discoveries in a new energy range, and has the highest sensitivity to the self-couplings of the Higgs boson and any anomalous couplings. We consider the FCC programme to be the best option to maintain Europe's place at the high-energy frontier during the coming decades.",
+  "authors": [
+    {
+      "name": "Ugo Amaldi",
+      "affiliation": [
+        {
+          "name": "TERA Foundation",
+          "ror": null
+        }
+      ],
+      "orcid": "0000-0002-3425-8937"
+    },
+    {
+      "name": "Elie Aslanides",
+      "affiliation": [
+        {
+          "name": "Aix Marseille Université",
+          "ror": "035xkbk20"
+        }
+      ],
+      "orcid": "0000-0003-3286-683X"
+    },
+    {
+      "name": "R. Barate",
+      "affiliation": [
+        {
+          "name": "LAPP",
+          "ror": "049nhh297"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "C. Benvenuti",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "P. Bloch",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "Imperial College",
+          "ror": "041kmwe10"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "T. Camporesi",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-5066-1876"
+    },
+    {
+      "name": "A. David",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "D. Denegri",
+      "affiliation": [
+        {
+          "name": "IRFU CEA",
+          "ror": "05k705z76"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "M. Diemoz",
+      "affiliation": [
+        {
+          "name": "Sapienza Università",
+          "ror": "02be6w209"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "L. Di Lella",
+      "affiliation": [
+        {
+          "name": "INFN & Università di Pisa",
+          "ror": "05symbg58"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Guenther Dissertori",
+      "affiliation": [
+        {
+          "name": "ETH",
+          "ror": "05a28rw58"
+        }
+      ],
+      "orcid": "0000-0002-4549-2569"
+    },
+    {
+      "name": "Niels Doble",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-0174-5608"
+    },
+    {
+      "name": "Jacques Dumarchez",
+      "affiliation": [
+        {
+          "name": "LPNHE",
+          "ror": "01hg8p552"
+        }
+      ],
+      "orcid": "0000-0002-9243-4425"
+    },
+    {
+      "name": "J. Ellis",
+      "affiliation": [
+        {
+          "name": "King's College London",
+          "ror": "0220mzb33"
+        },
+        {
+          "name": "NICBP",
+          "ror": "03eqd4a41"
+        },
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "J. Engelen",
+      "affiliation": [
+        {
+          "name": "University of Amsterdam & NIKHEF",
+          "ror": "00f9tz983"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "C. Fabjan",
+      "affiliation": [
+        {
+          "name": "University of Technology",
+          "ror": "04d836q62"
+        },
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Benjamin Fuks",
+      "affiliation": [
+        {
+          "name": "LPTHE/Sorbonne Université",
+          "ror": "02en5vm52"
+        }
+      ],
+      "orcid": "0000-0002-0041-0566"
+    },
+    {
+      "name": "P. Gavillet",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Andreas Hoecker",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-6596-9395"
+    },
+    {
+      "name": "J. Iliopoulos",
+      "affiliation": [
+        {
+          "name": "Ecole Normale Supérieure",
+          "ror": "05a0dhs15"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "P. Innocenti",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Witold Kozanecki",
+      "affiliation": [
+        {
+          "name": "IRFU CEA",
+          "ror": "05k705z76"
+        }
+      ],
+      "orcid": "0000-0001-6226-8385"
+    },
+    {
+      "name": "Philippe Lebrun",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-8898-6315"
+    },
+    {
+      "name": "C. Llewellyn Smith",
+      "affiliation": [
+        {
+          "name": "Oxford University",
+          "ror": "052gg0110"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "C. Lourenço",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "L. Maiani",
+      "affiliation": [
+        {
+          "name": "Sapienza Università",
+          "ror": "02be6w209"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Luca Malgeri",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-0113-7389"
+    },
+    {
+      "name": "Michelangelo Mangano",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-0886-3789"
+    },
+    {
+      "name": "Filip Moortgat",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-7199-0046"
+    },
+    {
+      "name": "Martijn Mulders",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-7432-6634"
+    },
+    {
+      "name": "Stephen Myers",
+      "affiliation": [
+        {
+          "name": "ADAM SA",
+          "ror": null
+        }
+      ],
+      "orcid": "0000-0003-1423-2649"
+    },
+    {
+      "name": "Francesca Nessi-Tedaldi",
+      "affiliation": [
+        {
+          "name": "ETH",
+          "ror": "05a28rw58"
+        }
+      ],
+      "orcid": "0000-0002-4721-7966"
+    },
+    {
+      "name": "L. Pape",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Felicitas Pauss",
+      "affiliation": [
+        {
+          "name": "ETH",
+          "ror": "05a28rw58"
+        }
+      ],
+      "orcid": "0000-0002-3752-4639"
+    },
+    {
+      "name": "R. Perin",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "T. Rodrigo",
+      "affiliation": [
+        {
+          "name": "Instituto de Física de Cantabria",
+          "ror": "040kx1j83"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Luigi (Gigi) Rolandi",
+      "affiliation": [
+        {
+          "name": "Scuola Normale",
+          "ror": "03aydme10"
+        }
+      ],
+      "orcid": "0000-0002-0635-274X"
+    },
+    {
+      "name": "A. Schopper",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "J. Schukraft",
+      "affiliation": [
+        {
+          "name": "Central China Normal University",
+          "ror": "03x1jna21"
+        }
+      ],
+      "orcid": "0009-0000-4209-7259"
+    },
+    {
+      "name": "M. Spiro",
+      "affiliation": [
+        {
+          "name": "IRFU CEA",
+          "ror": "05k705z76"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "L. Sulak",
+      "affiliation": [
+        {
+          "name": "Boston University",
+          "ror": "05qwgg493"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "T. Taylor",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Daniel Treille",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0005-5952-9843"
+    },
+    {
+      "name": "G. Tonelli",
+      "affiliation": [
+        {
+          "name": "INFN & Università di Pisa",
+          "ror": "05symbg58"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "G. Unal",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "F. Vannucci",
+      "affiliation": [
+        {
+          "name": "LPNHE",
+          "ror": "01hg8p552"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "J. Varela",
+      "affiliation": [
+        {
+          "name": "LIP",
+          "ror": "01hys1667"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Tejinder Virdee",
+      "affiliation": [
+        {
+          "name": "Imperial College",
+          "ror": "041kmwe10"
+        },
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-7429-2198"
+    },
+    {
+      "name": "R. Voss",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Rainer Wallny",
+      "affiliation": [
+        {
+          "name": "ETH",
+          "ror": "05a28rw58"
+        }
+      ],
+      "orcid": "0000-0001-8038-1613"
+    },
+    {
+      "name": "H. Wenninger",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "A. Zalewski-Bak",
+      "affiliation": [
+        {
+          "name": "Institute of Nuclear Physics of Polish Academy of Sciences",
+          "ror": "01n78t774"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Jean Zinn-Justin",
+      "affiliation": [
+        {
+          "name": "IRFU CEA",
+          "ror": "05k705z76"
+        }
+      ],
+      "orcid": "0000-0001-5764-0621"
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100006__1912.13466.pdf"
+  ]
+}

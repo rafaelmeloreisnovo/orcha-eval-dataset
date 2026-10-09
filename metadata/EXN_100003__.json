@@ -1,0 +1,22 @@
+{
+  "doi": null,
+  "title": "LES MANIPULATIONS RF AVANT LE TRANSFERT CONTINU VERS LE SPS",
+  "publication_date": "1976-04-26",
+  "language": "French",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Daniel Boussard",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Experiment_note/EXN_100003__SPS-RF-DB-bS-76-30.pdf"
+  ]
+}

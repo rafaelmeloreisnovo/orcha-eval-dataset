@@ -1,0 +1,81 @@
+{
+  "doi": "10.5281/zenodo.20400961",
+  "titles": [
+    {
+      "spanish_title": "DIARIOS VISUALES DE LECTURA Y CONSTRUCCIÓN DE SECUENCIAS NARRATIVAS EN ESTUDIANTES DE EDUCACIÓN BÁSICA ELEMENTAL"
+    },
+    {
+      "english_title": "VISUAL READING JOURNALS AND CONSTRUCTION OF NARRATIVE SEQUENCES IN ELEMENTARY BASIC EDUCATION STUDENTS"
+    }
+  ],
+  "publication_date": "2026",
+  "languages": [
+    {
+      "first_language": "Spanish"
+    },
+    {
+      "second_language": "English"
+    }
+  ],
+  "abstracts": [
+    {
+      "spanish_abstract": "El estudio examinó la relación entre los diarios visuales de lectura y la construcción de secuencias narrativas en estudiantes de Educación Básica Elemental del Colegio Nacional Mejía, Quito, 2026. La investigación respondió a la necesidad de comprender de qué modo el registro multimodal, la interpretación visual-transmediática y la reflexión plurialfabetizadora e intercultural incidieron en el desarrollo de la capacidad del estudiantado para estructurar narrativas coherentes a partir de un inicio, nudo y desenlace. Desde el plano metodológico, se adoptó un estudio básico, de enfoque cuantitativo, diseño no experimental y alcance correlacional asociativo. La población estuvo conformada por 58 estudiantes y la muestra por 28 participantes, seleccionados mediante muestreo no probabilístico por conveniencia. Los datos se recolectaron mediante una encuesta aplicada a través de un cuestionario estructurado de 24 ítems, organizado en dos variables: diarios visuales de lectura y construcción de secuencias narrativas, valoradas con escala Likert de cinco puntos. Los resultados revelaron relaciones positivas y significativas entre el registro multimodal y la construcción de secuencias narrativas, relación positiva moderada entre la interpretación visual-transmediática y la construcción de secuencias narrativas, y relación positiva moderada entre la reflexión plurialfabetizadora e intercultural y la construcción de secuencias narrativas. Asimismo, la relación general entre ambas variables resultó positiva y significativa, lo que llevó a aceptar la hipótesis investigativa. Se concluye que los diarios visuales de lectura constituyeron una estrategia pedagógica eficaz para fortalecer la capacidad del estudiantado para construir secuencias narrativas organizadas, coherentes y expresivas en el nivel elemental."
+    },
+    {
+      "english_abstract": "TThe study examined the relationship between visual reading journals and the construction of narrative sequences in Elementary Basic Education students of Colegio Nacional Mejía, Quito, 2026. The research addressed the need to understand how multimodal recording, visualtransmedia interpretation, and pluriliteracy and intercultural reflection influenced the development of students' capacity to structure coherent narratives from an introduction, conflict, and resolution. Methodologically, a basic study was adopted with a quantitative approach, non-experimental design, and associative correlational scope. The population consisted of 58 students and the sample of 28 participants selected through non-probabilistic convenience sampling. Data were collected through a survey using a structured questionnaire of 24 items organized into two variables: visual reading journals and construction of narrative sequences, rated on a five-point Likert scale. Results revealed positive and significant relationships between multimodal recording and narrative sequence construction, a moderate positive relationship between visual-transmedia interpretation and narrative sequence construction, and a moderate positive relationship between pluriliteracy and intercultural reflection and narrative sequence construction. The overall relationship between both variables was positive and significant, leading to acceptance of the research hypothesis. It was concluded that visual reading journals constituted an effective pedagogical strategy for strengthening students' capacity to construct organized, coherent, and expressive narrative sequences at the elementary level."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Daniel Antonio Muñoz Coello",
+      "affiliation": [
+        {
+          "name": "Estudiante de Octavo semestre, de la carrera de Educación Básica modalidad en Línea de la Universidad Estatal de Milagro",
+          "ror": "00gd7ns03"
+        }
+      ],
+      "orcid": "0009-0000-7024-7656"
+    },
+    {
+      "name": "Cinthia Fernanda Ramírez Yaguachi",
+      "affiliation": [
+        {
+          "name": "Estudiante de Octavo semestre, de la carrera de Educación Básica modalidad en Línea de la Universidad Estatal de Milagro",
+          "ror": "00gd7ns03"
+        }
+      ],
+      "orcid": "0009-0003-8995-8396x"
+    },
+    {
+      "name": "Kleyner Adrián Reto Paladines",
+      "affiliation": [
+        {
+          "name": "Estudiante de Octavo semestre, de la carrera de Educación Básica modalidad en Línea de la Universidad Estatal de Milagro",
+          "ror": "00gd7ns03"
+        }
+      ],
+      "orcid": "0009-0003-5752-0031"
+    },
+    {
+      "name": "Milton Alfonso Criollo Turusina",
+      "affiliation": [
+        {
+          "name": "Licenciado en Ciencias de la Educación Especialización en Arte, graduado de la Universidad de Guayaquil",
+          "ror": "047kyg834"
+        },
+        {
+          "name": "Magíster en Docencia Universitaria graduado de la Universidad Cesar Vallejo",
+          "ror": "0297axj39"
+        },
+        {
+          "name": "Doctorante en Educación en la Universidad César Vallejo",
+          "ror": "0297axj39"
+        }
+      ],
+      "orcid": "0000-0002-3394-1160"
+    }
+  ],
+  "file_paths": [
+    "files/Articles/ART_100027__Daniel Antonio Muñoz Coello.pdf"
+  ]
+}

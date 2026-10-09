@@ -1,0 +1,22 @@
+{
+  "doi": null,
+  "title": "Speeding up MadGraph5 with GPUs",
+  "publication_date": "2024-09-10",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Daniele Massaro",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-1013-3953"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100030__Massaro_TALK_CSC_2024.pdf"
+  ]
+}

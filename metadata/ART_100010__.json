@@ -1,0 +1,748 @@
+{
+  "doi": "10.1016/j.radphyschem.2026.113884",
+  "title": "Production of negatively charged atomic ions inside a linear Paul trap for theformation of antiprotonic atoms",
+  "publication_date": "2026-03-31",
+  "language": "English",
+  "abstract": "An effective, long-lasting, low-energy source of negatively charged ions was designed, constructed, and tested. The source uses electron dissociative attachment in electron-molecule collisions to form a set of anions inside a linear Paul trap. Iodine I2 molecules were used to obtain pure sets of I − anions. The system was tested providing about 105 ions produced in less than a minute, which can be stored in the trap and used in further experiments.",
+  "authors": [
+    {
+      "name": "Łukasz Kłosowski",
+      "affiliation": [
+        {
+          "name": "Institute of Physics, Faculty of Physics, Astronomy and Informatics, Nicolaus Copernicus University in Toruń",
+          "ror": "0102mm775"
+        }
+      ],
+      "orcid": "0000-0002-5463-5381"
+    },
+    {
+      "name": "Mariusz Piwiński",
+      "affiliation": [
+        {
+          "name": "Institute of Physics, Faculty of Physics, Astronomy and Informatics, Nicolaus Copernicus University in Toruń",
+          "ror": "0102mm775"
+        }
+      ],
+      "orcid": "0000-0001-5847-2578"
+    },
+    {
+      "name": "Adam Ryszard Linek",
+      "affiliation": [
+        {
+          "name": "Institute of Physics, Faculty of Physics, Astronomy and Informatics, Nicolaus Copernicus University in Toruń",
+          "ror": "0102mm775"
+        }
+      ],
+      "orcid": "0000-0002-0730-6200"
+    },
+    {
+      "name": "Małgorzata Grosbart",
+      "affiliation": [
+        {
+          "name": "Warsaw University of Technology, Faculty of Physics",
+          "ror": "00y0xnp53"
+        }
+      ],
+      "orcid": "0009-0006-2580-8825"
+    },
+    {
+      "name": "Roman Ciuryło",
+      "affiliation": [
+        {
+          "name": "Institute of Physics, Faculty of Physics, Astronomy and Informatics, Nicolaus Copernicus University in Toruń",
+          "ror": "0102mm775"
+        }
+      ],
+      "orcid": "0000-0003-2638-0403"
+    },
+    {
+      "name": "Michal Zawada",
+      "affiliation": [
+        {
+          "name": "Institute of Physics, Faculty of Physics, Astronomy and Informatics, Nicolaus Copernicus University in Toruń",
+          "ror": "0102mm775"
+        }
+      ],
+      "orcid": "0000-0002-2826-5129"
+    },
+    {
+      "name": "Marek Teske",
+      "affiliation": [
+        {
+          "name": "Institute of Physics, Polish Academy of Sciences",
+          "ror": "01n78t774"
+        }
+      ],
+      "orcid": "0009-0005-1435-7718"
+    },
+    {
+      "name": "Tomasz Sowiński",
+      "affiliation": [
+        {
+          "name": "Institute of Physics, Polish Academy of Sciences",
+          "ror": "01n78t774"
+        }
+      ],
+      "orcid": "0000-0002-7970-4371"
+    },
+    {
+      "name": "Sara Alfaro Campos",
+      "affiliation": [
+        {
+          "name": "University of Siegen, Department of Physics",
+          "ror": "02azyry73"
+        },
+        {
+          "name": "Universität Innsbruck, Institut für Experimentalphysik",
+          "ror": "054pv6659"
+        }
+      ],
+      "orcid": "0009-0009-1708-9383"
+    },
+    {
+      "name": "Marcis Auzinsh",
+      "affiliation": [
+        {
+          "name": "University of Latvia, Department of Physics",
+          "ror": "05g3mes96"
+        }
+      ],
+      "orcid": "0000-0002-4904-5766"
+    },
+    {
+      "name": "Dipesh Bhanushali",
+      "affiliation": [
+        {
+          "name": "University of Siegen, Department of Physics",
+          "ror": "02azyry73"
+        }
+      ],
+      "orcid": "0009-0004-2631-6684"
+    },
+    {
+      "name": "Ashwin Bhartia",
+      "affiliation": [
+        {
+          "name": "University of Siegen, Department of Physics",
+          "ror": "02azyry73"
+        },
+        {
+          "name": "Université de Genéve",
+          "ror": "01swzsf04"
+        }
+      ],
+      "orcid": "0009-0002-9050-9857"
+    },
+    {
+      "name": "Michael Franz Berghold",
+      "affiliation": [
+        {
+          "name": "Heinz Maier Leibnitz Zentrum (MLZ), Technical University of Munich",
+          "ror": "00ed5g627"
+        }
+      ],
+      "orcid": "0009-0007-0448-2675"
+    },
+    {
+      "name": "Roberto Brusa",
+      "affiliation": [
+        {
+          "name": "Department of Physics, University of Trento",
+          "ror": "05trd4x28"
+        },
+        {
+          "name": "TIFPA/INFN Trento",
+          "ror": "00nhs3j29"
+        }
+      ],
+      "orcid": "0000-0002-5239-7172"
+    },
+    {
+      "name": "Krzysztof Calik",
+      "affiliation": [
+        {
+          "name": "Warsaw University of Technology, Faculty of Physics",
+          "ror": "00y0xnp53"
+        }
+      ],
+      "orcid": "0009-0000-0301-6399"
+    },
+    {
+      "name": "Antoine Camper",
+      "affiliation": [
+        {
+          "name": "Department of Physics, University of Oslo",
+          "ror": "01xtthb56"
+        }
+      ],
+      "orcid": "0000-0002-8664-3693"
+    },
+    {
+      "name": "Ruggero Caravita",
+      "affiliation": [
+        {
+          "name": "TIFPA/INFN Trento",
+          "ror": "00nhs3j29"
+        }
+      ],
+      "orcid": "0000-0002-8189-8814"
+    },
+    {
+      "name": "Fabrizio Castelli",
+      "affiliation": [
+        {
+          "name": "INFN Milano",
+          "ror": "04w4m6z96"
+        },
+        {
+          "name": "Department of Physics “Aldo Pontremoli”, University of Milano",
+          "ror": "00wjc7c48"
+        }
+      ],
+      "orcid": "0000-0002-1485-6737"
+    },
+    {
+      "name": "Giovanni Cerchiari",
+      "affiliation": [
+        {
+          "name": "University of Siegen, Department of Physics",
+          "ror": "02azyry73"
+        },
+        {
+          "name": "Universität Innsbruck, Institut für Experimentalphysik",
+          "ror": "054pv6659"
+        }
+      ],
+      "orcid": "0000-0003-3068-0425"
+    },
+    {
+      "name": "Sruthy Chandran",
+      "affiliation": [
+        {
+          "name": "Department of Physics, University of Liverpool",
+          "ror": "04xs57h96"
+        },
+        {
+          "name": "The Cockcroft Institute",
+          "ror": "02a5smf05"
+        }
+      ],
+      "orcid": "0009-0002-2828-4079"
+    },
+    {
+      "name": "Ahmad Chehaimi",
+      "affiliation": [
+        {
+          "name": "Department of Physics, University of Trento",
+          "ror": "05trd4x28"
+        },
+        {
+          "name": "TIFPA/INFN Trento",
+          "ror": "00nhs3j29"
+        }
+      ],
+      "orcid": "0009-0001-7050-5827"
+    },
+    {
+      "name": "Sankarshan Krishna Choudapurkar",
+      "affiliation": [
+        {
+          "name": "University of Siegen, Department of Physics",
+          "ror": "02azyry73"
+        }
+      ],
+      "orcid": "0009-0000-7778-696X"
+    },
+    {
+      "name": "Pietro Conte",
+      "affiliation": [
+        {
+          "name": "INFN Milano",
+          "ror": "04w4m6z96"
+        },
+        {
+          "name": "Department of Physics “Aldo Pontremoli”, University of Milano",
+          "ror": "00wjc7c48"
+        }
+      ],
+      "orcid": "0009-0004-2971-7758"
+    },
+    {
+      "name": "Giovanni Consolati",
+      "affiliation": [
+        {
+          "name": "INFN Milano",
+          "ror": "04w4m6z96"
+        },
+        {
+          "name": "Department of Aerospace Science and Technology, Politecnico di Milano",
+          "ror": "1nffqt88"
+        }
+      ],
+      "orcid": "0000-0003-3614-245X"
+    },
+    {
+      "name": "Michael Doser",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-3618-0889"
+    },
+    {
+      "name": "Riley Ferguson",
+      "affiliation": [
+        {
+          "name": "Department of Physics, University of Trento",
+          "ror": "05trd4x28"
+        },
+        {
+          "name": "TIFPA/INFN Trento",
+          "ror": "00nhs3j29"
+        }
+      ],
+      "orcid": "0009-0002-8088-643X"
+    },
+    {
+      "name": "Matthias Germann",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-5352-6765"
+    },
+    {
+      "name": "Anna Giszczak",
+      "affiliation": [
+        {
+          "name": "Warsaw University of Technology, Faculty of Physics",
+          "ror": "00y0xnp53"
+        }
+      ],
+      "orcid": "0009-0008-8172-3222"
+    },
+    {
+      "name": "Lisa Glöggler",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-0194-8680"
+    },
+    {
+      "name": "Łukasz Graczykowski",
+      "affiliation": [
+        {
+          "name": "Warsaw University of Technology, Faculty of Physics",
+          "ror": "00y0xnp53"
+        }
+      ],
+      "orcid": "0000-0002-4442-5727"
+    },
+    {
+      "name": "Francesco Guatieri",
+      "affiliation": [
+        {
+          "name": "Heinz Maier Leibnitz Zentrum (MLZ), Technical University of Munich",
+          "ror": "00ed5g627"
+        },
+        {
+          "name": "Department of Physics, University of Trento",
+          "ror": "05trd4x28"
+        },
+        {
+          "name": "TIFPA/INFN Trento",
+          "ror": "00nhs3j29"
+        }
+      ],
+      "orcid": "0000-0002-7153-585X"
+    },
+    {
+      "name": "Natali Gusakova",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "Department of Physics, NTNU, Norwegian University of Science and Technology",
+          "ror": "05xg72x27"
+        }
+      ],
+      "orcid": "0000-0002-8064-8039"
+    },
+    {
+      "name": "Fredrik Olof Andre Parnefjord Gustafsson",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-2063-4310"
+    },
+    {
+      "name": "Stefan Haider",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0002-4275-3791"
+    },
+    {
+      "name": "Saiva Huck",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "Institute for Experimental Physics, Universität Hamburg",
+          "ror": "00g30e956"
+        }
+      ],
+      "orcid": "0009-0000-6260-6516"
+    },
+    {
+      "name": "Christoph Hugenschmidt",
+      "affiliation": [
+        {
+          "name": "Heinz Maier Leibnitz Zentrum (MLZ), Technical University of Munich",
+          "ror": "00ed5g627"
+        }
+      ],
+      "orcid": "0000-0002-0056-8953"
+    },
+    {
+      "name": "Monika Jakubowska",
+      "affiliation": [
+        {
+          "name": "Warsaw University of Technology, Faculty of Physics",
+          "ror": "00y0xnp53"
+        }
+      ],
+      "orcid": "0000-0001-9334-3798"
+    },
+    {
+      "name": "Małgorzata Anna Janik",
+      "affiliation": [
+        {
+          "name": "Warsaw University of Technology, Faculty of Physics",
+          "ror": "00y0xnp53"
+        }
+      ],
+      "orcid": "0000-0001-9087-4665"
+    },
+    {
+      "name": "Grzegorz Kasprowicz",
+      "affiliation": [
+        {
+          "name": "Warsaw University of Technology, Faculty of Electronics and Information Technology",
+          "ror": "00y0xnp53"
+        }
+      ],
+      "orcid": "0000-0001-6128-0788"
+    },
+    {
+      "name": "Kamila Kempny",
+      "affiliation": [
+        {
+          "name": "Warsaw University of Technology, Faculty of Physics",
+          "ror": "00y0xnp53"
+        }
+      ],
+      "orcid": "0009-0008-1038-6302"
+    },
+    {
+      "name": "Ghanshyam Khatri",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-8901-3817"
+    },
+    {
+      "name": "Adam Kisiel",
+      "affiliation": [
+        {
+          "name": "Warsaw University of Technology, Faculty of Physics",
+          "ror": "00y0xnp53"
+        }
+      ],
+      "orcid": "0000-0001-8322-9510"
+    },
+    {
+      "name": "Georgy Kornakov",
+      "affiliation": [
+        {
+          "name": "Warsaw University of Technology, Faculty of Physics",
+          "ror": "00y0xnp53"
+        }
+      ],
+      "orcid": "0000-0002-3652-6683"
+    },
+    {
+      "name": "Valts Krumins",
+      "affiliation": [
+        {
+          "name": "University of Latvia, Department of Physics",
+          "ror": "05g3mes96"
+        },
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-2689-7421"
+    },
+    {
+      "name": "Lidia Kalina Lappo",
+      "affiliation": [
+        {
+          "name": "Warsaw University of Technology, Faculty of Physics",
+          "ror": "00y0xnp53"
+        }
+      ],
+      "orcid": "0009-0001-1533-7445"
+    },
+    {
+      "name": "Sebastiano Mariazzi",
+      "affiliation": [
+        {
+          "name": "Department of Physics, University of Trento",
+          "ror": "05trd4x28"
+        },
+        {
+          "name": "TIFPA/INFN Trento",
+          "ror": "00nhs3j29"
+        }
+      ],
+      "orcid": "0000-0001-9985-8792"
+    },
+    {
+      "name": "Pawel Moskal",
+      "affiliation": [
+        {
+          "name": "Marian Smoluchowski Institute of Physics, Jagiellonian University",
+          "ror": "03bqmcz70"
+        },
+        {
+          "name": "Centre for Theranostics, Jagiellonian University",
+          "ror": "03bqmcz70"
+        }
+      ],
+      "orcid": "0000-0002-4229-3548"
+    },
+    {
+      "name": "Markus Münster",
+      "affiliation": [
+        {
+          "name": "Heinz Maier Leibnitz Zentrum (MLZ), Technical University of Munich",
+          "ror": "00ed5g627"
+        }
+      ],
+      "orcid": "0009-0001-3145-4684"
+    },
+    {
+      "name": "Piyush Pandey",
+      "affiliation": [
+        {
+          "name": "Marian Smoluchowski Institute of Physics, Jagiellonian University",
+          "ror": "03bqmcz70"
+        },
+        {
+          "name": "Centre for Theranostics, Jagiellonian University",
+          "ror": "03bqmcz70"
+        }
+      ],
+      "orcid": "0009-0009-9823-2435"
+    },
+    {
+      "name": "Daniel Pecak",
+      "affiliation": [
+        {
+          "name": "Institute of Physics, Polish Academy of Sciences",
+          "ror": "01n78t774"
+        }
+      ],
+      "orcid": "0000-0002-2462-2942"
+    },
+    {
+      "name": "Luca Penasa",
+      "affiliation": [
+        {
+          "name": "Department of Physics, University of Trento",
+          "ror": "05trd4x28"
+        },
+        {
+          "name": "TIFPA/INFN Trento",
+          "ror": "00nhs3j29"
+        }
+      ],
+      "orcid": "0000-0003-3117-5826"
+    },
+    {
+      "name": "Francesco Prelz",
+      "affiliation": [
+        {
+          "name": "INFN Milano",
+          "ror": "04w4m6z96"
+        }
+      ],
+      "orcid": "0000-0003-1344-2716"
+    },
+    {
+      "name": "Tassilo Rauschendorfer",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "Felix Bloch Institute for Solid State Physics, Universität Leipzig",
+          "ror": "03s7gtk40"
+        }
+      ],
+      "orcid": "0009-0001-0568-3950"
+    },
+    {
+      "name": "Bharat Singh Rawat",
+      "affiliation": [
+        {
+          "name": "Department of Physics, University of Liverpool",
+          "ror": "04xs57h96"
+        },
+        {
+          "name": "The Cockcroft Institute",
+          "ror": "02a5smf05"
+        }
+      ],
+      "orcid": "0000-0002-6866-3148"
+    },
+    {
+      "name": "Benjamin Rienäcker",
+      "affiliation": [
+        {
+          "name": "Department of Physics, University of Liverpool",
+          "ror": "04xs57h96"
+        }
+      ],
+      "orcid": "0000-0002-3836-7030"
+    },
+    {
+      "name": "Volodymyr Rodin",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-3602-881X"
+    },
+    {
+      "name": "Heidi Sandaker",
+      "affiliation": [
+        {
+          "name": "Department of Physics, University of Oslo",
+          "ror": "01xtthb56"
+        }
+      ],
+      "orcid": "0000-0001-5235-4095"
+    },
+    {
+      "name": "Sushil Sharma",
+      "affiliation": [
+        {
+          "name": "Marian Smoluchowski Institute of Physics, Jagiellonian University",
+          "ror": "03bqmcz70"
+        },
+        {
+          "name": "Centre for Theranostics, Jagiellonian University",
+          "ror": "03bqmcz70"
+        }
+      ],
+      "orcid": "0000-0001-8947-0110"
+    },
+    {
+      "name": "Estere Agnese Teberga",
+      "affiliation": [
+        {
+          "name": "University of Latvia, Department of Physics",
+          "ror": "05g3mes96"
+        }
+      ],
+      "orcid": "0009-0005-6092-4808"
+    },
+    {
+      "name": "Mira Tockner",
+      "affiliation": [
+        {
+          "name": "University of Siegen, Department of Physics",
+          "ror": "02azyry73"
+        }
+      ],
+      "orcid": "0009-0003-8824-2521"
+    },
+    {
+      "name": "Marco Volponi",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-5048-8708"
+    },
+    {
+      "name": "Carsten Welsch",
+      "affiliation": [
+        {
+          "name": "Department of Physics, University of Liverpool",
+          "ror": "04xs57h96"
+        },
+        {
+          "name": "The Cockcroft Institute",
+          "ror": "02a5smf05"
+        }
+      ],
+      "orcid": "0000-0001-7085-0973"
+    },
+    {
+      "name": "Jakub Zieliński",
+      "affiliation": [
+        {
+          "name": "Warsaw University of Technology, Faculty of Physics",
+          "ror": "00y0xnp53"
+        }
+      ],
+      "orcid": "0000-0003-2729-5737"
+    },
+    {
+      "name": "Nicola Zurlo",
+      "affiliation": [
+        {
+          "name": "INFN Pavia",
+          "ror": "01st30669"
+        },
+        {
+          "name": "Department of Civil, Environmental, Architectural Engineering and Mathematics, University of Brescia",
+          "ror": "02q2d2610"
+        }
+      ],
+      "orcid": "0000-0002-7478-2493"
+    }
+  ],
+  "file_paths": [
+    "files/Articles/ART_100010__1-s2.0-S0969806X2600294X-main.pdf"
+  ]
+}

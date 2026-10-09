@@ -1,0 +1,152 @@
+{
+  "doi": null,
+  "title": "COLLIDE-2V 750 Million Dual-View LHC Event Dataset for Low-Latency ML",
+  "publication_date": "null",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Eric A. Moreno",
+      "affiliation": [
+        {
+          "name": "Massachusetts Institute of Technology",
+          "ror": "042nb2s44"
+        }
+      ],
+      "orcid": "0000-0001-5666-3637"
+    },
+    {
+      "name": "Philip Ploner",
+      "affiliation": [
+        {
+          "name": "ETH Zurich",
+          "ror": "05a28rw58"
+        }
+      ],
+      "orcid": "0009-0004-2854-1711"
+    },
+    {
+      "name": "Ranit Das",
+      "affiliation": [
+        {
+          "name": "Rutgers, The State University of New Jersey",
+          "ror": "05vt9qd57"
+        }
+      ],
+      "orcid": "0009-0009-2563-0723"
+    },
+    {
+      "name": "Jennifer Ngadiuba",
+      "affiliation": [
+        {
+          "name": "Fermi National Accelerator Laboratory",
+          "ror": "020hgte69"
+        }
+      ],
+      "orcid": "0000-0002-0055-2935"
+    },
+    {
+      "name": "Abhijith Gandrakota",
+      "affiliation": [
+        {
+          "name": "Fermi National Accelerator Laboratory",
+          "ror": "020hgte69"
+        }
+      ],
+      "orcid": "0000-0003-4860-3233"
+    },
+    {
+      "name": "Benedikt Maier",
+      "affiliation": [
+        {
+          "name": "Imperial College London",
+          "ror": "041kmwe10"
+        }
+      ],
+      "orcid": "0000-0001-5270-7540"
+    },
+    {
+      "name": "Thea Aarrestad",
+      "affiliation": [
+        {
+          "name": "ETH Zurich",
+          "ror": "05a28rw58"
+        }
+      ],
+      "orcid": "0000-0002-7671-243X"
+    },
+    {
+      "name": "Maciej Glowacki",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0005-7170-7024"
+    },
+    {
+      "name": "Shiqi Kuang",
+      "affiliation": [
+        {
+          "name": "Purdue University West Lafayette",
+          "ror": "02dqehb95"
+        }
+      ],
+      "orcid": "0009-0003-2765-1671"
+    },
+    {
+      "name": "Philip Harris",
+      "affiliation": [
+        {
+          "name": "Massachusetts Institute of Technology",
+          "ror": "042nb2s44"
+        }
+      ],
+      "orcid": "0000-0001-8189-3741"
+    },
+    {
+      "name": "Javier Duarte",
+      "affiliation": [
+        {
+          "name": null,
+          "ror": null
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "David Shih",
+      "affiliation": [
+        {
+          "name": "Rutgers, The State University of New Jersey",
+          "ror": "05vt9qd57"
+        }
+      ],
+      "orcid": "0000-0003-3408-3871"
+    },
+    {
+      "name": "Alexander Tapper",
+      "affiliation": [
+        {
+          "name": "Imperial College London",
+          "ror": "041kmwe10"
+        }
+      ],
+      "orcid": "0000-0003-4543-864X"
+    },
+    {
+      "name": "Mia Liu",
+      "affiliation": [
+        {
+          "name": null,
+          "ror": null
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100025__FM_Collide2V_EMoreno.pdf"
+  ]
+}

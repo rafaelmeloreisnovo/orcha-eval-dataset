@@ -1,0 +1,22 @@
+{
+  "doi": null,
+  "title": "MLOps Pipeline for Continuous Deployment of Machine Learning Algorithms in the CMS Level-1 Trigger",
+  "publication_date": "2025",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Maciej Glowacki",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0005-7170-7024"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100014__ACAT_talk.pdf"
+  ]
+}

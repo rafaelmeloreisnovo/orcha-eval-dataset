@@ -1,0 +1,33 @@
+{
+  "doi": "10.1007/978-3-031-60931-2",
+  "title": "The Economics of Big Science 2.0",
+  "subtitle": "Essays by Leading Scientists and Policymakers",
+  "publication_date": "2025",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Johannes Gutleber",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0003-2462-4504"
+    },
+    {
+      "name": "Panagiotis Charitos",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-6520-6198"
+    }
+  ],
+  "file_paths": [
+    "files/Book/BOK_100016__978-3-031-60931-2.pdf"
+  ]
+}

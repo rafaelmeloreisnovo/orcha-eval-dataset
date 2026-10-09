@@ -1,0 +1,77 @@
+{
+  "doi": null,
+  "title": "TMVA SOFIE",
+  "subtitle": "Enhancements in ML Inference through graph optimizations and heterogeneous architectures",
+  "publication_date": "2025-09-08",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Sanjiban Sengupta",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0005-1281-505X"
+    },
+    {
+      "name": "Lorenzo Moneta",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "ETH Zürich",
+          "ror": "05a28rw58"
+        }
+      ],
+      "orcid": "0000-0002-0935-0862"
+    },
+    {
+      "name": "Olha Sirikova",
+      "affiliation": [
+        {
+          "name": "Taras Shevchenko National University of Kyiv",
+          "ror": "02aaqv166"
+        }
+      ],
+      "orcid": "0009-0003-8405-518X"
+    },
+    {
+      "name": "Prasanna Kasar",
+      "affiliation": [
+        {
+          "name": null,
+          "ror": null
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "S. Akash",
+      "affiliation": [
+        {
+          "name": null,
+          "ror": null
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Enrico Lupi",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0007-0329-8075"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100011__ACAT25-SOFIE.pdf"
+  ]
+}

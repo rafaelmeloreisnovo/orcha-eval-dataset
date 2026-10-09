@@ -1,0 +1,50 @@
+{
+  "doi": null,
+  "title": "QCD JETS FROX COHERENT STATES",
+  "publication_date": "1979-02-09",
+  "language": "English",
+  "abstract": "A recently proposed approach to the problem of infra-red and mass singularities in QCD, based on the formalism of coherent states, is extended to discuss massless quark and gluon jets. Our results include all leading (ln 6) terms as well as finite terms in the energy loss E, in addition to the usual ln E associated with ln 0. Our formulae agree with explicit perturbative calculations, whenever available. Explicit expressions for the total KT distributions are given which take into account transverse momentum conservation. Predictions are also made for the q 2 dependence of the mean K~ for quark and gluon jets. Our jet kT distributions are extrapolated for low kT and shown to describe with good accuracy the data for ee + qq + hadrons. Numerical results are also presented for the forthcoming PETRA, PEP and LEP machines.",
+  "authors": [
+    {
+      "name": "Giuseppe Curci",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Mario Greco",
+      "affiliation": [
+        {
+          "name": "INFN, Laboratori Nazionali di Frascati",
+          "ror": "049jf1a25"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Yogendra Srivastava",
+      "affiliation": [
+        {
+          "name": "INFN, Laboratori Nazionali di Frascati",
+          "ror": "049jf1a25"
+        },
+        {
+          "name": "Northeastern University",
+          "ror": "04t5xt781"
+        },
+        {
+          "name": "National Science Foundation, Washington",
+          "ror": "021nxhr62"
+        }
+      ],
+      "orcid": "0000-0002-7293-561X"
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100001__7903107.pdf"
+  ]
+}

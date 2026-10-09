@@ -1,0 +1,152 @@
+{
+  "doi": "10.1088/1748-0221/19/05/P05021",
+  "title": "Improvement on the linearity response of PandaX-4T with new photomultiplier tube bases",
+  "publication_date": "2024-05-10",
+  "language": "English",
+  "abstract": "With the expanding reach of physics, xenon-based detectors such as PandaX-4T in the China Jinping Underground Laboratory aim to cover an energy range from sub-keV to multi-MeV. A linear response of the photomultiplier tubes (PMTs) is required for both scintillation and electroluminescence signals. Through a dedicated bench test, we investigated the cause of the non-linear response in the Hamamatsu R11410-23 PMTs used in PandaX-4T. The saturation and suppression of the PMT waveform observed during the commissioning of PandaX-4T were caused by the high-voltage divider base. The bench test data validated the de-saturation algorithm used in the PandaX-4T data analysis. We also confirmed the improvement in linearity of a new PMT base design with three more low radioactivity capacitors at later dynodes, which will be used to upgrade the PMT readout system in PandaX-4T.",
+  "authors": [
+    {
+      "name": "Lingyin Luo",
+      "affiliation": [
+        {
+          "name": "School of Physics, State Key Laboratory of Nuclear Physics and Technology, Peking University",
+          "ror": "00tp8bz22"
+        }
+      ],
+      "orcid": "0009-0001-3502-8869"
+    },
+    {
+      "name": "Deqing Fang",
+      "affiliation": [
+        {
+          "name": "Key Laboratory of Nuclear Physics and Ion-beam Application (MOE), Institute of Modern Physics, Fudan University",
+          "ror": "013q1eq08"
+        }
+      ],
+      "orcid": "0000-0002-6123-3014"
+    },
+    {
+      "name": "Ke Han",
+      "affiliation": [
+        {
+          "name": "School of Physics and Astronomy, Shanghai Jiao Tong University, Key Laboratory for Particle Astrophysics and Cosmology (MoE), Shanghai Key Laboratory for Particle Physics and Cosmology",
+          "ror": "0220qvk04"
+        },
+        {
+          "name": "INPAC and School of Physics and Astronomy, Shanghai Jiao Tong University, Shanghai Laboratory for Particle Physics and Cosmology",
+          "ror": "0220qvk04"
+        }
+      ],
+      "orcid": "0000-0002-1609-7367"
+    },
+    {
+      "name": "Di Huang",
+      "affiliation": [
+        {
+          "name": "School of Physics and Astronomy, Shanghai Jiao Tong University, Key Laboratory for Particle Astrophysics and Cosmology (MoE), Shanghai Key Laboratory for Particle Physics and Cosmology",
+          "ror": "0220qvk04"
+        },
+        {
+          "name": "INPAC and School of Physics and Astronomy, Shanghai Jiao Tong University, Shanghai Laboratory for Particle Physics and Cosmology",
+          "ror": "0220qvk04"
+        }
+      ],
+      "orcid": "0000-0002-5371-8169"
+    },
+    {
+      "name": "Xiaofeng Shang",
+      "affiliation": [
+        {
+          "name": "School of Physics and Astronomy, Shanghai Jiao Tong University, Key Laboratory for Particle Astrophysics and Cosmology (MoE), Shanghai Key Laboratory for Particle Physics and Cosmology",
+          "ror": "0220qvk04"
+        },
+        {
+          "name": "INPAC and School of Physics and Astronomy, Shanghai Jiao Tong University, Shanghai Laboratory for Particle Physics and Cosmology",
+          "ror": "0220qvk04"
+        }
+      ],
+      "orcid": "0009-0008-8205-1966"
+    },
+    {
+      "name": "Anqing Wang",
+      "affiliation": [
+        {
+          "name": "Research Center for Particle Science and Technology, Institute of Frontier and Interdisciplinary Science, Shandong University",
+          "ror": "0207yh398"
+        },
+        {
+          "name": "Key Laboratory of Particle Physics and Particle Irradiation of Ministry of Education, Shandong University",
+          "ror": "0207yh398"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Qiuhong Wang",
+      "affiliation": [
+        {
+          "name": "Key Laboratory of Nuclear Physics and Ion-beam Application (MOE), Institute of Modern Physics, Fudan University",
+          "ror": "013q1eq08"
+        }
+      ],
+      "orcid": "0009-0006-3789-445X"
+    },
+    {
+      "name": "Shaobo Wang",
+      "affiliation": [
+        {
+          "name": "School of Physics and Astronomy, Shanghai Jiao Tong University, Key Laboratory for Particle Astrophysics and Cosmology (MoE), Shanghai Key Laboratory for Particle Physics and Cosmology",
+          "ror": "0220qvk04"
+        },
+        {
+          "name": "SJTU Paris Elite Institute of Technology, Shanghai Jiao Tong University",
+          "ror": "0220qvk04"
+        }
+      ],
+      "orcid": "0000-0002-7945-1466"
+    },
+    {
+      "name": "Siguang Wang",
+      "affiliation": [
+        {
+          "name": "School of Physics, State Key Laboratory of Nuclear Physics and Technology, Peking University",
+          "ror": "00tp8bz22"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Xiang Xiao",
+      "affiliation": [
+        {
+          "name": "School of Physics, Sun Yat-Sen University",
+          "ror": "0064kty71"
+        }
+      ],
+      "orcid": "0000-0003-0401-420X"
+    },
+    {
+      "name": "Binbin Yan",
+      "affiliation": [
+        {
+          "name": "Tsung-Dao Lee Institute, Shanghai Jiao Tong University",
+          "ror": "0220qvk04"
+        }
+      ],
+      "orcid": "0000-0001-7847-3084"
+    },
+    {
+      "name": "Xiyu Yan",
+      "affiliation": [
+        {
+          "name": "School of Physics and Astronomy, Sun Yat-Sen University",
+          "ror": "0064kty71"
+        }
+      ],
+      "orcid": "0009-0002-8551-9663"
+    }
+  ],
+  "file_paths": [
+    "files/Articles/ART_100018__Luo_2024_J._Inst._19_P05021.pdf"
+  ]
+}

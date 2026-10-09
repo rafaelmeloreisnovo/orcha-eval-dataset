@@ -1,0 +1,22 @@
+{
+  "doi": null,
+  "title": "The CMS Level-1 Trigger Data Scouting system for the HL-LHC upgrade",
+  "publication_date": "2024-07-19",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Emilio Meschi",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-4502-6151"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100018__ichep2024_L1Scouting_emeschi-v3.pdf"
+  ]
+}

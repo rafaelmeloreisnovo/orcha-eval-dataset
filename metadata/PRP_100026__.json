@@ -1,0 +1,121 @@
+{
+  "doi": null,
+  "title": "Small Protoplanetary Disks in the Orion Nebula Cluster and OMC1 with ALMA",
+  "publication_date": "2021-09-23",
+  "language": "English",
+  "abstract": "The Orion Nebula Cluster (ONC) is the nearest dense star-forming region at ∼400 pc away, making it an ideal target to study the impact of high stellar density and proximity to massive stars (the Trapezium) on protoplanetary disk evolution. The OMC1 molecular cloud is a region of high extinction situated behind the Trapezium in which actively forming stars are shielded from the Trapezium’s strong radiation. In this work, we survey disks at high resolution with Atacama Large Millimeter/submillimeter Array at three wavelengths with resolutions of 0.095\" (3 mm; Band 3), 0.048\" (1.3 mm; Band 6), and 0.030\" (0.85 mm; Band 7) centered on radio Source I. We detect 127 sources, including 15 new sources that have not previously been detected at any wavelength. 72 sources are spatially resolved at 3 mm, with sizes from ∼8–100 au. We classify 76 infrared-detected sources as foreground ONC disks and the remainder as embedded OMC1 disks. The two samples have similar disk sizes, but the OMC1 sources have a dense and centrally concentrated spatial distribution, indicating they may constitute a spatially distinct subcluster. We find smaller disk sizes and a lack of large (>75 au) disks in both our samples compared to other nearby star-forming regions, indicating that environmental disk truncation processes are significant. While photoevaporation from nearby massive Trapezium stars may account for the smaller disks in the ONC, the embedded sources in OMC1 are hidden from this radiation and thus must be truncated by some other mechanism, possibly dynamical truncation or accretion-driven contraction.",
+  "keywords": [
+  "star forming regions",
+  "YSOs",
+  "protoplanetary disks"
+],
+  "license": null,
+  "copyright": null,
+  "funding": [
+  {
+    "funder_name": "NSF AAG",
+    "grant_number": "1811290"
+  },
+  {
+    "funder_name": "National Science Foundation",
+    "grant_number": "2008101"
+  }
+],
+  "authors": [
+    {
+      "name": "Justin A. Otter",
+      "affiliation": [
+        {
+          "name": "REU Student at the National Radio Astronomy Observatory",
+          "ror": "04m24yn62"
+        },
+        {
+          "name": "Department of Physics & Astronomy, Johns Hopkins University",
+          "ror": "00za53h95"
+        }
+      ],
+      "orcid": "0000-0003-3191-9039"
+    },
+    {
+      "name": "Adam Ginsburg",
+      "affiliation": [
+        {
+          "name": "Jansky fellow of the National Radio Astronomy Observatory",
+          "ror": "04m24yn62"
+        },
+        {
+          "name": "Department of Astronomy, University of Florida",
+          "ror": "02y3ad647"
+        }
+      ],
+      "orcid": "0000-0001-6431-9633"
+    },
+    {
+      "name": "Nicholas Ballering",
+      "affiliation": [
+        {
+          "name": "Department of Astronomy, University of Virginia",
+          "ror": "0153tk833"
+        }
+      ],
+      "orcid": "0000-0002-4276-3730"
+    },
+    {
+      "name": "John Bally",
+      "affiliation": [
+        {
+          "name": " Center for Astrophysics and Space Astronomy, Department of Astrophysical and Planetary Sciences, University of Colorado",
+          "ror": "054spjc55"
+        }
+      ],
+      "orcid": "0000-0001-8135-6612"
+    },
+    {
+      "name": "Josh Eisner",
+      "affiliation": [
+        {
+          "name": "Steward Observatory, University of Arizona",
+          "ror": "03m2x1q45"
+        }
+      ],
+      "orcid": "0000-0002-1031-4199"
+    },
+    {
+      "name": "Ciriaco Goddi",
+      "affiliation": [
+        {
+          "name": "Department of Astrophysics/IMAPP, Radboud University Nijmegen",
+          "ror": "016xsfp80"
+        },
+        {
+          "name": "ALLEGRO/Leiden Observatory, Leiden University",
+          "ror": "03es66g06"
+        }
+      ],
+      "orcid": "0000-0002-2542-7743"
+    },
+    {
+      "name": "Richard Plambeck",
+      "affiliation": [
+        {
+          "name": "Radio Astronomy Lab, University of California",
+          "ror": "01an7q238"
+        }
+      ],
+      "orcid": "0000-0001-6765-9609"
+    },
+    {
+      "name": "Melvyn Wright",
+      "affiliation": [
+        {
+          "name": "Radio Astronomy Lab, University of California",
+          "ror": "01an7q238"
+        }
+      ],
+      "orcid": "0000-0002-9154-2440"
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100026__2109.14592v1.pdf"
+  ]
+}

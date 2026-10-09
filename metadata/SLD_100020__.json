@@ -1,0 +1,22 @@
+{
+  "doi": null,
+  "title": "Real-time Anomaly Detection in the CMS Experiment",
+  "publication_date": "2024-10-15",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Noah Zipper",
+      "affiliation": [
+        {
+          "name": "University of Colorado Boulder",
+          "ror": "02ttsq026"
+        }
+      ],
+      "orcid": "0000-0002-4805-8020"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100020__FASTML_2024_Talk_Noah_zipper.pdf"
+  ]
+}

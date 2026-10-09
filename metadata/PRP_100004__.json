@@ -1,0 +1,156 @@
+{
+  "doi": null,
+  "title": "Machine Learning Methods for Stellar Collisions. I. Predicting Outcomes of SPH Simulations",
+  "publication_date": "2026-02-12",
+  "language": "English",
+  "abstract": "Stellar collisions can occur frequently in dense cluster environments, and play a crucial role in producing exotic phenomena from blue stragglers in globular clusters to high-energy transients in galactic nuclei. Successive collisions and mergers of massive stars could also lead to the formation of massive black holes, serving as seeds for supermassive black holes in the early universe. While analytic fitting formulae exist for predicting collision outcomes, they do not generalize across different energy scales or stellar evolutionary phases. Smoothed particle hydrodynamics (SPH) simulations are often used to compute the outcomes of stellar collisions, but even at low resolution, their computational cost makes running on-the-fly calculations during an N-body simulation quite challenging. Here we present a new grid of 27,720 SPH calculations of main-sequence star collisions, spanning a wide range of masses, ages, relative velocities, and impact parameters. Using this grid, we train machine learning models to predict both collision outcomes (merger vs. disruption, or flyby) and final remnant masses. We compare the performance of nearest neighbors, support vector machines, and neural networks, achieving classification balanced accuracy of 98.4%, and regression relative errors as low as 0.11% and 0.15% for the final stars 1 and 2, respectively. We make our trained models publicly available as part of the package collAIder, enabling rapid predictions of stellar collision outcomes in N-body models of dense star cluster dynamics.",
+  "authors": [
+    {
+      "name": "Elena Gonzalez Prieto",
+      "affiliation": [
+        {
+          "name": "Department of Physics & Astronomy, Northwestern University",
+          "ror": "019t2rq07"
+        },
+        {
+          "name": "Center for Interdisciplinary Exploration & Research in Astrophysics (CIERA), Northwestern University",
+          "ror": "019t2rq07"
+        },
+        {
+          "name": "NSF-Simons AI Institute for the Sky (SkAI)",
+          "ror": "0424mzx13"
+        }
+      ],
+      "orcid": "0000-0002-0933-6438"
+    },
+    {
+      "name": "James C. Lombardi",
+      "affiliation": [
+        {
+          "name": "Department of Physics, Allegheny College",
+          "ror": "02jgzjj54"
+        }
+      ],
+      "orcid": "0000-0002-7444-7599"
+    },
+    {
+      "name": "Sanaea Rose",
+      "affiliation": [
+        {
+          "name": "Center for Interdisciplinary Exploration & Research in Astrophysics (CIERA), Northwestern University",
+          "ror": "019t2rq07"
+        },
+        {
+          "name": "NSF-Simons AI Institute for the Sky (SkAI)",
+          "ror": "0424mzx13"
+        }
+      ],
+      "orcid": "0000-0003-0984-4456"
+    },
+    {
+      "name": "Charles F. A. Gibson",
+      "affiliation": [
+        {
+          "name": "Department of Physics & Astronomy, Northwestern University",
+          "ror": "019t2rq07"
+        },
+        {
+          "name": "Center for Interdisciplinary Exploration & Research in Astrophysics (CIERA), Northwestern University",
+          "ror": "019t2rq07"
+        },
+        {
+          "name": "NSF-Simons AI Institute for the Sky (SkAI)",
+          "ror": "0424mzx13"
+        }
+      ],
+      "orcid": "0009-0003-8690-8297"
+    },
+    {
+      "name": "Christopher E. O'Connor",
+      "affiliation": [
+        {
+          "name": "Center for Interdisciplinary Exploration & Research in Astrophysics (CIERA), Northwestern University",
+          "ror": "019t2rq07"
+        },
+        {
+          "name": "NSF-Simons AI Institute for the Sky (SkAI)",
+          "ror": "0424mzx13"
+        }
+      ],
+      "orcid": "0000-0003-3987-3776"
+    },
+    {
+      "name": "Tjitske Starkenburg",
+      "affiliation": [
+        {
+          "name": "Department of Physics & Astronomy, Northwestern University",
+          "ror": "019t2rq07"
+        },
+        {
+          "name": "Center for Interdisciplinary Exploration & Research in Astrophysics (CIERA), Northwestern University",
+          "ror": "019t2rq07"
+        },
+        {
+          "name": "NSF-Simons AI Institute for the Sky (SkAI)",
+          "ror": "0424mzx13"
+        }
+      ],
+      "orcid": "0000-0003-2539-8206"
+    },
+    {
+      "name": "Fulya Kıroğlu",
+      "affiliation": [
+        {
+          "name": "Center for Interdisciplinary Exploration & Research in Astrophysics (CIERA), Northwestern University",
+          "ror": "019t2rq07"
+        },
+        {
+          "name": "NSF-Simons AI Institute for the Sky (SkAI)",
+          "ror": "0424mzx13"
+        }
+      ],
+      "orcid": "0000-0003-4412-2176"
+    },
+    {
+      "name": "Kyle Kremer",
+      "affiliation": [
+        {
+          "name": "Department of Astronomy & Astrophysics, University of California, San Diego",
+          "ror": "0168r3w48"
+        }
+      ],
+      "orcid": "0000-0002-4086-3180"
+    },
+    {
+      "name": "Tristan Sand",
+      "affiliation": [
+        {
+          "name": "Department of Physics, Loyola University Chicago",
+          "ror": "04b6x2g63"
+        }
+      ],
+      "orcid": "0009-0004-5934-9650"
+    },
+    {
+      "name": "Frederic A. Rasio",
+      "affiliation": [
+        {
+          "name": "Department of Physics & Astronomy, Northwestern University",
+          "ror": "019t2rq07"
+        },
+        {
+          "name": "Center for Interdisciplinary Exploration & Research in Astrophysics (CIERA), Northwestern University",
+          "ror": "019t2rq07"
+        },
+        {
+          "name": "NSF-Simons AI Institute for the Sky (SkAI)",
+          "ror": "0424mzx13"
+        }
+      ],
+      "orcid": "0000-0002-7132-418X"
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100004__2602.10191v1.pdf"
+  ]
+}

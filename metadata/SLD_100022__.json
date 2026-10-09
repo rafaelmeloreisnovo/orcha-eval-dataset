@@ -1,0 +1,22 @@
+{
+  "doi": null,
+  "title": "ML-Assisted Tracking in the ATLAS Muon Spectrometer",
+  "publication_date": "2025-11-10",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Jonathan Renusch",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0009-0561-577X"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100022__Prelim_CTD_slides.pdf"
+  ]
+}

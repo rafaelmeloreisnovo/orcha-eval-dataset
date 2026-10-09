@@ -1,0 +1,22 @@
+{
+  "doi": null,
+  "title": "SUPERSYMMETRIES AND THEIR REPRESENTATIONS",
+  "publication_date": "1977-07-07",
+  "language": "English",
+  "abstract": "We determine all manifest supersymmetries in more than 1+1 dimensions, including those with conformal or de Sitter space-time symmetry. For the super symmetries in flat space we determine the structure of all representations and give formulae for an effective computation. In particular we show that at least for masses m2 = 0,1,2 the states of the spinning string form super symmetry multiplets.",
+  "authors": [
+    {
+      "name": "w. Nahm",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100017__7709213.pdf"
+  ]
+}

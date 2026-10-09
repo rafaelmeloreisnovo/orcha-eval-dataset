@@ -1,0 +1,53 @@
+{
+  "doi": "10.5281/zenodo.19655943",
+  "title": "ESTRATEGIAS PARA LA CONSTRUCCIÓN DE PAZ EN COLOMBIA",
+  "subtitle": "UN ENFOQUE MULTIDISCIPLINAR",
+  "publication_date": "2020",
+  "language": "Spanish",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Francisco Gorjón-Gómez",
+      "affiliation": [
+        {
+          "name": "Universidad Simón Bolívar",
+          "ror": "02njbw696"
+        }
+      ],
+      "orcid": "0000-0001-5296-6454"
+    },
+    {
+      "name": "Paris A. Cabello-Tijerina",
+      "affiliation": [
+        {
+          "name": "Universidad Simón Bolívar",
+          "ror": "02njbw696"
+        }
+      ],
+      "orcid": "0000-0002-0191-2488"
+    },
+    {
+      "name": "Neida Albornoz-Arias",
+      "affiliation": [
+        {
+          "name": "Universidad Simón Bolívar",
+          "ror": "02njbw696"
+        }
+      ],
+      "orcid": "0000-0001-7851-5985"
+    },
+    {
+      "name": "Valmore José Bermúdez Pirela",
+      "affiliation": [
+        {
+          "name": "Universidad Simón Bolívar",
+          "ror": "02njbw696"
+        }
+      ],
+      "orcid": "0000-0003-1880-8887"
+    }
+  ],
+  "file_paths": [
+    "files/Book/BOK_100013__Estrategias_construcción-de-paz_Colombia.pdf"
+  ]
+}

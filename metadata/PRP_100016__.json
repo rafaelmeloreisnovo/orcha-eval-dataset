@@ -1,0 +1,32 @@
+{
+  "doi": null,
+  "title": "MASS SINGULARITIES AND COHERENT STATES IN GAUGE THEORIES",
+  "publication_date": "1978-07-13",
+  "language": "English",
+  "abstract": "The problem of mass singularities is studied using the formalism of coherent states. The introduction of new states which account for both soft and hard radiation effects provides one with matrix elements which are free Jrom infra-red and mass singularities at the leading logarithmic approximation. In QED our results coincide with those obtained from the renormalization group equations. The generalization to QCD agrees with perturbative calculations and provides a simple framework for evaluating the finite corrections to hard processes.",
+  "authors": [
+    {
+      "name": "Giuseppe Curci",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Mario Greco",
+      "affiliation": [
+        {
+          "name": "Laboratori Nazionali dell 1 INFN, Frascati",
+          "ror": "049jf1a25"
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Preprint/PRP_100016__7808016.pdf"
+  ]
+}

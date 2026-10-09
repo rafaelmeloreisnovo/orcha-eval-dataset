@@ -1,0 +1,32 @@
+{
+  "doi": "10.1007/978-3-031-60931-2_12",
+  "title": "Building CERN’s Future Circular Collider—An Estimation of Its Impact on Value Added and Employment",
+  "publication_date": "2025",
+  "language": "English",
+  "abstract": "This chapter explores the potential economic and employment impacts of constructing the Future Circular Collider (FCC), a next-generation particle accelerator being developed by CERN. The FCC project aims to build upon the existing accelerator complex near Geneva, extending into the Haute-Savoie region and introducing an unparalleled research facility for the global scientific community. By integrating a high-intensity electron-positron collider and a high-energy hadron collider, the FCC is designed to push the boundaries of particle physics throughout the twentyfirst century. Beyond its scientific aspirations, the project has the potential to create significant economic value through direct and indirect employment, technology transfer, and innovation spillovers across sectors. The analysis presented in this chapter examines the anticipated impacts on regional and international economies, highlighting the benefits of such a large-scale infrastructure in advancing scientific frontiers while also delivering tangible contributions to society, innovation, and employment growth. Through advanced modelling and projections, the chapter estimates the FCC’s potential to act as a catalyst for economic development, further solidifying Europe’s leadership in high-energy physics research.",
+  "authors": [
+    {
+      "name": "Gerhard Streicher",
+      "affiliation": [
+        {
+          "name": "WIFO",
+          "ror": "0515pjs57"
+        }
+      ],
+      "orcid": "0000-0002-1803-1353"
+    },
+    {
+      "name": "Johannes Gutleber",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0003-2462-4504"
+    }
+  ],
+  "file_paths": [
+    "files/Book_chapter/BKC_100004__778bc5567558b97f8ad1c311b5064672.pdf"
+  ]
+}

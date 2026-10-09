@@ -1,0 +1,76 @@
+{
+  "doi": "10.5281/zenodo.18873034",
+  "titles": [
+    {
+      "spanish_title": "JÓVENES Y VIOLENCIAS"
+    },
+    {
+      "basque_title": "GAZTEAK ETA BORTIZKERIAK"
+    }
+  ],
+  "publication_date": "2018-03",
+  "languages": [
+    {
+      "first_language": "Spanish"
+    },
+    {
+      "second_language": "Basque"
+    }
+  ],
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Rubén Lasheras",
+      "affiliation": [
+        {
+          "name": "upna Universidad Pública de Navarra. Nafarroako Unibertsitate Publikoa",
+          "ror": "02z0cah89"
+        }
+      ],
+      "orcid": "0000-0003-2237-9835"
+    },
+    {
+      "name": "Paz Francés",
+      "affiliation": [
+        {
+          "name": "upna Universidad Pública de Navarra. Nafarroako Unibertsitate Publikoa",
+          "ror": "02z0cah89"
+        }
+      ],
+      "orcid": "0000-0001-9535-9355"
+    },
+    {
+      "name": "Edurne Jabat",
+      "affiliation": [
+        {
+          "name": "upna Universidad Pública de Navarra. Nafarroako Unibertsitate Publikoa",
+          "ror": "02z0cah89"
+        }
+      ],
+      "orcid": "0000-0003-4761-7764"
+    },
+    {
+      "name": "Lohitzune Zuloaga",
+      "affiliation": [
+        {
+          "name": "upna Universidad Pública de Navarra. Nafarroako Unibertsitate Publikoa",
+          "ror": "02z0cah89"
+        }
+      ],
+      "orcid": "0000-0002-2930-3780"
+    },
+    {
+      "name": "Xabier Tirapu",
+      "affiliation": [
+        {
+          "name": "upna Universidad Pública de Navarra. Nafarroako Unibertsitate Publikoa",
+          "ror": "02z0cah89"
+        }
+      ],
+      "orcid": "0009-0006-7429-7654"
+    }
+  ],
+  "file_paths": [
+    "files/Reports/RPT_100002__GAZTEAK_2018_AZKENA.pdf"
+  ]
+}

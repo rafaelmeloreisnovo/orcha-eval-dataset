@@ -1,0 +1,32 @@
+{
+  "doi": "10.1007/978-3-319-17545-4_23",
+  "title": "THERMODYNAMICS OF HOT NUCLEAR MATTER IN THE STATISTICAL BOOTSTRAP MODEL",
+  "publication_date": "1979-04-12",
+  "language": "English",
+  "abstract": "We formulate the statistical bootstrap model for nuclear matter, and study its resulting thermodynamic properties at nuclear densities below the saturation density. We discuss the relevance of limiting temperature and the phase transition gas-'liquid' when the volume of the fireball grows with its energy.",
+  "authors": [
+    {
+      "name": "Johann Rafelski",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0001-8217-1484"
+    },
+    {
+      "name": "Rolf Hagedorn",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": null
+    }
+  ],
+  "file_paths": [
+    "files/Conference_papers/CFP_100010__CM-P00055555.pdf"
+  ]
+}

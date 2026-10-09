@@ -1,0 +1,45 @@
+{
+  "doi": "10.5281/zenodo.18807429",
+  "titles": [
+    {
+      "serbian_title": "ЗДРАВСТВЕНЕ ЗАДРУГЕ – СРПСКИ КОРЕНИ ГЛОБАЛНОГ РАЗВОЈА И МОДЕРНЕ ИНИЦИЈАТИВЕ"
+    },
+    {
+      "english_title": "HEALTH COOPERATIVES – SERBIAN ROOTS FOR GLOBAL DEVELOPMENT"
+    }
+  ],
+  "publication_date": "2020",
+  "language": "Serbian",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Milorad Stamenovic",
+      "affiliation": [
+        {
+          "name": "Ergomed plc",
+          "ror": "04h9m9r06"
+        },
+        {
+          "name": "ICON plc",
+          "ror": "00gmhs392"
+        },
+        {
+          "name": "Syneos Health UK Limited",
+          "ror": "036p9nz54"
+        },
+        {
+          "name": "Pierrel SpA",
+          "ror": null
+        },
+        {
+          "name": "Inventis CTC",
+          "ror": null
+        }
+      ],
+      "orcid": "0000-0003-3181-3146"
+    }
+  ],
+  "file_paths": [
+    "files/Book/BOK_100002__LEKARSKE ZADRUGE PRIPREMA SA CIPOM STAMPA 2.pdf"
+  ]
+}

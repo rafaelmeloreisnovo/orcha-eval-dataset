@@ -1,0 +1,976 @@
+{
+  "doi": null,
+  "title": "LES HOUCHES 2019: PHYSICS AT TEV COLLIDERS NEW PHYSICS WORKING GROUP REPORT",
+  "publication_date": "2020-02-27",
+  "language": "English",
+  "abstract": "This report presents the activities of the ‘New Physics’ working group for the ‘Physics at TeV Colliders’ workshop (Les Houches, France, 10–28 June, 2019). These activities include studies of direct searches for new physics, approaches to exploit published data to constrain new physics, as well as the development of tools to further facilitate these investigations. Benefits of machine learning for both the search for new physics and the interpretation of these searches are also presented.",
+  "authors": [
+    {
+      "name": "Gustaaf Brooijmans",
+      "affiliation": [
+        {
+          "name": "Physics Department, Columbia University",
+          "ror": "00hj8s172"
+        }
+      ],
+      "orcid": "0000-0002-3354-1810"
+    },
+    {
+      "name": "Andy Buckley",
+      "affiliation": [
+        {
+          "name": "School of Physics and Astronomy, University of Glasgow",
+          "ror": "00vtgdb53"
+        }
+      ],
+      "orcid": "0000-0001-8355-9237"
+    },
+    {
+      "name": "Sascha Caron",
+      "affiliation": [
+        {
+          "name": "IMAPP, Radboud University",
+          "ror": "016xsfp80"
+        }
+      ],
+      "orcid": "0000-0003-2941-2829"
+    },
+    {
+      "name": "Adam Falkowski",
+      "affiliation": [
+        {
+          "name": "Laboratoire de Physique des 2 Infinis Irène Joliot-Curie d’Orsay (IJCLab)",
+          "ror": "03gc1p724"
+        }
+      ],
+      "orcid": "0000-0002-5297-761X"
+    },
+    {
+      "name": "Benjamin Fuks",
+      "affiliation": [
+        {
+          "name": "Institut Universitaire de France",
+          "ror": "055khg266"
+        },
+        {
+          "name": "Laboratoire de Physique Théorique et Hautes Energies (LPTHE)",
+          "ror": "02mph9k76"
+        }
+      ],
+      "orcid": "0000-0002-0041-0566"
+    },
+    {
+      "name": "Andrew Gilbert",
+      "affiliation": [
+        {
+          "name": "Northwestern University",
+          "ror": "000e0be47"
+        }
+      ],
+      "orcid": "0000-0001-7560-5790"
+    },
+    {
+      "name": "William Murray",
+      "affiliation": [
+        {
+          "name": "Department of Physics, University of Warwick",
+          "ror": "01a77tt86"
+        },
+        {
+          "name": "Particle Physics Department, Rutherford Appleton Laboratory",
+          "ror": "03gq8fr08"
+        }
+      ],
+      "orcid": "0000-0003-1710-6306"
+    },
+    {
+      "name": "Marco Nardecchia",
+      "affiliation": [
+        {
+          "name": "Sapienza - Universita di Roma",
+          "ror": "02be6w209"
+        }
+      ],
+      "orcid": "0000-0002-9426-6488"
+    },
+    {
+      "name": "Jose Miguel No",
+      "affiliation": [
+        {
+          "name": "Departamento de Física Teórica and Instituto de Física Teórica, IFT-UAM/CSIC",
+          "ror": "022r8mj40"
+        }
+      ],
+      "orcid": "0000-0002-1321-8960"
+    },
+    {
+      "name": "Riccardo Torre",
+      "affiliation": [
+        {
+          "name": "INFN, Sezione di Genova",
+          "ror": "02v89pq06"
+        },
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-8832-5488"
+    },
+    {
+      "name": "Tevong You",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "DAMTP, University of Cambridge",
+          "ror": "013meh722"
+        },
+        {
+          "name": "Cavendish Laboratory, University of Cambridge",
+          "ror": "013meh722"
+        }
+      ],
+      "orcid": "0000-0003-2391-7463"
+    },
+    {
+      "name": "Giovanni Zevi Della Porta",
+      "affiliation": [
+        {
+          "name": "CERN, Beams Department",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-0495-6061"
+    },
+    {
+      "name": "Gaël Alguero",
+      "affiliation": [
+        {
+          "name": "Laboratoire de Physique Subatomique et de Cosmologie, Université Grenoble-Alpes, CNRS/IN2P3",
+          "ror": "03f0apy98"
+        }
+      ],
+      "orcid": "0000-0002-3075-8678"
+    },
+    {
+      "name": "Jack Y. Araz",
+      "affiliation": [
+        {
+          "name": "Concordia University",
+          "ror": "01qxhf360"
+        }
+      ],
+      "orcid": "0000-0001-8721-8042"
+    },
+    {
+      "name": "Shankha Banerjee",
+      "affiliation": [
+        {
+          "name": "Institute for Particle Physics Phenomenology, Department of Physics, Durham University",
+          "ror": "01v29qb04"
+        }
+      ],
+      "orcid": "0000-0002-6493-7295"
+    },
+    {
+      "name": "Genevieve Bélanger",
+      "affiliation": [
+        {
+          "name": "LAPTh, Univ. Grenoble Alpes, USMB, CNRS",
+          "ror": "010hz2d37"
+        }
+      ],
+      "orcid": "0000-0002-9621-4948"
+    },
+    {
+      "name": "Tetiana Hryn'ova",
+      "affiliation": [
+        {
+          "name": "Univ. Grenoble Alpes, Univ. Savoie Mont Blanc, CNRS, IN2P3-LAPP",
+          "ror": "049nhh297"
+        }
+      ],
+      "orcid": "0000-0001-5914-8614"
+    },
+    {
+      "name": "Jordan Bernigaud Samatan",
+      "affiliation": [
+        {
+          "name": "Institute for Nuclear Physics (IKP), KIT Karlsruhe Institute of Technology",
+          "ror": "04t3en479"
+        },
+        {
+          "name": "Institute for Theoretical Particle Physics (TTP), Karlsruhe Institute of Technology",
+          "ror": "04t3en479"
+        }
+      ],
+      "orcid": "0000-0002-2013-9021"
+    },
+    {
+      "name": "Aoife Bharucha",
+      "affiliation": [
+        {
+          "name": "Aix Marseille Univ, Université de Toulon, CNRS, CPT",
+          "ror": "035xkbk20"
+        }
+      ],
+      "orcid": "0000-0002-1728-7111"
+    },
+    {
+      "name": "Dario Buttazzo",
+      "affiliation": [
+        {
+          "name": "INFN Sezione di Pisa",
+          "ror": "05symbg58"
+        }
+      ],
+      "orcid": "0000-0002-4678-7975"
+    },
+    {
+      "name": "Jonathan Butterworth",
+      "affiliation": [
+        {
+          "name": "Department of Physics & Astronomy, University College London",
+          "ror": "02jx3x895"
+        }
+      ],
+      "orcid": "0000-0002-5905-5394"
+    },
+    {
+      "name": "Giacomo Cacciapaglia",
+      "affiliation": [
+        {
+          "name": "Univ. Lyon, Université Claude Bernard Lyon 1, CNRS/IN2P3, UMR5822 IPNL",
+          "ror": "029brtt94"
+        }
+      ],
+      "orcid": "0000-0002-3426-1618"
+    },
+    {
+      "name": "Andrea Coccaro",
+      "affiliation": [
+        {
+          "name": "INFN, Sezione di Genova",
+          "ror": "02v89pq06"
+        }
+      ],
+      "orcid": "0000-0003-2368-4559"
+    },
+    {
+      "name": "Louie Corpe",
+      "affiliation": [
+        {
+          "name": "Department of Physics & Astronomy, University College London",
+          "ror": "02jx3x895"
+        }
+      ],
+      "orcid": "0000-0003-2136-4842"
+    },
+    {
+      "name": "Nishita Desai",
+      "affiliation": [
+        {
+          "name": "Department of Theoretical Physics, Tata Institute of Fundamental Research",
+          "ror": "03ht1xw27"
+        }
+      ],
+      "orcid": "0000-0001-7942-1649"
+    },
+    {
+      "name": "Andrea De Simone",
+      "affiliation": [
+        {
+          "name": "SISSA",
+          "ror": "004fze387"
+        }
+      ],
+      "orcid": "0000-0003-1887-0410"
+    },
+    {
+      "name": "Juhi Dutta",
+      "affiliation": [
+        {
+          "name": "Regional Centre for Accelerator-based Particle Physics, Harish-Chandra Research Institute, HBNI",
+          "ror": "0165d9303"
+        },
+        {
+          "name": "II. Institut für Theoretische Physik, Universität Hamburg",
+          "ror": "00g30e956"
+        }
+      ],
+      "orcid": "0000-0002-7839-0104"
+    },
+    {
+      "name": "Amir Farbin",
+      "affiliation": [
+        {
+          "name": "University of Texas Arlington",
+          "ror": "019kgqr73"
+        }
+      ],
+      "orcid": "0000-0003-0000-2439"
+    },
+    {
+      "name": "Sylvain Fichet",
+      "affiliation": [
+        {
+          "name": "International Institute of Physics, UFRN",
+          "ror": "04wn09761"
+        }
+      ],
+      "orcid": "0000-0001-9093-1914"
+    },
+    {
+      "name": "Thomas Flacke",
+      "affiliation": [
+        {
+          "name": "Center for Theoretical Physics of the Universe, Institute for Basic Science (IBS)",
+          "ror": "00y0zf565"
+        }
+      ],
+      "orcid": "0000-0002-5237-0893"
+    },
+    {
+      "name": "Sudin Ganguly",
+      "affiliation": [
+        {
+          "name": "Weizmann Institute of Science",
+          "ror": "0316ej306"
+        }
+      ],
+      "orcid": "0000-0003-0607-4417"
+    },
+    {
+      "name": "Susan Gascon-Shotkin",
+      "affiliation": [
+        {
+          "name": "Univ. Lyon, Université Claude Bernard Lyon 1, CNRS/IN2P3, UMR5822 IPNL",
+          "ror": "029brtt94"
+        }
+      ],
+      "orcid": "0000-0002-7204-1624"
+    },
+    {
+      "name": "Tomas Gonzalo",
+      "affiliation": [
+        {
+          "name": "School of Physics and Astronomy, Monash University",
+          "ror": "02bfwt286"
+        }
+      ],
+      "orcid": "0000-0003-2207-1005"
+    },
+    {
+      "name": "Andreas Goudelis",
+      "affiliation": [
+        {
+          "name": "Laboratoire de Physique de Clermont (UMR 6533), CNRS/IN2P3, Univ. Clermont Auvergne",
+          "ror": "0214k6v65"
+        }
+      ],
+      "orcid": "0000-0002-2971-8863"
+    },
+    {
+      "name": "Philippe Gras",
+      "affiliation": [
+        {
+          "name": "CEA Institut de Recherche sur les lois Fondamentales de l’Univers, Université Paris-Saclay",
+          "ror": "05k705z76"
+        }
+      ],
+      "orcid": "0000-0002-3932-5967"
+    },
+    {
+      "name": "Rick Sandeepan Gupta",
+      "affiliation": [
+        {
+          "name": "Institute for Particle Physics Phenomenology, Department of Physics, Durham University",
+          "ror": "01v29qb04"
+        }
+      ],
+      "orcid": "0000-0003-4398-4698"
+    },
+    {
+      "name": "Martin Habedank",
+      "affiliation": [
+        {
+          "name": "Department of Physics, HU Berlin",
+          "ror": "01hcx6992"
+        }
+      ],
+      "orcid": "0000-0002-7412-9355"
+    },
+    {
+      "name": "Jan Heisig",
+      "affiliation": [
+        {
+          "name": "Centre for Cosmology, Particle Physics and Phenomenology (CP3), Université catholique de Louvain",
+          "ror": "02495e989"
+        }
+      ],
+      "orcid": "0000-0002-7824-0384"
+    },
+    {
+      "name": "Luc Hendriks",
+      "affiliation": [
+        {
+          "name": "IMAPP, Radboud University",
+          "ror": "016xsfp80"
+        }
+      ],
+      "orcid": "0000-0001-8034-8979"
+    },
+    {
+      "name": "Shilpi Jain",
+      "affiliation": [
+        {
+          "name": "School of Physics & Astronomy, University of Minnesota",
+          "ror": "017zqws13"
+        }
+      ],
+      "orcid": "0000-0003-1770-5309"
+    },
+    {
+      "name": "Adil Jueid",
+      "affiliation": [
+        {
+          "name": "Department of Physics, Konkuk University",
+          "ror": "025h1m602"
+        }
+      ],
+      "orcid": "0000-0002-0963-366X"
+    },
+    {
+      "name": "Deepak Kar",
+      "affiliation": [
+        {
+          "name": "School of Physics, University of Witwatersrand",
+          "ror": "03rp50x72"
+        }
+      ],
+      "orcid": "0000-0002-4238-9822"
+    },
+    {
+      "name": "Sabine Kraml",
+      "affiliation": [
+        {
+          "name": "Laboratoire de Physique Subatomique et de Cosmologie, Université Grenoble-Alpes, CNRS/IN2P3",
+          "ror": "03f0apy98"
+        }
+      ],
+      "orcid": "0000-0002-2613-7000"
+    },
+    {
+      "name": "Anders Kvellestad",
+      "affiliation": [
+        {
+          "name": "Department of Physics, Imperial College London",
+          "ror": "041kmwe10"
+        },
+        {
+          "name": "Department of Physics, University of Oslo",
+          "ror": "01xtthb56"
+        }
+      ],
+      "orcid": "0000-0002-5267-7705"
+    },
+    {
+      "name": "Kenneth Lane",
+      "affiliation": [
+        {
+          "name": "Department of Physics, Boston University",
+          "ror": "05qwgg493"
+        }
+      ],
+      "orcid": "0000-0001-8281-5438"
+    },
+    {
+      "name": "Jonathon Langford",
+      "affiliation": [
+        {
+          "name": "Department of Physics, Imperial College London",
+          "ror": "041kmwe10"
+        }
+      ],
+      "orcid": "0000-0002-3931-4379"
+    },
+    {
+      "name": "Adam Leinweber",
+      "affiliation": [
+        {
+          "name": "University of Adelaide",
+          "ror": "028g18b61"
+        }
+      ],
+      "orcid": "0000-0002-0794-5934"
+    },
+    {
+      "name": "Antoine Lesauvage",
+      "affiliation": [
+        {
+          "name": "Univ. Lyon, Université Claude Bernard Lyon 1, CNRS/IN2P3, UMR5822 IPNL",
+          "ror": "029brtt94"
+        }
+      ],
+      "orcid": "0000-0003-3437-7845"
+    },
+    {
+      "name": "Andre Lessa",
+      "affiliation": [
+        {
+          "name": "Centro de Ciencias Naturais e Humanas, Universidade Federal do ABC",
+          "ror": "028kg9j04"
+        }
+      ],
+      "orcid": "0000-0002-5251-7891"
+    },
+    {
+      "name": "Judita Mamuzic",
+      "affiliation": [
+        {
+          "name": "Instituto de Física Corpuscular, CSIC-Universitat de València",
+          "ror": "017xch102"
+        }
+      ],
+      "orcid": "0000-0002-3203-4243"
+    },
+    {
+      "name": "David Marzocca",
+      "affiliation": [
+        {
+          "name": "SISSA",
+          "ror": "004fze387"
+        }
+      ],
+      "orcid": "0000-0002-4353-1544"
+    },
+    {
+      "name": "Erzsebet Merényi",
+      "affiliation": [
+        {
+          "name": "Rice University",
+          "ror": "008zs3103"
+        }
+      ],
+      "orcid": "0000-0001-8705-6186"
+    },
+    {
+      "name": "Ali Mjallal",
+      "affiliation": [
+        {
+          "name": "LAPTh, Univ. Grenoble Alpes, USMB, CNRS",
+          "ror": "010hz2d37"
+        }
+      ],
+      "orcid": "0000-0003-2660-9976"
+    },
+    {
+      "name": "Kirtimaan Mohan",
+      "affiliation": [
+        {
+          "name": "Department of Physics and Astronomy, Michigan State University",
+          "ror": "05hs6h993"
+        }
+      ],
+      "orcid": "0000-0002-2538-6275"
+    },
+    {
+      "name": "Alesssandro Morandini",
+      "affiliation": [
+        {
+          "name": "SISSA",
+          "ror": "004fze387"
+        }
+      ],
+      "orcid": "0000-0003-2301-7553"
+    },
+    {
+      "name": "Gregory Moreau",
+      "affiliation": [
+        {
+          "name": "Laboratoire de Physique des 2 Infinis Irène Joliot-Curie d’Orsay (IJCLab)",
+          "ror": "03gc1p724"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Sophie Mutzel",
+      "affiliation": [
+        {
+          "name": "Aix Marseille Univ, Université de Toulon, CNRS, CPT",
+          "ror": "035xkbk20"
+        }
+      ],
+      "orcid": "0009-0004-8349-169X"
+    },
+    {
+      "name": "Clara Nellist",
+      "affiliation": [
+        {
+          "name": "IMAPP, Radboud University",
+          "ror": "016xsfp80"
+        },
+        {
+          "name": "Nikhef",
+          "ror": "00f9tz983"
+        }
+      ],
+      "orcid": "0000-0002-5171-8579"
+    },
+    {
+      "name": "Sydney Otten",
+      "affiliation": [
+        {
+          "name": "IMAPP, Radboud University",
+          "ror": "016xsfp80"
+        },
+        {
+          "name": "GRAPPA, University of Amsterdam",
+          "ror": "04dkp9463"
+        }
+      ],
+      "orcid": "0000-0002-0059-3438"
+    },
+    {
+      "name": "Priscilla Pani",
+      "affiliation": [
+        {
+          "name": "Deutsches Elektronen Synchrotron, DESY",
+          "ror": "01js2sh04"
+        }
+      ],
+      "orcid": "0000-0003-2149-3791"
+    },
+    {
+      "name": "Luca Panizzi",
+      "affiliation": [
+        {
+          "name": "Department of Physics and Astronomy, Uppsala University",
+          "ror": "048a87296"
+        }
+      ],
+      "orcid": "0000-0002-6133-4958"
+    },
+    {
+      "name": "Maurizio Pierini",
+      "affiliation": [
+        {
+          "name": "CERN, Experimental Physics Department",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-1939-4268"
+    },
+    {
+      "name": "Giacomo Polesello",
+      "affiliation": [
+        {
+          "name": "INFN, Sezione di Pavia",
+          "ror": "01st30669"
+        }
+      ],
+      "orcid": "0000-0001-8636-0186"
+    },
+    {
+      "name": "Werner Porod",
+      "affiliation": [
+        {
+          "name": "Uni. Würzburg",
+          "ror": "03pvr2g57"
+        }
+      ],
+      "orcid": "0000-0002-0248-6556"
+    },
+    {
+      "name": "Harrison B. Prosper",
+      "affiliation": [
+        {
+          "name": "Department of Physics, Florida State University",
+          "ror": "05g3dte14"
+        }
+      ],
+      "orcid": "0000-0002-4077-2713"
+    },
+    {
+      "name": "Alexander Pukhov",
+      "affiliation": [
+        {
+          "name": "Skobeltsyn Institute of Nuclear Physics, Moscow State University",
+          "ror": "050a13t43"
+        }
+      ],
+      "orcid": "0000-0003-1604-799X"
+    },
+    {
+      "name": "Jérémie Quevillon",
+      "affiliation": [
+        {
+          "name": "Laboratoire de Physique Subatomique et de Cosmologie, Université Grenoble-Alpes, CNRS/IN2P3",
+          "ror": "03f0apy98"
+        }
+      ],
+      "orcid": "0000-0002-1283-8842"
+    },
+    {
+      "name": "Are Raklev",
+      "affiliation": [
+        {
+          "name": "Department of Physics, University of Oslo",
+          "ror": "01xtthb56"
+        }
+      ],
+      "orcid": "0000-0003-0022-9764"
+    },
+    {
+      "name": "Humberto Reyes-González",
+      "affiliation": [
+        {
+          "name": "Laboratoire de Physique Subatomique et de Cosmologie, Université Grenoble-Alpes, CNRS/IN2P3",
+          "ror": "03f0apy98"
+        }
+      ],
+      "orcid": "0000-0003-3283-5208"
+    },
+    {
+      "name": "Richard Ruiz",
+      "affiliation": [
+        {
+          "name": "Centre for Cosmology, Particle Physics and Phenomenology (CP3), Université catholique de Louvain",
+          "ror": "02495e989"
+        }
+      ],
+      "orcid": "0000-0002-3316-2175"
+    },
+    {
+      "name": "Roberto Ruiz de Austri",
+      "affiliation": [
+        {
+          "name": "Instituto de Física Corpuscular, CSIC-Universitat de València",
+          "ror": "017xch102"
+        }
+      ],
+      "orcid": "0000-0003-3688-9609"
+    },
+    {
+      "name": "Jeroen Schouwenberg",
+      "affiliation": [
+        {
+          "name": "IMAPP, Radboud University",
+          "ror": "016xsfp80"
+        },
+        {
+          "name": "Nikhef",
+          "ror": "00f9tz983"
+        }
+      ],
+      "orcid": "0000-0002-8738-9519"
+    },
+    {
+      "name": "sezen Sekmen",
+      "affiliation": [
+        {
+          "name": "Department of Physics, Kyungpook National University",
+          "ror": "040c17130"
+        }
+      ],
+      "orcid": "0000-0003-1726-5681"
+    },
+    {
+      "name": "Dipan Sengupta",
+      "affiliation": [
+        {
+          "name": "Department of Physics and Astronomy, Gilman Drive, University of California San Diego",
+          "ror": "0168r3w48"
+        }
+      ],
+      "orcid": "0000-0002-5107-0098"
+    },
+    {
+      "name": "Christopher Smith",
+      "affiliation": [
+        {
+          "name": "Laboratoire de Physique Subatomique et de Cosmologie, Université Grenoble-Alpes, CNRS/IN2P3",
+          "ror": "03f0apy98"
+        }
+      ],
+      "orcid": "0000-0003-2189-4640"
+    },
+    {
+      "name": "Minho Son",
+      "affiliation": [
+        {
+          "name": "Department of Physics, Korea Advanced Institute of Science and Technology",
+          "ror": "05apxxy63"
+        }
+      ],
+      "orcid": "0000-0001-9913-7784"
+    },
+    {
+      "name": "Daniel James Sperka",
+      "affiliation": [
+        {
+          "name": "Department of Physics, Boston University",
+          "ror": "05qwgg493"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Bob Stienen",
+      "affiliation": [
+        {
+          "name": "IMAPP, Radboud University",
+          "ror": "016xsfp80"
+        },
+        {
+          "name": "Nikhef",
+          "ror": "00f9tz983"
+        }
+      ],
+      "orcid": "0009-0004-7007-1637"
+    },
+    {
+      "name": "Kohsaku Tobioka",
+      "affiliation": [
+        {
+          "name": "Department of Physics, Florida State University",
+          "ror": "05g3dte14"
+        }
+      ],
+      "orcid": "0000-0003-2540-9649"
+    },
+    {
+      "name": "Melissa van Beekveld",
+      "affiliation": [
+        {
+          "name": "IMAPP, Radboud University",
+          "ror": "016xsfp80"
+        },
+        {
+          "name": "Nikhef",
+          "ror": "00f9tz983"
+        }
+      ],
+      "orcid": "0000-0003-3607-4143"
+    },
+    {
+      "name": "Elena Venturini",
+      "affiliation": [
+        {
+          "name": "Physik-Department, Technische Universität München",
+          "ror": "02kkvpp62"
+        }
+      ],
+      "orcid": "0000-0002-2877-7271"
+    },
+    {
+      "name": "Natascia Vignaroli",
+      "affiliation": [
+        {
+          "name": "INFN Sezione di Pisa",
+          "ror": "05symbg58"
+        },
+        {
+          "name": "Dipartimento di Fisica \"E. Fermi\", Università di Pisa",
+          "ror": "03ad39j10"
+        }
+      ],
+      "orcid": "0000-0002-6711-522X"
+    },
+    {
+      "name": "Ricardo Vilalta",
+      "affiliation": [
+        {
+          "name": "University of Houston",
+          "ror": "048sx0r50"
+        }
+      ],
+      "orcid": "0000-0001-8165-8805"
+    },
+    {
+      "name": "Wolfgang Waltenberger",
+      "affiliation": [
+        {
+          "name": "Institut für Hochenergiephysik, Österreichische Akademie der Wissenschaften",
+          "ror": "039shy520"
+        }
+      ],
+      "orcid": "0000-0002-6215-7228"
+    },
+    {
+      "name": "Nicholas Wardle",
+      "affiliation": [
+        {
+          "name": "Department of Physics, Imperial College London",
+          "ror": "041kmwe10"
+        }
+      ],
+      "orcid": "0000-0003-1344-3356"
+    },
+    {
+      "name": "Graeme Watt",
+      "affiliation": [
+        {
+          "name": "Institute for Particle Physics Phenomenology, Department of Physics, Durham University",
+          "ror": "01v29qb04"
+        }
+      ],
+      "orcid": "0000-0003-0775-6604"
+    },
+    {
+      "name": "Martin White",
+      "affiliation": [
+        {
+          "name": "University of Adelaide",
+          "ror": "028g18b61"
+        }
+      ],
+      "orcid": "0000-0001-5474-4580"
+    },
+    {
+      "name": "Sophie Williamson",
+      "affiliation": [
+        {
+          "name": "Laboratoire de Physique Théorique et Hautes Energies (LPTHE)",
+          "ror": "02mph9k76"
+        },
+        {
+          "name": "Institute for Theoretical Physics (ITP), Karlsruhe Institute of Technology",
+          "ror": "04t3en479"
+        }
+      ],
+      "orcid": "0000-0002-6603-0152"
+    },
+    {
+      "name": "David Yallup",
+      "affiliation": [
+        {
+          "name": "Department of Physics & Astronomy, University College London",
+          "ror": "02jx3x895"
+        }
+      ],
+      "orcid": "0000-0003-4716-5817"
+    },
+    {
+      "name": "Jose Zurita",
+      "affiliation": [
+        {
+          "name": "Institute for Nuclear Physics (IKP), KIT Karlsruhe Institute of Technology",
+          "ror": "04t3en479"
+        },
+        {
+          "name": "Institute for Theoretical Particle Physics (TTP), Karlsruhe Institute of Technology",
+          "ror": "04t3en479"
+        }
+      ],
+      "orcid": "0000-0001-5710-3965"
+    }
+  ],
+  "file_paths": [
+    "files/Reports/RPT_100008__2002.12220.pdf"
+  ]
+}

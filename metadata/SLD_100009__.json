@@ -1,0 +1,26 @@
+{
+  "doi": null,
+  "title": "Low-latency AI for triggering on electrons at High Luminosity LHC with the CMS Level-1 hardware trigger",
+  "publication_date": "2024-10-23",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "PIERO VISCONE",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "University of Zürich",
+          "ror": "02crff812"
+        }
+      ],
+      "orcid": "0000-0002-7267-5555"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100009__Low-latency_AI_for_triggering_on_electrons_at_High_Luminosity_LHC_with_the_CMS_Level-1_hardware_Trigger_draft.pdf"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "doi": null,
+  "title": "Studies on track finding algorithms based on machine learning with CPU, GPU and FPGA",
+  "publication_date": "2024",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Maria Carnesale",
+      "affiliation": [
+        {
+          "name": null,
+          "ror": null
+        }
+      ],
+      "orcid": "0000-0003-3570-7332"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100023__ichep.pdf"
+  ]
+}

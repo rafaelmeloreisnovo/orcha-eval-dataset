@@ -1,0 +1,56 @@
+{
+  "doi": "10.1051/epjconf/202533701026",
+  "title": "Low-latency AI for triggering on electrons at High Luminosity LHC with the CMS Level-1 hardware Trigger",
+  "publication_date": "2025",
+  "language": "English",
+  "abstract": "In preparation for the High Luminosity LHC (HL-LHC) run, the CMS collaboration is working on an ambitious upgrade project for the first stage of its online selection system: the Level-1 Trigger. The upgraded system will use powerful field-programmable gate arrays (FPGA) processors connected by a high-bandwidth network of optical fibers. The new system will access highly granular calorimeter information and online tracking: their combination for identifying physics objects is a key asset to cope with the harsh HL-LHC environment without compromising physics acceptance. The track matching is particularly relevant for identifying calorimeter deposits originating from electron particles. Traditional identification techniques rely on several independent selection stages applied to the calorimeter and track primitives, followed by an angular matching procedure. A new machine learning approach is presented, combining track and calorimeter information into a single identification and matching step. The new algorithm leverages new technologies for running fast inference on FPGA.",
+  "authors": [
+    {
+      "name": "Cristina Botta",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-8072-795X"
+    },
+    {
+      "name": "Gianluca Cerminara",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-2897-5753"
+    },
+    {
+      "name": "Kyungmin Park",
+      "affiliation": [
+        {
+          "name": "Carnegie Mellon University",
+          "ror": "05x2bcf33"
+        }
+      ],
+      "orcid": "0009-0002-8062-4894"
+    },
+    {
+      "name": "Piero Viscone",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "University of Zürich",
+          "ror": "02crff812"
+        }
+      ],
+      "orcid": "0000-0002-7267-5555"
+    }
+  ],
+  "file_paths": [
+    "files/Conference_papers/CFP_100001__chep2024_proceeding.pdf"
+  ]
+}

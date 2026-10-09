@@ -1,0 +1,94 @@
+{
+  "doi": null,
+  "title": "Next Generation Triggers for CMS",
+  "publication_date": "2025-07-04",
+  "language": "English",
+  "abstract": null,
+  "authors": [
+    {
+      "name": "Cristina Botta",
+      "affiliation": [
+        {
+          "name": "University of Turin",
+          "ror": "048tbm396"
+        }
+      ],
+      "orcid": "0000-0003-1320-7484"
+    },
+    {
+      "name": "Silvio Donato",
+      "affiliation": [
+        {
+          "name": "University of Zurich",
+          "ror": "02crff812"
+        },
+        {
+          "name": "University of Pisa",
+          "ror": "03ad39j10"
+        },
+        {
+          "name": "INFN Sezione di Pisa",
+          "ror": "05symbg58"
+        }
+      ],
+      "orcid": "0000-0001-7646-4977"
+    },
+    {
+      "name": "Elisa Fontanesi",
+      "affiliation": [
+        {
+          "name": "Boston University",
+          "ror": "05qwgg493"
+        }
+      ],
+      "orcid": "0000-0002-0662-5904"
+    },
+    {
+      "name": "Maciej Glowacki",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0009-0005-7170-7024"
+    },
+    {
+      "name": "Marco Musich",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research",
+          "ror": "01ggx4157"
+        },
+        {
+          "name": "University of Pisa",
+          "ror": "03ad39j10"
+        }
+      ],
+      "orcid": "0000-0001-7938-5684"
+    },
+    {
+      "name": "Elena Vernazza",
+      "affiliation": [
+        {
+          "name": "CERN",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0003-4957-2782"
+    },
+    {
+      "name": "Efe Yiğitbaşı",
+      "affiliation": [
+        {
+          "name": "European Organization for Nuclear Research",
+          "ror": "01ggx4157"
+        }
+      ],
+      "orcid": "0000-0002-9595-2623"
+    }
+  ],
+  "file_paths": [
+    "files/Slides/SLD_100026__CMS_NGT_BSMMiniWorkshop.pdf"
+  ]
+}

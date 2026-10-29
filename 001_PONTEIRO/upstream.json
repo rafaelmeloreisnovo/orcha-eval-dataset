@@ -1,0 +1,41 @@
+{
+  "schema": "rafaelia-upstream-pointer-v1",
+  "observed_on": "2026-10-29",
+  "repository": "rafaelmeloreisnovo/orcha-eval-dataset",
+  "upstream": "zenodo/orcha-eval-dataset",
+  "official_branch": "main",
+  "official_commit": "e25c2a54d0f841fb07019f1ccd47f4471c8d789a",
+  "official_tree": "bf2e98487b2a1f4e0923089cc0fb974605950547",
+  "previous_downstream_main": "e25c2a54d0f841fb07019f1ccd47f4471c8d789a",
+  "target_branches": [
+    "main",
+    "main-oficial-upstream"
+  ],
+  "source_readme": {
+    "path": "README.md",
+    "git_blob_sha": "69e8dcc215229b2bddd70a734918372a38f2d9c0"
+  },
+  "source_license": {
+    "path": null,
+    "status": "ABSENT_NO_ROOT_LICENSE",
+    "per_document_rights": "REVIEW_REQUIRED"
+  },
+  "dataset": {
+    "manifest": "manifest.json",
+    "records": 181,
+    "git_lfs_documents": 160,
+    "remote_documents": 21,
+    "gitattributes_sha": "49523506eca6098ccfb0f3860848042431b2a2f6"
+  },
+  "authorial_nucleus": {
+    "path": "NUCLEO_AUTORAL/",
+    "status": "DESIGN_ONLY",
+    "license_document": "NUCLEO_AUTORAL/LICENSE"
+  },
+  "verification": {
+    "structure": "REVIEWED",
+    "binary_hash_verification": "TOKEN_VAZIO",
+    "runtime_tests": "TOKEN_VAZIO",
+    "redistribution": "BLOCKED_PENDING_PER_ITEM_RIGHTS"
+  }
+}
